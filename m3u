@@ -25,8 +25,7 @@ http://39.135.34.150:8080/000000001000/1000000002000019789/1.m3u8?channel-id=yst
 http://39.135.34.150:8080/000000001000/5325631075193490169/1.m3u8?channel-id=ystenlive&Contentid=5325631075193490169&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=5325631075193490169&owchid=ystenlive&owsid=1106497909461165978&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7Q36zc4fu7NwQ%2fn1v2mTHqagOL8gLhzmY66HLCxgy24bGH5Xn1D6yEQdwViWmtBz15WRKuKxWsf0XH20JE0dby
 #EXTINF:-1 group-title="央视节目",CCTV-13新闻
 http://39.135.34.150:8080/000000001000/1000000002000021303/1.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000021303&owchid=ystenlive&owsid=1106497909461172796&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjht3HVAbnHsmZNUh9hfpXto6CyOW1rkA%2biXZhxwyg0QWyFIN7oKbswdBdf7iWy8vlE
-#EXTINF:-1 group-title="央视节目",CCTV-13新闻
-http://web.hls.timetv.cn/mlive/cctv/cctv13hd.m3u8
+
 #EXTINF:-1 group-title="央视节目",CCTV-14少儿
 http://39.135.34.150:8080/000000001000/8203666801302077036/1.m3u8?channel-id=ystenlive&Contentid=8203666801302077036&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=8203666801302077036&owchid=ystenlive&owsid=1106497909461179285&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5OdsPl7aB2c%2fh9IG5fEu5Y1yWuhr6PsL8ovQK5JmdmvjbSpXjguwCa8emDxg5lQPKN6B6go0yKDtys3NmnOM6U
 #EXTINF:-1 group-title="央视节目",CCTV-15音乐
@@ -1561,3 +1560,45 @@ http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/960ee97d78964a19b9f
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/092e93c2b89d494a8d7d8544fbe0b195/1200.m3u8
 #EXTINF:-1 group-title="走遍中国二",风生水起
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6359fee2d7b04a8586de518ccac33116/1200.m3u8
+#EXTM3U
+#EXTINF:-1,核电 世纪之约
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/abe495d3290f4411b3ae1516e24c4d33/1200.m3u8
+#EXTINF:-1,核电 任重道远
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/43379d5b543847ac97fbb6e7d31fc4da/1200.m3u8
+#EXTINF:-1,核电 临危请命
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9fd1645e901443deb0a7df87888fbe62/1200.m3u8
+#EXTINF:-1,核电 后发先至
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a0ca6b4cf38f4feda04f76ce117b6353/1200.m3u8
+#EXTINF:-1,核电 一次把事情做好 上
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/80d4d5a5acd44750b70ba5a42eeec4cd/1200.m3u8
+#EXTINF:-1,核电 一次把事情做好 下
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/960ba9f222664bfbada72e34d03f9e67/1200.m3u8
+#EXTINF:-1,核电 敢为人先
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ca54f1651ef54402a1aff762189af650/1200.m3u8
+#EXTINF:-1,核电 蓄势待发
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/aea61930ba084a488731a43aa306f06f/1200.m3u8
+#EXTINF:-1,核电 核电情缘
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/32d1d33aca914ef08fd56f76d9d40043/1200.m3u8
+#EXTINF:-1,核电 点亮世界
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/aa498cec199a4185b0ab129fe8af0fe6/1200.m3u8
+#EXTINF:-1,逐梦太空 一飞冲天
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/246edbc8fdd940909d9313759511635a/1200.m3u8
+#EXTINF:-1,逐梦太空 微星争辉
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/32334087c88846889771a9ca48012048/1200.m3u8
+#EXTINF:-1,逐梦太空 天空之眼
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/92c2589acaf146839e1581529480c7c2/1200.m3u8
+#EXTINF:-1,天衣无缝
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/197d62bbbc41423db2f166c0341e9a27/1200.m3u8
+#EXTINF:-1,筑金巢引 京凤凰
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e4b685dfa6f94a0eb82eeff8f8ad290c/1200.m3u8
+#EXTINF:-1,跨越 横空出世
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/cad3702fcc704f378ee8cbd175a25e4d/1200.m3u8
+#EXTINF:-1,跨越 飞架南北
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/78d3f45ee2ad4e12bc7ce87ff9dc957d/1200.m3u8
+#EXTINF:-1,跨越 超级挑战
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f24a0d21cf6e4ccd938aa5c474513634/1200.m3u8
+#EXTINF:-1,跨越 惊世神器
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b9ce422b69d245c3a6d5d5751c1e4e97/1200.m3u8
+#EXTINF:-1,跨越 桥梁医生
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6169790250b2476a8c4bb97a361cac1b/1200.m3u8
+
