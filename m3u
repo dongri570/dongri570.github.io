@@ -1550,16 +1550,7 @@ http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/fa7176c3c5574328ae5
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4ac69584a349466999ff9ef9d7afb421/1200.m3u8
 #EXTINF:-1 group-title="走遍中国二",汽车 我们共享吧
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3c4ec873e6184701a66ed8a468e34686/1200.m3u8
-#EXTINF:-1 group-title="走遍中国二",面朝大海
-http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/619fb71d576d4f74a9e03eda353306ec/1200.m3u8
-#EXTINF:-1 group-title="走遍中国二",海上利器
-http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ef812a899af943a08815289f02bff881/1200.m3u8
-#EXTINF:-1 group-title="走遍中国二",追风逐浪
-http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/960ee97d78964a19b9f34f53fa56b24f/1200.m3u8
-#EXTINF:-1 group-title="走遍中国二",风电奇兵
-http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/092e93c2b89d494a8d7d8544fbe0b195/1200.m3u8
-#EXTINF:-1 group-title="走遍中国二",风生水起
-http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6359fee2d7b04a8586de518ccac33116/1200.m3u8
+
 #EXTM3U
 #EXTINF:-1,核电 世纪之约
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/abe495d3290f4411b3ae1516e24c4d33/1200.m3u8
