@@ -32,8 +32,10 @@ http://iptv.pdsu.edu.cn/hls/cctv14hd.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视频道",CCTV-15高清
 http://iptv.pdsu.edu.cn/hls/cctv15.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视频道",CGTV-15
+#EXTM3U
+#EXTINF:-1 group-title="央视频道",CCTN-15
 http://iptv.pdsu.edu.cn/hls/cgtnhd.m3u8
+
 
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视频道",CCTV-电影剧场
 http://iptv.pdsu.edu.cn/hls/dyjctv.m3u8
