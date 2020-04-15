@@ -831,3 +831,27 @@ CHC家庭教育,http://iptv.pdsu.edu.cn/hls/chctv.m3u8
 跨越 超级挑战,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f24a0d21cf6e4ccd938aa5c474513634/1200.m3u8
 跨越 惊世神器,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b9ce422b69d245c3a6d5d5751c1e4e97/1200.m3u8
 跨越 桥梁医生,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6169790250b2476a8c4bb97a361cac1b/1200.m3u8
+大国基业 蛟龙探海,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/435de5cf8623453fa30416cd9abc3cd3/1200.m3u8
+大国基业 深海宝藏,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/fd5052da07364488a1d7787bbe3141f1/1200.m3u8
+大国基业 深海精灵,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4049d7341fe4477aaeec708ed5ca8f66/1200.m3u8
+大国基业 核岛风采 吊装铁军,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/259eaf8206c24fd783dcf29af87cb67e/1200.m3u8
+大国基业 核岛风采 名铺出列,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8059a2c0761a43fba021bba8023a94aa/1200.m3u8
+大国基业 核岛风采 核岛侦探,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b2b8f14e926b4891a96512c98699d017/1200.m3u8
+大国基业 核岛风采 焊将传承,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9ab53501d1a04aa5883abcc0249b560a/1200.m3u8
+大国基业 核岛风采 核电特种兵,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3517688db1e245eb8e4966d6c016883b/1200.m3u8
+大国基业 剑指九重天 大漠起东风,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/956657c8c5ee4d2a9e56942d93075f24/1200.m3u8
+大国基业 剑指九重天 飞天起航点,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/36b9368ef8bb44dc86c3760ad5730c1a/1200.m3u8
+大国基业 剑指九重天 航天生命线,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2c24f378b02f4c95ba9c0142abc1c8a3/1200.m3u8
+大国基业 剑指九重天 创新出奇迹,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9b79b4bdeb7f4b2b81d7006d371445c1/1200.m3u8
+大国基业 剑指九重天 东风航天魂,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/36439c1fec754baaa90c8fe846e6fb15/1200.m3u8
+走遍中国三,#genre#
+大国基业 大通道 异军突起,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b926c152368840e09f4502b3e03781c7/1200.m3u8
+大国基业 大通道 艰辛旅程,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d84a40af81334b29b58271c046f66845/1200.m3u8
+大国基业 大通道 齐头并进,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b06a0ceeafeb4f189293a88c18ac2480/1200.m3u8
+大国基业 大通道 腾飞之翼,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/84b6c42df7974cfbb7116215ecb55398/1200.m3u8
+大国基业 大通道 互联互通,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4465dc5c09744b09bebfff5076efe10c/1200.m3u8
+大国基业 超凡建筑 极限挑战,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/230b92258f064595a32f029242b0b7ff/1200.m3u8
+大国基业 超凡建筑 绿色建筑,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/229121a252204e8ca9e03abf6222d46b/1200.m3u8
+大国基业 超凡建筑 超级工厂,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6b08e728c47940268f167ef9e997df2c/1200.m3u8
+大国基业 超凡建筑 智慧建造,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6347a2353b374a1bb6cd18b582e7a38a/1200.m3u8
+大国基业 超凡建筑 利刃出击,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/150b32fda3324b1987c22fb4cb9bf524/1200.m3u8
