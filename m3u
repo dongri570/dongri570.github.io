@@ -1379,8 +1379,7 @@ http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a23637f5a5794d5d87b
 #EXTINF:-1 group-title="舌尖上的中国",第三季 第八集 合
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/51b1937b8b6b469b837b48f6bcb3f0b1/1200.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="走遍中国一",打破垄断
-http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c51962e9f2884f5cafd42c4e87cea7ef/1200.m3u8
+
 #EXTINF:-1 group-title="走遍中国一",5 G来临
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9ff70eb26cc3457b96eed53baa284f31/1200.m3u8
 #EXTINF:-1 group-title="走遍中国一",无处不在
@@ -1638,3 +1637,44 @@ http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/532fce223f1c4d0eb71
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/81c3dda9d814435a87af8a80cb7e5a7e/1200.m3u8
 #EXTINF:-1 group-title="走遍中国三",大国基业 大国金路 绿满金山
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/fc2daf01084648daae911b579dbc2ed9/1200.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="走遍中国三",大国基业 青花之城
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4005001212ee4db99836a5cad3ee9b87/1200.m3u8
+#EXTINF:-1 group-title="走遍中国三",大国基业 超能之核
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bb56048584be4c0eb00b29fe63db67d5/1200.m3u8
+#EXTINF:-1 group-title="走遍中国三",大国基业 长沙之巅
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9e249cb64a4e42d4a60f0b0eee9a2208/1200.m3u8
+#EXTINF:-1 group-title="走遍中国三",大国基业 动感建筑
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/df6d9287801243bb920e5f563f840a0f/1200.m3u8
+#EXTINF:-1 group-title="走遍中国三",大国基业 互连空间
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5f0b455ee65441e1b409f72bab073b26/1200.m3u8
+#EXTINF:-1 group-title="走遍中国三",大国基业 了不起的高铁 踏地而飞
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/47eb443deddf4e5b862f6667e8d56fc8/1200.m3u8
+#EXTINF:-1 group-title="走遍中国三",大国基业 了不起的高铁 一路守护
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/61cf34531a874d8589cae76a7bc677dd/1200.m3u8
+#EXTINF:-1 group-title="走遍中国三",大国基业 了不起的高铁 体面出行
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/fe0c049e3e014060b88f74b2648b4278/1200.m3u8
+#EXTINF:-1 group-title="走遍中国三",大国基业 了不起的高铁 极限挑战
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/38270200b0424fed85adcccfc77e4b54/1200.m3u8
+#EXTINF:-1 group-title="走遍中国三",大国基业 了不起的高铁 未来高铁
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/cb86cac1931844c4a4e1fe18807be206/1200.m3u8
+#EXTINF:-1 group-title="走遍中国三",中国之盾 凝视蓝天
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f932e01e0ca7421ba22f8b5266107a47/1200.m3u8
+#EXTINF:-1 group-title="走遍中国三",中国之盾 警测海疆
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/03892d8b93ac4851a21fc2011f0f2e2a/1200.m3u8
+#EXTINF:-1 group-title="走遍中国三",中国之盾 铸盾为矛
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/955a532c2352436591129d1ee8ebf1aa/1200.m3u8
+#EXTINF:-1 group-title="走遍中国三",中国之盾 俯瞰大地
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2ccd150d36ca40aea01d8976593a90e7/1200.m3u8
+#EXTINF:-1 group-title="走遍中国三",中国之盾 仰望星空
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d23fde9f4ed64598b6ac68588194f565/1200.m3u8
+#EXTINF:-1 group-title="走遍中国三",中国智造 地下蛟龙 打破垄断
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c373cdb71e7949499943c5f0635eb40f/1200.m3u8
+#EXTINF:-1 group-title="走遍中国三",中国智造 地下蛟龙 掘进千里
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5d33d054b3ae4612a54015ce0b635318/1200.m3u8
+#EXTINF:-1 group-title="走遍中国三",中国智造 消防利器
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f1667675e2684b69a42bf4abc18b2669/1200.m3u8
+#EXTINF:-1 group-title="走遍中国三",中国智造 百炼精钢
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/290034395d1d41f4984fe8727bb859ad/1200.m3u8
+#EXTINF:-1 group-title="走遍中国三",中国智造 深海渔场
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5da5cf313f2642cfa77cd38c8a9be3dc/1200.m3u8
