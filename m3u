@@ -1678,3 +1678,35 @@ http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f1667675e2684b69a42
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/290034395d1d41f4984fe8727bb859ad/1200.m3u8
 #EXTINF:-1 group-title="走遍中国三",中国智造 深海渔场
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5da5cf313f2642cfa77cd38c8a9be3dc/1200.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="经济半小时",新区新坐标 四川天府新区
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/20a58117673a4c2690c3465c6b708c48/1200.m3u8
+#EXTINF:-1 group-title="经济半小时",新区新坐标 青岛西海岸新区
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a3d846afa109466b8aab0f34682d539f/1200.m3u8
+#EXTINF:-1 group-title="经济半小时",北京 向污水宣战
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/053b36e3683c407c98fda73f06eff1e2/1200.m3u8
+#EXTINF:-1 group-title="经济半小时",中国神器 我们的高速柴油机
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e03fb0061fb54bdf97f606a94cb6b6e2/1200.m3u8
+#EXTINF:-1 group-title="经济半小时",中国神器 民营军工 稳中求胜
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e1818996d4554c4bb4ae9efac7742018/1200.m3u8
+#EXTINF:-1 group-title="经济半小时",走出国门的 中国神器 歼15的 黑科技
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6fa28c234d2242deab05cf2974983f83/1200.m3u8
+#EXTINF:-1 group-title="经济半小时",走出国门的中国神器 极目千里的奥秘
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/621f9f8761194d4c8bd47ff351d33784/1200.m3u8
+#EXTINF:-1 group-title="经济半小时",中国神器 国产枪族迟来的进步
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/58291943a8b845db95abc704a75a9a12/1200.m3u8
+#EXTINF:-1 group-title="经济半小时",中国神器 铁甲展神威
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ad026bbbe7a4968aa3a7e54ebebb539/1200.m3u8
+#EXTINF:-1 group-title="经济半小时",机器人 医疗行业显神通
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1557aec08d364c41bfab7a9319e25a02/1200.m3u8
+#EXTINF:-1 group-title="经济半小时",快递送出的 中国速度
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/61f701a352154019bf48eb72c9ec16ce/1200.m3u8
+#EXTINF:-1 group-title="经济半小时",强芯 换脑 重塑中国制造
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/670b0b66dbe240fdbd36418489324ab1/1200.m3u8
+#EXTINF:-1 group-title="经济半小时",刷遍全球 背后的神秘力量
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/19a48cdad625489e8250fcb486206a94/1200.m3u8
+#EXTINF:-1 group-title="经济半小时",大数据里有 金矿
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/770e4dd47c5042c0895ab5a1d04c5ea3/1200.m3u8
+#EXTINF:-1 group-title="经济半小时",土货 遇上互联网
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/da1d2bc5406a4d66b414be161645a0bd/1200.m3u8
+
