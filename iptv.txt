@@ -902,7 +902,8 @@ CHC家庭影院,http://iptv.pdsu.edu.cn/hls/chctv.m3u8
 争做军民融合先锋 单兵装备里的技术奥秘,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6b2a08b9205a4f34ac645d2e45ea3440/1200.m3u8
 争做军民融合先锋 扬眉剑出鞘,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bc58a0cdb305442e9855479426620731/1200.m3u8
 争做军民融合先锋 坦克里的 中国心,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f16fff79040d48c8ac6454f758cb7ea6/1200.m3u8
-
+勇闯新材料 禁区,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8c6f411f8a1f4c1299467d7a531352e8/1200.m3u8
+从乡镇小厂到军工大户,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7af767d6eaaa488386babe5c939e9822/1200.m3u8
 
 
 
