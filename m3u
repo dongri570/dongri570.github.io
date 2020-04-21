@@ -1777,3 +1777,26 @@ http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f16fff79040d48c8ac6
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8c6f411f8a1f4c1299467d7a531352e8/1200.m3u8
 #EXTINF:-1 group-title="经济半小时",从乡镇小厂到军工大户
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7af767d6eaaa488386babe5c939e9822/1200.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="电影频道",重返地球
+https://iqiyi.zuidameiju.com/20200415/14738_7dd9ef89/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="电影频道",毒战
+https://douban.donghongzuida.com/20200419/316_29d6c037/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="电影频道",终结者：黑暗命运
+https://meinv.jingyu-zuida.com/20200118/12600_a3400cd6/index.m3u8
+#EXTINF:-1 group-title="电影频道",人类削减计划1
+https://yiyi.55zuiday.com/ppvod/564C0027394ED935BCF8588E611F15AD.m3u8
+#EXTINF:-1 group-title="电影频道",人类削减计划2
+https://yushou.qitu-zuida.com/20181022/18290_520497a7/800k/hls/index.m3u8
+#EXTINF:-1 group-title="电影频道",人工性智能 第1集
+https://bili.meijuzuida.com/20190802/21101_90b7b98b/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="电影频道",异次元骇客 第1集
+https://iqiyi.zuidameiju.com/20200414/14628_02b6ed1e/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="电影频道",天地大冲撞 第1集
+https://iqiyi.zuidameiju.com/20200411/14547_ea591e77/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="电影频道",机械危情 第1集
+https://iqiyi.zuidameiju.com/20200411/14509_9f776354/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="电影频道",火山大爆发 第1集
+https://iqiyi.zuidameiju.com/20200411/14508_d97f0490/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="电影频道",雪国列车 第1集
+https://iqiyi.zuidameiju.com/20200410/14488_a9b9915e/1000k/hls/index.m3u8
