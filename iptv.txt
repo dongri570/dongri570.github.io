@@ -928,6 +928,28 @@ CHC家庭影院,http://iptv.pdsu.edu.cn/hls/chctv.m3u8
 美国队长2,https://yiyi.55zuiday.com/20180415/HOHNmPXU/index.m3u8
 美国队长3,https://hair.jingpin88.com/20171026/cQ7hsCrN/index.m3u8
 第九区 第1集,https://bili.meijuzuida.com/20191009/21612_642307d7/index.m3u8
+动作电影,#genre#  
+造访职业杀手,https://iqiyi.zuidameiju.com/20200405/14360_68e5443d/1000k/hls/index.m3u8
+勇敢者游戏 决战,https://yiyi.55zuiday.com/ppvod/F3A33674E84BC7A934008D29F6517C72.m3u8
+勇敢者游戏 再,https://meinv.jingyu-zuida.com/20200301/12929_9d7db888/1000k/hls/index.m3u8
+敢死队 第1集,https://haoa.haozuida.com/ppvod/F45A08CB0FE3917CD5916165F656CD93.m3u8
+敢死队 第2集,https://leshi.cdn-zuyida.com/20180127/2wMVjI8s/800kb/hls/index.m3u8
+敢死队 第3集,https://leshi.cdn-zuyida.com/20180127/F6qESJKI/800kb/hls/index.m3u8
+狂暴巨兽,https://leshi.cdn-zuyida.com/20180617/28362_7d748156/800k/hls/index.m3u8
+死亡飞车 第1集,https://wuji.zhulong-zuida.com/20191006/10334_6d0fd581/1000k/hls/index.m3u8
+玩命快递 第1集,https://leshi.cdn-zuyida.com/20180129/rt4XJUJL/800kb/hls/index.m3u8
+玩命快递2 第1集,https://leshi.cdn-zuyida.com/20180129/ecjhH84k/800kb/hls/index.m3u8
+玩命快递3 第1集,https://leshi.cdn-zuyida.com/20180129/mgdoEEEs/800kb/hls/index.m3u8
+这个杀手不太冷,https://yiyi.55zuiday.com/ppvod/101178637DA02351B7639C472CC61D45.m3u8
+战狼2,https://haoa.haozuida.com/ppvod/C8DD2411C46F8100E2ABDAC05854AE5B.m3u8
+红海行动 第1集,https://haoa.haozuida.com/ppvod/E3610D016D9985C07D166E997EA06A58.m3u8
+锦衣之下绣春刀 第1集,https://yiyi.55zuiday.com/ppvod/98E724154598DA33E8A0B65695EBEA46.m3u8
+绣春刀2：修罗战,https://leshi.cdn-zuyida.com/20170901/hrekrZsE/600kb/hls/index.m3u8
+锅盖头,https://haoa.haozuida.com/ppvod/E2A9889113FCE3496404E736E32011C6.m3u8
+锅盖头2,https://haoa.haozuida.com/ppvod/827C0BDBC3959592DABAAB4763194BB7.m3u8
+锅盖头3：绝地反,https://yiyi.55zuiday.com/ppvod/4B3B1835DCCA1D2349DD3FC50E9B84B1.m3u8
+锅盖头4：回归法,https://yiyi.55zuiday.com/ppvod/4B3B1835DCCA1D2349DD3FC50E9B84B1.m3u8
+
 
 
 
