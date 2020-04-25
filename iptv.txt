@@ -952,7 +952,7 @@ CHC家庭影院,http://iptv.pdsu.edu.cn/hls/chctv.m3u8
 锅盖头2,https://haoa.haozuida.com/ppvod/827C0BDBC3959592DABAAB4763194BB7.m3u8
 锅盖头3：绝地反,https://yiyi.55zuiday.com/ppvod/4B3B1835DCCA1D2349DD3FC50E9B84B1.m3u8
 锅盖头4：回归法,https://yiyi.55zuiday.com/ppvod/4B3B1835DCCA1D2349DD3FC50E9B84B1.m3u8
-恐怖电影,#genre
+恐怖电影,#genre# 
 电锯惊魂1,https://haoa.haozuida.com/ppvod/C16166917CC9E3ABBF316DCA335C7D30.m3u8
 电锯惊魂2,https://haoa.haozuida.com/ppvod/22CA3B7E08A21853AB13C8822B2C91B7.m3u8
 电锯惊魂3,https://yiyi.55zuiday.com/ppvod/93747D1444986E5593B032E923449026.m3u8
