@@ -1905,5 +1905,8 @@ https://meinv.jingyu-zuida.com/20200408/13075_b2da452e/1000k/hls/index.m3u8
 https://meinv.jingyu-zuida.com/20200408/13074_6d8f734e/index.m3u8
 #EXTINF:-1 group-title="恐怖电影",短柄斧4
 https://yiyi.55zuiday.com/ppvod/FA7BBE835E3752CB870CA8EC00C27B60.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="恐怖电影",传说
+https://p10.336t.com/vf2/20190305/f346b00efc59a5858b1d79f1029a2b0b/hls/hls-480p.m3u8
 
 
