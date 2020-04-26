@@ -1834,6 +1834,13 @@ https://haoa.haozuida.com/ppvod/7606A90686547BF87D111F2478A7DCF0.m3u8
 https://yushou.qitu-zuida.com/20180228/TTTtpCCf/800kb/hls/index.m3u8
 #EXTINF:-1 group-title="电影频道",终结者1/未来战士
 https://yiyi.55zuiday.com/ppvod/E66D8F228F5EBC4DAC489C25CE5DDD08.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="电影频道",斯大林格勒
+https://iqiyi.zuidameiju.com/20200411/14523_32fb6466/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="电影频道",大偷袭
+https://iqiyi.zuidameiju.com/20200411/14533_3d95f6b2/index.m3u8
+#EXTINF:-1 group-title="电影频道",珍珠港
+https://iqiyi.zuidameiju.com/20200301/12811_efd4a172/index.m3u8
 
 #EXTM3U
 #EXTINF:-1 group-title="动作电影",造访职业杀手
