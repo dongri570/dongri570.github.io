@@ -33,9 +33,6 @@ http://iptv.pdsu.edu.cn/hls/cctv14hd.m3u8
 http://iptv.pdsu.edu.cn/hls/cctv15.m3u8
 #EXTINF:-1 group-title="央视频道",CCTN-15
 http://iptv.pdsu.edu.cn/hls/cgtnhd.m3u8
-
-
-
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视频道",CCTV-电影剧场
 http://iptv.pdsu.edu.cn/hls/dyjctv.m3u8
 #EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="央视频道",CCTV-风云剧场
@@ -164,9 +161,6 @@ http://hw-v.cztv.com/cztv/vod/2016/01/05/5F90172AB60A4f8f8CBC09DB65ED3F21/h264_1
 http://hw-v.cztv.com/cztv/vod/2016/01/12/1937049D29104779B97536121D571159/h264_1500k_mp4.mp4_playlist.m3u8
 #EXTINF:-1 group-title="南宋",第七集 回望未来
 http://yd-v.cztv.com/cztv/vod/2016/01/19/7092FE015C874387A91A76FD590998CC/h264_1500k_mp4.mp4_playlist.m3u8
-
-
-
 #EXTINF:-1 group-title="一带一路",一带一路 第一集 共同命运
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/738009050b204026b7a5aef93b2074c4/1200.m3u8
 #EXTINF:-1 group-title="一带一路",一带一路 第二集 互通之路
@@ -1379,8 +1373,6 @@ http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/27121d74055f468795f
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a23637f5a5794d5d87b33d1575e2193d/1200.m3u8
 #EXTINF:-1 group-title="舌尖上的中国",第三季 第八集 合
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/51b1937b8b6b469b837b48f6bcb3f0b1/1200.m3u8
-
-
 #EXTINF:-1 group-title="走遍中国一",5 G来临
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9ff70eb26cc3457b96eed53baa284f31/1200.m3u8
 #EXTINF:-1 group-title="走遍中国一",无处不在
@@ -1619,7 +1611,6 @@ http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6b08e728c47940268f1
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6347a2353b374a1bb6cd18b582e7a38a/1200.m3u8
 #EXTINF:-1 group-title="走遍中国三",大国基业 超凡建筑 利刃出击
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/150b32fda3324b1987c22fb4cb9bf524/1200.m3u8
-
 #EXTINF:-1 group-title="走遍中国三",大国基业 世纪三峡 筑坝安澜
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8652698cdc1f4c178a09703a021dcd07/1200.m3u8
 #EXTINF:-1 group-title="走遍中国三",大国基业 世纪三峡 突破万亿
@@ -1638,7 +1629,6 @@ http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/532fce223f1c4d0eb71
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/81c3dda9d814435a87af8a80cb7e5a7e/1200.m3u8
 #EXTINF:-1 group-title="走遍中国三",大国基业 大国金路 绿满金山
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/fc2daf01084648daae911b579dbc2ed9/1200.m3u8
-
 #EXTINF:-1 group-title="走遍中国三",大国基业 青花之城
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4005001212ee4db99836a5cad3ee9b87/1200.m3u8
 #EXTINF:-1 group-title="走遍中国三",大国基业 超能之核
@@ -1679,7 +1669,6 @@ http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f1667675e2684b69a42
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/290034395d1d41f4984fe8727bb859ad/1200.m3u8
 #EXTINF:-1 group-title="走遍中国三",中国智造 深海渔场
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5da5cf313f2642cfa77cd38c8a9be3dc/1200.m3u8
-
 #EXTINF:-1 group-title="经济半小时",新区新坐标 四川天府新区
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/20a58117673a4c2690c3465c6b708c48/1200.m3u8
 #EXTINF:-1 group-title="经济半小时",新区新坐标 青岛西海岸新区
@@ -1710,7 +1699,6 @@ http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/19a48cdad625489e825
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/770e4dd47c5042c0895ab5a1d04c5ea3/1200.m3u8
 #EXTINF:-1 group-title="经济半小时",土货 遇上互联网
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/da1d2bc5406a4d66b414be161645a0bd/1200.m3u8
-
 #EXTINF:-1 group-title="经济半小时",中国经济新坐标 零售之变
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c72500e5fe324747a60226a0d4899a28/1200.m3u8
 #EXTINF:-1 group-title="经济半小时",分级诊疗 做强基层医疗
@@ -1773,12 +1761,10 @@ http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6b2a08b9205a4f34ac6
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bc58a0cdb305442e9855479426620731/1200.m3u8
 #EXTINF:-1 group-title="经济半小时",争做军民融合先锋 坦克里的 中国心
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f16fff79040d48c8ac6454f758cb7ea6/1200.m3u8
-
 #EXTINF:-1 group-title="经济半小时",勇闯新材料 禁区
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8c6f411f8a1f4c1299467d7a531352e8/1200.m3u8
 #EXTINF:-1 group-title="经济半小时",从乡镇小厂到军工大户
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7af767d6eaaa488386babe5c939e9822/1200.m3u8
-
 #EXTINF:-1 group-title="电影频道",重返地球
 https://iqiyi.zuidameiju.com/20200415/14738_7dd9ef89/1000k/hls/index.m3u8
 #EXTINF:-1 group-title="电影频道",毒战
@@ -1809,7 +1795,6 @@ https://haoa.haozuida.com/ppvod/6B37E7D3DA7DA9E7F40E7D2091E37F6E.m3u8
 https://douban.donghongzuida.com/20200418/279_895ab066/1000k/hls/index.m3u8
 #EXTINF:-1 group-title="电影频道",毒液：致命守护者 第1集
 https://haoa.haozuida.com/ppvod/EA97E4B67628235163DFAA921C759F02.m3u8
-
 #EXTINF:-1 group-title="电影频道",天际浩劫 第1集
 https://yiyi.55zuiday.com/20171215/XYhvTpxp/index.m3u8
 #EXTINF:-1 group-title="电影频道",天际浩劫 第2集
@@ -1826,21 +1811,18 @@ https://yiyi.55zuiday.com/20180415/HOHNmPXU/index.m3u8
 https://hair.jingpin88.com/20171026/cQ7hsCrN/index.m3u8
 #EXTINF:-1 group-title="电影频道",第九区 第1集
 https://bili.meijuzuida.com/20191009/21612_642307d7/index.m3u8
-
 #EXTINF:-1 group-title="电影频道",终结者：创世纪
 https://haoa.haozuida.com/ppvod/7606A90686547BF87D111F2478A7DCF0.m3u8
 #EXTINF:-1 group-title="电影频道",终结者2：审判日
 https://yushou.qitu-zuida.com/20180228/TTTtpCCf/800kb/hls/index.m3u8
 #EXTINF:-1 group-title="电影频道",终结者1 未来战士
 https://yiyi.55zuiday.com/ppvod/E66D8F228F5EBC4DAC489C25CE5DDD08.m3u8
-
 #EXTINF:-1 group-title="电影频道",斯大林格勒
 https://iqiyi.zuidameiju.com/20200411/14523_32fb6466/1000k/hls/index.m3u8
 #EXTINF:-1 group-title="电影频道",大偷袭
 https://iqiyi.zuidameiju.com/20200411/14533_3d95f6b2/index.m3u8
 #EXTINF:-1 group-title="电影频道",珍珠港
 https://iqiyi.zuidameiju.com/20200301/12811_efd4a172/index.m3u8
-
 #EXTINF:-1 group-title="电影频道",疾速备战
 https://feifei.feifeizuida.com/20190816/16508_def779ca/1000k/hls/index.m3u8
 #EXTINF:-1 group-title="电影频道",疾速特攻
@@ -1857,9 +1839,6 @@ https://haoa.haozuida.com/20180514/zmZvrg9d/index.m3u8
 https://yiyi.55zuiday.com/20181031/IvjrykfD/index.m3u8
 #EXTINF:-1 group-title="电影频道",变脸
 https://yi.jingdianzuida.com/20191122/T9zl5L1V/index.m3u8
-
-
-
 #EXTINF:-1 group-title="电影频道",极恶非道 1
 https://yushou.qitu-zuida.com/20180201/W3N2XDG4/index.m3u8
 #EXTINF:-1 group-title="电影频道",极恶非道 2
@@ -1872,14 +1851,10 @@ https://yushou.qitu-zuida.com/20180929/15835_1d147702/index.m3u8
 https://hair.jingpin88.com/20171101/rjY2rOfU/index.m3u8
 #EXTINF:-1 group-title="电影频道",特种部队2：全面反击
 https://bili.meijuzuida.com/20190325/9347_a2a1dd1a/index.m3u8
-
 #EXTINF:-1 group-title="电影频道",终极标靶
 https://youku.cdn7-okzy.com/20200414/18747_3c200822/1000k/hls/index.m3u8
 #EXTINF:-1 group-title="电影频道",终极标靶2
 https://youku.cdn7-okzy.com/20200414/18748_fff80a23/1000k/hls/index.m3u8
-
-
-
 #EXTINF:-1 group-title="动作电影",造访职业杀手
 https://iqiyi.zuidameiju.com/20200405/14360_68e5443d/1000k/hls/index.m3u8
 #EXTINF:-1 group-title="动作电影",勇敢者游戏 决战
@@ -1908,10 +1883,8 @@ https://yiyi.55zuiday.com/ppvod/101178637DA02351B7639C472CC61D45.m3u8
 https://haoa.haozuida.com/ppvod/C8DD2411C46F8100E2ABDAC05854AE5B.m3u8
 #EXTINF:-1 group-title="动作电影",红海行动 第1集
 https://haoa.haozuida.com/ppvod/E3610D016D9985C07D166E997EA06A58.m3u8
-
 #EXTINF:-1 group-title="动作电影",绣春刀
 https://gnzk.yiya520.com/2019/08/18/5h6T4gEnH1yxfJZb/playlist.m3u8
-
 #EXTINF:-1 group-title="动作电影",绣春刀2：修罗战
 https://leshi.cdn-zuyida.com/20170901/hrekrZsE/600kb/hls/index.m3u8
 #EXTINF:-1 group-title="动作电影",锅盖头
@@ -1922,7 +1895,6 @@ https://haoa.haozuida.com/ppvod/827C0BDBC3959592DABAAB4763194BB7.m3u8
 https://yiyi.55zuiday.com/ppvod/4B3B1835DCCA1D2349DD3FC50E9B84B1.m3u8
 #EXTINF:-1 group-title="动作电影",锅盖头4：回归法
 https://yiyi.55zuiday.com/ppvod/4B3B1835DCCA1D2349DD3FC50E9B84B1.m3u8
-
 #EXTINF:-1 group-title="动作电影",蜂鸟特攻
 https://iqiyi.zuidameiju.com/20200403/14232_e216f434/index.m3u8
 #EXTINF:-1 group-title="动作电影",曼谷杀手
@@ -1949,8 +1921,6 @@ https://feifei.feifeizuida.com/20181122/1234_e86bb90f/index.m3u8
 https://iqiyi.zuidameiju.com/20200318/13648_557e89bf/index.m3u8
 #EXTINF:-1 group-title="动作电影",海豹六队突袭乌萨
 https://iqiyi.zuidameiju.com/20200404/14301_35d89f43/index.m3u8
-
-
 #EXTINF:-1 group-title="恐怖电影",电锯惊魂1
 https://haoa.haozuida.com/ppvod/C16166917CC9E3ABBF316DCA335C7D30.m3u8
 #EXTINF:-1 group-title="恐怖电影",电锯惊魂2
@@ -1979,7 +1949,6 @@ https://meinv.jingyu-zuida.com/20200408/13075_b2da452e/1000k/hls/index.m3u8
 https://meinv.jingyu-zuida.com/20200408/13074_6d8f734e/index.m3u8
 #EXTINF:-1 group-title="恐怖电影",短柄斧4
 https://yiyi.55zuiday.com/ppvod/FA7BBE835E3752CB870CA8EC00C27B60.m3u8
-
 #EXTINF:-1 group-title="俄罗斯影视",穿越火线
 https://tv1.youkutv.cc/2020/04/07/17xelwo1mh0Um8NP/playlist.m3u8
 #EXTINF:-1 group-title="俄罗斯影视",夺命地铁
@@ -2000,5 +1969,8 @@ https://us4.wl-cdn.com/hls/20191211/d5828a006daf3e292f6ee108b2d24baf/1576065204/
 https://cn5.7639616.com/hls/20191114/7c4eedc36733e8740bf10e759f115025/1573713804/index.m3u8
 #EXTINF:-1 group-title="俄罗斯影视",守护者
 https://605ziyuan.com/ppvod/Ina2Dvk6.m3u8
+
+
+
 
 
