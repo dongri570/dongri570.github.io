@@ -131,7 +131,6 @@ http://iptv.pdsu.edu.cn/hls/cqtv.m3u8
 http://iptv.pdsu.edu.cn/hls/bttv.m3u8
 #EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视频道",旅游卫视
 http://iptv.pdsu.edu.cn/hls/lytv.m3u8
-
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="卫视频道",CHC动作电影
 http://iptv.pdsu.edu.cn/hls/chcatv.m3u8
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="卫视频道",CHC家庭教育
@@ -146,7 +145,6 @@ http://iptv.pdsu.edu.cn/hls/cetv4.m3u8
 http://iptv.pdsu.edu.cn/hls/fhzx.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="卫视频道",凤凰卫视中文台
 http://iptv.pdsu.edu.cn/hls/fhzw.m3u8
-
 #EXTINF:-1 group-title="南宋",第一集遥望中原
 http://hw-v.cztv.com/cztv/vod/2015/12/08/7145E9F9A36449788C53F2876C396236/h264_1500k_mp4.mp4_playlist.m3u8
 #EXTINF:-1 group-title="南宋",第二集 南宋240道美食
@@ -1969,6 +1967,8 @@ https://us4.wl-cdn.com/hls/20191211/d5828a006daf3e292f6ee108b2d24baf/1576065204/
 https://cn5.7639616.com/hls/20191114/7c4eedc36733e8740bf10e759f115025/1573713804/index.m3u8
 #EXTINF:-1 group-title="俄罗斯影视",守护者
 https://605ziyuan.com/ppvod/Ina2Dvk6.m3u8
+
+
 
 
 
