@@ -1763,6 +1763,40 @@ http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f16fff79040d48c8ac6
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8c6f411f8a1f4c1299467d7a531352e8/1200.m3u8
 #EXTINF:-1 group-title="经济半小时",从乡镇小厂到军工大户
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7af767d6eaaa488386babe5c939e9822/1200.m3u8
+#EXTINF:-1 group-title="经济半小时",军民融合向未来：瓷都生 双翼
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/4f1a44dee76c423cba87a2a4362bd16c/1200.m3u8
+#EXTINF:-1 group-title="经济半小时",军民融合向未来：化工老师的军工梦
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/f87e821165c34966a54a473e26ce3b9f/1200.m3u8
+#EXTINF:-1 group-title="经济半小时",军民融合向未来：航天技术转出的商机
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/27a802be08a84ccc974351217636ed6f/1200.m3u8
+#EXTINF:-1 group-title="经济半小时",军民融合向未来：给你一双隐形的翅膀
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/40ff4d36fd624e34b3e41c7809bb0eb3/1200.m3u8
+#EXTINF:-1 group-title="经济半小时",军民融合向未来：应急救援里的 变形金刚
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/c1563796852045a59d7418ba4c707b0d/1200.m3u8
+#EXTINF:-1 group-title="经济半小时",军民融合向未来：陆地上的 钢铁侠
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/db5ea1cc32be45f98217f1b880fabfe3/1200.m3u8
+#EXTINF:-1 group-title="经济半小时",蛟龙的深海崛起
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/dfd31108333d4f9f8f4bed642c87f2c4/1200.m3u8
+#EXTINF:-1 group-title="经济半小时",太空里的 中国式超车
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/9f03c4495ed2488689553975245bef44/1200.m3u8
+#EXTINF:-1 group-title="经济半小时",创新 灭肿瘤
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/f7a1abae4d494dcbb6a1ce480f3fac49/1200.m3u8
+#EXTINF:-1 group-title="经济半小时",打 出创新
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/cd78d8dc721d4baea672106ad23c6950/1200.m3u8
+#EXTINF:-1 group-title="经济半小时",十九年孕育 超级水稻
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/9623c3b365194bb4b9aba9988cd860d0/1200.m3u8
+#EXTINF:-1 group-title="经济半小时",王者归 铼
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/0ec755431e994ef5a37c3631afed47db/1200.m3u8
+#EXTINF:-1 group-title="经济半小时",抗癌新药“孵化器
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/fbdfba54ea5640d2895ed56b56b6477b/1200.m3u8
+#EXTINF:-1 group-title="经济半小时",进入医保的国产抗癌新药
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/2f06797e207447e5a90058e440a3817c/1200.m3u8
+#EXTINF:-1 group-title="经济半小时",生物药向绝症说 不
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/c24888ba85b840f789cb6f678fe96ee1/1200.m3u8
+#EXTINF:-1 group-title="经济半小时",伤筋动骨未必 百天
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/9219c7d67aed4ef7ab83df94df72a3ad/1200.m3u8
+#EXTINF:-1 group-title="经济半小时",神奇的液态金属
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/0953c0cd9a284e40833c3a6fea2b11a6/1200.m3u8
 #EXTINF:-1 group-title="电影频道",重返地球
 https://iqiyi.zuidameiju.com/20200415/14738_7dd9ef89/1000k/hls/index.m3u8
 #EXTINF:-1 group-title="电影频道",毒战
@@ -1983,6 +2017,8 @@ https://us4.wl-cdn.com/hls/20191211/d5828a006daf3e292f6ee108b2d24baf/1576065204/
 https://cn5.7639616.com/hls/20191114/7c4eedc36733e8740bf10e759f115025/1573713804/index.m3u8
 #EXTINF:-1 group-title="俄罗斯影视",守护者
 https://605ziyuan.com/ppvod/Ina2Dvk6.m3u8
+
+
 
 
 
