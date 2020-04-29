@@ -2049,9 +2049,16 @@ https://us4.wl-cdn.com/hls/20191211/d5828a006daf3e292f6ee108b2d24baf/1576065204/
 https://cn5.7639616.com/hls/20191114/7c4eedc36733e8740bf10e759f115025/1573713804/index.m3u8
 #EXTINF:-1 group-title="俄罗斯影视",守护者
 https://605ziyuan.com/ppvod/Ina2Dvk6.m3u8
-#EXTINF:-1 group-title="超清",亮剑超清全屏
-http://sousou2.top/dl/yy1.php?t=32110908
-
+#EXTINF:-1 group-title="超清电视剧",亮剑 第1集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/8c5c8a1079bd45aea6e7d38f984e5ccb/850.m3u8
+#EXTINF:-1 group-title="超清电视剧",亮剑 第2集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a452d5e8f9fa498f945ed6e3ae27a209/850.m3u8
+#EXTINF:-1 group-title="超清电视剧",亮剑 第3集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a6b8f5e28b764cc5b3ccdca165b42d61/850.m3u8
+#EXTINF:-1 group-title="超清电视剧",亮剑 第4集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/cd76c630a2ed4311b268e15b8a2002a3/850.m3u8
+#EXTINF:-1 group-title="超清电视剧",亮剑 第5集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/938228b905db4285b9b1aac2417ab2c1/850.m3u8
 
 
 
