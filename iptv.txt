@@ -1245,7 +1245,37 @@ CHC家庭影院,http://iptv.pdsu.edu.cn/hls/chctv.m3u8
 第32集,https://mei.huazuida.com/20200118/22740_310e1fa7/1000k/hls/index.m3u8
 第33集,https://mei.huazuida.com/20200118/22739_caf78098/1000k/hls/index.m3u8
 第34集,https://mei.huazuida.com/20200118/22738_6f286939/1000k/hls/index.m3u8
-
+士兵突击,#genre#
+第1集,https://hua.julong-zuida.com/20191116/21269_86c72573/index.m3u8
+第2集,https://hua.julong-zuida.com/20191116/21268_27a9a535/index.m3u8
+第3集,https://hua.julong-zuida.com/20191116/21267_05ca4854/index.m3u8
+第4集,https://hua.julong-zuida.com/20191116/21266_53c90d64/index.m3u8
+第5集,https://hua.julong-zuida.com/20191116/21265_6297c5ef/index.m3u8
+第6集,https://hua.julong-zuida.com/20191116/21264_47cf9d3e/index.m3u8
+第7集,https://hua.julong-zuida.com/20191116/21263_348b7cbf/index.m3u8
+第8集,https://hua.julong-zuida.com/20191116/21262_98dda81b/index.m3u8
+第9集,https://hua.julong-zuida.com/20191116/21261_9745e3d0/index.m3u8
+第10集,https://hua.julong-zuida.com/20191116/21260_b66d651b/index.m3u8
+第11集,https://hua.julong-zuida.com/20191116/21259_8b03b218/index.m3u8
+第12集,https://hua.julong-zuida.com/20191116/21258_370c5db7/index.m3u8
+第13集,https://hua.julong-zuida.com/20191116/21257_0352c895/index.m3u8
+第14集,https://hua.julong-zuida.com/20191116/21256_ce46243d/index.m3u8
+第15集,https://hua.julong-zuida.com/20191116/21255_52385774/index.m3u8
+第16集,https://hua.julong-zuida.com/20191116/21254_33cf4dbc/index.m3u8
+第17集,https://hua.julong-zuida.com/20191116/21253_6bf8e1f1/index.m3u8
+第18集,https://hua.julong-zuida.com/20191116/21252_352fcbfc/index.m3u8
+第19集,https://hua.julong-zuida.com/20191116/21251_4b84b788/index.m3u8
+第20集,https://hua.julong-zuida.com/20191116/21250_2e5ba633/index.m3u8
+第21集,https://hua.julong-zuida.com/20191116/21249_8eba3168/index.m3u8
+第22集,https://hua.julong-zuida.com/20191116/21248_b27a3693/index.m3u8
+第23集,https://hua.julong-zuida.com/20191116/21247_faa03a0c/index.m3u8
+第24集,https://hua.julong-zuida.com/20191116/21246_3dcb10cd/index.m3u8
+第25集,https://hua.julong-zuida.com/20191116/21245_be32b651/index.m3u8
+第26集,https://hua.julong-zuida.com/20191116/21244_a1b34cc7/index.m3u8
+第27集,https://hua.julong-zuida.com/20191116/21243_d9e5f954/index.m3u8
+第28集,https://hua.julong-zuida.com/20191116/21242_baf1762c/index.m3u8
+第29集,https://hua.julong-zuida.com/20191116/21241_8f9e74ef/index.m3u8
+第30集,https://hua.julong-zuida.com/20191116/21240_a940346c/index.m3u8
 
 
 
