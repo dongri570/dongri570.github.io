@@ -1246,46 +1246,65 @@ CHC家庭影院,http://iptv.pdsu.edu.cn/hls/chctv.m3u8
 第33集,https://mei.huazuida.com/20200118/22739_caf78098/1000k/hls/index.m3u8
 第34集,https://mei.huazuida.com/20200118/22738_6f286939/1000k/hls/index.m3u8
 士兵突击,#genre#
-第1集,http://yf.v.cztv.com/cztv/vod/2017/07/13/bd85a219587541b48789602cdc4ddcd5/h264_1500k_mp4.mp4_playlist.m3u8
-第2集,http://hw-v.cztv.com/cztv/vod/2017/07/13/c2d06c024ed54665b3b79f9145c73e1a/h264_1500k_mp4.mp4_playlist.m3u8
-第3集,http://yf.v.cztv.com/cztv/vod/2017/07/13/b07d2fbfe02f4476adef3c1f2600707a/h264_1500k_mp4.mp4_playlist.m3u8
-第4集,http://hw-v.cztv.com/cztv/vod/2017/07/13/a4f73d9ac3754e1782c3edf15c34a95e/h264_1500k_mp4.mp4_playlist.m3u8
-第5集,http://yf.v.cztv.com/cztv/vod/2017/07/13/aa75d54b6e3a4e3cb37c0420c5693546/h264_1500k_mp4.mp4_playlist.m3u8
-第6集,http://hw-v.cztv.com/cztv/vod/2017/07/13/249b1081e5994ad28b1cb54f6c68c8a6/h264_1500k_mp4.mp4_playlist.m3u8
-第7集,http://hw-v.cztv.com/cztv/vod/2017/07/13/9cdc882bbfb94737a4039a8251a6e970/h264_1500k_mp4.mp4_playlist.m3u8
-第8集,http://yf.v.cztv.com/cztv/vod/2017/07/13/943bef76fcbc40b6a97badda18279493/h264_1500k_mp4.mp4_playlist.m3u8
-第9集,http://hw-v.cztv.com/cztv/vod/2017/07/13/8eee102c78a7439088a1c5afad0336ee/h264_1500k_mp4.mp4_playlist.m3u8
-第10集,http://hw-v.cztv.com/cztv/vod/2017/07/13/95faee988c0b48b4bbf88fb6cdb4b063/h264_1500k_mp4.mp4_playlist.m3u8
-第11集,http://hw-v.cztv.com/cztv/vod/2017/07/13/a1a9211c82cc489c819df7658f3a1f0c/h264_1500k_mp4.mp4_playlist.m3u8
-第12集,http://hw-v.cztv.com/cztv/vod/2017/07/13/ad59ac19e86e45c1b625ef02d143736a/h264_1500k_mp4.mp4_playlist.m3u8
-第13集,http://hw-v.cztv.com/cztv/vod/2017/07/13/237ce57f10fc466798fa02ad7bb7b91d/h264_1500k_mp4.mp4_playlist.m3u8
-第14集,http://yf.v.cztv.com/cztv/vod/2017/07/13/568eb98bb1f14e12aafb18a985b54cba/h264_1500k_mp4.mp4_playlist.m3u8
-第15集,http://yf.v.cztv.com/cztv/vod/2017/07/13/cf23e076e3164e5d970e80f0512153a9/h264_1500k_mp4.mp4_playlist.m3u8
-第16集,http://yf.v.cztv.com/cztv/vod/2017/07/13/be24d955c6104f7ea91025e96030fa45/h264_1500k_mp4.mp4_playlist.m3u8
-第17集,http://yf.v.cztv.com/cztv/vod/2017/07/13/af9c80cdc7484b64aa3ab25a841abcf0/h264_1500k_mp4.mp4_playlist.m3u8
-第18集,http://yf.v.cztv.com/cztv/vod/2017/07/13/0b2618114cd7400d91f52539835a729a/h264_1500k_mp4.mp4_playlist.m3u8
-第19集,http://hw-v.cztv.com/cztv/vod/2017/07/13/79ebabfe5f4f4da1b874aae2e2db976a/h264_1500k_mp4.mp4_playlist.m3u8
-第20集,http://hw-v.cztv.com/cztv/vod/2017/07/13/bae8e13475e9450d968d8bdb75bea3d1/h264_1500k_mp4.mp4_playlist.m3u8
-第21集,http://yd-v.cztv.com/cztv/vod/2017/07/13/9d8ad68fdbcc42c58a970ecca23cf30c/h264_1500k_mp4.mp4_playlist.m3u8
-第22集,http://yf.v.cztv.com/cztv/vod/2017/07/13/58ef8868f89c434ea1227e51a0ee0d14/h264_1500k_mp4.mp4_playlist.m3u8
-第23集,http://hw-v.cztv.com/cztv/vod/2017/07/13/deba2b3cda96433493cfeab0260d0c4b/h264_1500k_mp4.mp4_playlist.m3u8
-第24集,http://hw-v.cztv.com/cztv/vod/2017/07/13/37a9bf43195e4df0a8641a08b6473ab9/h264_1500k_mp4.mp4_playlist.m3u8
-第25集,http://yf.v.cztv.com/cztv/vod/2017/07/13/f351aa30e0a94abebb887ad7b0b3be1b/h264_1500k_mp4.mp4_playlist.m3u8
-第26集,http://hw-v.cztv.com/cztv/vod/2017/07/13/c661d44b1f484c06b4c44b60998d523d/h264_1500k_mp4.mp4_playlist.m3u8
-第27集,http://yf.v.cztv.com/cztv/vod/2017/07/13/b9b9684b39284324a774b9df33f4ee82/h264_1500k_mp4.mp4_playlist.m3u8
-第28集,http://hw-v.cztv.com/cztv/vod/2017/07/13/5f69370e25ed4463ad44b2a08a1cb818/h264_1500k_mp4.mp4_playlist.m3u8
-第29集,http://yf.v.cztv.com/cztv/vod/2017/07/13/0c780657488041f9973f2eb43cf6a164/h264_1500k_mp4.mp4_playlist.m3u8
-第30集,http://hw-v.cztv.com/cztv/vod/2017/07/13/d04402406e704c9e9a3287f88c0a08f8/h264_1500k_mp4.mp4_playlist.m3u8
+第1集,https://hua.julong-zuida.com/20191116/21269_86c72573/index.m3u8
 
 
+第2集,https://hua.julong-zuida.com/20191116/21268_27a9a535/index.m3u8
+第3集,https://hua.julong-zuida.com/20191116/21267_05ca4854/index.m3u8
 
+第4集,https://hua.julong-zuida.com/20191116/21266_53c90d64/index.m3u8
 
+第5集,https://hua.julong-zuida.com/20191116/21265_6297c5ef/index.m3u8
 
+第6集,https://hua.julong-zuida.com/20191116/21264_47cf9d3e/index.m3u8
 
+第7集,https://hua.julong-zuida.com/20191116/21263_348b7cbf/index.m3u8
 
+第8集,https://hua.julong-zuida.com/20191116/21262_98dda81b/index.m3u8
 
+第9集,https://hua.julong-zuida.com/20191116/21261_9745e3d0/index.m3u8
 
+第10集,https://hua.julong-zuida.com/20191116/21260_b66d651b/index.m3u8
 
+第11集,https://hua.julong-zuida.com/20191116/21259_8b03b218/index.m3u8
+
+第12集,https://hua.julong-zuida.com/20191116/21258_370c5db7/index.m3u8
+
+第13集,https://hua.julong-zuida.com/20191116/21257_0352c895/index.m3u8
+
+第14集,https://hua.julong-zuida.com/20191116/21256_ce46243d/index.m3u8
+
+第15集,https://hua.julong-zuida.com/20191116/21255_52385774/index.m3u8
+
+第16集,https://hua.julong-zuida.com/20191116/21254_33cf4dbc/index.m3u8
+
+第17集,https://hua.julong-zuida.com/20191116/21253_6bf8e1f1/index.m3u8
+
+第18集,https://hua.julong-zuida.com/20191116/21252_352fcbfc/index.m3u8
+
+第19集,https://hua.julong-zuida.com/20191116/21251_4b84b788/index.m3u8
+
+第20集,https://hua.julong-zuida.com/20191116/21250_2e5ba633/index.m3u8
+
+第21集,https://hua.julong-zuida.com/20191116/21249_8eba3168/index.m3u8
+
+第22集,https://hua.julong-zuida.com/20191116/21248_b27a3693/index.m3u8
+
+第23集,https://hua.julong-zuida.com/20191116/21247_faa03a0c/index.m3u8
+
+第24集,https://hua.julong-zuida.com/20191116/21246_3dcb10cd/index.m3u8
+
+第25集,https://hua.julong-zuida.com/20191116/21245_be32b651/index.m3u8
+
+第26集,https://hua.julong-zuida.com/20191116/21244_a1b34cc7/index.m3u8
+
+第27集,https://hua.julong-zuida.com/20191116/21243_d9e5f954/index.m3u8
+
+第28集,https://hua.julong-zuida.com/20191116/21242_baf1762c/index.m3u8
+
+第29集,https://hua.julong-zuida.com/20191116/21241_8f9e74ef/index.m3u8
+
+第30集,https://hua.julong-zuida.com/20191116/21240_a940346c/index.m3u8
 
 
 
