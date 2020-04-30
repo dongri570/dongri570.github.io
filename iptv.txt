@@ -968,33 +968,36 @@ CHC家庭影院,http://iptv.pdsu.edu.cn/hls/chctv.m3u8
 短柄斧3,https://meinv.jingyu-zuida.com/20200408/13074_6d8f734e/index.m3u8
 短柄斧4,https://yiyi.55zuiday.com/ppvod/FA7BBE835E3752CB870CA8EC00C27B60.m3u8
 亮剑,#genre#   
-亮剑 第1集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/8c5c8a1079bd45aea6e7d38f984e5ccb/850.m3u8
-亮剑 第2集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a452d5e8f9fa498f945ed6e3ae27a209/850.m3u8
-亮剑 第3集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a6b8f5e28b764cc5b3ccdca165b42d61/850.m3u8
-亮剑 第4集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/cd76c630a2ed4311b268e15b8a2002a3/850.m3u8
-亮剑 第5集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/938228b905db4285b9b1aac2417ab2c1/850.m3u8
-亮剑 第6集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/0071e063ad1f44f5a1150203784f7c1a/850.m3u8
-亮剑 第7集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1e3605a3648045988138c5cb629b4fc0/850.m3u8
-亮剑 第8集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/de822fe04fdf4ce28c0f485187cd1d19/1200.m3u8
-亮剑 第9集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/8a10ecfd0ea542049a39df5b003641cf/850.m3u8
-亮剑 第10集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/224e04d61b8d4586bdddbbd9b61c0970/850.m3u8
-亮剑 第11集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/82a97615c7494287a1df1d32c31c8872/850.m3u8
-亮剑 第12集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/6f8befa816b54290b178a56e5812541d/850.m3u8
-亮剑 第13集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f623b6d4d3ea4871a06beb218a71a5ec/850.m3u8
-亮剑 第14集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/6d170cbddf0a4b43be970afb2dc0076f/850.m3u8
-亮剑 第15集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/7df02e7852a24b20a3a81ed58a1bb27d/850.m3u8
-亮剑 第16集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/630601d6e9334dcf91ea9a268033eb28/850.m3u8
-亮剑 第17集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/16b36be5d7e34411a9615fcf8aa7784f/850.m3u8
-亮剑 第18集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/5e08dcc96c364b138e5a61fca67f0c2b/850.m3u8
-亮剑 第19集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/434eb081483b45aca5f4917b57e56144/850.m3u8
-亮剑 第20集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c1bdb8451b0b420aace9e993705884cd/850.m3u8
-亮剑 第21集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1e218c8430ee46a68e2ddfeff36bb994/850.m3u8
-亮剑 第22集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/abf89668c44f43eb8525af7194104553/850.m3u8
-亮剑 第23集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/2303b01e757746a499176d6239de76b1/850.m3u8
-亮剑 第24集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/98d5c93f9a674953bd4e225b0d805b7f/850.m3u8
-亮剑 第25集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a5e6b699a9ca4be99ec0910c2185149b/850.m3u8
-亮剑 第26集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/e065f30d9f5d4aad94243eba8655a958/850.m3u8
-
+第01集,https://yanzishan.shuhu-zuida.com/20190811/7652_b71d30f7/index.m3u8
+第02集,https://yanzishan.shuhu-zuida.com/20190811/7651_fb471b70/index.m3u8
+第23集,https://yanzishan.shuhu-zuida.com/20190811/7650_d16abfeb/index.m3u8
+第04集,https://yanzishan.shuhu-zuida.com/20190811/7649_e98b5f65/index.m3u8
+第05集,https://yanzishan.shuhu-zuida.com/20190811/7648_3b0fb424/index.m3u8
+第06集,https://yanzishan.shuhu-zuida.com/20190811/7647_42082f6d/index.m3u8
+第07集,https://yanzishan.shuhu-zuida.com/20190811/7646_9d9dfcee/index.m3u8
+第08集,https://yanzishan.shuhu-zuida.com/20190811/7645_51247f08/index.m3u8
+第09集,https://yanzishan.shuhu-zuida.com/20190811/7644_95dcc974/index.m3u8
+第10集,https://yanzishan.shuhu-zuida.com/20190811/7643_9c56161d/index.m3u8
+第11集,https://yanzishan.shuhu-zuida.com/20190811/7642_cd5e1dcf/index.m3u8
+第12集,https://yanzishan.shuhu-zuida.com/20190811/7641_7ef165b9/index.m3u8
+第13集,https://yanzishan.shuhu-zuida.com/20190811/7640_8bd00e81/index.m3u8
+第14集,https://yanzishan.shuhu-zuida.com/20190811/7639_ed95285a/index.m3u8
+第15集,https://yanzishan.shuhu-zuida.com/20190811/7638_3277e728/index.m3u8
+第16集,https://yanzishan.shuhu-zuida.com/20190811/7637_e4be782f/index.m3u8
+第17集,https://yanzishan.shuhu-zuida.com/20190811/7636_b20dbe80/index.m3u8
+第18集,https://yanzishan.shuhu-zuida.com/20190811/7635_ffbcd194/index.m3u8
+第19集,https://yanzishan.shuhu-zuida.com/20190811/7634_b244e307/index.m3u8
+第20集,https://yanzishan.shuhu-zuida.com/20190811/7633_dc85e0c0/index.m3u8
+第21集,https://yanzishan.shuhu-zuida.com/20190811/7632_5d8a9d8c/index.m3u8
+第22集,https://yanzishan.shuhu-zuida.com/20190811/7631_744627f3/index.m3u8
+第23集,https://yanzishan.shuhu-zuida.com/20190811/7630_fc4fd046/index.m3u8
+第24集,https://yanzishan.shuhu-zuida.com/20190811/7629_8d66646f/index.m3u8
+第25集,https://yanzishan.shuhu-zuida.com/20190811/7628_c7f1fc44/index.m3u8
+第26集,https://yanzishan.shuhu-zuida.com/20190811/7627_5e60ae9b/index.m3u8
+第27集,https://yanzishan.shuhu-zuida.com/20190811/7626_e817d3ac/index.m3u8
+第28集,https://yanzishan.shuhu-zuida.com/20190811/7625_a0bb5db7/index.m3u8
+第29集,https://yanzishan.shuhu-zuida.com/20190811/7624_dcfad409/index.m3u8
+第30集,https://yanzishan.shuhu-zuida.com/20190811/7623_5d6cea9f/index.m3u8
 特赦1959,#genre#   
 第1集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/3dc972c4a0b74a6bb535ddd71e3eff94/1200.m3u8
 第2集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/cda07d68c119485b88f4589ceb73e23f/1200.m3u8
@@ -1276,7 +1279,84 @@ CHC家庭影院,http://iptv.pdsu.edu.cn/hls/chctv.m3u8
 第28集,https://hua.julong-zuida.com/20191116/21242_baf1762c/index.m3u8
 第29集,https://hua.julong-zuida.com/20191116/21241_8f9e74ef/index.m3u8
 第30集,https://hua.julong-zuida.com/20191116/21240_a940346c/index.m3u8
-
+潜伏,#genre# 
+第01集,https://wuji.zhulong-zuida.com/20191017/11165_5ca25934/index.m3u8
+第02集,https://wuji.zhulong-zuida.com/20191017/11164_3a5d344a/index.m3u8
+第03集,https://wuji.zhulong-zuida.com/20191017/11163_a79ae2e1/index.m3u8
+第04集,https://wuji.zhulong-zuida.com/20191017/11162_7ebbd92b/index.m3u8
+第05集,https://wuji.zhulong-zuida.com/20191017/11161_a88c3429/index.m3u8
+第06集,https://wuji.zhulong-zuida.com/20191017/11160_876aa158/index.m3u8
+第07集,https://wuji.zhulong-zuida.com/20191017/11159_e08cea81/index.m3u8
+第08集,https://wuji.zhulong-zuida.com/20191017/11158_4555e057/index.m3u8
+第09集,https://wuji.zhulong-zuida.com/20191017/11157_083a24c6/index.m3u8
+第10集,https://wuji.zhulong-zuida.com/20191017/11156_1e06c691/index.m3u8
+第11集,https://wuji.zhulong-zuida.com/20191017/11155_09b64f9d/index.m3u8
+第12集,https://wuji.zhulong-zuida.com/20191017/11154_9063ba96/index.m3u8
+第13集,https://wuji.zhulong-zuida.com/20191017/11153_aa8a2b56/index.m3u8
+第14集,https://wuji.zhulong-zuida.com/20191017/11152_c117a35b/index.m3u8
+第15集,https://wuji.zhulong-zuida.com/20191017/11151_3e52058a/index.m3u8
+第16集,https://wuji.zhulong-zuida.com/20191017/11150_d160a95c/index.m3u8
+第17集,https://wuji.zhulong-zuida.com/20191017/11149_00380a8b/index.m3u8
+第18集,https://wuji.zhulong-zuida.com/20191017/11148_cc601bfe/index.m3u8
+第19集,https://wuji.zhulong-zuida.com/20191017/11147_43cbd45b/index.m3u8
+第20集,https://wuji.zhulong-zuida.com/20191017/11146_da2ae89c/index.m3u8
+第21集,https://wuji.zhulong-zuida.com/20191017/11145_6b676d1a/index.m3u8
+第22集,https://wuji.zhulong-zuida.com/20191017/11144_fda5d922/index.m3u8
+第23集,https://wuji.zhulong-zuida.com/20191017/11143_bdea2f2a/index.m3u8
+第24集,https://wuji.zhulong-zuida.com/20191017/11142_e8a77a7b/index.m3u8
+第25集,https://wuji.zhulong-zuida.com/20191017/11141_bd1ae0aa/index.m3u8
+第26集,https://wuji.zhulong-zuida.com/20191017/11140_d3353d52/index.m3u8
+第27集,https://wuji.zhulong-zuida.com/20191017/11139_c6e50074/index.m3u8
+第28集,https://wuji.zhulong-zuida.com/20191017/11138_88b421ef/index.m3u8
+第29集,https://wuji.zhulong-zuida.com/20191017/11137_fd3abb78/index.m3u8
+第30集,https://wuji.zhulong-zuida.com/20191017/11136_66aef616/index.m3u8
+风筝,#genre# 
+第01集,https://yiyi.55zuiday.com/20171217/yniNecKp/index.m3u8
+第02集,https://yiyi.55zuiday.com/20171218/dCDmlqmZ/index.m3u8
+第03集,https://yiyi.55zuiday.com/20171218/Ug1hdePf/index.m3u8
+第04集,https://yiyi.55zuiday.com/20171219/sI1jT6yR/index.m3u8
+第05集,https://yiyi.55zuiday.com/20171219/4IDbyt7t/index.m3u8
+第06集,https://yiyi.55zuiday.com/20171220/cWZTllrh/index.m3u8
+第07集,https://yiyi.55zuiday.com/20171220/zrym13eG/index.m3u8
+第08集,https://leshi.cdn-zuyida.com/20171222/Rcvab40a/index.m3u8
+第09集,https://leshi.cdn-zuyida.com/20171222/4e6fmEhm/index.m3u8
+第10集,https://leshi.cdn-zuyida.com/20171223/TCn2kLR0/index.m3u8
+第11集,https://leshi.cdn-zuyida.com/20171223/fW8gC2QN/index.m3u8
+第12集,https://leshi.cdn-zuyida.com/20171224/8Mc9BjAH/index.m3u8
+第13集,https://leshi.cdn-zuyida.com/20171225/ZbvLzZ4K/index.m3u8
+第14集,https://leshi.cdn-zuyida.com/20171225/Asgpd2sO/index.m3u8
+第15集,https://leshi.cdn-zuyida.com/20171226/TrEufi9i/index.m3u8
+第16集,https://leshi.cdn-zuyida.com/20171226/WJMWjEs6/index.m3u8
+第17集,https://leshi.cdn-zuyida.com/20171227/rF1YKfKX/index.m3u8
+第18集,https://leshi.cdn-zuyida.com/20171227/ZPJBcDqo/index.m3u8
+第19集,https://haoa.haozuida.com/20171227/gVmAh09G/index.m3u8
+第20集,https://haoa.haozuida.com/20171227/LWsBWBOn/index.m3u8
+第21集,https://leshi.cdn-zuyida.com/20171228/rEHto9t5/index.m3u8
+第22集,https://haoa.haozuida.com/20171228/Bh4y9JIK/index.m3u8
+第23集,https://leshi.cdn-zuyida.com/20171229/Wj06pdzk/index.m3u8
+第24集,https://leshi.cdn-zuyida.com/20171230/QKgCMVBi/index.m3u8
+第25集,https://leshi.cdn-zuyida.com/20171231/A7DakRVN/index.m3u8
+第26集,https://haoa.haozuida.com/20180101/i9rkocY6/index.m3u8
+第27集,https://haoa.haozuida.com/20180101/zBXXswuw/index.m3u8
+第28集,https://leshi.cdn-zuyida.com/20180103/rvNp7jW1/index.m3u8
+第29集,https://leshi.cdn-zuyida.com/20180103/4vEtLBI3/index.m3u8
+第30集,https://haoa.haozuida.com/20180103/0gPME8X9/index.m3u8
+第31集,https://haoa.haozuida.com/20180103/HLwON4de/index.m3u8
+第32集,https://haoa.haozuida.com/20180104/hXT99Swr/index.m3u8
+第33集,https://leshi.cdn-zuyida.com/20180105/WB90xlqi/index.m3u8
+第34集,https://leshi.cdn-zuyida.com/20180106/vxRy7gNp/index.m3u8
+第35集,https://leshi.cdn-zuyida.com/20180106/KNoiUV6Y/index.m3u8
+第36集,https://haoa.haozuida.com/20180106/7aoOWVi0/index.m3u8
+第37集,https://haoa.haozuida.com/20180107/CnN9uuQb/index.m3u8
+第38集,https://haoa.haozuida.com/20180107/WIQFMsWO/index.m3u8
+第39集,https://haoa.haozuida.com/20180108/zmLLQNIg/index.m3u8
+第40集,https://haoa.haozuida.com/20180108/0e8LShpH/index.m3u8
+第41集,https://haoa.haozuida.com/20180109/e0nAnlbU/index.m3u8
+第42集,https://haoa.haozuida.com/20180109/Y0fKmc47/index.m3u8
+第43集,https://leshi.cdn-zuyida.com/20180111/5c207FzU/index.m3u8
+第44集,https://leshi.cdn-zuyida.com/20180111/CsXK6qte/index.m3u8
+第45集,https://haoa.haozuida.com/20180111/LYW8fQ8s/index.m3u8
+第46集,https://haoa.haozuida.com/20180111/kuEN4nvT/index.m3u8
 
 
 
