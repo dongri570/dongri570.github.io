@@ -1885,7 +1885,12 @@ https://youku.cdn7-okzy.com/20200414/18747_3c200822/1000k/hls/index.m3u8
 https://youku.cdn7-okzy.com/20200414/18748_fff80a23/1000k/hls/index.m3u8
 #EXTINF:-1 group-title="电影频道",亡命徒
 https://xigua-cdn.haima-zuida.com/20200501/6599_1bee1b39/index.m3u8
-
+#EXTINF:-1 group-title="电影频道",亡命徒
+https://xigua-cdn.haima-zuida.com/20200501/6599_1bee1b39/index.m3u8
+#EXTINF:-1 group-title="电影频道",速度与激情1
+https://yushou.qitu-zuida.com/20190123/26483_d588bf67/index.m3u8
+#EXTINF:-1 group-title="电影频道",猩球崛起
+https://yiyi.55zuiday.com/20170717/w2EaIM9H/index.m3u8
 #EXTINF:-1 group-title="动作电影",造访职业杀手
 https://iqiyi.zuidameiju.com/20200405/14360_68e5443d/1000k/hls/index.m3u8
 #EXTINF:-1 group-title="动作电影",勇敢者游戏 决战
@@ -2003,8 +2008,6 @@ https://hair.jingpin88.com/20171105/O3dRhCpO/index.m3u8
 #EXTINF:-1 group-title="科幻电影",大黄蜂
 https://yiyi.55zuiday.com/20190404/t0hj77h8/index.m3u8
 #EXTINF:-1 group-title="科幻电影",机器猛犬
-https://yushou.qitu-zuida.com/20181028/18891_910181a1/index.m3u8
-#EXTINF:-1 group-title="科幻电影",猩球崛起
 https://cdn-yong.bejingyongjiu.com/20200322/7091_8776483d/1000k/hls/index.m3u8
 #EXTINF:-1 group-title="恐怖电影",电锯惊魂1
 https://haoa.haozuida.com/ppvod/C16166917CC9E3ABBF316DCA335C7D30.m3u8
@@ -3160,6 +3163,9 @@ https://yanzishan.shuhu-zuida.com/20190828/15139_6f76765a/index.m3u8
 https://yanzishan.shuhu-zuida.com/20190828/15138_9000b6c0/index.m3u8
 #EXTINF:-1 group-title="小姨多鹤",第34集
 https://yanzishan.shuhu-zuida.com/20190828/15137_1cab96ea/index.m3u8
+
+
+
 
 
 
