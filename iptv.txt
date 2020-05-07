@@ -1164,7 +1164,7 @@ CHC家庭影院,http://iptv.pdsu.edu.cn/hls/chctv.m3u8
 第44集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/2f5e84ae882c422ea914028f48ae08b2/1200.m3u8
 第45集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/9df6135e3fd24ab38a76a3ed4116644a/1200.m3u8
 第46集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/7f5fffef8b1b4279a36418a11e6d4541/1200.m3u8
-
+家怨,https://cdn-yong.bejingyongjiu.com/20200326/7471_a090b345/index.m3u8
 
 
 
