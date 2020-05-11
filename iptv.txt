@@ -73,9 +73,6 @@ CHC家庭影院,http://iptv.pdsu.edu.cn/hls/chctv.m3u8
 教育4台,http://iptv.pdsu.edu.cn/hls/cetv4.m3u8
 凤凰卫视资讯台,http://iptv.pdsu.edu.cn/hls/fhzx.m3u8
 凤凰卫视中文台,http://iptv.pdsu.edu.cn/hls/fhzw.m3u8
-
-
-
 南宋,#genre#
 第一集 遥望中原,http://hw-v.cztv.com/cztv/vod/2015/12/08/7145E9F9A36449788C53F2876C396236/h264_1500k_mp4.mp4_playlist.m3u8
 第二集 240道美食,http://hw-v.cztv.com/cztv/vod/2015/12/15/5E813777FA0A4a4aA52DA4B92D1BC91F/h264_1500k_mp4.mp4_playlist.m3u8
@@ -84,7 +81,6 @@ CHC家庭影院,http://iptv.pdsu.edu.cn/hls/chctv.m3u8
 第五集 戏文南北,http://hw-v.cztv.com/cztv/vod/2016/01/05/5F90172AB60A4f8f8CBC09DB65ED3F21/h264_1500k_mp4.mp4_playlist.m3u8
 第六集 发明时代,http://hw-v.cztv.com/cztv/vod/2016/01/12/1937049D29104779B97536121D571159/h264_1500k_mp4.mp4_playlist.m3u8
 第七集 回望未来,http://hw-v.cztv.com/cztv/vod/2016/01/19/7092FE015C874387A91A76FD590998CC/h264_1500k_mp4.mp4_playlist.m3u8
-
 一带一路,#genre#
 一带一路 第一集 共同命运,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/738009050b204026b7a5aef93b2074c4/1200.m3u8
 一带一路 第二集 互通之路,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/756429ed109442d29d7bb93dc1a2f646/1200.m3u8
@@ -123,7 +119,6 @@ CHC家庭影院,http://iptv.pdsu.edu.cn/hls/chctv.m3u8
 中国建设者 助力冬奥,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/eaa21a36e16349d9b11c953acba03075/1200.m3u8
 中国建设者 编织绿色电网,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a5efea0cb7cd47ad8dbdd350a1ba55cb/1200.m3u8
 中国建设者 成昆传奇,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ef4b0747167c4c349b607df24bb333b5/1200.m3u8
-
 大好河山,#genre#
 大好河山 中国丹霞 大地红裳,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5d329bf956ce421c8bbd17384029e2c3/1200.m3u8
 2大好河山 神奇喀斯特,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8721c89743704251a0458d440e62f87a/1200.m3u8
@@ -140,7 +135,6 @@ CHC家庭影院,http://iptv.pdsu.edu.cn/hls/chctv.m3u8
 12长江行（91） 临江之城 古都南通,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6f5ff03d76994d8b9a691af038c1d7c0/1200.m3u8
 13长江行（89） 长江边的守望,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/42bb8bccb8f14d71adbee443e51ce34d/1200.m3u8
 14长江行（88） 长江之滨 创新之城,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/70a7efae98a648c3a542fb28fe40c33f/1200.m3u8
-
 大国工匠,#genre#
 第一集 大勇不惧,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0ea148bc266f48a1921697febfa79e8b/1200.m3u8
 第二集 大术无极,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/18ca2c668b874cbaac3647dbc7d3964a/1200.m3u8
@@ -150,7 +144,6 @@ CHC家庭影院,http://iptv.pdsu.edu.cn/hls/chctv.m3u8
 第六集 大技贵精,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ef950d0f7ef44667a64583aa96f09e6d/1200.m3u8
 第七集 大道无疆,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bad822b9e74449cd80d4a28508dbf7a8/1200.m3u8
 第八集 大任担当,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ca20d6ab78664d7dabd4c12872e5ad14/1200.m3u8
-
 远方的家一,#genre#
 第1集 千年古港焕新颜,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d2a4fe04ee2445ca96b35dc22d88a2c5/1200.m3u8
 第2集 海定波宁 水韵宁波,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/600842e1c47e438ba6cc8a2c93340c19/1200.m3u8
@@ -283,7 +276,6 @@ CHC家庭影院,http://iptv.pdsu.edu.cn/hls/chctv.m3u8
 第164集 阿联酋 阿布扎比初印象,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c6507c2a92fe40ab97efebd2d39382e7/1200.m3u8
 第165集 阿联酋 一半海水 一半沙漠,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c759bb4d9b694aae8ad583910f6b0e96/1200.m3u8
 第166集 阿联酋 神奇的阿布扎比,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ebeb1975f23b4dbc9996ef013368e228/1200.m3u8
-
 远方的家二,#genre#
 第167集肯尼亚 你好·肯尼亚,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/19d8cce1b0cb4d73907a632492a89426/1200.m3u8
 第168集 肯尼亚 内罗毕——远方的家,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3be9b06eb5064efbb4899511d4c87a7e/1200.m3u8
@@ -435,7 +427,6 @@ CHC家庭影院,http://iptv.pdsu.edu.cn/hls/chctv.m3u8
 第315集 塔吉克斯坦 共建能源大动脉,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/02dbd90ed88d451a975d386ae20514ed/1200.m3u8
 第316集 塔吉克斯坦 古丝路上的新故事,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b7f06eaef3b6403cb802474d9ea17a91/1200.m3u8
 第317集 塔吉克斯坦 情暖杜尚别,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7a314b9fd34f49d79a9959d710247f21/1200.m3u8
-
 远方的家三,#genre#
 第318集 中哈边境 丝路西行,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8c9d70ee4f91430d9831059a766a0c49/1200.m3u8
 第319集 哈萨克斯坦 荒原上的宝藏,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/49404eea2869440eaa3d4bfddd9c80a5/1200.m3u8
@@ -654,7 +645,6 @@ CHC家庭影院,http://iptv.pdsu.edu.cn/hls/chctv.m3u8
 第532集 纳米比亚 沙海相连之地,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bdd8cd330ecb4dc589115c1bef7c8c66/1200.m3u8
 第533集 纳米比亚 荒漠之下有宝藏,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f9b1d2c0068b4763a1834a3146bad423/1200.m3u8
 第534集 纳米比亚 道路通四方 中纳情谊长,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/30e2ccf2d3334aef8631bb58206df5f0/1200.m3u8
-
 大国重器,#genre#
 第1集 国家博弈,http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/26b9d729f6f6487792fc59f30eb16f40/850.m3u8
 第2集 国之砝码,http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/47ba7839a6d94f16828b0f4166e77eb2/850.m3u8
@@ -670,7 +660,6 @@ CHC家庭影院,http://iptv.pdsu.edu.cn/hls/chctv.m3u8
 第六集 赢在互联,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ce6cd705fd84ad398916b6a75b0c050/1200.m3u8
 第七集 智造先锋,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bf15587440b54c02957890972fc7b2c2/1200.m3u8
 第八集 创新体系,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bd605053f799423db27c634e7651ecdd/1200.m3u8
-
 超级工程,#genre#
 第一集 港珠澳大桥,http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/68ea2e82799d4300a36126e82091ea57/850.m3u8
 第二集 上海中心大厦,http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/318960937f03490db98e822bc17ce819/850.m3u8
@@ -686,7 +675,6 @@ CHC家庭影院,http://iptv.pdsu.edu.cn/hls/chctv.m3u8
 第三集 交通网络,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6a04840947864b78933f3160a4d2928b/1200.m3u8
 第四集 中国制造,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8615355f56354302a95f72cd36bfec02/1200.m3u8
 第五集 城市24小时,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e1ad0699bd684baba0fbd349ecc04dc8/1200.m3u8
-
 舌尖上的中国,#genre#
 第一集 自然的馈赠,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bd6af893d44941a9805807eb08dfd1b6/1200.m3u8
 第二集 主食的故事,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bd6af893d44941a9805807eb08dfd1b6/1200.m3u8
@@ -710,7 +698,6 @@ CHC家庭影院,http://iptv.pdsu.edu.cn/hls/chctv.m3u8
 第三季 第六集 酥,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/27121d74055f468795f4c586c83717df/1200.m3u8
 第三季 第七集 生,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a23637f5a5794d5d87b33d1575e2193d/1200.m3u8
 第三季 第八集 合,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/51b1937b8b6b469b837b48f6bcb3f0b1/1200.m3u8
-
 走遍中国,#genre#
 打破垄断,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c51962e9f2884f5cafd42c4e87cea7ef/1200.m3u8
 5 G来临,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9ff70eb26cc3457b96eed53baa284f31/1200.m3u8
@@ -781,7 +768,6 @@ CHC家庭影院,http://iptv.pdsu.edu.cn/hls/chctv.m3u8
 开海先锋,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9c0ee40e6a894a8cb2be2ed424df3bd7/1200.m3u8
 花样田园,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7020f67f114c40b7a661a5045b530428/1200.m3u8
 黑土地循环曲,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6449a2bb80b5483b918dcf92c956d491/1200.m3u8
-
 走遍中国二,#genre#
 筑梦宜居,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/563b2cd7b45549539edb96c3b6026a81/1200.m3u8
 双奥助城,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/fe90fc5d769348f2bc27f8118728f0b3/1200.m3u8
@@ -904,7 +890,6 @@ CHC家庭影院,http://iptv.pdsu.edu.cn/hls/chctv.m3u8
 争做军民融合先锋 坦克里的 中国心,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f16fff79040d48c8ac6454f758cb7ea6/1200.m3u8
 勇闯新材料 禁区,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8c6f411f8a1f4c1299467d7a531352e8/1200.m3u8
 从乡镇小厂到军工大户,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7af767d6eaaa488386babe5c939e9822/1200.m3u8
-
 特赦1959,#genre#
 第1集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/3dc972c4a0b74a6bb535ddd71e3eff94/1200.m3u8
 第2集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/cda07d68c119485b88f4589ceb73e23f/1200.m3u8
@@ -945,7 +930,6 @@ CHC家庭影院,http://iptv.pdsu.edu.cn/hls/chctv.m3u8
 第37集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/807bbe45e18146859ba9233229c41b83/1200.m3u8
 第38集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/dc0fc556362644989b282dc0f1b9ac88/1200.m3u8
 第39集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/4468f7821ace4dda998f721b23627a05/1200.m3u8
-
 父母爱情,#genre#
 第1集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/cca52149a15e4e6db923f3ca8db21e79/850.m3u8
 第2集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b2c39d7aa8b34a738d6bbf320af4ec0c/850.m3u8
@@ -991,7 +975,6 @@ CHC家庭影院,http://iptv.pdsu.edu.cn/hls/chctv.m3u8
 第42集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/389250256974409e8fa253da48469e4b/850.m3u8
 第43集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/06d6023b90504002a56df1d5bedce12c/850.m3u8
 第44集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/e3bc43b9022a4847b4071f58e468ce64/850.m3u8
-
 火蓝刀锋,#genre#
 第1集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/4b04bd7d41f640bbab406d323ff4e122/850.m3u8
 第2集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/fa708831380f48bba6833094e072d9c5/850.m3u8
@@ -1024,7 +1007,6 @@ CHC家庭影院,http://iptv.pdsu.edu.cn/hls/chctv.m3u8
 第29集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c32dc8d30fe3481bb527a28555f87fb8/850.m3u8
 第30集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a626017bb3a641c3a6b442a84055092c/850.m3u8
 第31集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c68a8b1018e8472989ecb85138b233fb/850.m3u8
-
 人间正道是沧桑,#genre#
 第1集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/7aa3a21ff50b48334ecee3932424c055/850.m3u8
 第2集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/baef700182014260a81b74b0ffcd6f3b/850.m3u8
