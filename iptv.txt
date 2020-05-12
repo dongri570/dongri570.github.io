@@ -135,6 +135,13 @@ CHC家庭影院,http://iptv.pdsu.edu.cn/hls/chctv.m3u8
 12长江行（91） 临江之城 古都南通,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6f5ff03d76994d8b9a691af038c1d7c0/1200.m3u8
 13长江行（89） 长江边的守望,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/42bb8bccb8f14d71adbee443e51ce34d/1200.m3u8
 14长江行（88） 长江之滨 创新之城,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/70a7efae98a648c3a542fb28fe40c33f/1200.m3u8
+创新中国,#genre#
+创新中国 第一集 信息,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/b729d80cc13d40c2a0c8abc48584c902/1200.m3u8
+创新中国 第二集 能源,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/c57e21095a314f5f99ab76f73df463f8/1200.m3u8
+创新中国 第三集 制造,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/9cdda8b27ae34befbca3b5791c13040c/1200.m3u8
+创新中国 第四集 生命,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/4649b34d0e1a4143adae1806a1d14869/1200.m3u8
+创新中国 第五集 空海,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/147a48b9f36a46879fb368410892b19d/1200.m3u8
+创新中国 第六集 潮起,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/2d6045595cf443fcbb3a03c6800fd836/1200.m3u8
 大国工匠,#genre#
 第一集 大勇不惧,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0ea148bc266f48a1921697febfa79e8b/1200.m3u8
 第二集 大术无极,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/18ca2c668b874cbaac3647dbc7d3964a/1200.m3u8
