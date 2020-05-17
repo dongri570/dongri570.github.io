@@ -155,6 +155,34 @@ http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/147a48b9f36a46879fb
 #EXTINF:-1 group-title="创新中国",创新中国 第六集 潮起
 http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/2d6045595cf443fcbb3a03c6800fd836/1200.m3u8
 http://iptv.pdsu.edu.cn/hls/fhzw.m3u8
+#EXTINF:-1 group-title="BTV档案",BTV档案之杨虎城将军遇害始末
+https://v.js4177.org/20200126/XugYZzSc/index.m3u8
+#EXTINF:-1 group-title="BTV档案",BTV档案之志愿军 狙击王 张桃芳
+https://v.js4177.org/20200126/c0AFhwTZ/index.m3u8
+#EXTINF:-1 group-title="BTV档案",BTV档案之兵锋 中国人民志愿军 铁原阻击战实录
+https://v.js4177.org/20200128/I85Uvef0/index.m3u8
+#EXTINF:-1 group-title="BTV档案",BTV档案之新中国第一颗原子弹研制始末
+https://v.js4177.org/20200128/ifOniPka/index.m3u8
+#EXTINF:-1 group-title="BTV档案",BTV档案之1958台海炮战 海峡攻心战
+https://v.js4177.org/20200129/nwT7S0DS/index.m3u8
+#EXTINF:-1 group-title="BTV档案",BTV档案之1958台海炮战 毛泽东一石三鸟
+https://v.js4177.org/20200129/55cCRU6I/index.m3u8
+#EXTINF:-1 group-title="BTV档案",BTV档案之“水鬼”越南蛙人 炸沉卡德号航母
+https://v.js4177.org/20200129/elvHzWNb/index.m3u8
+#EXTINF:-1 group-title="BTV档案",BTV档案之冰雪长津湖 隐藏的对手
+https://v.js4177.org/20200129/R6YcEBPG/index.m3u8
+#EXTINF:-1 group-title="BTV档案",BTV档案之借刀 斩除汉奸头目李士群
+https://v.js4177.org/20200129/7UyaAbMD/index.m3u8
+#EXTINF:-1 group-title="BTV档案",BTV档案之红色特工
+https://v.js4177.org/20200129/nYpcYj8V/index.m3u8
+#EXTINF:-1 group-title="BTV档案",BTV档案之南海风云 激战西沙
+https://v.js4177.org/20200129/LZsuJX5j/index.m3u8
+#EXTINF:-1 group-title="BTV档案",BTV档案之南海风云 剑指西沙
+https://v.js4177.org/20200129/ZQm3XFGN/index.m3u8
+#EXTINF:-1 group-title="BTV档案",BTV档案之四战四平
+https://v.js4177.org/20200129/pdOfJPUM/index.m3u8
+#EXTINF:-1 group-title="BTV档案",BTV档案之臭名昭著汪精卫 死后遭挫骨扬灰
+https://v.js4177.org/20200128/EPUWwJ7P/index.m3u8
 #EXTINF:-1 group-title="南宋",第一集遥望中原
 http://hw-v.cztv.com/cztv/vod/2015/12/08/7145E9F9A36449788C53F2876C396236/h264_1500k_mp4.mp4_playlist.m3u8
 #EXTINF:-1 group-title="南宋",第二集 南宋240道美食
