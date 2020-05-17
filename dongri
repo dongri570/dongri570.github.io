@@ -155,6 +155,16 @@ http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/147a48b9f36a46879fb
 #EXTINF:-1 group-title="创新中国",创新中国 第六集 潮起
 http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/2d6045595cf443fcbb3a03c6800fd836/1200.m3u8
 http://iptv.pdsu.edu.cn/hls/fhzw.m3u8
+#EXTINF:-1 group-title="人文历史",伟大的抗美援朝 第一集 抉择
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/b7c050d48aff40de9521b7b07fc347f2/1200.m3u8
+#EXTINF:-1 group-title="人文历史",伟大的抗美援朝 第二集 较量
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/9b6e84b6fdff4fddba66e269cf15aafc/1200.m3u8
+#EXTINF:-1 group-title="人文历史",伟大的抗美援朝 第三集 英雄
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/b3e2e57114d041538a78d7e88d8c2da2/1200.m3u8
+#EXTINF:-1 group-title="人文历史",伟大的抗美援朝 第四集 后盾
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/e3df181e328e47feab29126cb0d5717d/1200.m3u8
+#EXTINF:-1 group-title="人文历史",伟大的抗美援朝 第五集 和平
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/a1cb37f6524d414c878697ed6bcad714/1200.m3u8
 #EXTINF:-1 group-title="BTV档案",BTV档案之杨虎城将军遇害始末
 https://v.js4177.org/20200126/XugYZzSc/index.m3u8
 #EXTINF:-1 group-title="BTV档案",BTV档案之志愿军 狙击王 张桃芳
