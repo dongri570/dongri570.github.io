@@ -100,6 +100,16 @@ CHC家庭影院,http://iptv.pdsu.edu.cn/hls/chctv.m3u8
 铁在烧 第三集 生死抉择,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/504a57cf7e1f4e56aad6ad1abcca43fb/850.m3u8
 铁在烧 第四集 最后防线,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ef2a0e22ffc248f48ba7e1082c116d27/850.m3u8
 铁在烧 第五集 东方精神,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/fb2557e5770b4b98b92da7421f81c9e6/850.m3u8
+最长的43天 第一集 摊牌三八线,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/0cdbfabd0c9145d8b4500d5dedeb65ec/850.m3u8
+最长的43天 第二集 高地集结令,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f4529f2195a9436bba17f778f6074977/850.m3u8
+最长的43天 第三集 火线危机战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/4b8fd37efc7a423ebbae7049a8695b93/850.m3u8
+最长的43天 第四集 战地土行孙,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9ad306614e6f4f57b07a8040db7eb728/850.m3u8
+最长的43天 第五集 你好喀秋莎,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1d59983275ae45ddbac3961b776709bc/850.m3u8
+最长的43天 第六集 突破封锁线,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/74f1ed1815b14653838fa2e5e2d01932/850.m3u8
+最长的43天 第七集 异国英雄塚,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/e40fe28729284aa18ac2da1a547dfe9f/850.m3u8
+最长的43天 第八集 最美战地花,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/4332121bc3b74711b1303fa9520eaf88/850.m3u8
+最长的43天 第九集 摧毁心理战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/4e41ddd15f3c4eff96ad556354294055/850.m3u8
+最长的43天 第十集 凝固三八线,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/225c8e34c43749ffa1aeaa8336ed921b/850.m3u8
 BTV档案,#genre#
 BTV档案之杨虎城将军遇害始末,https://v.js4177.org/20200126/XugYZzSc/index.m3u8
 BTV档案之志愿军 狙击王 张桃芳,https://v.js4177.org/20200126/c0AFhwTZ/index.m3u8
