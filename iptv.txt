@@ -94,6 +94,12 @@ CHC家庭影院,http://iptv.pdsu.edu.cn/hls/chctv.m3u8
 第十二集 分庭抗礼,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/eb82ebf72c584f56839dcc306f08b3df/850.m3u8
 第十三集 蘑菇云下,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c7c3a2cf735941d0a76fe6dc28c7177d/850.m3u8
 第十四集 兵戎相见,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/82ed6b891ffe498ab9e23ed87b3496a4/850.m3u8
+特别呈现,#genre# 
+铁在烧 第一集 风起铁原,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/843660964e594db1bebe9b2231b1d3b3/850.m3u8
+铁在烧 第二集 临危受命,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ba59c4b1c7c449319f1f1d55634ffd4d/850.m3u8
+铁在烧 第三集 生死抉择,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/504a57cf7e1f4e56aad6ad1abcca43fb/850.m3u8
+铁在烧 第四集 最后防线,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ef2a0e22ffc248f48ba7e1082c116d27/850.m3u8
+铁在烧 第五集 东方精神,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/fb2557e5770b4b98b92da7421f81c9e6/850.m3u8
 BTV档案,#genre#
 BTV档案之杨虎城将军遇害始末,https://v.js4177.org/20200126/XugYZzSc/index.m3u8
 BTV档案之志愿军 狙击王 张桃芳,https://v.js4177.org/20200126/c0AFhwTZ/index.m3u8
