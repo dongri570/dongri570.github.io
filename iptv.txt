@@ -956,6 +956,12 @@ BTV档案之红色特工,https://v.js4177.org/20200129/nYpcYj8V/index.m3u8
 争做军民融合先锋 坦克里的 中国心,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f16fff79040d48c8ac6454f758cb7ea6/1200.m3u8
 勇闯新材料 禁区,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8c6f411f8a1f4c1299467d7a531352e8/1200.m3u8
 从乡镇小厂到军工大户,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7af767d6eaaa488386babe5c939e9822/1200.m3u8
+大棋局,#genre#
+第一集 入局,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/e7eaabf8032e47a796dfbd4ab6f4997d/850.m3u8
+第二集 落子,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/da935583389143deae6fa350ffc4621d/850.m3u8
+第三集 争劫,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b7b67fddeadf45feaa20084b1bf3ced3/850.m3u8
+第四集 气合,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/23ea1fa37dab41bab74e2b95ef610171/850.m3u8
+第五集 收官,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ac0aecedf6a544848452fa62a91fa5bf/850.m3u8
 于无声处,#genre#
 第1集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/d1d949ce736746e99f8569bcfef02466/850.m3u8
 第2集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c67832aed42044668574ebc6af3ff5c2/850.m3u8
