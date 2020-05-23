@@ -1285,8 +1285,3 @@ BTV档案之红色特工,https://v.js4177.org/20200129/nYpcYj8V/index.m3u8
 第44集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/2f5e84ae882c422ea914028f48ae08b2/1200.m3u8
 第45集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/9df6135e3fd24ab38a76a3ed4116644a/1200.m3u8
 第46集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/7f5fffef8b1b4279a36418a11e6d4541/1200.m3u8
-电影频道,#genre#
-绣春刀,https://cn5.5311444.com/hls/20180712/74af85a834693ef1fca65739fb11f2b9/1531348909/index.m3u8
-绣春刀·修罗战场,https://cn3.download05.com/hls/20180926/8b8092e2d757cd22ac9d0edfae382b74/1537961625/index.m3u8
-红海行动,https://youku.com-iqiyi.net/20180430/10185_f871cde0/index.m3u8
-终结者：黑暗命运,https://cn8.qxreader.com/hls/20200115/851d3e0b830a2afce7f16e3191c984e2/1579052349/index.m3u8
