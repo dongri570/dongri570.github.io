@@ -45,4 +45,36 @@ http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/d5aa5c8f3ba44dd281ea
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b8786fefaaba483a1bbbf2a08df2f948/850.m3u8
 #EXTINF:-1 group-title="隐蔽战线Ⅲ",第五集 张露萍下
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/3855fa7a71194d0c18bcb8a655493c53/850.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="发现之路",恶之花 第一集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/95c96815d43b4a2f82e840e28d27e13b/850.m3u8
+#EXTINF:-1 group-title="发现之路",恶之花 第二集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/cb9d49218f5f498da262e9253088b505/850.m3u8
+#EXTINF:-1 group-title="发现之路",恶之花 第三集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a0e7ad509cd24e43b379947ff234df04/850.m3u8
+#EXTINF:-1 group-title="发现之路",恶之花 第四集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/3f2d543bd39241b4b4ce15d062e2d0eb/850.m3u8
+#EXTINF:-1 group-title="发现之路",戴笠之死 上
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/a8c0967c2bcb413b8115ffcca5663c31/1200.m3u8
+#EXTINF:-1 group-title="发现之路",戴笠之死 下
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/57962bea24364c1b9437f6f532ce0ce4/1200.m3u8
+#EXTINF:-1 group-title="发现之路",二战前夜 上
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/1fe46295bbbc4220854516b17a824d6c/1200.m3u8
+#EXTINF:-1 group-title="发现之路",二战前夜 下
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/9ec00d3d41af4e74867e0de1e4be459c/1200.m3u8
+#EXTINF:-1 group-title="发现之路",铁血二战·战争降临一
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/1c265db31cca4070a63179618c155e84/1200.m3u8
+#EXTINF:-1 group-title="发现之路",铁血二战·战争降临二
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/6d89649038bd4822a7fa8effe1a474dc/1200.m3u8
+#EXTINF:-1 group-title="发现之路",铁血二战·战争降临三
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/599e435ecd594d50956fe26176efc297/1200.m3u8
+#EXTINF:-1 group-title="发现之路",库尔斯克会战 南线上
+https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/26921bf0a90d401e97b83af9f224da22/1200.m3u8
+#EXTINF:-1 group-title="发现之路",库尔斯克会战 南线下
+https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/0588bdebe8364b87902c999b3fae0278/1200.m3u8
+#EXTINF:-1 group-title="发现之路",诺曼底登陆战役上
+https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/cac15144fce6463698f250012f2de5a0/1200.m3u8
+#EXTINF:-1 group-title="发现之路",诺曼底登陆战役下
+https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/f5053bd1eaaf458baf94377e43a0ce1a/1200.m3u8
+
 
