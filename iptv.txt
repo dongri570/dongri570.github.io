@@ -137,6 +137,13 @@ BTV档案之红色特工,https://v.js4177.org/20200129/nYpcYj8V/index.m3u8
 恶之花 第二集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/cb9d49218f5f498da262e9253088b505/850.m3u8
 恶之花 第三集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a0e7ad509cd24e43b379947ff234df04/850.m3u8
 恶之花 第四集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/3f2d543bd39241b4b4ce15d062e2d0eb/850.m3u8
+戴笠之死 上,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/a8c0967c2bcb413b8115ffcca5663c31/1200.m3u8
+戴笠之死 下,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/57962bea24364c1b9437f6f532ce0ce4/1200.m3u8
+二战前夜 上,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/1fe46295bbbc4220854516b17a824d6c/1200.m3u8
+二战前夜 下,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/9ec00d3d41af4e74867e0de1e4be459c/1200.m3u8
+铁血二战·战争降临一,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/1c265db31cca4070a63179618c155e84/1200.m3u8
+铁血二战·战争降临二,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/6d89649038bd4822a7fa8effe1a474dc/1200.m3u8
+铁血二战·战争降临三,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/599e435ecd594d50956fe26176efc297/1200.m3u8
 南宋,#genre#
 第一集 遥望中原,http://hw-v.cztv.com/cztv/vod/2015/12/08/7145E9F9A36449788C53F2876C396236/h264_1500k_mp4.mp4_playlist.m3u8
 第二集 240道美食,http://hw-v.cztv.com/cztv/vod/2015/12/15/5E813777FA0A4a4aA52DA4B92D1BC91F/h264_1500k_mp4.mp4_playlist.m3u8
