@@ -75,5 +75,15 @@ https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/0588bdebe8364b8790
 https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/cac15144fce6463698f250012f2de5a0/1200.m3u8
 #EXTINF:-1 group-title="发现之路",诺曼底登陆战役下
 https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/f5053bd1eaaf458baf94377e43a0ce1a/1200.m3u8
+#EXTINF:-1 group-title="发现之路",冷战 铁幕 上
+http://hls.cntv.myalicdn.com/asp/hls/450/0303000a/3/default/ad57f4e3d59f4d4f8add139600be1b16/450.m3u8
+#EXTINF:-1 group-title="发现之路",冷战 铁幕 下
+http://hls.cntv.myalicdn.com/asp/hls/450/0303000a/3/default/86b6af2f612944063e6252b12d56b5ba/450.m3u8
+#EXTINF:-1 group-title="发现之路",库尔斯克：钢铁大绞杀
+http://hls.cntv.myalicdn.com/asp/hls/450/0303000a/3/default/cd81b9401b8b45268d3ec4b077357942/450.m3u8
+#EXTINF:-1 group-title="发现之路",斯大林格勒·兵临城下
+http://hls.cntv.myalicdn.com/asp/hls/450/0303000a/3/default/75d12a3bcb534bd8a1f875930fdea583/450.m3u8
+#EXTINF:-1 group-title="发现之路",莫斯科·十万火急
+http://hls.cntv.myalicdn.com/asp/hls/450/0303000a/3/default/ef1d69f0d655434fd2cdbc9095f1e455/450.m3u8
 
 
