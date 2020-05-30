@@ -85,7 +85,6 @@ http://hls.cntv.myalicdn.com/asp/hls/450/0303000a/3/default/cd81b9401b8b45268d3e
 http://hls.cntv.myalicdn.com/asp/hls/450/0303000a/3/default/75d12a3bcb534bd8a1f875930fdea583/450.m3u8
 #EXTINF:-1 group-title="发现之路",莫斯科·十万火急
 http://hls.cntv.myalicdn.com/asp/hls/450/0303000a/3/default/ef1d69f0d655434fd2cdbc9095f1e455/450.m3u8
-
 #EXTINF:-1 group-title="外剧网看电影",终结者：黑暗命运
 https://www.yinghewl.com/20200115/lGvOpy8L/index.m3u8
 #EXTINF:-1 group-title="外剧网看电影",家园防线
@@ -115,7 +114,31 @@ https://www.fenglinqiao.com/20200307/9tlhPWPA/index.m3u8
 #EXTINF:-1 group-title="外剧网看电影",兵临城下之决战要塞
 https://www.yinghewl.com/20190902/KmIZBALB/2500kb/hls/index.m3u8
 #EXTINF:-1 group-title="外剧网看电影",美国历史：长津湖战役
-https://www.yinghewl.com/20191025/0FZbCwbK/2000kb/hls/index.m3u8U
+https://www.yinghewl.com/20191025/0FZbCwbK/2000kb/hls/index.m3u8
+#EXTINF:-1 group-title="外剧网看电影",侏罗纪世界
+https://hair.jingpin88.com/ppvod/F327954246B9ADD3642E3D264308C4BF.m3u8
+#EXTINF:-1 group-title="外剧网看电影",侏罗纪世界2
+https://haoa.haozuida.com/20180904/oJCWCWao/800kb/hls/index.m3u8
+#EXTINF:-1 group-title="外剧网看电影",暂告安全
+https://www.fenglinqiao.com/20200513/8R6UWXqd/index.m3u8
+#EXTINF:-1 group-title="外剧网看电影",玩命快递
+https://www.yinghewl.com/20191024/jBFByXhK/index.m3u8
+#EXTINF:-1 group-title="外剧网看电影",玩命快递2
+https://www.yinghewl.com/20191024/Dledr2zB/index.m3u8
+#EXTINF:-1 group-title="外剧网看电影",谍战马德拉斯
+https://www.fenglinqiao.com/20200313/gpptnEys/index.m3u8
+#EXTINF:-1 group-title="外剧网看电影",盖世俊杰
+https://www.fenglinqiao.com/20200313/2EuUqY5G/index.m3u8
+#EXTINF:-1 group-title="外剧网看电影",核弹英雄
+https://www.fenglinqiao.com/20200312/PDzt8q5f/index.m3u8
+#EXTINF:-1 group-title="外剧网看电影",终极杀戮
+https://www.fenglinqiao.com/20200308/9QJFsHLf/index.m3u8
+#EXTINF:-1 group-title="外剧网看电影",鬼影特攻：以暴制暴
+https://www.yinghewl.com/20200204/ey4xNy3s/index.m3u8
+#EXTINF:-1 group-title="外剧网看电影",莫斯科大事件
+https://www.yinghewl.com/20200105/IRk6MPzp/index.m3u8
+#EXTINF:-1 group-title="外剧网看电影",毁灭者
+https://www.yinghewl.com/20191118/4B0G5P62/index.m3u8
 #EXTINF:-1 group-title="亚当影院",战狼
 https://www.mmicloud.com:65/20190603/oaJOsBbE/2000kb/hls/index.m3u8
 #EXTINF:-1 group-title="亚当影院",战狼2
@@ -124,6 +147,5 @@ https://www.mmicloud.com:65/20190604/anQeZCrd/2000kb/hls/index.m3u8
 https://cn5.5311444.com/hls/20180712/74af85a834693ef1fca65739fb11f2b9/1531348909/index.m3u8
 #EXTINF:-1 group-title="亚当影院",绣春刀II
 https://cn4.playfeel.cc/hls/20180801/19838746f8d53bfea4fb41091dad9cee/1533079421/index.m3u8
-
 
 
