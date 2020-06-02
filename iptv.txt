@@ -787,10 +787,10 @@ BTV档案之狙杀 兵临城下,https://v.js4177.org/20200128/GnjWzt6b/index.m3u
 特工008,https://www.yinghewl.com/20200104/tfgjFFmF/index.m3u8
 亚当影院,#genre#
 战狼,http://videotiantian.gslawyerunion.com/20191003/VCNDIwu4/2500kb/hls/index.m3u8?wsSecret=ab257bd48e50b35fc9e433e3cf43698c&wsTime=1577725499032
-战狼2,http://cdn1.gzzechao.com/20181120/lvFZvEEO/3118kb/hls/index.m3u8?wsSecret=f23d1fd6ef565852b31e0075a59c2f30&wsTime=1577957852384
-绣春刀,https://ez.wangweizhushou.com/m3u8/https://mu.qqxy100.com/ts/2/50511058506350592/index.m3u8
-绣春刀2,https://ez.wangweizhushou.com/m3u8/https://mu.qqxy100.com/ts/2/17480867219767296/index.m3u8
-红海行动,https://ez.wangweizhushou.com/m3u8/https://mu.qqxy100.com/ts/2/27904305382031360/index.m3u8
+战狼2,https://www.mmicLoud.com:65/20190604/anQeZCrd/index.m3u8
+绣春刀,https://youku.letv-cdn.com/2019/08/17/hoXHvMOJP25Rc6sa/playlist.m3u8
+绣春刀2,https://zy.512wx.com/20171219/wOAt03xa/index.m3u8
+红海行动,https://www.yxlmbbs.com:65/20190928/IZSS2swe/index.m3u8
 狂暴飞车,https://ez.wangweizhushou.com/m3u8/https://mu.qqxy100.com/ts/2/51477425292312576/index.m3u8
 狙击手：特别行动,https://ez.wangweizhushou.com/m3u8/https://mu.qqxy100.com/ts/2/70035952050896896/index.m3u8
 猎杀红色十月,https://ez.wangweizhushou.com/m3u8/https://mu.qqxy100.com/ts/2/31675373020250112/index.m3u8
