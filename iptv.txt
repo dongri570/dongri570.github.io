@@ -788,8 +788,8 @@ BTV档案之狙杀 兵临城下,https://v.js4177.org/20200128/GnjWzt6b/index.m3u
 亚当影院,#genre#
 战狼,https://v3.szjal.cn/20191102/KmWLfgSv/index.m3u8
 战狼2,https://v2.szjal.cn/20190731/t8jB1R0u/index.m3u8
-绣春刀,https://baidu.com-l-baidu.com/20180507/283_8a4926d6/index.m3u8
-绣春刀2,https://youku.com-youku.com/20180107/M4pvJlcs/index.m3u8
-红海行动,https://us-4.wl-cdn.com/hls/20200220/128f79a134cba9a1de72fdd16ab5ed37/index.m3u8
+绣春刀,https://ez.wangweizhushou.com/m3u8/https://mu.qqxy100.com/ts/2/50511058506350592/index.m3u8
+绣春刀2,https://ez.wangweizhushou.com/m3u8/https://mu.qqxy100.com/ts/2/17480867219767296/index.m3u8
+红海行动,https://ez.wangweizhushou.com/m3u8/https://mu.qqxy100.com/ts/2/27904305382031360/index.m3u8
 死期将至,https://cn4.download05.com/hls/20180925/40e37ca97981f19aae621ac6921f1a79/1537842165/index.m3u8
 狂暴飞车,https://v4.szjal.cn/20200409/t85bYFB1/index.m3u8
