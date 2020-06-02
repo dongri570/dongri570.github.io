@@ -73,6 +73,18 @@ CHC家庭影院,http://iptv.pdsu.edu.cn/hls/chctv.m3u8
 教育4台,http://iptv.pdsu.edu.cn/hls/cetv4.m3u8
 凤凰卫视资讯台,http://iptv.pdsu.edu.cn/hls/fhzx.m3u8
 凤凰卫视中文台,http://iptv.pdsu.edu.cn/hls/fhzw.m3u8
+南宋,#genre#
+第一集 遥望中原,http://hw-v.cztv.com/cztv/vod/2015/12/08/7145E9F9A36449788C53F2876C396236/h264_1500k_mp4.mp4_playlist.m3u8
+第二集 240道美食,http://hw-v.cztv.com/cztv/vod/2015/12/15/5E813777FA0A4a4aA52DA4B92D1BC91F/h264_1500k_mp4.mp4_playlist.m3u8
+第三集 诗词流域,http://hw-v.cztv.com/cztv/vod/2015/12/22/269816A5F09E4978A34A2A0C3522B118/h264_1500k_mp4.mp4_playlist.m3u8
+第四集 宋画江山,http://hw-v.cztv.com/cztv/vod/2015/12/29/119FF580AFD0445aA4AA89B68BC3C324/h264_1500k_mp4.mp4_playlist.m3u8
+第五集 戏文南北,http://hw-v.cztv.com/cztv/vod/2016/01/05/5F90172AB60A4f8f8CBC09DB65ED3F21/h264_1500k_mp4.mp4_playlist.m3u8
+第六集 发明时代,http://hw-v.cztv.com/cztv/vod/2016/01/12/1937049D29104779B97536121D571159/h264_1500k_mp4.mp4_playlist.m3u8
+第七集 回望未来,http://hw-v.cztv.com/cztv/vod/2016/01/19/7092FE015C874387A91A76FD590998CC/h264_1500k_mp4.mp4_playlist.m3u8
+汉匈之战,#genre#
+汉匈之战 第一集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/f321247ba9524eb1b4d8a8d8e77e6ba9/1200.m3u8
+汉匈之战 第二集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/fbcaebcdd44a467a86bd1d8022eea693/1200.m3u8
+汉匈之战 第三集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/d1fb1de49d9a4e9f81a5e6c7fd7b40e9/1200.m3u8
 人文历史,#genre#
 伟大的抗美援朝 第一集 抉择,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/b7c050d48aff40de9521b7b07fc347f2/1200.m3u8
 伟大的抗美援朝 第二集 较量,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/9b6e84b6fdff4fddba66e269cf15aafc/1200.m3u8
@@ -157,14 +169,7 @@ BTV档案之狙杀 兵临城下,https://v.js4177.org/20200128/GnjWzt6b/index.m3u
 真实纪录,#genre#
 中法建交秘闻1,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/3b1e2dea915d4541b10bed17fd52bf39/850.m3u8
 中法建交秘闻2,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/24915fd7e201483faa0b27f7dcc6c9ca/850.m3u8
-南宋,#genre#
-第一集 遥望中原,http://hw-v.cztv.com/cztv/vod/2015/12/08/7145E9F9A36449788C53F2876C396236/h264_1500k_mp4.mp4_playlist.m3u8
-第二集 240道美食,http://hw-v.cztv.com/cztv/vod/2015/12/15/5E813777FA0A4a4aA52DA4B92D1BC91F/h264_1500k_mp4.mp4_playlist.m3u8
-第三集 诗词流域,http://hw-v.cztv.com/cztv/vod/2015/12/22/269816A5F09E4978A34A2A0C3522B118/h264_1500k_mp4.mp4_playlist.m3u8
-第四集 宋画江山,http://hw-v.cztv.com/cztv/vod/2015/12/29/119FF580AFD0445aA4AA89B68BC3C324/h264_1500k_mp4.mp4_playlist.m3u8
-第五集 戏文南北,http://hw-v.cztv.com/cztv/vod/2016/01/05/5F90172AB60A4f8f8CBC09DB65ED3F21/h264_1500k_mp4.mp4_playlist.m3u8
-第六集 发明时代,http://hw-v.cztv.com/cztv/vod/2016/01/12/1937049D29104779B97536121D571159/h264_1500k_mp4.mp4_playlist.m3u8
-第七集 回望未来,http://hw-v.cztv.com/cztv/vod/2016/01/19/7092FE015C874387A91A76FD590998CC/h264_1500k_mp4.mp4_playlist.m3u8
+
 一带一路,#genre#
 一带一路 第一集 共同命运,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/738009050b204026b7a5aef93b2074c4/1200.m3u8
 一带一路 第二集 互通之路,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/756429ed109442d29d7bb93dc1a2f646/1200.m3u8
@@ -709,7 +714,33 @@ BTV档案之狙杀 兵临城下,https://v.js4177.org/20200128/GnjWzt6b/index.m3u
 第505集 西班牙 伊比利亚半岛上的热情国度,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b4a7812ff3b34fe8a2c6b0b5d85075f8/1200.m3u8
 第506集 西班牙 走进艺术之都巴塞罗那,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d092bfb08a7d4ab8b3fdd242a4defca2/1200.m3u8
 第507集 西班牙 足球之城巴塞罗那,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e9507ad97cbf47c08394296ff73bc195/1200.m3u8
-第508集 西班牙 西班牙的冬
+第508集 西班牙 西班牙的冬日暖阳,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4776d7f76b87471bb0b406b210e5fe2c/1200.m3u8
+第509集 西班牙 走进石榴之城格拉纳达,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/154e1c2ec8b34d469b250b00c5a11ce4/1200.m3u8
+第510集 西班牙 地中海西岸的丝绸之都,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9e8cc2ef97c24f0f8f34c2f9af24e77b/1200.m3u8
+第511集 毛里求斯 甜岛的中国风情,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9ee532952eed44cb9522e1d5c23c707e/1200.m3u8
+第512集 毛里求斯 甜岛生活,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a8d30c53a1614100905cf07a531d30f6/1200.m3u8
+第513集 毛里求斯 色彩斑斓的火山岛国,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b362da323c1a43598f89b623eb4a3543/1200.m3u8
+第514集 毛里求斯 毛里求斯华人的百年记忆,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0a38073503b84b0e848625cd4cea9b37/1200.m3u8
+第515集 毛里求斯 中毛友谊结硕果,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87e6267f146a47f6bcd0b42e66ddf3cd/1200.m3u8
+第516集 毛里求斯 中毛友谊 链接未来,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ac771af7f55e49829c36f1c1f645c89b/1200.m3u8
+第517集 津巴布韦 岩石与鲜花的国度,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ef5a5a1956944b29853d57d826026d9d/1200.m3u8
+第518集 津巴布韦 神奇的石头国度,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/af8e1a0f2d96433cb38bae564c33fd39/1200.m3u8
+第519集 津巴布韦 马纳普斯：野生动物的家园,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/faea2a72f60745d38f1a4678b264b93b/1200.m3u8
+第520集 津巴布韦 种下梦想的土地,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9a4c56e8369e459782abb91dda1a0fd7/1200.m3u8
+第521集 津巴布韦 飞向瀑布城,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/66d22c986a5543d290d08b7b8f405834/1200.m3u8
+第522集 津巴布韦 壮美瀑布城 浓浓旺吉情,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ca8c8aad7e4c415c98db9cd6ab407711/1200.m3u8
+第523集 塞内加尔 走进西非之角,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/66d5f0cf903145c983204e33c2589e89/1200.m3u8
+第524集 塞内加尔 达喀尔社区里的中国故事,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/66c77c52e9804b1f92781070eba289e9/1200.m3u8
+第525集 塞内加尔 达喀尔：非洲西部的渔业之乡,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/21836f6f1503428d8cfd209e4c5ce019/1200.m3u8
+第526集 塞内加尔 达喀尔的浪漫与激情,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2e8e8a10f9d34506bc63a932f1e2d3d0/1200.m3u8
+第527集 塞内加尔 历史的见证——戈雷岛,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3779c9b86e4349c1ba4e13b8f48dadda/1200.m3u8
+第528集 塞内加尔 塞内加尔：花生之国,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a403b8373986407a83760de35d00a775/1200.m3u8
+第529集 纳米比亚 跨越万里友谊传,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/32c1210304394f5591b7f8093be9a65b/1200.m3u8
+第530集 纳米比亚 播撒希望的种子,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/51e11b7bbaca440685dc63f222b76091/1200.m3u8
+第531集 纳米比亚 百年鲸湾有新港,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/29b32f69d23e45a28b5460660c54730d/1200.m3u8
+第532集 纳米比亚 沙海相连之地,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bdd8cd330ecb4dc589115c1bef7c8c66/1200.m3u8
+第533集 纳米比亚 荒漠之下有宝藏,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f9b1d2c0068b4763a1834a3146bad423/1200.m3u8
+第534集 纳米比亚 道路通四方 中纳情谊长,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/30e2ccf2d3334aef8631bb58206df5f0/1200.m3u8
 走遍中国,#genre#
 大国基业 蛟龙探
 海,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/435de5cf8623453fa30416cd9abc3cd3/1200.m3u8
