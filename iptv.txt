@@ -145,6 +145,35 @@ BTV档案之莫斯科剧院人质危机2,https://v.js4177.org/20200125/IIAAZpZw/
 BTV档案之美军历史上最丢脸的海外军事行动,https://v.js4177.org/20200125/aU17PHG2/index.m3u8
 BTV档案之红色特工,https://v.js4177.org/20200129/nYpcYj8V/index.m3u8
 BTV档案之狙杀 兵临城下,https://v.js4177.org/20200128/GnjWzt6b/index.m3u8
+大棋局,#genre#
+第一集 入局,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/e7eaabf8032e47a796dfbd4ab6f4997d/850.m3u8
+第二集 落子,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/da935583389143deae6fa350ffc4621d/850.m3u8
+第三集 争劫,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b7b67fddeadf45feaa20084b1bf3ced3/850.m3u8
+第四集 气合,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/23ea1fa37dab41bab74e2b95ef610171/850.m3u8
+第五集 收官,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ac0aecedf6a544848452fa62a91fa5bf/850.m3u8
+隐蔽战线,#genre#
+第一集 龙潭三杰 上,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/359b2ac12acc438985636e8788c32a1d/1200.m3u8
+ 第二集 龙潭三杰 下,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/db36b52cac6d416d9bfee0aeb4efbbc5/1200.m3u8
+第三集 消失在1945 上,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/2ec45400d0de48bf8bd53738cc89086b/1200.m3u8
+第四集 消失在1945 下,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/0e698dfa39814fcf8e5058df96697842/1200.m3u8
+第五集 马背谍影 一,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/b83f4d51cd144bf6a2fc368ea266b4e7/1200.m3u8
+第六集 马背谍影 二,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/032a2703f9214526b0ef079c0620fefd/1200.m3u8
+第七集 马背谍影 三,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/5e54890dd35f4d5ea07ab5251d117bea/1200.m3u8
+隐蔽战线II
+第一集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/d0a4a3cf4ba64c2e9edc1f4047f6af74/850.m3u8
+第二集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/d6c585749ec94d63abacbeec9118dcfb/850.m3u8
+第三集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9587f51675734f0fb7652612f2a0d22e/850.m3u8
+第四集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/d235cfe3a5f941d28ebf1c410c69cfcb/850.m3u8
+第五集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/cc0ec39a906f4548b37783a00d9867f3/850.m3u8
+隐蔽战线Ⅲ
+第一集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f6a71f04a117427db18de4b428f009fb/850.m3u8
+第二集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/09d418d7eab14cea31d86aa234760d04/850.m3u8
+第三集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/d5aa5c8f3ba44dd281ea059e40f52819/850.m3u8
+第三集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/d5aa5c8f3ba44dd281ea059e40f52819/850.m3u8
+第四集 张露萍上,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b8786fefaaba483a1bbbf2a08df2f948/850.m3u8
+第五集 张露萍下,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/3855fa7a71194d0c18bcb8a655493c53/850.m3u8
+
+
 发现之路,#genre#
 恶之花 第一集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/95c96815d43b4a2f82e840e28d27e13b/850.m3u8
 恶之花 第二集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/cb9d49218f5f498da262e9253088b505/850.m3u8
@@ -208,6 +237,130 @@ BTV档案之狙杀 兵临城下,https://v.js4177.org/20200128/GnjWzt6b/index.m3u
 中国建设者 助力冬奥,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/eaa21a36e16349d9b11c953acba03075/1200.m3u8
 中国建设者 编织绿色电网,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a5efea0cb7cd47ad8dbdd350a1ba55cb/1200.m3u8
 中国建设者 成昆传奇,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ef4b0747167c4c349b607df24bb333b5/1200.m3u8
+走遍中国一,#genre#
+打破垄断,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c51962e9f2884f5cafd42c4e87cea7ef/1200.m3u8
+5 G来临,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9ff70eb26cc3457b96eed53baa284f31/1200.m3u8
+无处不在,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/68c058853a814190bd228339c972498e/1200.m3u8
+畅行海上,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/de47c5a63024494aaef9c48d31e233d8/1200.m3u8
+万物互联,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/876c5e9b06ed482984c653182e41e27d/1200.m3u8
+精密耕耘,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6c4843e6423041b18895de739d2dd59d/1200.m3u8
+绿色守卫,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2c2d8186660b4734b071220ff3a7fa85/1200.m3u8
+灾情哨兵,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f98fa9798ff54daabac5da11a22cf1c6/1200.m3u8
+北斗护航,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4a44f887ef2c4d6c8653d46d46286573/1200.m3u8
+择海重生,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/637e9063cccb43338569b1faf6d34bdf/1200.m3u8
+大器铸成,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/693d7dae7ae74deea4c7e165e9acf83b/1200.m3u8
+精钢涅槃,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0a681947a48b48208e382fe2405ca5db/1200.m3u8
+水火共荣,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c617d9c291274b31845e443c6d7cebea/1200.m3u8
+冰雪邀约,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/63093990156b4ca1b5a930f60fc0a243/1200.m3u8
+会思考的机器,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/713f91703a324d3e91c02e275d0efbae/1200.m3u8
+智能支付,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/08ce00c924ff41659362f7fb0f736eb4/1200.m3u8
+城市大脑,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5a1658da79ba42d6b43fbfa2f451ef13/1200.m3u8
+人脸追踪,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2e79a7885a8d4c62a8765bbc34226405/1200.m3u8
+无人驾驶,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c6451522b9254c29bebc2cd7d6ce87ca/1200.m3u8
+借梯登楼,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/170c7e76ab9845e98a0ff63f27adf5cb/1200.m3u8
+抢滩登陆,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/74001a154ceb48d699c6fd769fadca64/1200.m3u8
+驾船出海,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a07646803bb947e9a16e1d5025f94bb7/1200.m3u8
+撞出安全上,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/98a7590199a74ebabeea519762cdb06d/1200.m3u8
+撞出安全下,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1ac4a9f90c71400088370ceb74f4ef47/1200.m3u8 突出重围,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/057289c653c046c49562afe090ba869b/1200.m3u8
+智能小管家,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e70dabbfa1c54f4fa3bfb583f5cb6961/1200.m3u8
+逐梦太空,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9ba83d934e4847d58f4b074472f8e694/1200.m3u8
+争就争第一,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/329d4e0e1d66458bbd88643a4de2cd97/1200.m3u8
+智创新材,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/004a580955a746ef9cf4534350a50d53/1200.m3u8
+废塑料变形记,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f115123ff0ec4aa89f799a2d4501c0ae/1200.m3u8
+废电池再生路,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ac55596ee00a433fa2895fd416d7af29/1200.m3u8
+矿渣里的惊喜,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/57a498db5eb04f1cbb99007f6b20ce78/1200.m3u8
+小甘蔗大变身,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f9d9467254b94fadabad071ff2e01a2d/1200.m3u8
+绿了沙漠,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/db610458a58b4cb7a397c539e98a3c3c/1200.m3u8
+中国之翼 启航,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a7dcb9d9d638418d9fe0ec0e8e03a5e0/1200.m3u8
+中国之翼 守护,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/667f82d71fa94e2ca220a256b9e16c57/1200.m3u8
+中国之翼 飞越,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/37c1354991934807b1367b8a1ae50b1d/1200.m3u8
+中国之翼 使命,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/43f4af7b6db44719affe24baabe8f264/1200.m3u8
+中国之翼 远航,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/31de50d94e534790bb86e67f81efde6f/1200.m3u8
+梦起航天,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/af5adedd3c974db38bdf9187dd860783/1200.m3u8
+通信基石,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/58004fb988f844e38824931a5964706f/1200.m3u8
+隐形战力,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d6a6e13b2de6460dac5a85eb7afb1685/1200.m3u8
+安全卫士,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f2ba2b6ccec94b5abb0017be8f90cbff/1200.m3u8
+探测未来,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c60dd6d8456f4b19a9904184cbd8507b/1200.m3u8
+走出困境,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c5a84a5d34324929be0b6d1b86a15b30/1200.m3u8
+绝技传承,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9e7759cf46d8457591dbe795dad9e976/1200.m3u8
+有测风云,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/dffe2165205745c4b6d8e001eacc6b67/1200.m3u8
+生命天书,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c3dd489748804fc5aca1d9edf1b0d984/1200.m3u8
+智享生活,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/21ee1d585bea4ecfaae6404eac1822a2/1200.m3u8
+煤海蛟龙,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/16b366df07a94b89af985c44e2f3ce6c/1200.m3u8
+非凡挑战,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8411b749e5f4cc18b457f846a7b21b9/1200.m3u8
+井下生命线,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/dd29734a51684d93b9f15f8db0c6b4d6/1200.m3u8
+矿区驯“虎”记,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d4f404f866344026880b0d4ebcb6a705/1200.m3u8
+面朝大海,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3c801e83f9644c4da34e5bbff8bd4eba/1200.m3u8
+海上利器,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c6a96fee64d94f1892054770ebee7370/1200.m3u8
+追风逐浪,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/fb6df49485244fd58758decb4cce672d/1200.m3u8
+风电奇兵,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6b65d4c925304423a28730ecc77457fc/1200.m3u8
+风生水起,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4d98c88682d3483f9bf9c3ec08027600/1200.m3u8
+动物疫苗大王,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f795d5bd0a63454895fdcc4e6be2818c/1200.m3u8
+千里跃进,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/36f3dcf10f20495a9469869d471d620e/1200.m3u8
+碧水千里,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4f6e037426ce4c5dbb147dea51eb128a/1200.m3u8
+清水有源,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a4b94a195539421096f96e42807115ea/1200.m3u8
+移民新生,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1ac8ef236a8b4478a2250c00d39f2645/1200.m3u8
+饮水思源,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/637cc0e939724fb3a766b2d5a8b3ba04/1200.m3u8
+巨轮出世,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bfb6425a8a82402198264b566b9435c1/1200.m3u8
+雄心瀚海,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/57f852654bd343d0b3bb94d0a308e509/1200.m3u8
+登极探底,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/db7004ed328848a5ba2699a26f2834ca/1200.m3u8
+开海先锋,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9c0ee40e6a894a8cb2be2ed424df3bd7/1200.m3u8
+花样田园,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7020f67f114c40b7a661a5045b530428/1200.m3u8
+黑土地循环曲,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6449a2bb80b5483b918dcf92c956d491/1200.m3u8
+
+走遍中国二,#genre#
+筑梦宜居,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/563b2cd7b45549539edb96c3b6026a81/1200.m3u8
+双奥助城,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/fe90fc5d769348f2bc27f8118728f0b3/1200.m3u8
+一都一城,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5ca67d07e7e549998a8ba95132c9166b/1200.m3u8
+古镇：点亮世界,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/98525aeefafa4b3cbed564c8e34de6de/1200.m3u8
+大瑶：雕塑夜空,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/85293532c9994badb0d5f4bc14a6120e/1200.m3u8
+陆家：“智”造童趣,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2381a9d8ca9246c0a919bc749292ee06/1200.m3u8
+大唐：因袜而名,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5ce9a7a4984b4ae08e77aeb61183f0f1/1200.m3u8
+仲权：华灯闪耀,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d97dbf7695454d7a853c023f46fb8a0d/1200.m3u8
+聪明的矿山,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ed6114e7f6a5458c90125ff33347eae0/1200.m3u8
+洁煤零污染,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6a7d6ff104b741f98380b5b38590e5a0/1200.m3u8
+复活的矿井,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/587155608bfb4e84a6398e7b6185d368/1200.m3u8
+废物不废,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/438b6b641031491dab1efe7fce4365f7/1200.m3u8
+点煤成金,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0e28f91ae4ec4833a6e4a29f6b59d8aa/1200.m3u8
+纵横天下,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/22fef9a023c542bb9e5f7181dda606b7/1200.m3u8
+驯服高压,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a1f35da7f79843f68b0682e9824efc4e/1200.m3u8
+千里跨越,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/00ce8d0cde174f828a61227d5041c984/1200.m3u8
+执掌利器,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/fc32122a705845ed9a4b76f49e37ca8c/1200.m3u8
+守护动脉,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/735bbe01892e45018a257f842760249b/1200.m3u8
+招来八方客,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/be55632e8ad1421e9b9c238bad72f496/1200.m3u8
+创富显神通,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/dca3a865e6b04a38ac6125471b8a45e1/1200.m3u8
+看见的未来,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/428ed451a9cc4dd4a5a18880f241d143/1200.m3u8
+姑苏城外造新城,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b51c8b8914f447f889c7a42fa4220ed7/1200.m3u8
+企业大管家,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e849a634c4f44e4a9b88ce3ed76e8bca/1200.m3u8
+转型探新路,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/49f777f41f3a4b66bd912327905bd218/1200.m3u8
+乐活园区,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8bc5de49be044cd79e32e84f826e96b7/1200.m3u8
+泥塘走出国际范,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/fa7176c3c5574328ae5f71408ea4dc39/1200.m3u8
+无人驾驶不是梦,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4ac69584a349466999ff9ef9d7afb421/1200.m3u8
+汽车 我们共享吧,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3c4ec873e6184701a66ed8a468e34686/1200.m3u8
+大国基业 蛟龙探海,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/435de5cf8623453fa30416cd9abc3cd3/1200.m3u8
+大国基业 深海宝藏,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/fd5052da07364488a1d7787bbe3141f1/1200.m3u8
+大国基业 深海精灵,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4049d7341fe4477aaeec708ed5ca8f66/1200.m3u8
+大国基业 核岛风采 吊装铁军,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/259eaf8206c24fd783dcf29af87cb67e/1200.m3u8
+大国基业 核岛风采 名铺出列,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8059a2c0761a43fba021bba8023a94aa/1200.m3u8
+大国基业 核岛风采 核岛侦探,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b2b8f14e926b4891a96512c98699d017/1200.m3u8
+大国基业 核岛风采 焊将传承,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9ab53501d1a04aa5883abcc0249b560a/1200.m3u8
+大国基业 核岛风采 核电特种兵,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3517688db1e245eb8e4966d6c016883b/1200.m3u8
+大国基业 剑指九重天 大漠起东风,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/956657c8c5ee4d2a9e56942d93075f24/1200.m3u8
+大国基业 剑指九重天 飞天起航点,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/36b9368ef8bb44dc86c3760ad5730c1a/1200.m3u8
+大国基业 剑指九重天 航天生命线,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2c24f378b02f4c95ba9c0142abc1c8a3/1200.m3u8
+大国基业 剑指九重天 创新出奇迹,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9b79b4bdeb7f4b2b81d7006d371445c1/1200.m3u8
+大国基业 剑指九重天 东风航天魂,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/36439c1fec754baaa90c8fe846e6fb15/1200.m3u8
+大国基业 大通道 异军突起,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b926c152368840e09f4502b3e03781c7/1200.m3u8
+大国基业 大通道 艰辛旅程,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d84a40af81334b29b58271c046f66845/1200.m3u8
+大国基业 大通道 齐头并进,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b06a0ceeafeb4f189293a88c18ac2480/1200.m3u8
+大国基业 大通道 腾飞之翼,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/84b6c42df7974cfbb7116215ecb55398/1200.m3u8
+大国基业 大通道 互联互通,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4465dc5c09744b09bebfff5076efe10c/1200.m3u8
+走遍中国三,#genre#
+大国基业 超凡建筑 极限挑战,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/230b92258f064595a32f029242b0b7ff/1200.m3u8
+大国基业 超凡建筑 绿色建筑,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/229121a252204e8ca9e03abf6222d46b/1200.m3u8
+大国基业 超凡建筑 超级工厂,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6b08e728c47940268f167ef9e997df2c/1200.m3u8
+大国基业 超凡建筑 智慧建造,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6347a2353b374a1bb6cd18b582e7a38a/1200.m3u8
+大国基业 超凡建筑 利刃出击,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/150b32fda3324b1987c22fb4cb9bf524/1200.m3u8
 大好河山,#genre#
 大好河山 中国丹霞 大地红裳,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5d329bf956ce421c8bbd17384029e2c3/1200.m3u8
 2大好河山 神奇喀斯特,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8721c89743704251a0458d440e62f87a/1200.m3u8
@@ -741,105 +894,3 @@ BTV档案之狙杀 兵临城下,https://v.js4177.org/20200128/GnjWzt6b/index.m3u
 第532集 纳米比亚 沙海相连之地,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bdd8cd330ecb4dc589115c1bef7c8c66/1200.m3u8
 第533集 纳米比亚 荒漠之下有宝藏,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f9b1d2c0068b4763a1834a3146bad423/1200.m3u8
 第534集 纳米比亚 道路通四方 中纳情谊长,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/30e2ccf2d3334aef8631bb58206df5f0/1200.m3u8
-走遍中国,#genre#
-大国基业 蛟龙探
-海,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/435de5cf8623453fa30416cd9abc3cd3/1200.m3u8
-大国基业 深海宝藏,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/fd5052da07364488a1d7787bbe3141f1/1200.m3u8
-大国基业 深海精灵,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4049d7341fe4477aaeec708ed5ca8f66/1200.m3u8
-大国基业 核岛风采 吊装铁军,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/259eaf8206c24fd783dcf29af87cb67e/1200.m3u8
-大国基业 核岛风采 名铺出列,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8059a2c0761a43fba021bba8023a94aa/1200.m3u8
-大国基业 核岛风采 核岛侦探,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b2b8f14e926b4891a96512c98699d017/1200.m3u8
-大国基业 核岛风采 焊将传承,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9ab53501d1a04aa5883abcc0249b560a/1200.m3u8
-大国基业 核岛风采 核电特种兵,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3517688db1e245eb8e4966d6c016883b/1200.m3u8
-大国基业 剑指九重天 大漠起东风,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/956657c8c5ee4d2a9e56942d93075f24/1200.m3u8
-大国基业 剑指九重天 飞天起航点,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/36b9368ef8bb44dc86c3760ad5730c1a/1200.m3u8
-大国基业 剑指九重天 航天生命线,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2c24f378b02f4c95ba9c0142abc1c8a3/1200.m3u8
-大国基业 剑指九重天 创新出奇迹,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9b79b4bdeb7f4b2b81d7006d371445c1/1200.m3u8
-大国基业 剑指九重天 东风航天魂,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/36439c1fec754baaa90c8fe846e6fb15/1200.m3u8
-大国基业 大通道 异军突起,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b926c152368840e09f4502b3e03781c7/1200.m3u8
-大国基业 大通道 艰辛旅程,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d84a40af81334b29b58271c046f66845/1200.m3u8
-大国基业 大通道 齐头并进,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b06a0ceeafeb4f189293a88c18ac2480/1200.m3u8
-大国基业 大通道 腾飞之翼,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/84b6c42df7974cfbb7116215ecb55398/1200.m3u8
-大国基业 大通道 互联互通,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4465dc5c09744b09bebfff5076efe10c/1200.m3u8
-大国基业 超凡建筑 极限挑战,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/230b92258f064595a32f029242b0b7ff/1200.m3u8
-大国基业 超凡建筑 绿色建筑,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/229121a252204e8ca9e03abf6222d46b/1200.m3u8
-大国基业 超凡建筑 超级工厂,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6b08e728c47940268f167ef9e997df2c/1200.m3u8
-大国基业 超凡建筑 智慧建造,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6347a2353b374a1bb6cd18b582e7a38a/1200.m3u8
-大国基业 超凡建筑 利刃出击,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/150b32fda3324b1987c22fb4cb9bf524/1200.m3u8
-大国基业 世纪三峡 筑坝安澜,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8652698cdc1f4c178a09703a021dcd07/1200.m3u8
-大国基业 世纪三峡 突破万亿,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/64cc7fbae9c4488591c507d5708bad23/1200.m3u8
-大国基业 世纪三峡 黄金水道,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1727787035d44ffdbe1a6b02fe82965b/1200.m3u8
-大国基业 世纪三峡 我有新家,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b67bd9530bf44cdab15d95d2c7339ae9/1200.m3u8
-大国基业 大国金路 功在千秋,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/58984fd418174fcf97c895005c75800b/1200.m3u8
-大国基业 大国金路 精诚所至,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/76cbd1ed09a240269899cf7a203cae78/1200.m3u8
-大国基业 大国金路 富国为民,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/532fce223f1c4d0eb71927eb317bb254/1200.m3u8
-大国基业 大国金路 大显身手,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/81c3dda9d814435a87af8a80cb7e5a7e/1200.m3u8
-大国基业 大国金路 绿满金山,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/fc2daf01084648daae911b579dbc2ed9/1200.m3u8
-大国基业 青花之城,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4005001212ee4db99836a5cad3ee9b87/1200.m3u8
-大国基业 超能之核,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bb56048584be4c0eb00b29fe63db67d5/1200.m3u8
-大国基业 长沙之巅,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9e249cb64a4e42d4a60f0b0eee9a2208/1200.m3u8
-大国基业 动感建筑,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/df6d9287801243bb920e5f563f840a0f/1200.m3u8
-大国基业 互连空间,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5f0b455ee65441e1b409f72bab073b26/1200.m3u8
-大国基业 了不起的高铁 踏地而飞,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/47eb443deddf4e5b862f6667e8d56fc8/1200.m3u8
-大国基业 了不起的高铁 一路守护,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/61cf34531a874d8589cae76a7bc677dd/1200.m3u8
-大国基业 了不起的高铁 体面出行,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/fe0c049e3e014060b88f74b2648b4278/1200.m3u8
-大国基业 了不起的高铁 极限挑战,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/38270200b0424fed85adcccfc77e4b54/1200.m3u8
-大国基业 了不起的高铁 未来高铁,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/cb86cac1931844c4a4e1fe18807be206/1200.m3u8
-中国之盾 凝视蓝天,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f932e01e0ca7421ba22f8b5266107a47/1200.m3u8
-中国之盾 警测海疆,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/03892d8b93ac4851a21fc2011f0f2e2a/1200.m3u8
-中国之盾 铸盾为矛,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/955a532c2352436591129d1ee8ebf1aa/1200.m3u8
-中国之盾 俯瞰大地,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2ccd150d36ca40aea01d8976593a90e7/1200.m3u8
-中国之盾 仰望星空,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d23fde9f4ed64598b6ac68588194f565/1200.m3u8
-中国智造 地下蛟龙 打破垄断,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c373cdb71e7949499943c5f0635eb40f/1200.m3u8
-中国智造 地下蛟龙 掘进千里,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5d33d054b3ae4612a54015ce0b635318/1200.m3u8
-中国智造 消防利器,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f1667675e2684b69a42bf4abc18b2669/1200.m3u8
-中国智造 百炼精钢,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/290034395d1d41f4984fe8727bb859ad/1200.m3u8
-中国智造 深海渔场,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5da5cf313f2642cfa77cd38c8a9be3dc/1200.m3u8
-大棋局,#genre#
-第一集 入局,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/e7eaabf8032e47a796dfbd4ab6f4997d/850.m3u8
-第二集 落子,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/da935583389143deae6fa350ffc4621d/850.m3u8
-第三集 争劫,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b7b67fddeadf45feaa20084b1bf3ced3/850.m3u8
-第四集 气合,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/23ea1fa37dab41bab74e2b95ef610171/850.m3u8
-第五集 收官,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ac0aecedf6a544848452fa62a91fa5bf/850.m3u8
-隐蔽战线,#genre#
-第一集 龙潭三杰 上,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/359b2ac12acc438985636e8788c32a1d/1200.m3u8
- 第二集 龙潭三杰 下,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/db36b52cac6d416d9bfee0aeb4efbbc5/1200.m3u8
-第三集 消失在1945 上,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/2ec45400d0de48bf8bd53738cc89086b/1200.m3u8
-第四集 消失在1945 下,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/0e698dfa39814fcf8e5058df96697842/1200.m3u8
-第五集 马背谍影 一,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/b83f4d51cd144bf6a2fc368ea266b4e7/1200.m3u8
-第六集 马背谍影 二,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/032a2703f9214526b0ef079c0620fefd/1200.m3u8
-第七集 马背谍影 三,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/5e54890dd35f4d5ea07ab5251d117bea/1200.m3u8
-隐蔽战线II
-第一集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/d0a4a3cf4ba64c2e9edc1f4047f6af74/850.m3u8
-第二集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/d6c585749ec94d63abacbeec9118dcfb/850.m3u8
-第三集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9587f51675734f0fb7652612f2a0d22e/850.m3u8
-第四集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/d235cfe3a5f941d28ebf1c410c69cfcb/850.m3u8
-第五集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/cc0ec39a906f4548b37783a00d9867f3/850.m3u8
-隐蔽战线Ⅲ
-第一集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f6a71f04a117427db18de4b428f009fb/850.m3u8
-第二集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/09d418d7eab14cea31d86aa234760d04/850.m3u8
-第三集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/d5aa5c8f3ba44dd281ea059e40f52819/850.m3u8
-第三集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/d5aa5c8f3ba44dd281ea059e40f52819/850.m3u8
-第四集 张露萍上,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b8786fefaaba483a1bbbf2a08df2f948/850.m3u8
-第五集 张露萍下,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/3855fa7a71194d0c18bcb8a655493c53/850.m3u8
-发现之路,#genre#
-恶之花 第一集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/95c96815d43b4a2f82e840e28d27e13b/850.m3u8
-恶之花 第二集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/cb9d49218f5f498da262e9253088b505/850.m3u8
-恶之花 第三集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a0e7ad509cd24e43b379947ff234df04/850.m3u8
-恶之花 第四集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/3f2d543bd39241b4b4ce15d062e2d0eb/850.m3u8
-戴笠之死 上,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/a8c0967c2bcb413b8115ffcca5663c31/1200.m3u8
-戴笠之死 下,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/57962bea24364c1b9437f6f532ce0ce4/1200.m3u8
-二战前夜 上,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/1fe46295bbbc4220854516b17a824d6c/1200.m3u8
-二战前夜 下,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/9ec00d3d41af4e74867e0de1e4be459c/1200.m3u8
-铁血二战·战争降临一,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/1c265db31cca4070a63179618c155e84/1200.m3u8
-铁血二战·战争降临二,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/6d89649038bd4822a7fa8effe1a474dc/1200.m3u8
-铁血二战·战争降临三,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/599e435ecd594d50956fe26176efc297/1200.m3u8
-库尔斯克会战 南线上,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/26921bf0a90d401e97b83af9f224da22/1200.m3u8
-库尔斯克会战 南线下,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/0588bdebe8364b87902c999b3fae0278/1200.m3u8
-诺曼底登陆战役上,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/cac15144fce6463698f250012f2de5a0/1200.m3u8
-诺曼底登陆战役下,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/f5053bd1eaaf458baf94377e43a0ce1a/1200.m3u8
-冷战 铁幕 上,http://hls.cntv.myalicdn.com/asp/hls/450/0303000a/3/default/ad57f4e3d59f4d4f8add139600be1b16/450.m3u8
-冷战 铁幕 下,http://hls.cntv.myalicdn.com/asp/hls/450/0303000a/3/default/86b6af2f612944063e6252b12d56b5ba/450.m3u8
-库尔斯克：钢铁大绞杀,http://hls.cntv.myalicdn.com/asp/hls/450/0303000a/3/default/cd81b9401b8b45268d3ec4b077357942/450.m3u8
-斯大林格勒·兵临城下,http://hls.cntv.myalicdn.com/asp/hls/450/0303000a/3/default/75d12a3bcb534bd8a1f875930fdea583/450.m3u8
-莫斯科·十万火急,http://hls.cntv.myalicdn.com/asp/hls/450/0303000a/3/default/ef1d69f0d655434fd2cdbc9095f1e455/450.m3u8
