@@ -85,6 +85,28 @@ CHC家庭影院,http://iptv.pdsu.edu.cn/hls/chctv.m3u8
 汉匈之战 第一集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/f321247ba9524eb1b4d8a8d8e77e6ba9/1200.m3u8
 汉匈之战 第二集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/fbcaebcdd44a467a86bd1d8022eea693/1200.m3u8
 汉匈之战 第三集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/d1fb1de49d9a4e9f81a5e6c7fd7b40e9/1200.m3u8
+大揭秘,#genre#
+中苏关系解密之 较量,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b34d6e7fdbf64b00bde2df1d4afb1452/850.m3u8
+中苏关系解密之 斯大林的选择,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/e4724f1a7fd94cc7978a50f9430ef6e8/850.m3u8
+中苏关系解密之延安来了美国人,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/42803df3edf74c2097cc8acbeac9d3d7/850.m3u8
+中苏关系解密之 一再错过的会面,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/898b0a9862364106a77bf8398bcba185/850.m3u8
+东方全纪录,#genre#
+希特勒与纳粹德国的将帅们 1,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/fcf1b994fdcc4caa8a82e6f73ba2f38a/850.m3u8
+希特勒与纳粹德国的将帅们 2,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/86ae9a970db34693919ec52b67f8a79c/850.m3u8
+希特勒与纳粹德国的将帅们 3,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/921e69e6c3fc43929cc4c811543c422c/850.m3u8
+希特勒与纳粹德国的将帅们 4,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/6f5f775dbf0e47e98a001a1f1c2880c4/850.m3u8
+中美外交档案解密 冷眼相对,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1f88d4b2a76744c5aac15865dead4f6c/850.m3u8
+中美外交档案解密 投石问路,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/8e037acba27c4d93b563000cc8f2f76b/850.m3u8
+中美外交档案解密 破冰之旅,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1ab4198f49144a6d8b5ab98c26617c05/850.m3u8
+毛泽东的科学预见,#genre#
+第一集 独立寒秋,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/02523b57701545ac9f61e8196ea4e62c/850.m3u8
+第二集 打破宿命,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/e36655d3f7eb4ca190e185b18ce80a89/850.m3u8
+第三集 中国必胜,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/de8aa79428494229932fbc0e12f9a5dc/850.m3u8
+第四集 洞悉万里,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ee3da48df64147a5a3ba877c84101d00/850.m3u8
+第五集 神机妙算,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/bf63e7c676e448a5977395cca5ea251a/850.m3u8
+第六集 扬眉拔剑,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/df3c59e5b2ff46f1b32a62aa76a474c7/850.m3u8
+第七集 一个中国,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/6603c066f006462f8f1ab6130e2223cd/850.m3u8
+第八集 破冰之旅,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c64092dae5434f469d6e2923625f7f1f/850.m3u8
 人文历史,#genre#
 伟大的抗美援朝 第一集 抉择,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/b7c050d48aff40de9521b7b07fc347f2/1200.m3u8
 伟大的抗美援朝 第二集 较量,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/9b6e84b6fdff4fddba66e269cf15aafc/1200.m3u8
