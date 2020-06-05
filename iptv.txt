@@ -413,6 +413,10 @@ BTV档案之狙杀 兵临城下,https://v.js4177.org/20200128/GnjWzt6b/index.m3u
 大国基业 超凡建筑 超级工厂,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6b08e728c47940268f167ef9e997df2c/1200.m3u8
 大国基业 超凡建筑 智慧建造,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6347a2353b374a1bb6cd18b582e7a38a/1200.m3u8
 大国基业 超凡建筑 利刃出击,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/150b32fda3324b1987c22fb4cb9bf524/1200.m3u8
+第一集 崛起之路,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/f34578ae3f564704b7b4bab8b2624e58/1200.m3u8
+第二集 焊将雄心,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/cb30d7cb63a041fe98370fe380cea42f/1200.m3u8
+第三集 海上大力士,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/5c53228f17844a2c8bd72c415c47272d/1200.m3u8
+第四集 魔鬼 码头,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/37cfef28b0ae4d5295cbe85266a9cab8/1200.m3u8
 大好河山,#genre#
 大好河山 中国丹霞 大地红裳,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5d329bf956ce421c8bbd17384029e2c3/1200.m3u8
 2大好河山 神奇喀斯特,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8721c89743704251a0458d440e62f87a/1200.m3u8
