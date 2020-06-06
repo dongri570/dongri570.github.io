@@ -98,6 +98,12 @@ CHC家庭影院,http://iptv.pdsu.edu.cn/hls/chctv.m3u8
 中美外交档案解密 冷眼相对,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1f88d4b2a76744c5aac15865dead4f6c/850.m3u8
 中美外交档案解密 投石问路,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/8e037acba27c4d93b563000cc8f2f76b/850.m3u8
 中美外交档案解密 破冰之旅,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1ab4198f49144a6d8b5ab98c26617c05/850.m3u8
+致命武器 B-2隐身轰炸机,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/7938d6d2a6534eb7b8d77e0d5584b1cd/850.m3u8
+致命武器 神风特攻队（上）,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/98d525b5fa91428fab7ed1b77afb111c/850.m3u8
+致命武器 神风特攻队（下）,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a4098fc0f40f485c93126090ba1c19de/850.m3u8
+第一集 乌苏里江上的枪声,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/66a0eff95001402babf08aab2cdb4a04/850.m3u8
+第二集 坦克争夺战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/89fc3a984a7b4e4f95710acb7e34ffc2/850.m3u8
+第三集 坦克谍战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/aacc905f1d50464bb11aa65aaf8d7cfa/850.m3u8
 毛泽东的科学预见,#genre#
 第一集 独立寒秋,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/02523b57701545ac9f61e8196ea4e62c/850.m3u8
 第二集 打破宿命,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/e36655d3f7eb4ca190e185b18ce80a89/850.m3u8
