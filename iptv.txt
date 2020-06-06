@@ -104,6 +104,8 @@ CHC家庭影院,http://iptv.pdsu.edu.cn/hls/chctv.m3u8
 第一集 乌苏里江上的枪声,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/66a0eff95001402babf08aab2cdb4a04/850.m3u8
 第二集 坦克争夺战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/89fc3a984a7b4e4f95710acb7e34ffc2/850.m3u8
 第三集 坦克谍战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/aacc905f1d50464bb11aa65aaf8d7cfa/850.m3u8
+美苏核威胁-朝鲜战争,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/49e314a6ef5444398ddfb7197382fd70/850.m3u8
+
 毛泽东的科学预见,#genre#
 第一集 独立寒秋,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/02523b57701545ac9f61e8196ea4e62c/850.m3u8
 第二集 打破宿命,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/e36655d3f7eb4ca190e185b18ce80a89/850.m3u8
