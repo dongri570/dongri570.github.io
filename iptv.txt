@@ -448,6 +448,11 @@ BTV档案之狙杀 兵临城下,https://v.js4177.org/20200128/GnjWzt6b/index.m3u
 创新中国 第四集 生命,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/4649b34d0e1a4143adae1806a1d14869/1200.m3u8
 创新中国 第五集 空海,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/147a48b9f36a46879fb368410892b19d/1200.m3u8
 创新中国 第六集 潮起,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/2d6045595cf443fcbb3a03c6800fd836/1200.m3u8
+军工记忆,#genre#
+巨浪一号 潜地导弹,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/5c4437269e3449aa91bb8ed981b2a649/850.m3u8
+052型 导弹驱逐舰,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f09141afcf2f494688c250dc6b0b1417/850.m3u8
+空警2000 预警机,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a8e0d8efead04a6c823d30118dee7c66/850.m3u8
+
 大国工匠,#genre#
 第一集 大勇不惧,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0ea148bc266f48a1921697febfa79e8b/1200.m3u8
 第二集 大术无极,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/18ca2c668b874cbaac3647dbc7d3964a/1200.m3u8
@@ -958,6 +963,7 @@ BTV档案之狙杀 兵临城下,https://v.js4177.org/20200128/GnjWzt6b/index.m3u
 第532集 纳米比亚 沙海相连之地,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bdd8cd330ecb4dc589115c1bef7c8c66/1200.m3u8
 第533集 纳米比亚 荒漠之下有宝藏,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f9b1d2c0068b4763a1834a3146bad423/1200.m3u8
 第534集 纳米比亚 道路通四方 中纳情谊长,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/30e2ccf2d3334aef8631bb58206df5f0/1200.m3u8
+
 邓小平百万裁军决策内幕,#genre#
 第一集 审时度势,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/de05056ebedd4ace97c028796c946b39/850.m3u8
 第二集 义无反顾,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/108ede630ef5436592a66a0137faa1a5/850.m3u8
