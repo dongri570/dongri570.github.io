@@ -2149,7 +2149,18 @@ http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/5c4437269e3449aa91bb
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f09141afcf2f494688c250dc6b0b1417/850.m3u8
 #EXTINF:-1 group-title="军工记忆",空警2000 预警机
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a8e0d8efead04a6c823d30118dee7c66/850.m3u8
-
+#EXTINF:-1 group-title="时代",习仲勋 第一集 烽火陕甘
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/34539ad762ae464bb59a0e208041c9c4/850.m3u8
+#EXTINF:-1 group-title="时代",习仲勋 第二集 纵横西北
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/8138d71042954fc7960e088c5379fd3d/850.m3u8
+#EXTINF:-1 group-title="时代",习仲勋 第三集 国事春秋
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ff8f6f820d4f482880707825fa5e7039/850.m3u8
+#EXTINF:-1 group-title="时代",习仲勋 第四集 主政南粤
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/25b36ec54a474c10932b39583505c098/850.m3u8
+#EXTINF:-1 group-title="时代",习仲勋 第五集 勤政岁月
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f04511cd8d1945c6be409b3cc39e843b/850.m3u8
+#EXTINF:-1 group-title="时代",习仲勋 第六集 海纳百川
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a5e22570f4a742e8b2c1876f4ecd4cb1/850.m3u8
 #EXTINF:-1 group-title="电影频道",重返地球
 https://iqiyi.zuidameiju.com/20200415/14738_7dd9ef89/1000k/hls/index.m3u8
 #EXTINF:-1 group-title="电影频道",毒战
