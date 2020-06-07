@@ -2143,6 +2143,13 @@ http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/c24888ba85b840f789c
 http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/9219c7d67aed4ef7ab83df94df72a3ad/1200.m3u8
 #EXTINF:-1 group-title="经济半小时",神奇的液态金属
 http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/0953c0cd9a284e40833c3a6fea2b11a6/1200.m3u8
+#EXTINF:-1 group-title="军工记忆",巨浪一号 潜地导弹
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/5c4437269e3449aa91bb8ed981b2a649/850.m3u8
+#EXTINF:-1 group-title="军工记忆",052型 导弹驱逐舰
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f09141afcf2f494688c250dc6b0b1417/850.m3u8
+#EXTINF:-1 group-title="军工记忆",空警2000 预警机
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a8e0d8efead04a6c823d30118dee7c66/850.m3u8
+
 #EXTINF:-1 group-title="电影频道",重返地球
 https://iqiyi.zuidameiju.com/20200415/14738_7dd9ef89/1000k/hls/index.m3u8
 #EXTINF:-1 group-title="电影频道",毒战
