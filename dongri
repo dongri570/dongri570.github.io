@@ -2497,8 +2497,11 @@ https://video.kkyun-iqiyi.com/20180322/S6X1FJaz/index.m3u8
 https://youku.com-youku.net/20180706/17933_88eb8f7f/1000k/hls/index.m3u8
 #EXTINF:-1 group-title="亚当影院",狙击手：遗产
 https://www.mmicloud.com:65/20190531/PhG5UQdt/2000kb/hls/index.m3u8
+#EXTINF:-1 group-title="亚当影院",炼狱 上
+https://acfun.iqiyi-kuyun.com/ppvod/A7EDA55A0BFFEFC31D0A31C10AFB01E2.m3u8
+#EXTINF:-1 group-title="亚当影院",炼狱 下
+https://acfun.iqiyi-kuyun.com/ppvod/F841E825AAB542ED310A258EDD0F118B.m3u8
  
-
 #EXTINF:-1 group-title="亮剑",第01集
 https://yanzishan.shuhu-zuida.com/20190811/7652_b71d30f7/index.m3u8
 #EXTINF:-1 group-title="亮剑",第02集
