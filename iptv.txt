@@ -105,7 +105,17 @@ CHC家庭影院,http://iptv.pdsu.edu.cn/hls/chctv.m3u8
 第二集 坦克争夺战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/89fc3a984a7b4e4f95710acb7e34ffc2/850.m3u8
 第三集 坦克谍战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/aacc905f1d50464bb11aa65aaf8d7cfa/850.m3u8
 美苏核威胁-朝鲜战争,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/49e314a6ef5444398ddfb7197382fd70/850.m3u8
-
+世界各国特种部队大揭秘,#genre#
+法国海外军团-死亡军团,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/11c9a92ef5224a40a33376f92240f698/850.m3u8
+绿色贝雷帽,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9d9b278e5b29468cad21e6fcc52d10d8/850.m3u8
+海军海豹部队,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/683007d643074343ab1243e3c77ef4c6/850.m3u8
+皇家海军陆战队,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/d1282da523534cc38a1a32c45fc3c5e1/850.m3u8
+廓尔喀兵,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/091208bad8894ffc83170ec302bc02d5/850.m3u8
+英国秘密特种部队,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/666d9962523448549b8a232bbdbaea0e/850.m3u8
+英国空军特种部队,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/7bd1723cb125477cb9d6193305aca4d4/850.m3u8
+南非特种部队,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/583af9a937c64190aef3dd619bd8f6c0/850.m3u8
+美国特种部队,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1498c4a6f84245e18dd8aba47cc013f9/850.m3u8
+前苏联特种部队,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/deef70564da048b2b048639b70557786/850.m3u8
 毛泽东的科学预见,#genre#
 第一集 独立寒秋,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/02523b57701545ac9f61e8196ea4e62c/850.m3u8
 第二集 打破宿命,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/e36655d3f7eb4ca190e185b18ce80a89/850.m3u8
