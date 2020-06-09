@@ -297,7 +297,6 @@ http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/6528e3c2b22c4093a104
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/581c545e9a144ac38984719cdc6e9021/850.m3u8
 #EXTINF:-1 group-title="特战奇兵",奇袭武陵桥
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/83fe900a9b644aef87f2c01896465b58/850.m3u8
-
 #EXTINF:-1 group-title="中苏外交档案解密",第一集 斯大林的选择 上
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b200fa845ae64ed39a5424421f1204b2/850.m3u8
 #EXTINF:-1 group-title="中苏外交档案解密",第二集 斯大林的选择 下
@@ -2184,12 +2183,19 @@ http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/c24888ba85b840f789c
 http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/9219c7d67aed4ef7ab83df94df72a3ad/1200.m3u8
 #EXTINF:-1 group-title="经济半小时",神奇的液态金属
 http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/0953c0cd9a284e40833c3a6fea2b11a6/1200.m3u8
+#EXTINF:-1 group-title="军工记忆",东方红一号 人造卫星
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/2dc19540fbab41e981da7f2c566eeeed/850.m3u8
 #EXTINF:-1 group-title="军工记忆",巨浪一号 潜地导弹
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/5c4437269e3449aa91bb8ed981b2a649/850.m3u8
+#EXTINF:-1 group-title="军工记忆",红箭-8 反坦克导弹
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/440a4dea89fc4dada05cb26fc9a7144d/850.m3u8
 #EXTINF:-1 group-title="军工记忆",052型 导弹驱逐舰
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f09141afcf2f494688c250dc6b0b1417/850.m3u8
+#EXTINF:-1 group-title="军工记忆",歼-10 战斗机
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/380296dbaa4b4fea8ed158e1f3df84e4/850.m3u8
 #EXTINF:-1 group-title="军工记忆",空警2000 预警机
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a8e0d8efead04a6c823d30118dee7c66/850.m3u8
+
 #EXTINF:-1 group-title="时代",习仲勋 第一集 烽火陕甘
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/34539ad762ae464bb59a0e208041c9c4/850.m3u8
 #EXTINF:-1 group-title="时代",习仲勋 第二集 纵横西北
