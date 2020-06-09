@@ -116,6 +116,17 @@ CHC家庭影院,http://iptv.pdsu.edu.cn/hls/chctv.m3u8
 南非特种部队,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/583af9a937c64190aef3dd619bd8f6c0/850.m3u8
 美国特种部队,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1498c4a6f84245e18dd8aba47cc013f9/850.m3u8
 前苏联特种部队,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/deef70564da048b2b048639b70557786/850.m3u8
+特战奇兵,#genre#
+象牙海岸行动,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/174b1a401ebb445bbe7967b010ed8d31/850.m3u8
+神行飞燕,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/24a2f78edf424b38b866649451ce011d/850.m3u8
+折戟大漠,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/3d8fad147d6649a994cfbfcc8955df06/850.m3u8
+黑鹰坠落,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/bcb8858891ce4282a01ddb4e33a0c907/850.m3u8
+电闪乌干达,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/716c6c3923e64a508b4fbeea04a95735/850.m3u8
+绝地救魔,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/524faf186b7244968c9066355af654ff/850.m3u8
+夜袭马岛,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/fbbda3f733124aaba8b8c7bd66bffb66/850.m3u8
+艰难一日,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/6528e3c2b22c4093a10490b149c038e6/850.m3u8
+飞夺密支那,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/581c545e9a144ac38984719cdc6e9021/850.m3u8
+奇袭武陵桥,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/83fe900a9b644aef87f2c01896465b58/850.m3u8
 毛泽东的科学预见,#genre#
 第一集 独立寒秋,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/02523b57701545ac9f61e8196ea4e62c/850.m3u8
 第二集 打破宿命,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/e36655d3f7eb4ca190e185b18ce80a89/850.m3u8
