@@ -358,7 +358,8 @@ BTV档案之狙杀 兵临城下,https://v.js4177.org/20200128/GnjWzt6b/index.m3u
 抢滩登陆,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/74001a154ceb48d699c6fd769fadca64/1200.m3u8
 驾船出海,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a07646803bb947e9a16e1d5025f94bb7/1200.m3u8
 撞出安全上,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/98a7590199a74ebabeea519762cdb06d/1200.m3u8
-撞出安全下,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1ac4a9f90c71400088370ceb74f4ef47/1200.m3u8 突出重围,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/057289c653c046c49562afe090ba869b/1200.m3u8
+撞出安全下,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1ac4a9f90c71400088370ceb74f4ef47/1200.m3u8 
+突出重围,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/057289c653c046c49562afe090ba869b/1200.m3u8
 智能小管家,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e70dabbfa1c54f4fa3bfb583f5cb6961/1200.m3u8
 逐梦太空,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9ba83d934e4847d58f4b074472f8e694/1200.m3u8
 争就争第一,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/329d4e0e1d66458bbd88643a4de2cd97/1200.m3u8
