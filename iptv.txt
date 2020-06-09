@@ -254,6 +254,11 @@ BTV档案之狙杀 兵临城下,https://v.js4177.org/20200128/GnjWzt6b/index.m3u
 真实纪录,#genre#
 中法建交秘闻1,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/3b1e2dea915d4541b10bed17fd52bf39/850.m3u8
 中法建交秘闻2,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/24915fd7e201483faa0b27f7dcc6c9ca/850.m3u8
+太空-美苏争霸 Ⅰ,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ea3c2f0df7f64974a352ea6e5e782872/850.m3u8
+太空-美苏争霸 Ⅱ,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9419e55ca05046f9af64db742329c644/850.m3u8
+太空-美苏争霸 Ⅲ,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9b8095e5b9d741b4bfe23e5abdfffbb6/850.m3u8
+太空-美苏争霸 Ⅳ,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1d99b48c823342a0ab9669dc26316a6d/850.m3u8 
+太空-美苏争霸 Ⅴ,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/27f7aba52e5e4d0d85e3d01bfbf7b4aa/850.m3u8 
 大国崛起,#genre#
 第一集 海洋时代,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c8e8d3b78be244b3ac8c4e229202fe63/850.m3u8
 第二集 小国大业,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/d92d1f3548ad49fd81fff84664d38095/850.m3u8
