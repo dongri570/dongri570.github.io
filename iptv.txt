@@ -85,6 +85,18 @@ CHC家庭影院,http://iptv.pdsu.edu.cn/hls/chctv.m3u8
 汉匈之战 第一集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/f321247ba9524eb1b4d8a8d8e77e6ba9/1200.m3u8
 汉匈之战 第二集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/fbcaebcdd44a467a86bd1d8022eea693/1200.m3u8
 汉匈之战 第三集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/d1fb1de49d9a4e9f81a5e6c7fd7b40e9/1200.m3u8
+古兵器大揭秘,#genre# 
+第一集 战车 戈,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/6de0b3463e3f496e8237e440d30d0856/850.m3u8
+第二集 弩,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/0b2bec9809404c32ad0498fef3a97196/850.m3u8
+第三集 陌刀,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/aa2b827117b944c0be1e9d923a3f4e2c/850.m3u8
+第四集 铁骑锋芒,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b77d67b856b648f4ba2c563cc914822c/850.m3u8
+第五集 神机枪炮,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1fffbd22233448f0a637aaa5d5c1407e/850.m3u8
+第六集 铁戟·钩镶,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/776f42bce5d24afc8bc884fc82297881/850.m3u8
+第七集 槊·明光铠,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/35437e10b098445fb57194a9067a863b/850.m3u8
+第八集 神臂弓·铁浮屠,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/2576dbf6adb24670a5e8fa01e27b7670/850.m3u8
+第九集 打击兵器·冷锻甲,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/493e401d68084b5aa8c3bee76f67a676/850.m3u8
+第十集 狼筅·倭刀,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1ce808c9e54840e598532864a1657b14/850.m3u8
+
 大揭秘,#genre#
 中苏关系解密之 较量,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b34d6e7fdbf64b00bde2df1d4afb1452/850.m3u8
 中苏关系解密之 斯大林的选择,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/e4724f1a7fd94cc7978a50f9430ef6e8/850.m3u8
