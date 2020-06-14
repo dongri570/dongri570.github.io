@@ -229,6 +229,12 @@ BTV档案之莫斯科剧院人质危机2,https://v.js4177.org/20200125/IIAAZpZw/
 BTV档案之美军历史上最丢脸的海外军事行动,https://v.js4177.org/20200125/aU17PHG2/index.m3u8
 BTV档案之红色特工,https://v.js4177.org/20200129/nYpcYj8V/index.m3u8
 BTV档案之狙杀 兵临城下,https://v.js4177.org/20200128/GnjWzt6b/index.m3u8
+红色特工秘档,#genre#
+熊向晖,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ad22e74265034f889c8d1cc70a11c20e/850.m3u8
+关露,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/7bbe63081d634508a22439b270a2c9be/850.m3u8
+李茂堂,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a26f60e078594923a2a76a211d750a72/850.m3u8
+阎宝航,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f39f4713e1ed41579b178a0ab0a4ec4d/850.m3u8
+郭汝瑰,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ddeba17ff049469ab9709ced009d92c1/850.m3u8
 大棋局,#genre#
 第一集 入局,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/e7eaabf8032e47a796dfbd4ab6f4997d/850.m3u8
 第二集 落子,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/da935583389143deae6fa350ffc4621d/850.m3u8
