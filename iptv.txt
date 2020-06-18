@@ -501,7 +501,7 @@ BTV档案之狙杀 兵临城下,https://v.js4177.org/20200128/GnjWzt6b/index.m3u
 第四集 魔鬼 码头,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/37cfef28b0ae4d5295cbe85266a9cab8/1200.m3u8
 舌尖上的中国,#genre#
 第一集 自然的馈赠,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bd6af893d44941a9805807eb08dfd1b6/1200.m3u8
-第二集 主食的故事,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bd6af893d44941a9805807eb08dfd1b6/1200.m3u8
+第二集 主食的故事,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/8da97027ccd64dea8aefa22d3586335c/1200.m3u8
 第三集 转化的灵感,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/84cc69c290d145c48265d3018f87c064/1200.m3u8
 第四集 时间的味道,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ac690728ad1c430eb404e2de297f4185/1200.m3u8
 第五集 厨房的秘密,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2dedfb9d85084287a02246bd2e012851/1200.m3u8
