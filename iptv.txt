@@ -499,6 +499,30 @@ BTV档案之狙杀 兵临城下,https://v.js4177.org/20200128/GnjWzt6b/index.m3u
 第二集 焊将雄心,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/cb30d7cb63a041fe98370fe380cea42f/1200.m3u8
 第三集 海上大力士,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/5c53228f17844a2c8bd72c415c47272d/1200.m3u8
 第四集 魔鬼 码头,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/37cfef28b0ae4d5295cbe85266a9cab8/1200.m3u8
+舌尖上的中国,#genre#
+第一集 自然的馈赠,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bd6af893d44941a9805807eb08dfd1b6/1200.m3u8
+第二集 主食的故事,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bd6af893d44941a9805807eb08dfd1b6/1200.m3u8
+第三集 转化的灵感,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/84cc69c290d145c48265d3018f87c064/1200.m3u8
+第四集 时间的味道,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ac690728ad1c430eb404e2de297f4185/1200.m3u8
+第五集 厨房的秘密,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2dedfb9d85084287a02246bd2e012851/1200.m3u8
+第六集 五味的调和,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6a67a3a67efc4082a5eaa6327c461209/1200.m3u8
+第七集 我们的田野,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1d2160c4933a4323b9f57b929d62a298/1200.m3u8
+第二季 第一集 时节,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ace67524da624321989da3652ad2c6e8/1200.m3u8
+第二季 第二集 脚步,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bf965337a82941e7ae2654819192230a/1200.m3u8
+第二季 第三集 心传,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/15035c0e12d54e60a67423224462768c/1200.m3u8
+第二季 第四集 秘境,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6d1b14ace2de4b4f82fe9581b2d89066/1200.m3u8
+第二季 第五集 家常,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/affc07df0a2a45d9847a7dd3cce8f06f/1200.m3u8
+第二季 第六集 相逢,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5511aca03b7b4f6e98640123122bb4eb/1200.m3u8
+第二季 第七集 三餐,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/760b398dbb8d4996a0d412ab9f1c00a7/1200.m3u8
+第三季 第一集 器,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8fe48e7fb92b4da99a3b4c6ba4778e8d/1200.m3u8
+第三季 第二集 香,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bfb54ce1af464ab0b1da026aa990575f/1200.m3u8
+第三季 第三集 宴,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ac775a6725274dcdb1fa9bbe90747bf4/1200.m3u8
+第三季 第四集 养,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/14fe3aa3dae04ff388736aa0ce7d0c6d/1200.m3u8
+第三季 第五集 食,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2ec7d4c669c442f198de11bdc247558c/1200.m3u8
+第三季 第六集 酥,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/27121d74055f468795f4c586c83717df/1200.m3u8
+第三季 第七集 生,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a23637f5a5794d5d87b33d1575e2193d/1200.m3u8
+第三季 第八集 合,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/51b1937b8b6b469b837b48f6bcb3f0b1/1200.m3u8
+
 大好河山,#genre#
 大好河山 中国丹霞 大地红裳,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5d329bf956ce421c8bbd17384029e2c3/1200.m3u8
 2大好河山 神奇喀斯特,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8721c89743704251a0458d440e62f87a/1200.m3u8
