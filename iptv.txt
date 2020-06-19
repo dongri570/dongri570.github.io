@@ -522,7 +522,17 @@ BTV档案之狙杀 兵临城下,https://v.js4177.org/20200128/GnjWzt6b/index.m3u
 第三季 第六集 酥,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/27121d74055f468795f4c586c83717df/1200.m3u8
 第三季 第七集 生,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a23637f5a5794d5d87b33d1575e2193d/1200.m3u8
 第三季 第八集 合,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/51b1937b8b6b469b837b48f6bcb3f0b1/1200.m3u8
-
+走遍中国美食篇,#genre#
+川菜 走遍中国,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f8c3a6ca3f564c19a79484cec497f181/850.m3u8
+鲁菜 走遍中国,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a5f3bdf962d548fcb1270657a220eadf/850.m3u8
+湘菜 走遍中国,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1814ce0df72e441c98ea98fb71221f58/850.m3u8
+徽菜 走遍中国,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/908552fc5e15496c93492b9ed938e4d2/850.m3u8
+浙菜 走遍中国,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b6679794fb8045088bd26e79af16913a/850.m3u8
+苏菜 走遍中国,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/00583171d69f492e86e91fac865e8f5e/850.m3u8
+粤菜 走遍中国,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/4b590bd5aca64c13bc110569b6a1cc5f/850.m3u8
+赣菜 走遍中国,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1335b24887c9485c93c2554beae093b8/850.m3u8
+淮扬菜 走遍中国,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/3b22f126412043958b2cc532026d6127/850.m3u8
+闽菜 走遍中国,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f53d266a04dc58a75469cf5a496d73d8/850.m3u8
 大好河山,#genre#
 大好河山 中国丹霞 大地红裳,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5d329bf956ce421c8bbd17384029e2c3/1200.m3u8
 2大好河山 神奇喀斯特,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8721c89743704251a0458d440e62f87a/1200.m3u8
