@@ -291,6 +291,17 @@ BTV档案之狙杀 兵临城下,https://v.js4177.org/20200128/GnjWzt6b/index.m3u
 太空-美苏争霸 Ⅲ,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9b8095e5b9d741b4bfe23e5abdfffbb6/850.m3u8
 太空-美苏争霸 Ⅳ,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1d99b48c823342a0ab9669dc26316a6d/850.m3u8 
 太空-美苏争霸 Ⅴ,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/27f7aba52e5e4d0d85e3d01bfbf7b4aa/850.m3u8 
+雪域军魂,#genre#
+第1集 奉命进藏,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/fb07e5a28474452490eeb1e6962f03fc/850.m3u8
+第2集 向心进军,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/2b75087fd864482bb475451ee34640d6/850.m3u8
+第3集 和平解放,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/653f94d5937c416c94840efe99c95046/850.m3u8
+第4集 平息叛乱,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a379c01d7cb54a6b9efb969f0953d3eb/850.m3u8
+第4集 平息叛乱,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a379c01d7cb54a6b9efb969f0953d3eb/850.m3u8
+第5集 站稳脚跟,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/8295995ff488468d8dd337ed70ac9093/850.m3u8
+第6集 文明之师,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/20de4e365148489b8e5446a770470a27/850.m3u8
+第7集 戍边卫国,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/0e714c84ceb849cdbc0eb057ada21803/850.m3u8
+第8集 铁骨柔情,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9ddae10a95044b12a660576353e6fd11/850.m3u8
+第9集 不辱使命,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/088a1e3a2ec0437488d7643ad5f3aef4/850.m3u8
 大国崛起,#genre#
 第一集 海洋时代,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c8e8d3b78be244b3ac8c4e229202fe63/850.m3u8
 第二集 小国大业,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/d92d1f3548ad49fd81fff84664d38095/850.m3u8
