@@ -569,6 +569,13 @@ BTV档案之狙杀 兵临城下,https://v.js4177.org/20200128/GnjWzt6b/index.m3u
 第六集 大技贵精,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ef950d0f7ef44667a64583aa96f09e6d/1200.m3u8
 第七集 大道无疆,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bad822b9e74449cd80d4a28508dbf7a8/1200.m3u8
 第八集 大任担当,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ca20d6ab78664d7dabd4c12872e5ad14/1200.m3u8
+新疆是个好地方,#genre#
+第一集 春风化雨,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/52bae60f9e224b92a6e9f6295dda52d4/850.m3u8
+第二集 伟大创举,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1d819270034344328cd56e88e7e0b479/850.m3u8
+第三集 天山见证,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c57a9363ac2b417bb2171faea8244332/850.m3u8
+第四集 幸福底色,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/57c334d3b1764be280d635f7010469ab/850.m3u8
+第五集 真情如歌,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/32506f2bea2b4ea7aea42c58ff733c77/850.m3u8
+第六集 奔向未来,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/d70d3bf6ce604a79a1d9ffb8e1054391/850.m3u8
 远方的家一,#genre#
 第1集 千年古港焕新颜,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d2a4fe04ee2445ca96b35dc22d88a2c5/1200.m3u8
 第2集 海定波宁 水韵宁波,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/600842e1c47e438ba6cc8a2c93340c19/1200.m3u8
