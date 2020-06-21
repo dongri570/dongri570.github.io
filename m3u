@@ -231,6 +231,32 @@ http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/eaa21a36e16349d9b11
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a5efea0cb7cd47ad8dbdd350a1ba55cb/1200.m3u8
 #EXTINF:-1 group-title="一带一路",中国建设者 成昆传奇
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ef4b0747167c4c349b607df24bb333b5/1200.m3u8
+#EXTINF:-1 group-title="智慧中国",第一集 智慧前行
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/9bb5f3e507db44ceb1ba612c3aae4068/1200.m3u8
+#EXTINF:-1 group-title="智慧中国",第二集 智慧生活
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/2d03e82b30ba4835991dae7680c90a69/1200.m3u8
+#EXTINF:-1 group-title="智慧中国",第三集 智慧星球
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/85bb407f22da458bb957ed35bc20b2d2/1200.m3u8
+#EXTINF:-1 group-title="雪域军魂",第1集 奉命进藏
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/fb07e5a28474452490eeb1e6962f03fc/850.m3u8
+#EXTINF:-1 group-title="雪域军魂",第2集 向心进军
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/2b75087fd864482bb475451ee34640d6/850.m3u8
+#EXTINF:-1 group-title="雪域军魂",第3集 和平解放
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/653f94d5937c416c94840efe99c95046/850.m3u8
+#EXTINF:-1 group-title="雪域军魂",第4集 平息叛乱
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a379c01d7cb54a6b9efb969f0953d3eb/850.m3u8
+#EXTINF:-1 group-title="雪域军魂",第4集 平息叛乱
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a379c01d7cb54a6b9efb969f0953d3eb/850.m3u8
+#EXTINF:-1 group-title="雪域军魂",第5集 站稳脚跟
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/8295995ff488468d8dd337ed70ac9093/850.m3u8
+#EXTINF:-1 group-title="雪域军魂",第6集 文明之师
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/20de4e365148489b8e5446a770470a27/850.m3u8
+#EXTINF:-1 group-title="雪域军魂",第7集 戍边卫国
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/0e714c84ceb849cdbc0eb057ada21803/850.m3u8
+#EXTINF:-1 group-title="雪域军魂",第8集 铁骨柔情
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9ddae10a95044b12a660576353e6fd11/850.m3u8
+#EXTINF:-1 group-title="雪域军魂",第9集 不辱使命
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/088a1e3a2ec0437488d7643ad5f3aef4/850.m3u8
 #EXTINF:-1 group-title="大好河山",大好河山 中国丹霞 大地红裳
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5d329bf956ce421c8bbd17384029e2c3/1200.m3u8
 #EXTINF:-1 group-title="大好河山",2大好河山 神奇喀斯特
