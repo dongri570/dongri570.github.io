@@ -206,29 +206,6 @@ CHC家庭影院,http://iptv.pdsu.edu.cn/hls/chctv.m3u8
 最长的43天 第八集 最美战地花,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/4332121bc3b74711b1303fa9520eaf88/850.m3u8
 最长的43天 第九集 摧毁心理战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/4e41ddd15f3c4eff96ad556354294055/850.m3u8
 最长的43天 第十集 凝固三八线,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/225c8e34c43749ffa1aeaa8336ed921b/850.m3u8
-BTV档案,#genre#
-BTV档案之杨虎城将军遇害始末,https://v.js4177.org/20200126/XugYZzSc/index.m3u8
-BTV档案之志愿军 狙击王 张桃芳,https://v.js4177.org/20200126/c0AFhwTZ/index.m3u8
-BTV档案之兵锋 中国人民志愿军 铁原阻击战实录,https://v.js4177.org/20200128/I85Uvef0/index.m3u8
-BTV档案之新中国第一颗原子弹研制始末,https://v.js4177.org/20200128/ifOniPka/index.m3u8
-BTV档案之1958台海炮战 海峡攻心战,https://v.js4177.org/20200129/nwT7S0DS/index.m3u8
-BTV档案之1958台海炮战 毛泽东一石三鸟,https://v.js4177.org/20200129/55cCRU6I/index.m3u8
-BTV档案之“水鬼”越南蛙人 炸沉卡德号航母,https://v.js4177.org/20200129/elvHzWNb/index.m3u8
-BTV档案之冰雪长津湖 隐藏的对手,https://v.js4177.org/20200129/R6YcEBPG/index.m3u8
-BTV档案之借刀 斩除汉奸头目李士群,https://v.js4177.org/20200129/7UyaAbMD/index.m3u8
-BTV档案之红色特工,https://v.js4177.org/20200129/nYpcYj8V/index.m3u8
-BTV档案之南海风云 激战西沙,https://v.js4177.org/20200129/LZsuJX5j/index.m3u8
-BTV档案之南海风云 剑指西沙,https://v.js4177.org/20200129/ZQm3XFGN/index.m3u8
-BTV档案之四战四平,https://v.js4177.org/20200129/pdOfJPUM/index.m3u8
-BTV档案之臭名昭著汪精卫 死后遭挫骨扬灰,https://v.js4177.org/20200128/EPUWwJ7P/index.m3u8
-BTV档案之空战英豪 中国人民志愿军空,https://v.js4177.org/20200125/Ui4mUOl0/index.m3u8
-BTV档案之印度孟买11-26恐怖袭击大案1,https://v.js4177.org/20200126/zjiuUZu7/index.m3u8
-BTV档案之印度孟买11-26恐怖袭击大案2,https://v.js4177.org/20200126/r6GuCRxK/index.m3u8
-BTV档案之莫斯科剧院人质危机1,https://v.js4177.org/20200125/8wFdczqL/index.m3u8
-BTV档案之莫斯科剧院人质危机2,https://v.js4177.org/20200125/IIAAZpZw/index.m3u8
-BTV档案之美军历史上最丢脸的海外军事行动,https://v.js4177.org/20200125/aU17PHG2/index.m3u8
-BTV档案之红色特工,https://v.js4177.org/20200129/nYpcYj8V/index.m3u8
-BTV档案之狙杀 兵临城下,https://v.js4177.org/20200128/GnjWzt6b/index.m3u8
 红色特工秘档,#genre#
 熊向晖,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ad22e74265034f889c8d1cc70a11c20e/850.m3u8
 关露,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/7bbe63081d634508a22439b270a2c9be/850.m3u8
