@@ -525,6 +525,16 @@ CHC家庭影院,http://iptv.pdsu.edu.cn/hls/chctv.m3u8
 赣菜 走遍中国,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1335b24887c9485c93c2554beae093b8/850.m3u8
 淮扬菜 走遍中国,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/3b22f126412043958b2cc532026d6127/850.m3u8
 闽菜 走遍中国,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f53d266a04dc58a75469cf5a496d73d8/850.m3u8
+中华老字号,#genre#
+瑞蚨祥·腰身 六必居·酱藏,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/cff0cffb2f6b43f182b1c5ecc9c0e394/1200.m3u8
+大北照相·记忆 北京市珐琅厂·寻蓝,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/cf397c4f09dd4abca0dc14976feff40d/1200.m3u8
+仿膳饭庄·精细 内联陞·分寸,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/3f466762d8db42148337ee6011947526/1200.m3u8
+戴月轩·毫颖 烤肉季·武吃,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/ddd9929735b04fe7882b31f2c9c3a2b4/1200.m3u8
+护国寺小吃·京味儿 红都·往事,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/62734c1676fb4836b41436b9b0862d53/1200.m3u8
+全聚德·招牌,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/a987f023c0434275b6343651c307fa99/1200.m3u8
+龙顺成·匠心,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/f41a77913b0c43ab83fcd3e9ea6d21b8/1200.m3u8
+丰泽园·师承,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/704eaf185aff4a9db352c616d8dbf858/1200.m3u8
+王致和·回味,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/9ad09599f6f14223ab5a8af6c2fdd8e9/1200.m3u8
 大好河山,#genre#
 大好河山 中国丹霞 大地红裳,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5d329bf956ce421c8bbd17384029e2c3/1200.m3u8
 2大好河山 神奇喀斯特,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8721c89743704251a0458d440e62f87a/1200.m3u8
