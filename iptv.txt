@@ -1069,6 +1069,7 @@ CHC家庭影院,http://iptv.pdsu.edu.cn/hls/chctv.m3u8
 第533集 纳米比亚 荒漠之下有宝藏,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f9b1d2c0068b4763a1834a3146bad423/1200.m3u8
 第534集 纳米比亚 道路通四方 中纳情谊长,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/30e2ccf2d3334aef8631bb58206df5f0/1200.m3u8
 外剧网看电影,#genre#
+生死格斗,http://ss.14tvcdn.com/content/dz-ssgd-1.mp4/index.m3u8?key=eyJ0aW1lIjoxNTkyODY4NzE2LCJrZXkiOiIwMWYxNjIzNzE0MTliMWRlNThkMGYxZWI5ZjBkNDA4MCIsImlwIjoiMTMzLjE4LjIwNS4xODgifQ==
 终结者：黑暗命运,https://www.yinghewl.com/20200115/lGvOpy8L/index.m3u8
 家园防线,https://www.yinghewl.com/20200204/b07flbxz/index.m3u8
 死亡飞车,https://www.fenglinqiao.com/20200411/sOtnSPnv/index.m3u8
