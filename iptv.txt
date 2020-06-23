@@ -1070,8 +1070,8 @@ CHC家庭影院,http://iptv.pdsu.edu.cn/hls/chctv.m3u8
 第534集 纳米比亚 道路通四方 中纳情谊长,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/30e2ccf2d3334aef8631bb58206df5f0/1200.m3u8
 易视tv,#genre#
 长夜危机2020,https://yuledy.helanzuida.com/20200601/5182_be0b5c92/1000k/hls/index.m3u8
-红海行动,http://ss5.14tvcdn.com/content/dy-hhxd-20180501-01.mp4/index.m3u8?key=eyJ0aW1lIjoxNTkyODY5MzEzLCJrZXkiOiIzOWY5YWMzNjAyY2Y3YzMxYzBiMjk3ZDNiYzk5YzdlMyIsImlwIjoiMTMzLjE4LjIwNS4xODgifQ==
-终结者：黑暗命运,http://s13.14tvcdn.com/content/dy-zjzhamy-20200114-01.mp4/index.m3u8?key=eyJ0aW1lIjoxNTkyODY5MTQ3LCJrZXkiOiJkZDdjNGVjMGRlNmEyMzY5MjFjNmNlYTBhNzEyN2I2YiIsImlwIjoiMTMzLjE4LjE5Ni4yNSJ9
+红海行动,https://haoa.haozuida.com/20180430/Ps567sqJ/800kb/hls/index.m3u8
+终结者：黑暗命运,https://hong.tianzhen-zuida.com/20200115/18544_7ea9a1d0/1000k/hls/index.m3u8
 家园防线,http://ss.14tvcdn.com/content/dz-gtfx-1.mp4/index.m3u8?key=eyJ0aW1lIjoxNTkyODcxMDYwLCJrZXkiOiI0YjkzNTg2MGRlY2FjOGM0MTdlNTNiMzU4YTdhNDE4NSIsImlwIjoiMjA3LjQ2LjE1NC4xNjUifQ==
 死亡飞车,http://ss.14tvcdn.com/content/kh-swfc-1.mp4/index.m3u8?key=eyJ0aW1lIjoxNTkyODY5NjY3LCJrZXkiOiJiYTc2ODcwZjQ4NmFhM2ExN2YzOWQ3ZWYyYzMzY2NjMSIsImlwIjoiMTMzLjE4LjIwNS4xODgifQ==
 怒火攻心,http://ss.14tvcdn.com/content/dz-nhgx-1.mp4/index.m3u8?key=eyJ0aW1lIjoxNTkyODY5NzE3LCJrZXkiOiIxZDM2ZjM2YzIwZTkxODY2Nzg5ZjFjNmY3ZjRlZDUwYiIsImlwIjoiMTMzLjE4LjE5Ni4yNSJ9
