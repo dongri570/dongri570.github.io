@@ -1069,6 +1069,7 @@ CHC家庭影院,http://iptv.pdsu.edu.cn/hls/chctv.m3u8
 第533集 纳米比亚 荒漠之下有宝藏,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f9b1d2c0068b4763a1834a3146bad423/1200.m3u8
 第534集 纳米比亚 道路通四方 中纳情谊长,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/30e2ccf2d3334aef8631bb58206df5f0/1200.m3u8
 易视tv,#genre#
+恶魔之夜2020,https://iqiyi.cdn27-okzy.com/20200623/5125_03499638/1000k/hls/index.m3u8
 长夜危机2020,https://yuledy.helanzuida.com/20200601/5182_be0b5c92/1000k/hls/index.m3u8
 红海行动,http://ss5.14tvcdn.com/content/dy-hhxd-20180501-01.mp4/index.m3u8?key=eyJ0aW1lIjoxNTkyODY5MzEzLCJrZXkiOiIzOWY5YWMzNjAyY2Y3YzMxYzBiMjk3ZDNiYzk5YzdlMyIsImlwIjoiMTMzLjE4LjIwNS4xODgifQ==
 终结者：黑暗命运,http://s13.14tvcdn.com/content/dy-zjzhamy-20200114-01.mp4/index.m3u8?key=eyJ0aW1lIjoxNTkyODY5MTQ3LCJrZXkiOiJkZDdjNGVjMGRlNmEyMzY5MjFjNmNlYTBhNzEyN2I2YiIsImlwIjoiMTMzLjE4LjE5Ni4yNSJ9
