@@ -1072,7 +1072,7 @@ CHC家庭影院,http://iptv.pdsu.edu.cn/hls/chctv.m3u8
 长夜危机2020,https://yuledy.helanzuida.com/20200601/5182_be0b5c92/1000k/hls/index.m3u8
 红海行动,https://haoa.haozuida.com/20180430/Ps567sqJ/800kb/hls/index.m3u8
 终结者：黑暗命运,https://hong.tianzhen-zuida.com/20200115/18544_7ea9a1d0/1000k/hls/index.m3u8
-家园防线,http://ss.14tvcdn.com/content/dz-gtfx-1.mp4/index.m3u8?key=eyJ0aW1lIjoxNTkyODcxMDYwLCJrZXkiOiI0YjkzNTg2MGRlY2FjOGM0MTdlNTNiMzU4YTdhNDE4NSIsImlwIjoiMjA3LjQ2LjE1NC4xNjUifQ==
+家园防线,https://tx.79da.com/data/ali/5edc6e05c2a9a83be5c1b66e.m3u8
 死亡飞车,http://ss.14tvcdn.com/content/kh-swfc-1.mp4/index.m3u8?key=eyJ0aW1lIjoxNTkyODY5NjY3LCJrZXkiOiJiYTc2ODcwZjQ4NmFhM2ExN2YzOWQ3ZWYyYzMzY2NjMSIsImlwIjoiMTMzLjE4LjIwNS4xODgifQ==
 怒火攻心,http://ss.14tvcdn.com/content/dz-nhgx-1.mp4/index.m3u8?key=eyJ0aW1lIjoxNTkyODY5NzE3LCJrZXkiOiIxZDM2ZjM2YzIwZTkxODY2Nzg5ZjFjNmY3ZjRlZDUwYiIsImlwIjoiMTMzLjE4LjE5Ni4yNSJ9
 怒火攻心2：高压电,http://ss9.14tvcdn.com/content/dy-nhgx2gyd-20190903-01.mp4/index.m3u8?key=eyJ0aW1lIjoxNTkyODY5ODYwLCJrZXkiOiJiMzQ4YmI0NDAzNTBhZmFmZjI1YzRhOTBjZGEzZmVmZiIsImlwIjoiMTMzLjE4LjE5Ni4yNSJ9
