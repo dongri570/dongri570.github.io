@@ -569,6 +569,17 @@ CHC家庭影院,http://iptv.pdsu.edu.cn/hls/chctv.m3u8
 五集 宿迁,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/cf6a8680709749d79db838f7fa45e68a/850.m3u8
 第六集 扬州,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/95786f247f5e4ab28bfac1c798d43a90/850.m3u8
 第七集 香港,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/e5d9798d08474098a140c91afb59dacb/850.m3u8
+沸腾吧火锅,#genre#
+第01集,https://cdn-yong.bejingyongjiu.com/20200214/3472_11723083/1000k/hls/index.m3u8
+第02集,https://cdn-yong.bejingyongjiu.com/20200214/3473_5db42fac/1000k/hls/index.m3u8
+第03集,https://cdn-yong.bejingyongjiu.com/20200228/4800_dfa11483/1000k/hls/index.m3u8
+第04集,https://cdn-yong.bejingyongjiu.com/20200228/4801_8edd5f45/1000k/hls/index.m3u8
+第05集,https://cdn-yong.bejingyongjiu.com/20200228/4803_4acd0539/1000k/hls/index.m3u8
+第06集,https://cdn-yong.bejingyongjiu.com/20200228/4802_922d226b/1000k/hls/index.m3u8
+第07集,https://cdn-yong.bejingyongjiu.com/20200306/5414_ffaf4d19/1000k/hls/index.m3u8
+第08集,https://cdn-yong.bejingyongjiu.com/20200306/5415_77322139/1000k/hls/index.m3u8
+第09集,https://cdn-yong.bejingyongjiu.com/20200313/6194_9e010786/1000k/hls/index.m3u8
+第10集,https://cdn-yong.bejingyongjiu.com/20200313/6195_c0d3d45c/1000k/hls/index.m3u8
 大好河山,#genre#
 大好河山 中国丹霞 大地红裳,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5d329bf956ce421c8bbd17384029e2c3/1200.m3u8
 2大好河山 神奇喀斯特,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8721c89743704251a0458d440e62f87a/1200.m3u8
