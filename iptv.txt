@@ -305,6 +305,12 @@ CHC家庭影院,http://iptv.pdsu.edu.cn/hls/chctv.m3u8
 第十集 新国新梦,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ddfaf17e9fee45c3b37d3821065ae2b4/850.m3u8
 第十一集 危局新政,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/6fa4049b916844f8bbf13fc43b9fb915/850.m3u8
 第十二集 大道行思,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/50ef1c18386f49668d6087a8e8fa4d92/850.m3u8
+贸易战争,#genre#
+从重商主义到自由贸易,http://hls.cntv.myalicdn.com/asp/hls/450/0303000a/3/default/794cf6b209244010e3237d88e2a6e567/450.m3u8
+自由贸易 大旗易主,http://hls.cntv.myalicdn.com/asp/hls/450/0303000a/3/default/3c65c6ddd77540f1bf67f1acdb10512f/450.m3u8
+自由贸易 谁主沉浮,http://hls.cntv.myalicdn.com/asp/hls/450/0303000a/3/default/bd898a335bd046dbe821f7a995c6cd3f/450.m3u8
+全球化的阴谋与爱情,http://hls.cntv.myalicdn.com/asp/hls/450/0303000a/3/default/6c5e8165c39e4f0f0e95ce80f7d922b5/450.m3u8
+多级化的时代变局,http://hls.cntv.myalicdn.com/asp/hls/450/0303000a/3/default/555310f0e85c4d66dfa8af8fd58042db/450.m3u8
 货币,#genre#
 第一集 有价星球,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/295d660dc3044ce1a099d997d1035bff/850.m3u8
 第二集 从哪里来,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f74b131001e44275ba5395d1e748cce5/850.m3u8
