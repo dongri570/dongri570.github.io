@@ -561,6 +561,14 @@ CHC家庭影院,http://iptv.pdsu.edu.cn/hls/chctv.m3u8
 龙顺成·匠心,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/f41a77913b0c43ab83fcd3e9ea6d21b8/1200.m3u8
 丰泽园·师承,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/704eaf185aff4a9db352c616d8dbf858/1200.m3u8
 王致和·回味,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/9ad09599f6f14223ab5a8af6c2fdd8e9/1200.m3u8
+一城一味,#genre#
+第一集 天津,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/8c5766f2c79c4eb8a1bfd78a15a89e8d/850.m3u8 
+第二集 银川,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/086856c245644660a599ba63111021b1/850.m3u8
+第三集 芜湖,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/749a195dda344492bc544523295aca15/850.m3u8
+第四集 眉山,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/3046b8ce1ea0497ca71190b6597dd0d7/850.m3u8
+五集 宿迁,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/cf6a8680709749d79db838f7fa45e68a/850.m3u8
+第六集 扬州,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/95786f247f5e4ab28bfac1c798d43a90/850.m3u8
+第七集 香港,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/e5d9798d08474098a140c91afb59dacb/850.m3u8
 大好河山,#genre#
 大好河山 中国丹霞 大地红裳,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5d329bf956ce421c8bbd17384029e2c3/1200.m3u8
 2大好河山 神奇喀斯特,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8721c89743704251a0458d440e62f87a/1200.m3u8
