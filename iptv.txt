@@ -1068,35 +1068,6 @@ CHC家庭影院,http://iptv.pdsu.edu.cn/hls/chctv.m3u8
 第532集 纳米比亚 沙海相连之地,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bdd8cd330ecb4dc589115c1bef7c8c66/1200.m3u8
 第533集 纳米比亚 荒漠之下有宝藏,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f9b1d2c0068b4763a1834a3146bad423/1200.m3u8
 第534集 纳米比亚 道路通四方 中纳情谊长,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/30e2ccf2d3334aef8631bb58206df5f0/1200.m3u8
-NICE影视网,#genre#
-射手2017,https://youku.cdn7-okzy.com/20200604/19947_38cbe038/1000k/hls/index.m3u8
-这个杀手不太冷,https://cn4.ruioushang.com/hls/20190825/ad14910a96f8d8d20d553524a75a3fdf/1566729854/index.m3u8
-黑狱风云,https://cn4.ruioushang.com/hls/20190701/46df824790ba50b16cfe17192e11547f/1561920450/index.m3u8
-英雄时代,https://iqiyi.cdn27-okzy.com/20200519/4009_9dfa3bc8/1000k/hls/index.m3u
-恶魔之夜2020,https://iqiyi.cdn27-okzy.com/20200623/5125_03499638/1000k/hls/index.m3u8
-长夜危机2020,https://yuledy.helanzuida.com/20200601/5182_be0b5c92/1000k/hls/index.m3u8
-易视tv,#genre#
-红海行动,http://ss5.14tvcdn.com/content/dy-hhxd-20180501-01.mp4/index.m3u8?key=eyJ0aW1lIjoxNTkyODY5MzEzLCJrZXkiOiIzOWY5YWMzNjAyY2Y3YzMxYzBiMjk3ZDNiYzk5YzdlMyIsImlwIjoiMTMzLjE4LjIwNS4xODgifQ==
-终结者：黑暗命运,http://s13.14tvcdn.com/content/dy-zjzhamy-20200114-01.mp4/index.m3u8?key=eyJ0aW1lIjoxNTkyODY5MTQ3LCJrZXkiOiJkZDdjNGVjMGRlNmEyMzY5MjFjNmNlYTBhNzEyN2I2YiIsImlwIjoiMTMzLjE4LjE5Ni4yNSJ9
-家园防线,http://ss.14tvcdn.com/content/dz-gtfx-1.mp4/index.m3u8?key=eyJ0aW1lIjoxNTkyODcxMDYwLCJrZXkiOiI0YjkzNTg2MGRlY2FjOGM0MTdlNTNiMzU4YTdhNDE4NSIsImlwIjoiMjA3LjQ2LjE1NC4xNjUifQ==
-死亡飞车,http://ss.14tvcdn.com/content/kh-swfc-1.mp4/index.m3u8?key=eyJ0aW1lIjoxNTkyODY5NjY3LCJrZXkiOiJiYTc2ODcwZjQ4NmFhM2ExN2YzOWQ3ZWYyYzMzY2NjMSIsImlwIjoiMTMzLjE4LjIwNS4xODgifQ==
-怒火攻心,http://ss.14tvcdn.com/content/dz-nhgx-1.mp4/index.m3u8?key=eyJ0aW1lIjoxNTkyODY5NzE3LCJrZXkiOiIxZDM2ZjM2YzIwZTkxODY2Nzg5ZjFjNmY3ZjRlZDUwYiIsImlwIjoiMTMzLjE4LjE5Ni4yNSJ9
-怒火攻心2：高压电,http://ss9.14tvcdn.com/content/dy-nhgx2gyd-20190903-01.mp4/index.m3u8?key=eyJ0aW1lIjoxNTkyODY5ODYwLCJrZXkiOiJiMzQ4YmI0NDAzNTBhZmFmZjI1YzRhOTBjZGEzZmVmZiIsImlwIjoiMTMzLjE4LjE5Ni4yNSJ9
-敢死队,http://ss.14tvcdn.com/content/dz-gsd-1.mp4/index.m3u8?key=eyJ0aW1lIjoxNTkyODY5OTQxLCJrZXkiOiIyOTAyZWI0MjBiMmM5YmFlNWNiYWYxMGI3YjUwM2I0MCIsImlwIjoiMTMzLjE4LjE5Ni4yNSJ9
-敢死队2,http://ss.14tvcdn.com/content/dz-gsd2-hd-1.mp4/index.m3u8?key=eyJ0aW1lIjoxNTkyODY5OTk1LCJrZXkiOiJlMjI3ODg1NmZiNjRhYzYyMDQxZjViNjYzNDAxMGY2NyIsImlwIjoiMTMzLjE4LjIwNS4xODgifQ==
-敢死队3,http://ss.14tvcdn.com/content/dz-gsd3-1.mp4/index.m3u8?key=eyJ0aW1lIjoxNTkyODcwMDQzLCJrZXkiOiIwOWRhNTlmM2NmNWU2OTFjMGM2YjZjYzUxNTA0NTZlMyIsImlwIjoiMTMzLjE4LjE5Ni4yNSJ9
-斯大林格勒,http://ss.14tvcdn.com/content/zz-sdlgl-1.mp4/index.m3u8?key=eyJ0aW1lIjoxNTkyODcwMTg1LCJrZXkiOiI2YWRmYjY0NzAwOGMyYTJiNzY4YWRlYTVkYjg0OWUxNiIsImlwIjoiMjA3LjQ2LjE1NC4xNjUifQ==
-斯大林格勒战役,http://ss.14tvcdn.com/content/zz-sdlglzy-1.mp4/index.m3u8?key=eyJ0aW1lIjoxNTkyODcwMjUxLCJrZXkiOiJjNDliNjI3MTU4ODczOWE2Zjc3MDFlZmM2NjZhOGJkZCIsImlwIjoiMjA3LjQ2LjE1NC4xNjUifQ==
-这里的黎明静悄悄,http://ss.14tvcdn.com/content/zz-zldlmjqq-1.mp4/index.m3u8?key=eyJ0aW1lIjoxNTkyODcwMzA5LCJrZXkiOiJhNTQzYmM5NDY0M2ZlZGU1Mjk5MGI4M2U2OWM5OGE5OCIsImlwIjoiMjA3LjQ2LjE1NC4xNjUifQ==
-兵临城下1,http://ss.14tvcdn.com/content/zz-blcx-1.mp4/index.m3u8?key=eyJ0aW1lIjoxNTkyODcwMzU4LCJrZXkiOiI5YjQwZTk0ZGY5ZjMxNTYxZjlmZDM1ZmQ0YmM5N2RlNCIsImlwIjoiMjA3LjQ2LjE1NC4xNjUifQ==
-兵临城下2,http://ss.14tvcdn.com/content/zz-blcx-2.mp4/index.m3u8?key=eyJ0aW1lIjoxNTkyODcwNDI2LCJrZXkiOiI1OGViN2MwMzU4YTQxNDhiYTYyYzZjODgxNWNmZGQzMiIsImlwIjoiMjA3LjQ2LjE1NC4xNjUifQ==
-长津湖战役,http://ss7.14tvcdn.com/content/jlp-mglscjhzy-20181224-01.mp4/index.m3u8?key=eyJ0aW1lIjoxNTkyODcwNDg1LCJrZXkiOiJlZWY5MTc2NTBhMWQ0YjY1YmFkMzkyMzQ2NWViMzhkMCIsImlwIjoiMjA3LjQ2LjE1NC4xNjUifQ==
-侏罗纪世界,http://ss.14tvcdn.com/content/kh-zljsj-1.mp4/index.m3u8?key=eyJ0aW1lIjoxNTkyODcwNTMxLCJrZXkiOiJmZDM4MDBjMzJmOWEwY2FiZjRkNTAwODFjODhmNTFjNCIsImlwIjoiMjA3LjQ2LjE1NC4xNjUifQ==
-侏罗纪世界2,http://ss6.14tvcdn.com/content/dy-zljsj2-20180905-01.mp4/index.m3u8?key=eyJ0aW1lIjoxNTkyODcwNTkyLCJrZXkiOiJlYjBiYzkyZGZiNmM5ZmE0ZjU5Y2IwNDdmMTE1MTAzZSIsImlwIjoiMjA3LjQ2LjE1NC4xNjUifQ==
-暂告安全,http://ss.14tvcdn.com/content/dz-zgaq-1.mp4/index.m3u8?key=eyJ0aW1lIjoxNTkyODcwNjQ0LCJrZXkiOiI3MDI1N2M5ZWRmYzYyYWI5ZDRjYzM0NTY3YTAwNTNjNiIsImlwIjoiMjA3LjQ2LjE1NC4xNjUifQ==
-玩命快递,http://ss.14tvcdn.com/content/dz-fcrf-1.mp4/index.m3u8?key=eyJ0aW1lIjoxNTkyODcwODMzLCJrZXkiOiIyYTUxNGU5ZmQ1NWIyM2Q1OTQzYjg2MGUwM2VlNmQ1ZSIsImlwIjoiMjA3LjQ2LjE1NC4xNjUifQ==
-玩命快递2,http://ss.14tvcdn.com/content/dz-fcrf2-1.mp4/index.m3u8?key=eyJ0aW1lIjoxNTkyODcwODg2LCJrZXkiOiI0YzU5MjU1NTVmOTM2OTVhOTQ2ZmNhZjM4OWFkYzZkMCIsImlwIjoiMjA3LjQ2LjE1NC4xNjUifQ==
-玩命速递3,http://ss.14tvcdn.com/content/dz-fcrf3-1.mp4/index.m3u8?key=eyJ0aW1lIjoxNTkyODcwOTQ3LCJrZXkiOiIwMDUxNDdkZmYwZjMyZTE0MjI1ZWJiOGQyNDdmMWMxNSIsImlwIjoiMjA3LjQ2LjE1NC4xNjUifQ==
 亮剑,#genre#   
 第01集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/8c5c8a1079bd45aea6e7d38f984e5ccb/850.m3u8
 第02集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a452d5e8f9fa498f945ed6e3ae27a209/850.m3u8
