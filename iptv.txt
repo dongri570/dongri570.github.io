@@ -561,6 +561,22 @@ CHC家庭影院,http://iptv.pdsu.edu.cn/hls/chctv.m3u8
 龙顺成·匠心,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/f41a77913b0c43ab83fcd3e9ea6d21b8/1200.m3u8
 丰泽园·师承,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/704eaf185aff4a9db352c616d8dbf858/1200.m3u8
 王致和·回味,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/9ad09599f6f14223ab5a8af6c2fdd8e9/1200.m3u8
+回家过年,#genre#
+第一集 回家的路有多长,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/6c2f5ba4ba7d475c92fbe5d3482faae7/1200.m3u8
+第二集 全年包邮,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/9618d3092b8f4f07aed716f234508b0b/1200.m3u8
+第三集 沙县一家人,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/c55de95b47f7411a94f607046af32ff4/1200.m3u8
+第四集 和奶奶过年,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/6f4366af64384ef5bd65097354dfd47d/1200.m3u8
+第六集 二胎来了,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/9c667ba853574209ba891b1f7c9272a1/1200.m3u8
+第七集 守护小白杨,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/aeac1eb7b26048b8a87149e5f1d28a18/1200.m3u8
+第八集 搬迁后的新年,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/8b6018bb403a4f8798b41083685fc205/1200.m3u8
+第九集 爹娘在哪儿，哪儿就是家,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/d2d73b5b3cab443e8e3060eb284680b3/1200.m3u8
+第十集 远在中国的家,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/aaf2ffb1f78845da8291f5b533437110/1200.m3u8
+过年 第二季,#genre#
+第一集 自然的积蓄,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/d19275dc3bbd4a0a88401a8c5a99c7b6/850.m3u8
+第二集 守候的心意,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a1a5a7d68ebc459d914aea5f178a89d7/850.m3u8
+第三集 劳作的收成,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ff5c4949c8e34240bce037d096aa2883/850.m3u8
+第四集 家传的手艺,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b442a342eed045b288bfc4a93fa7a4f7/850.m3u8
+第五集 团圆的味道,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1c0692b0520643bb9fc05c8856cd9d76/850.m3u8
 一城一味,#genre#
 第一集 天津,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/8c5766f2c79c4eb8a1bfd78a15a89e8d/850.m3u8 
 第二集 银川,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/086856c245644660a599ba63111021b1/850.m3u8
