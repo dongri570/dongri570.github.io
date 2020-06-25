@@ -1351,6 +1351,18 @@ http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6a04840947864b78933
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8615355f56354302a95f72cd36bfec02/1200.m3u8
 #EXTINF:-1 group-title="超级工程",第五集 城市24小时
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e1ad0699bd684baba0fbd349ecc04dc8/1200.m3u8
+#EXTINF:-1 group-title="辉煌中国",第一集 圆梦工程
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/a655bc32eb3f4e61a2518a943c2b43df/1200.m3u8
+#EXTINF:-1 group-title="辉煌中国",第二集 创新活力
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/500d1a37e82e4725966686b8bca4edd7/1200.m3u8
+#EXTINF:-1 group-title="辉煌中国",第三集 协调发展
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/01439df58207407795ce1d8370167446/1200.m3u8
+#EXTINF:-1 group-title="辉煌中国",第四集 绿色家园
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/5e45c5bc688b4180a1466791f8860a9a/1200.m3u8
+#EXTINF:-1 group-title="辉煌中国",第五集 共享小康
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/8997f1423cf3452789e8b38841771002/1200.m3u8
+#EXTINF:-1 group-title="辉煌中国",第六集 开放中国
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/62e1ae3c52114b2599bd34325b51af11/1200.m3u8
 #EXTINF:-1 group-title="舌尖上的中国",第一集 自然的馈赠
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bd6af893d44941a9805807eb08dfd1b6/1200.m3u8
 #EXTINF:-1 group-title="舌尖上的中国",第二集 主食的故事
@@ -1395,6 +1407,59 @@ http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/27121d74055f468795f
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a23637f5a5794d5d87b33d1575e2193d/1200.m3u8
 #EXTINF:-1 group-title="舌尖上的中国",第三季 第八集 合
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/51b1937b8b6b469b837b48f6bcb3f0b1/1200.m3u8
+
+#EXTINF:-1 group-title="沸腾吧火锅",第01集
+https://cdn-yong.bejingyongjiu.com/20200214/3472_11723083/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="沸腾吧火锅",第02集
+https://cdn-yong.bejingyongjiu.com/20200214/3473_5db42fac/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="沸腾吧火锅",第03集
+https://cdn-yong.bejingyongjiu.com/20200228/4800_dfa11483/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="沸腾吧火锅",第04集
+https://cdn-yong.bejingyongjiu.com/20200228/4801_8edd5f45/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="沸腾吧火锅",第05集
+https://cdn-yong.bejingyongjiu.com/20200228/4803_4acd0539/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="沸腾吧火锅",第06集
+https://cdn-yong.bejingyongjiu.com/20200228/4802_922d226b/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="沸腾吧火锅",第07集
+https://cdn-yong.bejingyongjiu.com/20200306/5414_ffaf4d19/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="沸腾吧火锅",第08集
+https://cdn-yong.bejingyongjiu.com/20200306/5415_77322139/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="沸腾吧火锅",第09集
+https://cdn-yong.bejingyongjiu.com/20200313/6194_9e010786/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="沸腾吧火锅",第10集
+https://cdn-yong.bejingyongjiu.com/20200313/6195_c0d3d45c/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中华老字号",瑞蚨祥·腰身 六必居·酱藏
+https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/cff0cffb2f6b43f182b1c5ecc9c0e394/1200.m3u8
+#EXTINF:-1 group-title="中华老字号",大北照相·记忆 北京市珐琅厂·寻蓝
+https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/cf397c4f09dd4abca0dc14976feff40d/1200.m3u8
+#EXTINF:-1 group-title="中华老字号",仿膳饭庄·精细 内联陞·分寸
+https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/3f466762d8db42148337ee6011947526/1200.m3u8
+#EXTINF:-1 group-title="中华老字号",戴月轩·毫颖 烤肉季·武吃
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/ddd9929735b04fe7882b31f2c9c3a2b4/1200.m3u8
+#EXTINF:-1 group-title="中华老字号",护国寺小吃·京味儿 红都·往事
+https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/62734c1676fb4836b41436b9b0862d53/1200.m3u8
+#EXTINF:-1 group-title="中华老字号",全聚德·招牌
+https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/a987f023c0434275b6343651c307fa99/1200.m3u8
+#EXTINF:-1 group-title="中华老字号",龙顺成·匠心
+https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/f41a77913b0c43ab83fcd3e9ea6d21b8/1200.m3u8
+#EXTINF:-1 group-title="中华老字号",丰泽园·师承
+https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/704eaf185aff4a9db352c616d8dbf858/1200.m3u8
+#EXTINF:-1 group-title="中华老字号",王致和·回味
+https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/9ad09599f6f14223ab5a8af6c2fdd8e9/1200.m3u8
+#EXTINF:-1 group-title="一城一味",第一集 天津
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/8c5766f2c79c4eb8a1bfd78a15a89e8d/850.m3u8
+#EXTINF:-1 group-title="一城一味",第二集 银川
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/086856c245644660a599ba63111021b1/850.m3u8
+#EXTINF:-1 group-title="一城一味",第三集 芜湖
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/749a195dda344492bc544523295aca15/850.m3u8
+#EXTINF:-1 group-title="一城一味",第四集 眉山
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/3046b8ce1ea0497ca71190b6597dd0d7/850.m3u8
+#EXTINF:-1 group-title="一城一味",五集 宿迁
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/cf6a8680709749d79db838f7fa45e68a/850.m3u8
+#EXTINF:-1 group-title="一城一味",第六集 扬州
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/95786f247f5e4ab28bfac1c798d43a90/850.m3u8
+#EXTINF:-1 group-title="一城一味",第七集 香港
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/e5d9798d08474098a140c91afb59dacb/850.m3u8
 #EXTINF:-1 group-title="走遍中国一",5 G来临
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9ff70eb26cc3457b96eed53baa284f31/1200.m3u8
 #EXTINF:-1 group-title="走遍中国一",无处不在
