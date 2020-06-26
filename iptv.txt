@@ -1397,6 +1397,12 @@ CHC家庭影院,http://iptv.pdsu.edu.cn/hls/chctv.m3u8
 第35集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/6c734c8f865d972ad259615247c0eee7/850.m3u8
 第36集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/05aad9e76eb54f678d75de96a0efb2b4/850.m3u8
 第37集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/06174298a6464b67374ae1a80bf8261a/850.m3u8
+老农民,#genre#
+第01集,https://sina.com-h-sina.com/20181024/21417_5d882c86/1000k/hls/index.m3u8
+第02集,https://sina.com-h-sina.com/20181024/21418_92c1e865/1000k/hls/index.m3u8
+第03集,https://sina.com-h-sina.com/20181024/21419_fe00d413/1000k/hls/index.m3u8
+第04集,https://sina.com-h-sina.com/20181024/21420_f5ca58fb/1000k/hls/index.m3u8
+第05集,https://sina.com-h-sina.com/20181024/21421_5afbf0bc/1000k/hls/index.m3u8
 于无声处,#genre# 
 第1集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/d1d949ce736746e99f8569bcfef02466/850.m3u8
 第2集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c67832aed42044668574ebc6af3ff5c2/850.m3u8
