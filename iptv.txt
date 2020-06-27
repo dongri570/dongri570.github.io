@@ -1399,7 +1399,7 @@ CHC家庭影院,http://iptv.pdsu.edu.cn/hls/chctv.m3u8
 第36集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/05aad9e76eb54f678d75de96a0efb2b4/850.m3u8
 第37集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/06174298a6464b67374ae1a80bf8261a/850.m3u8
 老农民,#genre#
-第01集,https://sina.com-h-sina.com/20181024/21417_5d882c86/1000k/hls/index.m3u8
+第01集,https://www.nmgxwhz.com:65/20200530/0PEbpUKI/1200kb/hls/index.m3u8
 第02集,https://sina.com-h-sina.com/20181024/21418_92c1e865/1000k/hls/index.m3u8
 第03集,https://sina.com-h-sina.com/20181024/21419_fe00d413/1000k/hls/index.m3u8
 第04集,https://sina.com-h-sina.com/20181024/21420_f5ca58fb/1000k/hls/index.m3u8
