@@ -1459,12 +1459,6 @@ CHC家庭影院,http://iptv.pdsu.edu.cn/hls/chctv.m3u8
 第58集,https://sina.com-h-sina.com/20181024/21154_f7654406/1000k/hls/index.m3u8
 第59集,https://sina.com-h-sina.com/20181024/21163_6ae18af2/1000k/hls/index.m3u8
 第60集,https://sina.com-h-sina.com/20181024/21172_c2debcc5/1000k/hls/index.m3u8
-风筝2017,#genre# 
-第01集,https://tx.79da.com/data/ali/5ee2b755c2a9a83be598a8a2.m3u8
-第02集,https://tx.79da.com/data/ali/5ee2b758c2a9a83be598aabd.m3u8
-第03集,https://tx.79da.com/data/ali/5ee2b75bc2a9a83be598ad01.m3u8
-第04集,https://tx.79da.com/data/ali/5ee2b75ec2a9a83be598b06a.m3u8
-第05集,https://tx.79da.com/data/ali/5ee2b760c2a9a83be598b366.m3u8
 于无声处,#genre# 
 第1集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/d1d949ce736746e99f8569bcfef02466/850.m3u8
 第2集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c67832aed42044668574ebc6af3ff5c2/850.m3u8
