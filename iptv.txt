@@ -13,9 +13,9 @@ CCTV-10高清,http://iptv.pdsu.edu.cn/hls/cctv10hd.m3u8
 CCTV-11高清,http://iptv.pdsu.edu.cn/hls/cctv11.m3u8
 CCTV-12高清,http://iptv.pdsu.edu.cn/hls/cctv12hd.m3u8
 CCTV-13高清,http://iptv.pdsu.edu.cn/hls/cctv13.m3u8
-CCTV-14高清,http://iptv.pdsu.edu.cn/hls/cctv14.m3u8
+CCTV-14高清,http://iptv.pdsu.edu.cn/hls/cctv14hd.m3u8
 CCTV-15高清,http://iptv.pdsu.edu.cn/hls/cctv15.m3u8
-CGTN-16高清,http://iptv.pdsu.edu.cn/hls/cctv16.m3u8
+CGTN-16高清,http://iptv.pdsu.edu.cn/hls/cgtnhd.m3u8
 CCTV-电影剧场,http://iptv.pdsu.edu.cn/hls/dyjctv.m3u8
 CCTV-风云剧场,http://iptv.pdsu.edu.cn/hls/fyjctv.m3u8
 CCTV-风云音乐,http://iptv.pdsu.edu.cn/hls/fyyytv.m3u8
