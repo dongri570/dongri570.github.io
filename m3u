@@ -1,144 +1,336 @@
 #EXTM3U
-#EXTINF:-1 group-title="央视节目",CCTV-1高清
-http://iptv.pdsu.edu.cn/hls/cctv1hd.m3u8
-#EXTINF:-1 group-title="央视节目",CCTV-2高清
-http://iptv.pdsu.edu.cn/hls/cctv2hd.m3u8
-#EXTINF:-1 group-title="央视节目",CCTV-3高清
-http://iptv.pdsu.edu.cn/hls/cctv3hd.m3u8
-#EXTINF:-1 group-title="央视节目",CCTV-4高清
-http://iptv.pdsu.edu.cn/hls/cctv4hd.m3u8
-#EXTINF:-1 group-title="央视节目",CCTV-5体育
-http://iptv.pdsu.edu.cn/hls/cctv5hd.m3u8
-#EXTINF:-1 group-title="央视节目",CCTV-5+体育赛事
-http://iptv.pdsu.edu.cn/hls/cctv5phd.m3u8
-#EXTINF:-1 group-title="央视节目",CCTV-6高清
-http://iptv.pdsu.edu.cn/hls/cctv6hd.m3u8
-#EXTINF:-1 group-title="央视节目",CCTV-7高清
-http://iptv.pdsu.edu.cn/hls/cctv7hd.m3u8
-#EXTINF:-1 group-title="央视节目",CCTV-8高清
-http://iptv.pdsu.edu.cn/hls/cctv8hd.m3u8
-#EXTINF:-1 group-title="央视节目",CCTV-9高清
-http://iptv.pdsu.edu.cn/hls/cctv9hd.m3u8
-#EXTINF:-1 group-title="央视节目",CCTV-10高清
-http://iptv.pdsu.edu.cn/hls/cctv10hd.m3u8
-#EXTINF:-1 group-title="央视节目",CCTV-11高清
-http://iptv.pdsu.edu.cn/hls/cctv11.m3u8
-#EXTINF:-1 group-title="央视节目",CCTV-12高清
-http://iptv.pdsu.edu.cn/hls/cctv12hd.m3u8
-#EXTINF:-1 group-title="央视节目",CCTV-13高清
-http://iptv.pdsu.edu.cn/hls/cctv13.m3u8
-#EXTINF:-1 group-title="央视节目",CCTV-14高清
-http://iptv.pdsu.edu.cn/hls/cctv14hd.m3u8
-#EXTINF:-1 group-title="央视节目",CCTV-15高清
-http://iptv.pdsu.edu.cn/hls/cctv15.m3u8
-#EXTINF:-1 group-title="央视节目",CGTN-16高清
-http://iptv.pdsu.edu.cn/hls/cgtnhd.m3u8
-#EXTINF:-1 group-title="央视节目",CCTV-电影剧场
-http://iptv.pdsu.edu.cn/hls/dyjctv.m3u8
-#EXTINF:-1 group-title="央视节目",CCTV-风云剧场
-http://iptv.pdsu.edu.cn/hls/fyjctv.m3u8
-#EXTINF:-1 group-title="央视节目",CCTV-风云音乐
-http://iptv.pdsu.edu.cn/hls/fyyytv.m3u8
-#EXTINF:-1 group-title="央视节目",CCTV-风云足球
-http://iptv.pdsu.edu.cn/hls/fyzqtv.m3u8
-#EXTINF:-1 group-title="央视节目",CCTV-国防军事
-http://iptv.pdsu.edu.cn/hls/gfjstv.m3u8
-#EXTINF:-1 group-title="央视节目",CCTV-怀旧剧场
-http://iptv.pdsu.edu.cn/hls/hjjctv.m3u8
-#EXTINF:-1 group-title="央视节目",CCTV-世界地理
-http://iptv.pdsu.edu.cn/hls/sjdltv.m3u8
-#EXTINF:-1 group-title="卫视节目",北京卫视
-http://iptv.pdsu.edu.cn/hls/btv1.m3u8
-#EXTINF:-1 group-title="卫视节目",北京文艺
-http://iptv.pdsu.edu.cn/hls/btv2.m3u8
-#EXTINF:-1 group-title="卫视节目",北京科教
-http://iptv.pdsu.edu.cn/hls/btv3.m3u8
-#EXTINF:-1 group-title="卫视节目",北京影视
-http://iptv.pdsu.edu.cn/hls/btv4.m3u8
-#EXTINF:-1 group-title="卫视节目",北京财经
-http://iptv.pdsu.edu.cn/hls/btv5.m3u8
-#EXTINF:-1 group-title="卫视节目",北京生活
-http://iptv.pdsu.edu.cn/hls/btv7.m3u8
-#EXTINF:-1 group-title="卫视节目",北京青年
-http://iptv.pdsu.edu.cn/hls/btv8.m3u8
-#EXTINF:-1 group-title="卫视节目",北京新闻
-http://iptv.pdsu.edu.cn/hls/btv9.m3u8
-#EXTINF:-1 group-title="卫视节目",北京卡酷少儿
-http://iptv.pdsu.edu.cn/hls/btv10.m3u8
-#EXTINF:-1 group-title="卫视节目",浙江卫视
-http://iptv.pdsu.edu.cn/hls/zjtv.m3u8
-#EXTINF:-1 group-title="卫视节目",湖南卫视
-http://iptv.pdsu.edu.cn/hls/hunantv.m3u8
-#EXTINF:-1 group-title="卫视节目",江苏卫视
-http://iptv.pdsu.edu.cn/hls/jstv.m3u8
-#EXTINF:-1 group-title="卫视节目",东方卫视
-http://iptv.pdsu.edu.cn/hls/dftv.m3u8
-#EXTINF:-1 group-title="卫视节目",深圳卫视
-http://iptv.pdsu.edu.cn/hls/sztv.m3u8
-#EXTINF:-1 group-title="卫视节目",安徽卫视
-http://iptv.pdsu.edu.cn/hls/ahtv.m3u8
-#EXTINF:-1 group-title="卫视节目",河南卫视
-http://iptv.pdsu.edu.cn/hls/hntv.m3u8
-#EXTINF:-1 group-title="卫视节目",陕西卫视
-http://iptv.pdsu.edu.cn/hls/sxtv.m3u8
-#EXTINF:-1 group-title="卫视节目",吉林卫视
-http://iptv.pdsu.edu.cn/hls/jltv.m3u8
-#EXTINF:-1 group-title="卫视节目",广东卫视
-http://iptv.pdsu.edu.cn/hls/gdtv.m3u8
-#EXTINF:-1 group-title="卫视节目",山东卫视
-http://iptv.pdsu.edu.cn/hls/sdtv.m3u8
-#EXTINF:-1 group-title="卫视节目",湖北卫视
-http://iptv.pdsu.edu.cn/hls/hbtv.m3u8
-#EXTINF:-1 group-title="卫视节目",广西卫视
-http://iptv.pdsu.edu.cn/hls/gxtv.m3u8
-#EXTINF:-1 group-title="卫视节目",河北卫视
-http://iptv.pdsu.edu.cn/hls/hebtv.m3u8
-#EXTINF:-1 group-title="卫视节目",西藏卫视
-http://iptv.pdsu.edu.cn/hls/xztv.m3u8
-#EXTINF:-1 group-title="卫视节目",内蒙古卫视
-http://iptv.pdsu.edu.cn/hls/nmtv.m3u8
-#EXTINF:-1 group-title="卫视节目",青海卫视
-http://iptv.pdsu.edu.cn/hls/qhtv.m3u8
-#EXTINF:-1 group-title="卫视节目",四川卫视
-http://iptv.pdsu.edu.cn/hls/sctv.m3u8
-#EXTINF:-1 group-title="卫视节目",天津卫视
-http://iptv.pdsu.edu.cn/hls/tjtv.m3u8
-#EXTINF:-1 group-title="卫视节目",山西卫视
-http://iptv.pdsu.edu.cn/hls/sxrtv.m3u8
-#EXTINF:-1 group-title="卫视节目",辽宁卫视
-http://iptv.pdsu.edu.cn/hls/lntv.m3u8
-#EXTINF:-1 group-title="卫视节目",厦门卫视
-http://iptv.pdsu.edu.cn/hls/xmtv.m3u8
-#EXTINF:-1 group-title="卫视节目",福建东南电视台
-http://iptv.pdsu.edu.cn/hls/dntv.m3u8
-#EXTINF:-1 group-title="卫视节目",新疆卫视
-http://iptv.pdsu.edu.cn/hls/xjtv.m3u8
-#EXTINF:-1 group-title="卫视节目",黑龙江卫视
-http://iptv.pdsu.edu.cn/hls/hljtv.m3u8
-#EXTINF:-1 group-title="卫视节目",云南卫视
-http://iptv.pdsu.edu.cn/hls/yntv.m3u8
-#EXTINF:-1 group-title="卫视节目",江西卫视
-http://iptv.pdsu.edu.cn/hls/jxtv.m3u8
-#EXTINF:-1 group-title="卫视节目",贵州卫视
-http://iptv.pdsu.edu.cn/hls/gztv.m3u8
-#EXTINF:-1 group-title="卫视节目",宁夏卫视
-http://iptv.pdsu.edu.cn/hls/nxtv.m3u8
-#EXTINF:-1 group-title="卫视节目",甘肃卫视
-http://iptv.pdsu.edu.cn/hls/gstv.m3u8
-#EXTINF:-1 group-title="卫视节目",重庆卫视
-http://iptv.pdsu.edu.cn/hls/cqtv.m3u8
-#EXTINF:-1 group-title="卫视节目",兵团卫视
-http://iptv.pdsu.edu.cn/hls/bttv.m3u8
-#EXTINF:-1 group-title="卫视节目",旅游卫视
-http://iptv.pdsu.edu.cn/hls/lytv.m3u8
-#EXTINF:-1 group-title="卫视节目",CHC动作电影
-http://iptv.pdsu.edu.cn/hls/chcatv.m3u8
-#EXTINF:-1 group-title="卫视节目",CHC家庭影院
-http://iptv.pdsu.edu.cn/hls/chctv.m3u8
-#EXTINF:-1 group-title="卫视节目",凤凰卫视资讯台
-http://iptv.pdsu.edu.cn/hls/fhzx.m3u8
-#EXTINF:-1 group-title="卫视节目",凤凰卫视中文台
-http://iptv.pdsu.edu.cn/hls/fhzw.m3u8
+#EXTINF:-1 group-title="央视节目",CCTV1 综合频道
+http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
+#EXTINF:-1 group-title="央视节目",CCTV2 财经频道
+http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8
+#EXTINF:-1 group-title="央视节目",CCTV3 综艺频道
+http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
+#EXTINF:-1 group-title="央视节目",CCTV4 中文国际
+http://ivi.bupt.edu.cn/hls/cctv4hd.m3u8
+#EXTINF:-1 group-title="央视节目",CCTV5 体育频道
+http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+#EXTINF:-1 group-title="央视节目",CCTV6 电影频道
+http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
+#EXTINF:-1 group-title="央视节目",CCTV7 国防军事
+http://ivi.bupt.edu.cn/hls/cctv7hd.m3u8
+#EXTINF:-1 group-title="央视节目",CCTV8 视剧频道
+http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
+#EXTINF:-1 group-title="央视节目",CCTV9 记录频道
+http://ivi.bupt.edu.cn/hls/cctv9hd.m3u8
+#EXTINF:-1 group-title="央视节目",CCTV10 科教频道
+http://ivi.bupt.edu.cn/hls/cctv10hd.m3u8
+#EXTINF:-1 group-title="央视节目",CCTV11 戏曲频道
+http://121.31.30.90:8085/ysten-business/live/cctv-11/1.m3u8
+#EXTINF:-1 group-title="央视节目",CCTV12 社会与法
+http://ivi.bupt.edu.cn/hls/cctv12hd.m3u8
+#EXTINF:-1 group-title="央视节目",CCTV13 新闻频道
+http://121.31.30.90:8085/ysten-business/live/cctv-13/1.m3u8
+#EXTINF:-1 group-title="央视节目",CCTV14 少儿频道
+http://ivi.bupt.edu.cn/hls/cctv14hd.m3u8
+#EXTINF:-1 group-title="央视节目",CCTV15 音乐频道
+http://121.31.30.90:8085/ysten-business/live/cctv-15/1.m3u8
+#EXTINF:-1 group-title="央视节目",CCTV17 农业农村
+http://ivi.bupt.edu.cn/hls/cctv17hd.m3u8
+#EXTINF:-1 group-title="央视节目",CCTV 高夫网球
+http://106.54.30.243/gz009/gz.php?id=gefwq#http://117.59.8.4/PLTV/88888888/224/3221227535/index.m3u8
+#EXTINF:-1 group-title="央视节目",CCTV 风云足球
+http://117.59.8.4/PLTV/88888888/224/3221227538/index.m3u8#http://106.54.30.243/gz009/gz.php?id=fyzq
+#EXTINF:-1 group-title="央视节目",CCTV 世界地理
+http://117.59.8.4/PLTV/88888888/224/3221227517/index.m3u8
+#EXTINF:-1 group-title="央视节目",CCTV 奥林匹克
+http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
+#EXTINF:-1 group-title="央视节目",CCTV 怀旧剧场
+http://106.54.30.243/gz009/gz.php?id=hjjc#http://117.59.8.4/PLTV/88888888/224/3221227550/index.m3u8
+#EXTINF:-1 group-title="央视节目",CCTV 老故事台
+http://106.54.30.243/gz009/gz.php?id=lgs#http://117.59.8.4/PLTV/88888888/224/3221227685/index.m3u8
+#EXTINF:-1 group-title="央视节目",CCTV 女性时尚
+http://117.59.8.4/PLTV/88888888/224/3221227655/index.m3u8#http://106.54.30.243/gz009/gz.php?id=nxss
+#EXTINF:-1 group-title="央视节目",CGTN 国际频道
+http://ivi.bupt.edu.cn/hls/cgtnhd.m3u8
+#EXTINF:-1 group-title="央视节目",CGTN 记录频道
+http://ivi.bupt.edu.cn/hls/cgtndochd.m3u8
+#EXTINF:-1 group-title="央视节目",CEC 国际频道
+http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
+#EXTINF:-1 group-title="央视节目",CEC 国际旅游
+http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
+#EXTINF:-1 group-title="央视节目",CHC 动作电影
+http://ivi.bupt.edu.cn/hls/chchd.m3u8
+#EXTINF:-1 group-title="卫视",北京卫视蓝光
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
+#EXTINF:-1 group-title="卫视",天津卫视蓝光
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226246/1.m3u8
+#EXTINF:-1 group-title="卫视",河北卫视蓝光
+http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000293403.m3u8
+#EXTINF:-1 group-title="卫视",东方卫视蓝光
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8
+#EXTINF:-1 group-title="卫视",湖南卫视蓝光
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226241/1.m3u8
+#EXTINF:-1 group-title="卫视",浙江卫视蓝光
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226247/1.m3u8
+#EXTINF:-1 group-title="卫视",江苏卫视蓝光
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8
+#EXTINF:-1 group-title="卫视",河南卫视蓝光
+http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000294203.m3u8
+#EXTINF:-1 group-title="卫视",山东卫视蓝光
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226308/1.m3u8
+#EXTINF:-1 group-title="卫视",湖北卫视蓝光
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226310/1.m3u8
+#EXTINF:-1 group-title="卫视",安徽卫视高清
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226223/1.m3u8
+#EXTINF:-1 group-title="卫视",广东卫视蓝光
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226238/1.m3u8
+#EXTINF:-1 group-title="卫视",深圳卫视蓝光
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226245/1.m3u8
+#EXTINF:-1 group-title="卫视",辽宁卫视蓝光
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225947/1.m3u8
+#EXTINF:-1 group-title="卫视",龙江卫视蓝光
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
+#EXTINF:-1 group-title="卫视",吉林卫视蓝光
+http://39.135.15.70:6610/PLTV/88888888/224/3221225753/1/1000.m3u8
+#EXTINF:-1 group-title="卫视",江西卫视蓝光
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226243/1.m3u8
+#EXTINF:-1 group-title="卫视",四川卫视蓝光
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227006/1.m3u8
+#EXTINF:-1 group-title="卫视",重庆卫视蓝光
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
+#EXTINF:-1 group-title="卫视",厦门卫视蓝光
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226781/1.m3u8
+#EXTINF:-1 group-title="卫视",海南卫视蓝光
+http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000291503.m3u8
+#EXTINF:-1 group-title="卫视",贵州卫视蓝光
+http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000293303.m3u8
+#EXTINF:-1 group-title="卫视",广西卫视高清
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225879/1.m3u8
+#EXTINF:-1 group-title="卫视",甘肃卫视高清
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225877/1.m3u8
+#EXTINF:-1 group-title="卫视",青海卫视高清
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225893/1.m3u8
+#EXTINF:-1 group-title="卫视",山西卫视高清
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225895/1.m3u8
+#EXTINF:-1 group-title="卫视",云南卫视高清
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225902/1.m3u8
+#EXTINF:-1 group-title="卫视",陕西卫视高清
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225896/1.m3u8
+#EXTINF:-1 group-title="卫视",宁夏卫视高清
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225892/1.m3u8
+#EXTINF:-1 group-title="卫视",内蒙卫视高清
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225891/1.m3u8
+#EXTINF:-1 group-title="卫视",新疆卫视高清
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
+#EXTINF:-1 group-title="卫视",西藏卫视高清
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
+#EXTINF:-1 group-title="其他",中国教育
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225905/1.m3u8
+#EXTINF:-1 group-title="山东",山东教育
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225908/1.m3u8
+#EXTINF:-1 group-title="卫视",珠江卫视
+http://gdhj.chinashadt.com:2035/live/6.stream/chunklist_w2139490375.m3u8
+#EXTINF:-1 group-title="中国通史",第01集
+https://youku.cdn5-okzy.com/20200508/23433_3ccef59c/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第02集
+https://youku.cdn5-okzy.com/20200508/23434_dab310af/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第03集
+https://youku.cdn5-okzy.com/20200508/23435_26feee5a/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第04集
+https://youku.cdn5-okzy.com/20200508/23436_2abb6d12/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第05集
+https://youku.cdn5-okzy.com/20200508/23437_8ab81842/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第06集
+https://youku.cdn5-okzy.com/20200508/23438_ba7a7f0c/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第07集
+https://youku.cdn5-okzy.com/20200508/23439_c0e26f48/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第08集
+https://youku.cdn5-okzy.com/20200508/23440_ded06409/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第09集
+https://youku.cdn5-okzy.com/20200508/23441_a353bc47/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第10集
+https://youku.cdn5-okzy.com/20200508/23442_4eb88661/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第11集
+https://youku.cdn5-okzy.com/20200508/23443_b7ddca6b/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第12集
+https://youku.cdn5-okzy.com/20200508/23444_4d95d2f1/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第13集
+https://youku.cdn5-okzy.com/20200508/23445_567b5afb/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第14集
+https://youku.cdn5-okzy.com/20200508/23446_f65e399e/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第15集
+https://youku.cdn5-okzy.com/20200508/23447_eebdec5f/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第16集
+https://youku.cdn5-okzy.com/20200508/23448_fdd53f34/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第17集
+https://youku.cdn5-okzy.com/20200508/23449_2609a262/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第18集
+https://youku.cdn5-okzy.com/20200508/23450_859c6585/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第19集
+https://youku.cdn5-okzy.com/20200508/23451_acf4364e/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第20集
+https://youku.cdn5-okzy.com/20200508/23452_e04db53c/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第21集
+https://youku.cdn5-okzy.com/20200508/23453_8f6d7279/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第22集
+https://youku.cdn5-okzy.com/20200508/23454_63a34a71/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第23集
+https://youku.cdn5-okzy.com/20200508/23455_50dd3a25/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第24集
+https://youku.cdn5-okzy.com/20200508/23456_470e2b22/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第25集
+https://youku.cdn5-okzy.com/20200508/23457_7241885d/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第26集
+https://youku.cdn5-okzy.com/20200508/23458_f042affd/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第27集
+https://youku.cdn5-okzy.com/20200508/23459_da906a5f/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第28集
+https://youku.cdn5-okzy.com/20200508/23460_3e21f183/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第29集
+https://youku.cdn5-okzy.com/20200508/23461_18f41c67/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第30集
+https://youku.cdn5-okzy.com/20200508/23462_975871ae/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第31集
+https://youku.cdn5-okzy.com/20200508/23463_3a34593d/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第32集
+https://youku.cdn5-okzy.com/20200508/23464_d4b1516e/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第33集
+https://youku.cdn5-okzy.com/20200508/23465_cddb2376/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第34集
+https://youku.cdn5-okzy.com/20200508/23466_b71ddcf4/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第35集
+https://youku.cdn5-okzy.com/20200508/23467_7e91aff7/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第36集
+https://youku.cdn5-okzy.com/20200508/23468_5fc587ce/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第37集
+https://youku.cdn5-okzy.com/20200508/23469_7dc7fb48/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第38集
+https://youku.cdn5-okzy.com/20200508/23470_0eb761e6/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第39集
+https://youku.cdn5-okzy.com/20200508/23471_90676a97/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第40集
+https://youku.cdn5-okzy.com/20200508/23472_a78b9cbc/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第41集
+https://youku.cdn5-okzy.com/20200508/23473_11003398/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第42集
+https://youku.cdn5-okzy.com/20200508/23474_f414bd53/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第43集
+https://youku.cdn5-okzy.com/20200508/23475_832114a2/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第44集
+https://youku.cdn5-okzy.com/20200508/23476_d60343ba/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第45集
+https://youku.cdn5-okzy.com/20200508/23477_214a8979/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第46集
+https://youku.cdn5-okzy.com/20200508/23478_be31afd3/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第47集
+https://youku.cdn5-okzy.com/20200508/23479_c94723a1/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第48集
+https://youku.cdn5-okzy.com/20200508/23481_21813a07/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第49集
+https://youku.cdn5-okzy.com/20200508/23481_21813a07/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第50集
+https://youku.cdn5-okzy.com/20200508/23482_63749aaf/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第51集
+https://youku.cdn5-okzy.com/20200508/23483_38b9c910/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第52集
+https://youku.cdn5-okzy.com/20200508/23484_2c1b34ba/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第53集
+https://youku.cdn5-okzy.com/20200508/23485_56ebc226/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第54集
+https://youku.cdn5-okzy.com/20200508/23486_abf3ff62/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第55集
+https://youku.cdn5-okzy.com/20200508/23487_7e220924/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第56集
+https://youku.cdn5-okzy.com/20200508/23488_97466967/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第57集
+https://youku.cdn5-okzy.com/20200508/23489_46a2b819/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第58集
+https://youku.cdn5-okzy.com/20200508/23490_f2291351/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第59集
+https://youku.cdn5-okzy.com/20200508/23491_617f527c/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第60集
+https://youku.cdn5-okzy.com/20200508/23492_f0a43ff2/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第61集
+https://youku.cdn5-okzy.com/20200508/23493_eb53ddc1/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第62集
+https://youku.cdn5-okzy.com/20200508/23494_3d8947b8/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第63集
+https://youku.cdn5-okzy.com/20200508/23495_b7b217a9/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第64集
+https://youku.cdn5-okzy.com/20200508/23496_8b6517e3/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第65集
+https://youku.cdn5-okzy.com/20200508/23497_a6aeedaf/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第66集
+https://youku.cdn5-okzy.com/20200508/23498_e59466cb/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第67集
+https://youku.cdn5-okzy.com/20200508/23499_1bacbb7b/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第68集
+https://youku.cdn5-okzy.com/20200508/23500_ac15d057/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第69集
+https://youku.cdn5-okzy.com/20200508/23501_f155ce5b/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第70集
+https://youku.cdn5-okzy.com/20200508/23502_dd0e02da/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第71集
+https://youku.cdn5-okzy.com/20200508/23503_5e292831/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第72集
+https://youku.cdn5-okzy.com/20200508/23504_2b1a2df1/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第73集
+https://youku.cdn5-okzy.com/20200508/23505_fc8238aa/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第74集
+https://youku.cdn5-okzy.com/20200508/23506_778e96d6/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第75集
+https://youku.cdn5-okzy.com/20200508/23507_d3455ce5/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第76集
+https://youku.cdn5-okzy.com/20200508/23508_bb35ea83/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第77集
+https://youku.cdn5-okzy.com/20200508/23509_6ec1a2ca/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第78集
+https://youku.cdn5-okzy.com/20200508/23510_ad0d2146/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第79集
+https://youku.cdn5-okzy.com/20200508/23511_d6184b21/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第80集
+https://youku.cdn5-okzy.com/20200508/23512_aaac0739/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第81集
+https://youku.cdn5-okzy.com/20200508/23513_fd484ca7/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第82集
+https://youku.cdn5-okzy.com/20200508/23514_03d1760d/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第83集
+https://youku.cdn5-okzy.com/20200508/23515_55ddf564/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第84集
+https://youku.cdn5-okzy.com/20200508/23516_a3dd3347/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第85集
+https://youku.cdn5-okzy.com/20200508/23517_077cf207/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第86集
+https://youku.cdn5-okzy.com/20200508/23518_abe2747a/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第87集
+https://youku.cdn5-okzy.com/20200508/23519_2909c1ba/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第88集
+https://youku.cdn5-okzy.com/20200508/23520_86e80e1c/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第89集
+https://youku.cdn5-okzy.com/20200508/23521_105ef386/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第90集
+https://youku.cdn5-okzy.com/20200508/23522_ee0ab4ca/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第91集
+https://youku.cdn5-okzy.com/20200508/23523_a96aaf8a/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第92集
+https://youku.cdn5-okzy.com/20200508/23524_81275324/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第93集
+https://youku.cdn5-okzy.com/20200508/23525_09298e12/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第94集
+https://youku.cdn5-okzy.com/20200508/23526_2bd51993/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第95集
+https://youku.cdn5-okzy.com/20200508/23527_d3df4b12/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第96集
+https://youku.cdn5-okzy.com/20200508/23528_064d034d/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第97集
+https://youku.cdn5-okzy.com/20200508/23529_a960411d/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第98集
+https://youku.cdn5-okzy.com/20200508/23530_4e7ee780/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第99集
+https://youku.cdn5-okzy.com/20200508/23531_6bd28df1/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="中国通史",第100集
+https://youku.cdn5-okzy.com/20200508/23532_8ceee7be/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="汉匈之战",汉匈之战 第一集
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/f321247ba9524eb1b4d8a8d8e77e6ba9/1200.m3u8
+#EXTINF:-1 group-title="汉匈之战",汉匈之战 第二集
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/fbcaebcdd44a467a86bd1d8022eea693/1200.m3u8
+#EXTINF:-1 group-title="汉匈之战",汉匈之战 第三集
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/d1fb1de49d9a4e9f81a5e6c7fd7b40e9/1200.m3u8
 #EXTINF:-1 group-title="南宋",第一集遥望中原
 http://hw-v.cztv.com/cztv/vod/2015/12/08/7145E9F9A36449788C53F2876C396236/h264_1500k_mp4.mp4_playlist.m3u8
 #EXTINF:-1 group-title="南宋",第二集 南宋240道美食
@@ -153,6 +345,442 @@ http://hw-v.cztv.com/cztv/vod/2016/01/05/5F90172AB60A4f8f8CBC09DB65ED3F21/h264_1
 http://hw-v.cztv.com/cztv/vod/2016/01/12/1937049D29104779B97536121D571159/h264_1500k_mp4.mp4_playlist.m3u8
 #EXTINF:-1 group-title="南宋",第七集 回望未来
 http://yd-v.cztv.com/cztv/vod/2016/01/19/7092FE015C874387A91A76FD590998CC/h264_1500k_mp4.mp4_playlist.m3u8
+#EXTINF:-1 group-title="古兵器大揭秘",第一集 战车 戈
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/6de0b3463e3f496e8237e440d30d0856/850.m3u8
+#EXTINF:-1 group-title="古兵器大揭秘",第二集 弩
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/0b2bec9809404c32ad0498fef3a97196/850.m3u8
+#EXTINF:-1 group-title="古兵器大揭秘",第三集 陌刀
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/aa2b827117b944c0be1e9d923a3f4e2c/850.m3u8
+#EXTINF:-1 group-title="古兵器大揭秘",第四集 铁骑锋芒
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b77d67b856b648f4ba2c563cc914822c/850.m3u8
+#EXTINF:-1 group-title="古兵器大揭秘",第五集 神机枪炮
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1fffbd22233448f0a637aaa5d5c1407e/850.m3u8
+#EXTINF:-1 group-title="古兵器大揭秘",第六集 铁戟·钩镶
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/776f42bce5d24afc8bc884fc82297881/850.m3u8
+#EXTINF:-1 group-title="古兵器大揭秘",第七集 槊·明光铠
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/35437e10b098445fb57194a9067a863b/850.m3u8
+#EXTINF:-1 group-title="古兵器大揭秘",第八集 神臂弓·铁浮屠
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/2576dbf6adb24670a5e8fa01e27b7670/850.m3u8
+#EXTINF:-1 group-title="古兵器大揭秘",第九集 打击兵器·冷锻甲
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/493e401d68084b5aa8c3bee76f67a676/850.m3u8
+#EXTINF:-1 group-title="古兵器大揭秘",第十集 狼筅·倭刀
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1ce808c9e54840e598532864a1657b14/850.m3u8
+#EXTINF:-1 group-title="苦难辉煌",第一集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/0fd2c9672b944299b7db36a4e1d0afef/850.m3u8
+#EXTINF:-1 group-title="苦难辉煌",第二集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f9125d43219d439cbae272b4d6c732ce/850.m3u8
+#EXTINF:-1 group-title="苦难辉煌",第三集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/993bc2f16c574e92a832c52bd6a895de/850.m3u8
+#EXTINF:-1 group-title="苦难辉煌",第四集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/00c911a5ae454858a7d8cb18882a7ebd/850.m3u8
+#EXTINF:-1 group-title="苦难辉煌",第五集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/879f79dc341143daa82a479c996887e0/850.m3u8
+#EXTINF:-1 group-title="苦难辉煌",第六集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/bc3c8e453b714d3e8134f3331f273dac/850.m3u8
+#EXTINF:-1 group-title="苦难辉煌",第七集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b307ef322491425caabecbb2f7cd9c38/850.m3u8
+#EXTINF:-1 group-title="苦难辉煌",第八集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/2e557a724c134a4487eaa0027cd497d7/850.m3u8
+#EXTINF:-1 group-title="苦难辉煌",第九集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/fc95611b11ba4feda5dbdc9014e4a595/850.m3u8
+#EXTINF:-1 group-title="苦难辉煌",第十集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9a2b789ddda44b11863d46b9ff0d5827/850.m3u8
+#EXTINF:-1 group-title="苦难辉煌",第十一集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1e5c2959911446ccb9b4e0bcf591c0a6/850.m3u8
+#EXTINF:-1 group-title="苦难辉煌",第十二集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/0507c4f4828f412085fd653f61d0c8de/850.m3u8
+#EXTINF:-1 group-title="大揭秘",中苏关系解密之 较量
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b34d6e7fdbf64b00bde2df1d4afb1452/850.m3u8
+#EXTINF:-1 group-title="大揭秘",中苏关系解密之 斯大林的选择
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/e4724f1a7fd94cc7978a50f9430ef6e8/850.m3u8
+#EXTINF:-1 group-title="大揭秘",中苏关系解密之延安来了美国人
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/42803df3edf74c2097cc8acbeac9d3d7/850.m3u8
+#EXTINF:-1 group-title="大揭秘",中苏关系解密之 一再错过的会面
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/898b0a9862364106a77bf8398bcba185/850.m3u8
+#EXTINF:-1 group-title="东方全纪录",希特勒与纳粹德国的将帅们 1
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/fcf1b994fdcc4caa8a82e6f73ba2f38a/850.m3u8
+#EXTINF:-1 group-title="东方全纪录",希特勒与纳粹德国的将帅们 2
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/86ae9a970db34693919ec52b67f8a79c/850.m3u8
+#EXTINF:-1 group-title="东方全纪录",希特勒与纳粹德国的将帅们 3
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/921e69e6c3fc43929cc4c811543c422c/850.m3u8
+#EXTINF:-1 group-title="东方全纪录",希特勒与纳粹德国的将帅们 4
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/6f5f775dbf0e47e98a001a1f1c2880c4/850.m3u8
+#EXTINF:-1 group-title="东方全纪录",中美外交档案解密 冷眼相对
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1f88d4b2a76744c5aac15865dead4f6c/850.m3u8
+#EXTINF:-1 group-title="东方全纪录",中美外交档案解密 投石问路
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/8e037acba27c4d93b563000cc8f2f76b/850.m3u8
+#EXTINF:-1 group-title="东方全纪录",中美外交档案解密 破冰之旅
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1ab4198f49144a6d8b5ab98c26617c05/850.m3u8
+#EXTINF:-1 group-title="毛泽东的科学预见",第一集 独立寒秋
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/02523b57701545ac9f61e8196ea4e62c/850.m3u8
+#EXTINF:-1 group-title="毛泽东的科学预见",第二集 打破宿命
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/e36655d3f7eb4ca190e185b18ce80a89/850.m3u8
+#EXTINF:-1 group-title="毛泽东的科学预见",第三集 中国必胜
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/de8aa79428494229932fbc0e12f9a5dc/850.m3u8
+#EXTINF:-1 group-title="毛泽东的科学预见",第四集 洞悉万里
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ee3da48df64147a5a3ba877c84101d00/850.m3u8
+#EXTINF:-1 group-title="毛泽东的科学预见",第五集 神机妙算
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/bf63e7c676e448a5977395cca5ea251a/850.m3u8
+#EXTINF:-1 group-title="毛泽东的科学预见",第六集 扬眉拔剑
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/df3c59e5b2ff46f1b32a62aa76a474c7/850.m3u8
+#EXTINF:-1 group-title="毛泽东的科学预见",第七集 一个中国
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/6603c066f006462f8f1ab6130e2223cd/850.m3u8
+#EXTINF:-1 group-title="毛泽东的科学预见",第八集 破冰之旅
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c64092dae5434f469d6e2923625f7f1f/850.m3u8
+#EXTINF:-1 group-title="毛泽东的科学预见",走近毛泽东 上
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a6814e59f74b44cf837fb1b2f2e04ad3/850.m3u8
+#EXTINF:-1 group-title="毛泽东的科学预见",走近毛泽东 下
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/d6604f4f829a4ebb804e27a029c75fc8/850.m3u8
+#EXTINF:-1 group-title="解放战争",第一集 抉择
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/14a914984a604beda8cd0e6089b6cdd7/1200.m3u8
+#EXTINF:-1 group-title="解放战争",第二集 同心
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/deb4e337288c45c4a5fe743c5d21e515/1200.m3u8
+#EXTINF:-1 group-title="解放战争",第三集 制胜
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/5a8e078ae3ca4cb9bcf8388f2802a5f5/1200.m3u8
+#EXTINF:-1 group-title="解放战争",第四集 血性
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/cfa78824777b46c18b4bd07443946fcd/1200.m3u8
+#EXTINF:-1 group-title="解放战争",第五集 民心
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/5891f3f1907c46f48a5497a14cd3d8ab/1200.m3u8
+#EXTINF:-1 group-title="解放战争",平津战役 上
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/a8a4e2fb8e1147259a6d0175a222058a/1200.m3u8
+#EXTINF:-1 group-title="解放战争",平津战役 下
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/76ff6f9af53b4fc5a6f723288567b0ef/1200.m3u8
+#EXTINF:-1 group-title="解放战争",辽沈战役 上
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/21b9735e96dc4c438e9cd24ef74ae2df/1200.m3u8
+#EXTINF:-1 group-title="解放战争",辽沈战役 下
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/33bb6f8e5e044ee6a49c9e6e18ebac34/1200.m3u8
+#EXTINF:-1 group-title="解放战争",淮海战役 上
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/77143e5d3e30433988c039e6544bd936/1200.m3u8
+#EXTINF:-1 group-title="解放战争",淮海战役 中
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/c214869c3f52494c948814d95cda369c/1200.m3u8
+#EXTINF:-1 group-title="解放战争",淮海战役 下
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/5abeeabe125043719bec7c77434acc0c/1200.m3u8
+#EXTINF:-1 group-title="特别呈现",铁在烧 第一集 风起铁原
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/843660964e594db1bebe9b2231b1d3b3/850.m3u8
+#EXTINF:-1 group-title="特别呈现",铁在烧 第二集 临危受命
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ba59c4b1c7c449319f1f1d55634ffd4d/850.m3u8
+#EXTINF:-1 group-title="特别呈现",铁在烧 第三集 生死抉择
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/504a57cf7e1f4e56aad6ad1abcca43fb/850.m3u8
+#EXTINF:-1 group-title="特别呈现",铁在烧 第四集 最后防线
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ef2a0e22ffc248f48ba7e1082c116d27/850.m3u8
+#EXTINF:-1 group-title="特别呈现",铁在烧 第五集 东方精神
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/fb2557e5770b4b98b92da7421f81c9e6/850.m3u8
+#EXTINF:-1 group-title="特别呈现",最长的43天 第一集 摊牌三八线
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/0cdbfabd0c9145d8b4500d5dedeb65ec/850.m3u8
+#EXTINF:-1 group-title="特别呈现",最长的43天 第二集 高地集结令
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f4529f2195a9436bba17f778f6074977/850.m3u8
+#EXTINF:-1 group-title="特别呈现",最长的43天 第三集 火线危机战
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/4b8fd37efc7a423ebbae7049a8695b93/850.m3u8
+#EXTINF:-1 group-title="特别呈现",最长的43天 第四集 战地土行孙
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9ad306614e6f4f57b07a8040db7eb728/850.m3u8
+#EXTINF:-1 group-title="特别呈现",最长的43天 第五集 你好喀秋莎
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1d59983275ae45ddbac3961b776709bc/850.m3u8
+#EXTINF:-1 group-title="特别呈现",最长的43天 第六集 突破封锁线
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/74f1ed1815b14653838fa2e5e2d01932/850.m3u8
+#EXTINF:-1 group-title="特别呈现",最长的43天 第七集 异国英雄塚
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/e40fe28729284aa18ac2da1a547dfe9f/850.m3u8
+#EXTINF:-1 group-title="特别呈现",最长的43天 第八集 最美战地花
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/4332121bc3b74711b1303fa9520eaf88/850.m3u8
+#EXTINF:-1 group-title="特别呈现",最长的43天 第九集 摧毁心理战
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/4e41ddd15f3c4eff96ad556354294055/850.m3u8
+#EXTINF:-1 group-title="特别呈现",最长的43天 第十集 凝固三八线
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/225c8e34c43749ffa1aeaa8336ed921b/850.m3u8
+#EXTINF:-1 group-title="断刀 朝鲜战场大逆转",第一集
+https://sina.com-h-sina.com/20180801/4723_6620a060/index.m3u8
+#EXTINF:-1 group-title="断刀 朝鲜战场大逆转",第二集
+https://sina.com-h-sina.com/20180801/4724_7d68a575/index.m3u8
+#EXTINF:-1 group-title="断刀 朝鲜战场大逆转",第三集
+https://sina.com-h-sina.com/20180801/4725_778148c2/index.m3u8
+#EXTINF:-1 group-title="断刀 朝鲜战场大逆转",第四集
+https://sina.com-h-sina.com/20180801/4726_b42b26de/index.m3u8
+#EXTINF:-1 group-title="断刀 朝鲜战场大逆转",第五集
+https://sina.com-h-sina.com/20180801/4727_4006e1f5/index.m3u8
+#EXTINF:-1 group-title="断刀 朝鲜战场大逆转",第六集
+https://sina.com-h-sina.com/20180801/4728_8c01257a/index.m3u8
+#EXTINF:-1 group-title="断刀 朝鲜战场大逆转",第七集
+https://sina.com-h-sina.com/20180801/4729_b3d89d73/index.m3u8
+#EXTINF:-1 group-title="断刀 朝鲜战场大逆转",第八集
+https://sina.com-h-sina.com/20180801/4730_9a7986ff/index.m3u8
+#EXTINF:-1 group-title="断刀 朝鲜战场大逆转",第九集
+https://sina.com-h-sina.com/20180801/4731_547746b4/index.m3u8
+#EXTINF:-1 group-title="断刀 朝鲜战场大逆转",第十集
+https://sina.com-h-sina.com/20180801/4732_1f18275d/index.m3u8
+#EXTINF:-1 group-title="红色特工秘档",熊向晖
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ad22e74265034f889c8d1cc70a11c20e/850.m3u8
+#EXTINF:-1 group-title="红色特工秘档",关露
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/7bbe63081d634508a22439b270a2c9be/850.m3u8
+#EXTINF:-1 group-title="红色特工秘档",李茂堂
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a26f60e078594923a2a76a211d750a72/850.m3u8
+#EXTINF:-1 group-title="红色特工秘档",阎宝航
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f39f4713e1ed41579b178a0ab0a4ec4d/850.m3u8
+#EXTINF:-1 group-title="红色特工秘档",郭汝瑰
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ddeba17ff049469ab9709ced009d92c1/850.m3u8
+#EXTINF:-1 group-title="BTV档案",BTV档案之杨虎城将军遇害始末
+https://v.js4177.org/20200126/XugYZzSc/index.m3u8
+#EXTINF:-1 group-title="BTV档案",BTV档案之志愿军 狙击王 张桃芳
+https://v.js4177.org/20200126/c0AFhwTZ/index.m3u8
+#EXTINF:-1 group-title="BTV档案",BTV档案之兵锋 中国人民志愿军 铁原阻击战实录
+https://v.js4177.org/20200128/I85Uvef0/index.m3u8
+#EXTINF:-1 group-title="BTV档案",BTV档案之新中国第一颗原子弹研制始末
+https://v.js4177.org/20200128/ifOniPka/index.m3u8
+#EXTINF:-1 group-title="BTV档案",BTV档案之1958台海炮战 海峡攻心战
+https://v.js4177.org/20200129/nwT7S0DS/index.m3u8
+#EXTINF:-1 group-title="BTV档案",BTV档案之1958台海炮战 毛泽东一石三鸟
+https://v.js4177.org/20200129/55cCRU6I/index.m3u8
+#EXTINF:-1 group-title="BTV档案",BTV档案之“水鬼”越南蛙人 炸沉卡德号航母
+https://v.js4177.org/20200129/elvHzWNb/index.m3u8
+#EXTINF:-1 group-title="BTV档案",BTV档案之冰雪长津湖 隐藏的对手
+https://v.js4177.org/20200129/R6YcEBPG/index.m3u8
+#EXTINF:-1 group-title="BTV档案",BTV档案之借刀 斩除汉奸头目李士群
+https://v.js4177.org/20200129/7UyaAbMD/index.m3u8
+#EXTINF:-1 group-title="BTV档案",BTV档案之红色特工
+https://v.js4177.org/20200129/nYpcYj8V/index.m3u8
+#EXTINF:-1 group-title="BTV档案",BTV档案之南海风云 激战西沙
+https://v.js4177.org/20200129/LZsuJX5j/index.m3u8
+#EXTINF:-1 group-title="BTV档案",BTV档案之南海风云 剑指西沙
+https://v.js4177.org/20200129/ZQm3XFGN/index.m3u8
+#EXTINF:-1 group-title="BTV档案",BTV档案之四战四平
+https://v.js4177.org/20200129/pdOfJPUM/index.m3u8
+#EXTINF:-1 group-title="BTV档案",BTV档案之臭名昭著汪精卫 死后遭挫骨扬灰
+https://v.js4177.org/20200128/EPUWwJ7P/index.m3u8
+#EXTINF:-1 group-title="BTV档案",BTV档案之空战英豪 中国人民志愿军空
+https://v.js4177.org/20200125/Ui4mUOl0/index.m3u8
+#EXTINF:-1 group-title="BTV档案",BTV档案之印度孟买11-26恐怖袭击大案1
+https://v.js4177.org/20200126/zjiuUZu7/index.m3u8
+#EXTINF:-1 group-title="BTV档案",BTV档案之印度孟买11-26恐怖袭击大案2
+https://v.js4177.org/20200126/r6GuCRxK/index.m3u8
+#EXTINF:-1 group-title="BTV档案",BTV档案之莫斯科剧院人质危机1
+https://v.js4177.org/20200125/8wFdczqL/index.m3u8
+#EXTINF:-1 group-title="BTV档案",BTV档案之莫斯科剧院人质危机2
+https://v.js4177.org/20200125/IIAAZpZw/index.m3u8
+#EXTINF:-1 group-title="炮击金门",风云突变
+https://yuledy.helanzuida.com/20200609/5583_6ba843f0/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="炮击金门",调兵遣将
+https://yuledy.helanzuida.com/20200609/5582_63ba14d6/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="炮击金门",于无声处
+https://yuledy.helanzuida.com/20200609/5581_374b56ae/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="炮击金门",台风暴雨
+https://yuledy.helanzuida.com/20200609/5580_2a75be76/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="炮击金门",捍卫领海
+https://yuledy.helanzuida.com/20200609/5579_583f7f95/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="炮击金门",封锁金门
+https://yuledy.helanzuida.com/20200609/5578_e4ba4f7b/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="炮击金门",蓝天防线
+https://yuledy.helanzuida.com/20200609/5577_d3ba2981/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="世界各国特种部队大揭秘",法国海外军团-死亡军团
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/11c9a92ef5224a40a33376f92240f698/850.m3u8
+#EXTINF:-1 group-title="世界各国特种部队大揭秘",绿色贝雷帽
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9d9b278e5b29468cad21e6fcc52d10d8/850.m3u8
+#EXTINF:-1 group-title="世界各国特种部队大揭秘",海军海豹部队
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/683007d643074343ab1243e3c77ef4c6/850.m3u8
+#EXTINF:-1 group-title="世界各国特种部队大揭秘",皇家海军陆战队
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/d1282da523534cc38a1a32c45fc3c5e1/850.m3u8
+#EXTINF:-1 group-title="世界各国特种部队大揭秘",廓尔喀兵
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/091208bad8894ffc83170ec302bc02d5/850.m3u8
+#EXTINF:-1 group-title="世界各国特种部队大揭秘",英国秘密特种部队
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/666d9962523448549b8a232bbdbaea0e/850.m3u8
+#EXTINF:-1 group-title="世界各国特种部队大揭秘",英国空军特种部队
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/7bd1723cb125477cb9d6193305aca4d4/850.m3u8
+#EXTINF:-1 group-title="世界各国特种部队大揭秘",南非特种部队
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/583af9a937c64190aef3dd619bd8f6c0/850.m3u8
+#EXTINF:-1 group-title="世界各国特种部队大揭秘",美国特种部队
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1498c4a6f84245e18dd8aba47cc013f9/850.m3u8
+#EXTINF:-1 group-title="世界各国特种部队大揭秘",前苏联特种部队
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/deef70564da048b2b048639b70557786/850.m3u8
+#EXTINF:-1 group-title="特战奇兵",象牙海岸行动
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/174b1a401ebb445bbe7967b010ed8d31/850.m3u8
+#EXTINF:-1 group-title="特战奇兵",神行飞燕
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/24a2f78edf424b38b866649451ce011d/850.m3u8
+#EXTINF:-1 group-title="特战奇兵",折戟大漠
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/3d8fad147d6649a994cfbfcc8955df06/850.m3u8
+#EXTINF:-1 group-title="特战奇兵",黑鹰坠落
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/bcb8858891ce4282a01ddb4e33a0c907/850.m3u8
+#EXTINF:-1 group-title="特战奇兵",电闪乌干达
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/716c6c3923e64a508b4fbeea04a95735/850.m3u8
+#EXTINF:-1 group-title="特战奇兵",绝地救魔
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/524faf186b7244968c9066355af654ff/850.m3u8
+#EXTINF:-1 group-title="特战奇兵",夜袭马岛
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/fbbda3f733124aaba8b8c7bd66bffb66/850.m3u8
+#EXTINF:-1 group-title="特战奇兵",艰难一日
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/6528e3c2b22c4093a10490b149c038e6/850.m3u8
+#EXTINF:-1 group-title="特战奇兵",飞夺密支那
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/581c545e9a144ac38984719cdc6e9021/850.m3u8
+#EXTINF:-1 group-title="特战奇兵",奇袭武陵桥
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/83fe900a9b644aef87f2c01896465b58/850.m3u8
+#EXTINF:-1 group-title="真实纪录",中法建交秘闻上
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/3b1e2dea915d4541b10bed17fd52bf39/850.m3u8
+#EXTINF:-1 group-title="真实纪录",中法建交秘闻下
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/24915fd7e201483faa0b27f7dcc6c9ca/850.m3u8
+#EXTINF:-1 group-title="真实纪录",太空-美苏争霸 Ⅰ
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ea3c2f0df7f64974a352ea6e5e782872/850.m3u8
+#EXTINF:-1 group-title="真实纪录",太空-美苏争霸 Ⅱ
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9419e55ca05046f9af64db742329c644/850.m3u8
+#EXTINF:-1 group-title="真实纪录",太空-美苏争霸 Ⅲ
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9b8095e5b9d741b4bfe23e5abdfffbb6/850.m3u8
+#EXTINF:-1 group-title="真实纪录",太空-美苏争霸 Ⅳ
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1d99b48c823342a0ab9669dc26316a6d/850.m3u8
+#EXTINF:-1 group-title="真实纪录",太空-美苏争霸 Ⅴ
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/27f7aba52e5e4d0d85e3d01bfbf7b4aa/850.m3u8
+#EXTINF:-1 group-title="中苏外交档案解密",第一集 斯大林的选择 上
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b200fa845ae64ed39a5424421f1204b2/850.m3u8
+#EXTINF:-1 group-title="中苏外交档案解密",第二集 斯大林的选择 下
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/64fc3d20b79c42888996bca736d1fefb/850.m3u8
+#EXTINF:-1 group-title="中苏外交档案解密",第三集 交锋莫斯科 上
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1769902929f54e5798b0235a92bb7b26/850.m3u8
+#EXTINF:-1 group-title="中苏外交档案解密",第四集 交锋莫斯科 下
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/69a26c0f20d5454294d2bc8d940b53b9/850.m3u8
+#EXTINF:-1 group-title="中苏外交档案解密",第五集 歃血为盟 上
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/54063a9dacc54ae19d738b3e028cb323/850.m3u8
+#EXTINF:-1 group-title="中苏外交档案解密",第六集 歃血为盟 下
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/4b1fdbd7dc1240179aacc6fad2405f98/850.m3u8
+#EXTINF:-1 group-title="中苏外交档案解密",第七集 亲密同志 上
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9f2bc8614375442497cb51bc7c2f3550/850.m3u8
+#EXTINF:-1 group-title="中苏外交档案解密",第八集 亲密同志 下
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/2cf6a362ae1348559f90135b7e11ffbc/850.m3u8
+#EXTINF:-1 group-title="中苏外交档案解密",第九集 独领风骚
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/142949054485452aa96e08a6645be040/850.m3u8
+#EXTINF:-1 group-title="中苏外交档案解密",第十集 山雨欲来 上
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/6938e34fdf9d434b81c8e49fc38821ac/850.m3u8
+#EXTINF:-1 group-title="中苏外交档案解密",第十一集 山雨欲来 下
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/cb61d6a9c2ce4168ae1459bb966714ca/850.m3u8
+#EXTINF:-1 group-title="中苏外交档案解密",第十二集 分庭抗礼
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/eb82ebf72c584f56839dcc306f08b3df/850.m3u8
+#EXTINF:-1 group-title="中苏外交档案解密",第十三集 蘑菇云下
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c7c3a2cf735941d0a76fe6dc28c7177d/850.m3u8
+#EXTINF:-1 group-title="中苏外交档案解密",第十四集 兵戎相见
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/82ed6b891ffe498ab9e23ed87b3496a4/850.m3u8
+#EXTINF:-1 group-title="智慧中国",第一集 智慧前行
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/9bb5f3e507db44ceb1ba612c3aae4068/1200.m3u8
+#EXTINF:-1 group-title="智慧中国",第二集 智慧生活
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/2d03e82b30ba4835991dae7680c90a69/1200.m3u8
+#EXTINF:-1 group-title="智慧中国",第三集 智慧星球
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/85bb407f22da458bb957ed35bc20b2d2/1200.m3u8
+#EXTINF:-1 group-title="雪域军魂",第1集 奉命进藏
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/fb07e5a28474452490eeb1e6962f03fc/850.m3u8
+#EXTINF:-1 group-title="雪域军魂",第2集 向心进军
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/2b75087fd864482bb475451ee34640d6/850.m3u8
+#EXTINF:-1 group-title="雪域军魂",第3集 和平解放
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/653f94d5937c416c94840efe99c95046/850.m3u8
+#EXTINF:-1 group-title="雪域军魂",第4集 平息叛乱
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a379c01d7cb54a6b9efb969f0953d3eb/850.m3u8
+#EXTINF:-1 group-title="雪域军魂",第4集 平息叛乱
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a379c01d7cb54a6b9efb969f0953d3eb/850.m3u8
+#EXTINF:-1 group-title="雪域军魂",第5集 站稳脚跟
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/8295995ff488468d8dd337ed70ac9093/850.m3u8
+#EXTINF:-1 group-title="雪域军魂",第6集 文明之师
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/20de4e365148489b8e5446a770470a27/850.m3u8
+#EXTINF:-1 group-title="雪域军魂",第7集 戍边卫国
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/0e714c84ceb849cdbc0eb057ada21803/850.m3u8
+#EXTINF:-1 group-title="雪域军魂",第8集 铁骨柔情
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9ddae10a95044b12a660576353e6fd11/850.m3u8
+#EXTINF:-1 group-title="雪域军魂",第9集 不辱使命
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/088a1e3a2ec0437488d7643ad5f3aef4/850.m3u8
+#EXTINF:-1 group-title="BTV档案",BTV档案之美军历史上最丢脸的海外军事行动
+https://v.js4177.org/20200125/aU17PHG2/index.m3u8
+#EXTINF:-1 group-title="BTV档案",BTV档案之红色特工
+https://v.js4177.org/20200129/nYpcYj8V/index.m3u8
+#EXTINF:-1 group-title="启示录",第一次世界大战 1
+https://zk.603ee.com/2019/06/18/6bcpd9dA6ndnoonT/playlist.m3u8
+#EXTINF:-1 group-title="启示录",第一次世界大战 2
+https://zk.603ee.com/2019/06/18/LH5k0HHjxXb4TkrO/playlist.m3u8
+#EXTINF:-1 group-title="启示录",第一次世界大战 3
+https://zk.603ee.com/2019/06/18/Z0PdtNCsdw1YbAyv/playlist.m3u8
+#EXTINF:-1 group-title="启示录",第一次世界大战 4
+https://zk.603ee.com/2019/06/18/RtKH2RWQ4XOCjxfE/playlist.m3u8
+#EXTINF:-1 group-title="启示录",第一次世界大战 5
+https://zk.603ee.com/2019/06/18/wI7h2DBzEpkJACmZ/playlist.m3u8
+#EXTINF:-1 group-title="大国崛起",第一集 海洋时代
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c8e8d3b78be244b3ac8c4e229202fe63/850.m3u8
+#EXTINF:-1 group-title="大国崛起",第二集 小国大业
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/d92d1f3548ad49fd81fff84664d38095/850.m3u8
+#EXTINF:-1 group-title="大国崛起",第三集 走向现代
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/5485cdb2f2264adf8d48556f9828ccab/850.m3u8
+#EXTINF:-1 group-title="大国崛起",第四集 工业先声
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c33575be20ba4f15aba8392d95834a50/850.m3u8
+#EXTINF:-1 group-title="大国崛起",第五集 激情岁月
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/8a27859be4c7465b9dddb657f5627d10/850.m3u8
+#EXTINF:-1 group-title="大国崛起",第六集 帝国春秋
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/e5406e5ad6fe44558e10d70cb16f776a/850.m3u8
+#EXTINF:-1 group-title="大国崛起",第七集 百年维新
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a79104bb907f47f4b95226912777bc97/850.m3u8
+#EXTINF:-1 group-title="大国崛起",第八集 寻道图强
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9ca1b213ac6f4d0a806c518c43632d49/850.m3u8
+#EXTINF:-1 group-title="大国崛起",第九集 风云新途
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f885747e1cea43eab71b842dcaa0a887/850.m3u8
+#EXTINF:-1 group-title="大国崛起",第十集 新国新梦
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ddfaf17e9fee45c3b37d3821065ae2b4/850.m3u8
+#EXTINF:-1 group-title="大国崛起",第十一集 危局新政
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/6fa4049b916844f8bbf13fc43b9fb915/850.m3u8
+#EXTINF:-1 group-title="大国崛起",第十二集 大道行思
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/50ef1c18386f49668d6087a8e8fa4d92/850.m3u8
+#EXTINF:-1 group-title="货币",第一集 有价星球
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/295d660dc3044ce1a099d997d1035bff/850.m3u8
+#EXTINF:-1 group-title="货币",第二集 从哪里来
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f74b131001e44275ba5395d1e748cce5/850.m3u8
+#EXTINF:-1 group-title="货币",第三集 黄金命运
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/cb3e54e9283841c7aaacaf09f896809b/850.m3u8
+#EXTINF:-1 group-title="货币",第四集 银行历程
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/324b8f6194df4b45a47fb73baa930378/850.m3u8
+#EXTINF:-1 group-title="货币",第五集 权力之争
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/5c7db4e6fbf84a1481cc4fec033832fe/850.m3u8
+#EXTINF:-1 group-title="货币",第六集 通胀之殇
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b3c74b4d0d4a4864b7b382fe99cb4ab1/850.m3u8
+#EXTINF:-1 group-title="货币",第七集 三条红线
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/e3cc2092395d42bd8431b90b2e222037/850.m3u8
+#EXTINF:-1 group-title="货币",第八集 汇率之路
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/992ba349924941d2b533b05ea0210111/850.m3u8
+#EXTINF:-1 group-title="货币",第九集 超越国界
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/060425f6891f49fcbd2e6d6ec0d70fd5/850.m3u8
+#EXTINF:-1 group-title="货币",第十集 未来多远
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/5e23ebcc83b04975ab11e49628dbe279/850.m3u8
+#EXTINF:-1 group-title="贸易战争",从重商主义到自由贸易
+http://hls.cntv.myalicdn.com/asp/hls/450/0303000a/3/default/794cf6b209244010e3237d88e2a6e567/450.m3u8
+#EXTINF:-1 group-title="贸易战争",自由贸易 大旗易主
+http://hls.cntv.myalicdn.com/asp/hls/450/0303000a/3/default/3c65c6ddd77540f1bf67f1acdb10512f/450.m3u8
+#EXTINF:-1 group-title="贸易战争",自由贸易 谁主沉浮
+http://hls.cntv.myalicdn.com/asp/hls/450/0303000a/3/default/bd898a335bd046dbe821f7a995c6cd3f/450.m3u8
+#EXTINF:-1 group-title="贸易战争",全球化的阴谋与爱情
+http://hls.cntv.myalicdn.com/asp/hls/450/0303000a/3/default/6c5e8165c39e4f0f0e95ce80f7d922b5/450.m3u8
+#EXTINF:-1 group-title="贸易战争",多级化的时代变局
+http://hls.cntv.myalicdn.com/asp/hls/450/0303000a/3/default/555310f0e85c4d66dfa8af8fd58042db/450.m3u8
+#EXTINF:-1 group-title="见证 交锋",第一集 危机时刻
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/91b6a6e6c58943b39b46e14bc7f414d7/850.m3u8
+#EXTINF:-1 group-title="见证 交锋",第二集 开放之门
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b3ac8c9564424ee89843a33b188dfe0d/850.m3u8
+#EXTINF:-1 group-title="见证 交锋",第三集 创新之路
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/114e0c0428be41aaa3cb9a24d74261a2/850.m3u8
+#EXTINF:-1 group-title="大视野 蓝衣社",第一集 两统之争
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/3d9a67cc105d4979a886caf47247eb1c/850.m3u8
+#EXTINF:-1 group-title="大视野 蓝衣社",第二集 始作俑者
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/127d5e35b71840fb871e7366b556cff6/850.m3u8
+#EXTINF:-1 group-title="大视野 蓝衣社",第三集 四大金刚
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/39aabf9de57d4669adce9b7699e97977/850.m3u8
+#EXTINF:-1 group-title="大视野 蓝衣社",第四集 刺客时代
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ddff8dc094ac4e93b7471353ca35160f/850.m3u8
+#EXTINF:-1 group-title="大视野 蓝衣社",第五集 走向堕落
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/af8245a2e82a41f989c12d3379aafae6/850.m3u8
+#EXTINF:-1 group-title="人文历史",伟大的抗美援朝 第一集 抉择
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/b7c050d48aff40de9521b7b07fc347f2/1200.m3u8
+#EXTINF:-1 group-title="人文历史",伟大的抗美援朝 第二集 较量
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/9b6e84b6fdff4fddba66e269cf15aafc/1200.m3u8
+#EXTINF:-1 group-title="人文历史",伟大的抗美援朝 第三集 英雄
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/b3e2e57114d041538a78d7e88d8c2da2/1200.m3u8
+#EXTINF:-1 group-title="人文历史",伟大的抗美援朝 第四集 后盾
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/e3df181e328e47feab29126cb0d5717d/1200.m3u8
+#EXTINF:-1 group-title="人文历史",伟大的抗美援朝 第五集 和平
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/a1cb37f6524d414c878697ed6bcad714/1200.m3u8
+#EXTINF:-1 group-title="创新中国",创新中国 第一集 信息
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/b729d80cc13d40c2a0c8abc48584c902/1200.m3u8
+#EXTINF:-1 group-title="创新中国",创新中国 第二集 能源
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/c57e21095a314f5f99ab76f73df463f8/1200.m3u8
+#EXTINF:-1 group-title="创新中国",创新中国 第三集 制造
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/9cdda8b27ae34befbca3b5791c13040c/1200.m3u8
+#EXTINF:-1 group-title="创新中国",创新中国 第四集 生命
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/4649b34d0e1a4143adae1806a1d14869/1200.m3u8
+#EXTINF:-1 group-title="创新中国",创新中国 第五集 空海
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/147a48b9f36a46879fb368410892b19d/1200.m3u8
+#EXTINF:-1 group-title="创新中国",创新中国 第六集 潮起
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/2d6045595cf443fcbb3a03c6800fd836/1200.m3u8
 #EXTINF:-1 group-title="一带一路",一带一路 第一集 共同命运
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/738009050b204026b7a5aef93b2074c4/1200.m3u8
 #EXTINF:-1 group-title="一带一路",一带一路 第二集 互通之路
@@ -227,32 +855,18 @@ http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/eaa21a36e16349d9b11
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a5efea0cb7cd47ad8dbdd350a1ba55cb/1200.m3u8
 #EXTINF:-1 group-title="一带一路",中国建设者 成昆传奇
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ef4b0747167c4c349b607df24bb333b5/1200.m3u8
-#EXTINF:-1 group-title="智慧中国",第一集 智慧前行
-http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/9bb5f3e507db44ceb1ba612c3aae4068/1200.m3u8
-#EXTINF:-1 group-title="智慧中国",第二集 智慧生活
-http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/2d03e82b30ba4835991dae7680c90a69/1200.m3u8
-#EXTINF:-1 group-title="智慧中国",第三集 智慧星球
-http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/85bb407f22da458bb957ed35bc20b2d2/1200.m3u8
-#EXTINF:-1 group-title="雪域军魂",第1集 奉命进藏
-http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/fb07e5a28474452490eeb1e6962f03fc/850.m3u8
-#EXTINF:-1 group-title="雪域军魂",第2集 向心进军
-http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/2b75087fd864482bb475451ee34640d6/850.m3u8
-#EXTINF:-1 group-title="雪域军魂",第3集 和平解放
-http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/653f94d5937c416c94840efe99c95046/850.m3u8
-#EXTINF:-1 group-title="雪域军魂",第4集 平息叛乱
-http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a379c01d7cb54a6b9efb969f0953d3eb/850.m3u8
-#EXTINF:-1 group-title="雪域军魂",第4集 平息叛乱
-http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a379c01d7cb54a6b9efb969f0953d3eb/850.m3u8
-#EXTINF:-1 group-title="雪域军魂",第5集 站稳脚跟
-http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/8295995ff488468d8dd337ed70ac9093/850.m3u8
-#EXTINF:-1 group-title="雪域军魂",第6集 文明之师
-http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/20de4e365148489b8e5446a770470a27/850.m3u8
-#EXTINF:-1 group-title="雪域军魂",第7集 戍边卫国
-http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/0e714c84ceb849cdbc0eb057ada21803/850.m3u8
-#EXTINF:-1 group-title="雪域军魂",第8集 铁骨柔情
-http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9ddae10a95044b12a660576353e6fd11/850.m3u8
-#EXTINF:-1 group-title="雪域军魂",第9集 不辱使命
-http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/088a1e3a2ec0437488d7643ad5f3aef4/850.m3u8
+#EXTINF:-1 group-title="辉煌中国",第一集 圆梦工程
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/a655bc32eb3f4e61a2518a943c2b43df/1200.m3u8
+#EXTINF:-1 group-title="辉煌中国",第二集 创新活力
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/500d1a37e82e4725966686b8bca4edd7/1200.m3u8
+#EXTINF:-1 group-title="辉煌中国",第三集 协调发展
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/01439df58207407795ce1d8370167446/1200.m3u8
+#EXTINF:-1 group-title="辉煌中国",第四集 绿色家园
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/5e45c5bc688b4180a1466791f8860a9a/1200.m3u8
+#EXTINF:-1 group-title="辉煌中国",第五集 共享小康
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/8997f1423cf3452789e8b38841771002/1200.m3u8
+#EXTINF:-1 group-title="辉煌中国",第六集 开放中国
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/62e1ae3c52114b2599bd34325b51af11/1200.m3u8
 #EXTINF:-1 group-title="大好河山",大好河山 中国丹霞 大地红裳
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5d329bf956ce421c8bbd17384029e2c3/1200.m3u8
 #EXTINF:-1 group-title="大好河山",2大好河山 神奇喀斯特
@@ -1347,18 +1961,6 @@ http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6a04840947864b78933
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8615355f56354302a95f72cd36bfec02/1200.m3u8
 #EXTINF:-1 group-title="超级工程",第五集 城市24小时
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e1ad0699bd684baba0fbd349ecc04dc8/1200.m3u8
-#EXTINF:-1 group-title="辉煌中国",第一集 圆梦工程
-http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/a655bc32eb3f4e61a2518a943c2b43df/1200.m3u8
-#EXTINF:-1 group-title="辉煌中国",第二集 创新活力
-http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/500d1a37e82e4725966686b8bca4edd7/1200.m3u8
-#EXTINF:-1 group-title="辉煌中国",第三集 协调发展
-http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/01439df58207407795ce1d8370167446/1200.m3u8
-#EXTINF:-1 group-title="辉煌中国",第四集 绿色家园
-http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/5e45c5bc688b4180a1466791f8860a9a/1200.m3u8
-#EXTINF:-1 group-title="辉煌中国",第五集 共享小康
-http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/8997f1423cf3452789e8b38841771002/1200.m3u8
-#EXTINF:-1 group-title="辉煌中国",第六集 开放中国
-http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/62e1ae3c52114b2599bd34325b51af11/1200.m3u8
 #EXTINF:-1 group-title="舌尖上的中国",第一集 自然的馈赠
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bd6af893d44941a9805807eb08dfd1b6/1200.m3u8
 #EXTINF:-1 group-title="舌尖上的中国",第二集 主食的故事
@@ -1403,54 +2005,6 @@ http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/27121d74055f468795f
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a23637f5a5794d5d87b33d1575e2193d/1200.m3u8
 #EXTINF:-1 group-title="舌尖上的中国",第三季 第八集 合
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/51b1937b8b6b469b837b48f6bcb3f0b1/1200.m3u8
-#EXTINF:-1 group-title="回家过年",第一集 回家的路有多长
-http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/6c2f5ba4ba7d475c92fbe5d3482faae7/1200.m3u8
-#EXTINF:-1 group-title="回家过年",第二集 全年包邮
-http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/9618d3092b8f4f07aed716f234508b0b/1200.m3u8
-#EXTINF:-1 group-title="回家过年",第三集 沙县一家人
-http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/c55de95b47f7411a94f607046af32ff4/1200.m3u8
-#EXTINF:-1 group-title="回家过年",第四集 和奶奶过年
-http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/6f4366af64384ef5bd65097354dfd47d/1200.m3u8
-#EXTINF:-1 group-title="回家过年",第六集 二胎来了
-http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/9c667ba853574209ba891b1f7c9272a1/1200.m3u8
-#EXTINF:-1 group-title="回家过年",第七集 守护小白杨
-http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/aeac1eb7b26048b8a87149e5f1d28a18/1200.m3u8
-#EXTINF:-1 group-title="回家过年",第八集 搬迁后的新年
-http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/8b6018bb403a4f8798b41083685fc205/1200.m3u8
-#EXTINF:-1 group-title="回家过年",第九集 爹娘在哪儿，哪儿就是家
-http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/d2d73b5b3cab443e8e3060eb284680b3/1200.m3u8
-#EXTINF:-1 group-title="回家过年",第十集 远在中国的家
-http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/aaf2ffb1f78845da8291f5b533437110/1200.m3u8
-#EXTINF:-1 group-title="过年 第二季",第一集 自然的积蓄
-http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/d19275dc3bbd4a0a88401a8c5a99c7b6/850.m3u8
-#EXTINF:-1 group-title="过年 第二季",第二集 守候的心意
-http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a1a5a7d68ebc459d914aea5f178a89d7/850.m3u8
-#EXTINF:-1 group-title="过年 第二季",第三集 劳作的收成
-http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ff5c4949c8e34240bce037d096aa2883/850.m3u8
-#EXTINF:-1 group-title="过年 第二季",第四集 家传的手艺
-http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b442a342eed045b288bfc4a93fa7a4f7/850.m3u8
-#EXTINF:-1 group-title="过年 第二季",第五集 团圆的味道
-http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1c0692b0520643bb9fc05c8856cd9d76/850.m3u8
-#EXTINF:-1 group-title="沸腾吧火锅",第01集
-https://cdn-yong.bejingyongjiu.com/20200214/3472_11723083/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="沸腾吧火锅",第02集
-https://cdn-yong.bejingyongjiu.com/20200214/3473_5db42fac/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="沸腾吧火锅",第03集
-https://cdn-yong.bejingyongjiu.com/20200228/4800_dfa11483/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="沸腾吧火锅",第04集
-https://cdn-yong.bejingyongjiu.com/20200228/4801_8edd5f45/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="沸腾吧火锅",第05集
-https://cdn-yong.bejingyongjiu.com/20200228/4803_4acd0539/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="沸腾吧火锅",第06集
-https://cdn-yong.bejingyongjiu.com/20200228/4802_922d226b/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="沸腾吧火锅",第07集
-https://cdn-yong.bejingyongjiu.com/20200306/5414_ffaf4d19/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="沸腾吧火锅",第08集
-https://cdn-yong.bejingyongjiu.com/20200306/5415_77322139/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="沸腾吧火锅",第09集
-https://cdn-yong.bejingyongjiu.com/20200313/6194_9e010786/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="沸腾吧火锅",第10集
-https://cdn-yong.bejingyongjiu.com/20200313/6195_c0d3d45c/1000k/hls/index.m3u8
 #EXTINF:-1 group-title="中华老字号",瑞蚨祥·腰身 六必居·酱藏
 https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/cff0cffb2f6b43f182b1c5ecc9c0e394/1200.m3u8
 #EXTINF:-1 group-title="中华老字号",大北照相·记忆 北京市珐琅厂·寻蓝
@@ -1483,6 +2037,54 @@ http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/cf6a8680709749d79db8
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/95786f247f5e4ab28bfac1c798d43a90/850.m3u8
 #EXTINF:-1 group-title="一城一味",第七集 香港
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/e5d9798d08474098a140c91afb59dacb/850.m3u8
+#EXTINF:-1 group-title="沸腾吧火锅",第01集
+https://cdn-yong.bejingyongjiu.com/20200214/3472_11723083/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="沸腾吧火锅",第02集
+https://cdn-yong.bejingyongjiu.com/20200214/3473_5db42fac/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="沸腾吧火锅",第03集
+https://cdn-yong.bejingyongjiu.com/20200228/4800_dfa11483/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="沸腾吧火锅",第04集
+https://cdn-yong.bejingyongjiu.com/20200228/4801_8edd5f45/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="沸腾吧火锅",第05集
+https://cdn-yong.bejingyongjiu.com/20200228/4803_4acd0539/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="沸腾吧火锅",第06集
+https://cdn-yong.bejingyongjiu.com/20200228/4802_922d226b/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="沸腾吧火锅",第07集
+https://cdn-yong.bejingyongjiu.com/20200306/5414_ffaf4d19/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="沸腾吧火锅",第08集
+https://cdn-yong.bejingyongjiu.com/20200306/5415_77322139/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="沸腾吧火锅",第09集
+https://cdn-yong.bejingyongjiu.com/20200313/6194_9e010786/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="沸腾吧火锅",第10集
+https://cdn-yong.bejingyongjiu.com/20200313/6195_c0d3d45c/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="回家过年",第一集 回家的路有多长
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/6c2f5ba4ba7d475c92fbe5d3482faae7/1200.m3u8
+#EXTINF:-1 group-title="回家过年",第二集 全年包邮
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/9618d3092b8f4f07aed716f234508b0b/1200.m3u8
+#EXTINF:-1 group-title="回家过年",第三集 沙县一家人
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/c55de95b47f7411a94f607046af32ff4/1200.m3u8
+#EXTINF:-1 group-title="回家过年",第四集 和奶奶过年
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/6f4366af64384ef5bd65097354dfd47d/1200.m3u8
+#EXTINF:-1 group-title="回家过年",第六集 二胎来了
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/9c667ba853574209ba891b1f7c9272a1/1200.m3u8
+#EXTINF:-1 group-title="回家过年",第七集 守护小白杨
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/aeac1eb7b26048b8a87149e5f1d28a18/1200.m3u8
+#EXTINF:-1 group-title="回家过年",第八集 搬迁后的新年
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/8b6018bb403a4f8798b41083685fc205/1200.m3u8
+#EXTINF:-1 group-title="回家过年",第九集 爹娘在哪儿，哪儿就是家
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/d2d73b5b3cab443e8e3060eb284680b3/1200.m3u8
+#EXTINF:-1 group-title="回家过年",第十集 远在中国的家
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/aaf2ffb1f78845da8291f5b533437110/1200.m3u8
+#EXTINF:-1 group-title="过年 第二季",第一集 自然的积蓄
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/d19275dc3bbd4a0a88401a8c5a99c7b6/850.m3u8
+#EXTINF:-1 group-title="过年 第二季",第二集 守候的心意
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a1a5a7d68ebc459d914aea5f178a89d7/850.m3u8
+#EXTINF:-1 group-title="过年 第二季",第三集 劳作的收成
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ff5c4949c8e34240bce037d096aa2883/850.m3u8
+#EXTINF:-1 group-title="过年 第二季",第四集 家传的手艺
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b442a342eed045b288bfc4a93fa7a4f7/850.m3u8
+#EXTINF:-1 group-title="过年 第二季",第五集 团圆的味道
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1c0692b0520643bb9fc05c8856cd9d76/850.m3u8
 #EXTINF:-1 group-title="走遍中国一",5 G来临
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9ff70eb26cc3457b96eed53baa284f31/1200.m3u8
 #EXTINF:-1 group-title="走遍中国一",无处不在
@@ -1779,6 +2381,15 @@ http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f1667675e2684b69a42
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/290034395d1d41f4984fe8727bb859ad/1200.m3u8
 #EXTINF:-1 group-title="走遍中国三",中国智造 深海渔场
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5da5cf313f2642cfa77cd38c8a9be3dc/1200.m3u8
+#EXTINF:-1 group-title="走遍中国三",第一集 崛起之路
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/f34578ae3f564704b7b4bab8b2624e58/1200.m3u8
+#EXTINF:-1 group-title="走遍中国三",第二集 焊将雄心
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/cb30d7cb63a041fe98370fe380cea42f/1200.m3u8
+#EXTINF:-1 group-title="走遍中国三",第三集 海上大力士
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/5c53228f17844a2c8bd72c415c47272d/1200.m3u8
+#EXTINF:-1 group-title="走遍中国三",第四集 魔鬼 码头
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/37cfef28b0ae4d5295cbe85266a9cab8/1200.m3u8
+ 
 #EXTINF:-1 group-title="经济半小时",新区新坐标 四川天府新区
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/20a58117673a4c2690c3465c6b708c48/1200.m3u8
 #EXTINF:-1 group-title="经济半小时",新区新坐标 青岛西海岸新区
@@ -1909,6 +2520,98 @@ http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/c24888ba85b840f789c
 http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/9219c7d67aed4ef7ab83df94df72a3ad/1200.m3u8
 #EXTINF:-1 group-title="经济半小时",神奇的液态金属
 http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/0953c0cd9a284e40833c3a6fea2b11a6/1200.m3u8
+#EXTINF:-1 group-title="军工记忆",东方红一号 人造卫星
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/2dc19540fbab41e981da7f2c566eeeed/850.m3u8
+#EXTINF:-1 group-title="军工记忆",巨浪一号 潜地导弹
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/5c4437269e3449aa91bb8ed981b2a649/850.m3u8
+#EXTINF:-1 group-title="军工记忆",红箭-8 反坦克导弹
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/440a4dea89fc4dada05cb26fc9a7144d/850.m3u8
+#EXTINF:-1 group-title="军工记忆",052型 导弹驱逐舰
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f09141afcf2f494688c250dc6b0b1417/850.m3u8
+#EXTINF:-1 group-title="军工记忆",歼-10 战斗机
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/380296dbaa4b4fea8ed158e1f3df84e4/850.m3u8
+#EXTINF:-1 group-title="军工记忆",空警2000 预警机
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a8e0d8efead04a6c823d30118dee7c66/850.m3u8
+#EXTINF:-1 group-title="时代",习仲勋 第一集 烽火陕甘
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/34539ad762ae464bb59a0e208041c9c4/850.m3u8
+#EXTINF:-1 group-title="时代",习仲勋 第二集 纵横西北
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/8138d71042954fc7960e088c5379fd3d/850.m3u8
+#EXTINF:-1 group-title="时代",习仲勋 第三集 国事春秋
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ff8f6f820d4f482880707825fa5e7039/850.m3u8
+#EXTINF:-1 group-title="时代",习仲勋 第四集 主政南粤
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/25b36ec54a474c10932b39583505c098/850.m3u8
+#EXTINF:-1 group-title="时代",习仲勋 第五集 勤政岁月
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f04511cd8d1945c6be409b3cc39e843b/850.m3u8
+#EXTINF:-1 group-title="时代",习仲勋 第六集 海纳百川
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a5e22570f4a742e8b2c1876f4ecd4cb1/850.m3u8
+#EXTINF:-1 group-title="于无声处",第1集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/d1d949ce736746e99f8569bcfef02466/850.m3u8
+#EXTINF:-1 group-title="于无声处",第2集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c67832aed42044668574ebc6af3ff5c2/850.m3u8
+#EXTINF:-1 group-title="于无声处",第3集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/8c0cfe8ce4f64730bafde9a1eb30b879/850.m3u8
+#EXTINF:-1 group-title="于无声处",第4集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c34a88a40eb54ff5a9cde6422a72fb42/850.m3u8
+#EXTINF:-1 group-title="于无声处",第5集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ed518fe8f8484731ac1d4cb35f2810d8/850.m3u8
+#EXTINF:-1 group-title="于无声处",第6集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/dfa199618401496a85815562caa6fbed/850.m3u8
+#EXTINF:-1 group-title="于无声处",第7集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/bb46d9bcbadb48b68313c81906e7016b/850.m3u8
+#EXTINF:-1 group-title="于无声处",第8集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/41bb9a4029ff4d7582ed76a29efab003/850.m3u8
+#EXTINF:-1 group-title="于无声处",第9集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/7791880440374d0aa5ff62644285ae54/850.m3u8
+#EXTINF:-1 group-title="于无声处",第10集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c439ff601b864368ab4b02d95af47b7b/850.m3u8
+#EXTINF:-1 group-title="于无声处",第11集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/d8d6eff0dad740b885b87c70bc0d1c01/850.m3u8
+#EXTINF:-1 group-title="于无声处",第12集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/0558646c2d004f39ae7ce08b0191d359/850.m3u8
+#EXTINF:-1 group-title="于无声处",第13集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/e759723c58a440ef8ad6b4e12b4cb4a6/850.m3u8
+#EXTINF:-1 group-title="于无声处",第14集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/4f15d46a038f4b968592ef3bf087fe9e/850.m3u8
+#EXTINF:-1 group-title="于无声处",第15集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b51d8184ff5449f78810ba1e9aa9f1e4/850.m3u8
+#EXTINF:-1 group-title="于无声处",第16集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/75b1a47ac2154df3a8badad550461242/850.m3u8
+#EXTINF:-1 group-title="于无声处",第17集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/5021df08538b4eb688b5a2010771c9af/850.m3u8
+#EXTINF:-1 group-title="于无声处",第18集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/e5f7642c2cbb4ca896092d0a20fe38af/850.m3u8
+#EXTINF:-1 group-title="于无声处",第19集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b41afd3604cb4f88bfa18dc525af27c0/850.m3u8
+#EXTINF:-1 group-title="于无声处",第20集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/4ee94ade6737437099a2f200707cca0e/850.m3u8
+#EXTINF:-1 group-title="于无声处",第21集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/d7ad2c039b974dad87dd94dd6d9bd3d7/850.m3u8
+#EXTINF:-1 group-title="于无声处",第22集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/47feef699ac3453e977febfddf992a35/850.m3u8
+#EXTINF:-1 group-title="于无声处",第23集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/665e5947e3154a0cb891a0b157d264bf/850.m3u8
+#EXTINF:-1 group-title="于无声处",第24集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b3c80c16304d45cba6f367ba89fa680b/850.m3u8
+#EXTINF:-1 group-title="于无声处",第25集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b35dc0c35483450999f4b56feb359a59/850.m3u8
+#EXTINF:-1 group-title="于无声处",第26集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/47ad817ae5ed4c559a3e24f4b40f59f4/850.m3u8
+#EXTINF:-1 group-title="于无声处",第27集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/26f2be8a7c7f4a978d16eb9a719f7948/850.m3u8
+#EXTINF:-1 group-title="于无声处",第28集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a0c31884976445a2bfc9da99f05f25c4/850.m3u8
+#EXTINF:-1 group-title="于无声处",第29集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/86c5edbea8c1445087ee74a97a27e18e/850.m3u8
+#EXTINF:-1 group-title="于无声处",第30集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9a4bed6b4eb84dc293f715bcd67a2a92/850.m3u8
+#EXTINF:-1 group-title="于无声处",第31集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/2daa6d4c3d6440a6a3de8e1edbe425cd/850.m3u8
+#EXTINF:-1 group-title="于无声处",第32集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/fd5d4ab4be8b41eb9f00d22157bc6934/850.m3u8
+#EXTINF:-1 group-title="于无声处",第33集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/21d3a89324ba4fba8ec9455d2dbc813a/850.m3u8
+#EXTINF:-1 group-title="于无声处",第34集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/0a383bb4d0234ecabda7a7d07371cada/850.m3u8
 #EXTINF:-1 group-title="亮剑",第01集
 https://sina.com-h-sina.com/20180730/2370_46bbdb9d/1000k/hls/index.m3u8
 #EXTINF:-1 group-title="亮剑",第02集
@@ -1969,126 +2672,6 @@ https://sina.com-h-sina.com/20180730/2397_e9c3e18a/1000k/hls/index.m3u8
 https://sina.com-h-sina.com/20180730/2398_f8bc9173/1000k/hls/index.m3u8
 #EXTINF:-1 group-title="亮剑",第30集
 https://sina.com-h-sina.com/20180730/2399_0c44cac9/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="老农民",第01集
-https://sina.com-h-sina.com/20181024/21417_5d882c86/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="老农民",第02集
-https://sina.com-h-sina.com/20181024/21418_92c1e865/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="老农民",第03集
-https://sina.com-h-sina.com/20181024/21419_fe00d413/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="老农民",第04集
-https://sina.com-h-sina.com/20181024/21420_f5ca58fb/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="老农民",第05集
-https://sina.com-h-sina.com/20181024/21421_5afbf0bc/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="老农民",第06集
-https://sina.com-h-sina.com/20181024/21422_afa8f9c8/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="老农民",第07集
-https://sina.com-h-sina.com/20181024/21423_2aeafd2d/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="老农民",第08集
-https://sina.com-h-sina.com/20181024/21424_c3c0bbf9/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="老农民",第09集
-https://sina.com-h-sina.com/20181024/21425_adc65d35/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="老农民",第10集
-https://sina.com-h-sina.com/20181024/21426_6ecfdbbc/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="老农民",第11集
-https://sina.com-h-sina.com/20181024/21427_bafd96b2/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="老农民",第12集
-https://sina.com-h-sina.com/20181024/21428_c9d57109/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="老农民",第13集
-https://sina.com-h-sina.com/20181024/21429_f7968f48/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="老农民",第14集
-https://sina.com-h-sina.com/20181024/21430_85229cfa/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="老农民",第15集
-https://sina.com-h-sina.com/20181024/21431_0fca0389/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="老农民",第16集
-https://sina.com-h-sina.com/20181024/21432_473bec8c/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="老农民",第17集
-https://sina.com-h-sina.com/20181024/21433_9d4eaaa0/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="老农民",第18集
-https://sina.com-h-sina.com/20181024/21434_97a36205/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="老农民",第19集
-https://sina.com-h-sina.com/20181024/21435_ea1c3dc1/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="老农民",第20集
-https://sina.com-h-sina.com/20181024/21436_2e3d9aad/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="老农民",第21集
-https://sina.com-h-sina.com/20181024/21437_dad21a0d/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="老农民",第22集
-https://sina.com-h-sina.com/20181024/21438_7dee98c6/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="老农民",第23集
-https://sina.com-h-sina.com/20181024/21439_8ed4d3de/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="老农民",第24集
-https://sina.com-h-sina.com/20181024/21440_917dc954/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="老农民",第25集
-https://sina.com-h-sina.com/20181024/21441_0ac2e155/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="老农民",第26集
-https://sina.com-h-sina.com/20181024/21442_f1c2b0e2/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="老农民",第27集
-https://sina.com-h-sina.com/20181024/21443_aac7c161/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="老农民",第28集
-https://sina.com-h-sina.com/20181024/21444_1a3c2674/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="老农民",第29集
-https://sina.com-h-sina.com/20181024/21445_47496c08/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="老农民",第30集
-https://sina.com-h-sina.com/20181024/21446_c9f7d7ba/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="老农民",第31集
-https://sina.com-h-sina.com/20181024/21447_ce83cb31/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="老农民",第32集
-https://sina.com-h-sina.com/20181024/21448_54b5c051/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="老农民",第33集
-https://sina.com-h-sina.com/20181024/21449_250e714f/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="老农民",第34集
-https://sina.com-h-sina.com/20181024/21450_ccf0db2f/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="老农民",第35集
-https://sina.com-h-sina.com/20181024/21451_1f831af4/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="老农民",第36集
-https://sina.com-h-sina.com/20181024/21452_893dc2f7/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="老农民",第37集
-https://sina.com-h-sina.com/20181024/21453_a574ff2b/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="老农民",第38集
-https://sina.com-h-sina.com/20181024/21454_034ac969/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="老农民",第39集
-https://sina.com-h-sina.com/20181024/21455_63f8f313/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="老农民",第40集
-https://sina.com-h-sina.com/20181024/21456_32cf91df/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="老农民",第41集
-https://sina.com-h-sina.com/20181024/21457_439ac5a9/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="老农民",第42集
-https://sina.com-h-sina.com/20181024/21458_bc9696fa/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="老农民",第43集
-https://sina.com-h-sina.com/20181024/21459_7c42a1a1/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="老农民",第44集
-https://sina.com-h-sina.com/20181024/21460_c6f90067/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="老农民",第45集
-https://sina.com-h-sina.com/20181024/21461_5babca0a/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="老农民",第46集
-https://sina.com-h-sina.com/20181024/21462_3297b96b/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="老农民",第47集
-https://sina.com-h-sina.com/20181024/21463_de5152d8/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="老农民",第48集
-https://sina.com-h-sina.com/20181024/21464_764feb07/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="老农民",第49集
-https://sina.com-h-sina.com/20181024/21085_ca618ba2/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="老农民",第50集
-https://sina.com-h-sina.com/20181024/21092_a9ab7b6d/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="老农民",第51集
-https://sina.com-h-sina.com/20181024/21099_379de3ca/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="老农民",第52集
-https://sina.com-h-sina.com/20181024/21106_132b4b28/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="老农民",第53集
-https://sina.com-h-sina.com/20181024/21113_64bb00bc/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="老农民",第54集
-https://sina.com-h-sina.com/20181024/21120_25ff0a65/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="老农民",第55集
-https://sina.com-h-sina.com/20181024/21128_521c964e/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="老农民",第56集
-https://sina.com-h-sina.com/20181024/21137_ca8933a0/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="老农民",第57集
-https://sina.com-h-sina.com/20181024/21146_a10512ab/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="老农民",第58集
-https://sina.com-h-sina.com/20181024/21154_f7654406/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="老农民",第59集
-https://sina.com-h-sina.com/20181024/21163_6ae18af2/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="老农民",第60集
-https://sina.com-h-sina.com/20181024/21172_c2debcc5/1000k/hls/index.m3u8
 #EXTINF:-1 group-title="破局1950",第01集
 http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/782e32e4458f46db95453779bffb0fc0/1200.m3u8
 #EXTINF:-1 group-title="破局1950",第02集
@@ -2181,6 +2764,134 @@ http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/2f5e84ae882c422ea91
 http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/9df6135e3fd24ab38a76a3ed4116644a/1200.m3u8
 #EXTINF:-1 group-title="破局1950",第46集
 http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/7f5fffef8b1b4279a36418a11e6d4541/1200.m3u8
+#EXTINF:-1 group-title="激情燃烧的岁月",第01集
+https://iqiyi.cdn25-okzy.com/20200314/185_91c9dc88/1200k/hls/index.m3u8
+#EXTINF:-1 group-title="激情燃烧的岁月",第02集
+https://iqiyi.cdn25-okzy.com/20200314/186_b22fb16b/1200k/hls/index.m3u8
+#EXTINF:-1 group-title="激情燃烧的岁月",第03集
+https://iqiyi.cdn25-okzy.com/20200314/187_40e6ae31/1200k/hls/index.m3u8
+#EXTINF:-1 group-title="激情燃烧的岁月",第04集
+https://iqiyi.cdn25-okzy.com/20200314/188_2972427f/1200k/hls/index.m3u8
+#EXTINF:-1 group-title="激情燃烧的岁月",第05集
+https://iqiyi.cdn25-okzy.com/20200314/189_fa585b4c/1200k/hls/index.m3u8
+#EXTINF:-1 group-title="激情燃烧的岁月",第06集
+https://iqiyi.cdn25-okzy.com/20200314/190_ff911ed7/1200k/hls/index.m3u8
+#EXTINF:-1 group-title="激情燃烧的岁月",第07集
+https://iqiyi.cdn25-okzy.com/20200314/191_562bfe82/1200k/hls/index.m3u8
+#EXTINF:-1 group-title="激情燃烧的岁月",第08集
+https://iqiyi.cdn25-okzy.com/20200314/192_7b6d83cb/1200k/hls/index.m3u8
+#EXTINF:-1 group-title="激情燃烧的岁月",第09集
+https://iqiyi.cdn25-okzy.com/20200314/193_7dcf5b14/1200k/hls/index.m3u8
+#EXTINF:-1 group-title="激情燃烧的岁月",第10集
+https://iqiyi.cdn25-okzy.com/20200314/194_da104b73/1200k/hls/index.m3u8
+#EXTINF:-1 group-title="激情燃烧的岁月",第11集
+https://iqiyi.cdn25-okzy.com/20200314/195_8530f157/1200k/hls/index.m3u8
+#EXTINF:-1 group-title="激情燃烧的岁月",第12集
+https://iqiyi.cdn25-okzy.com/20200314/196_aa7aec23/1200k/hls/index.m3u8
+#EXTINF:-1 group-title="激情燃烧的岁月",第13集
+https://iqiyi.cdn25-okzy.com/20200314/197_123473bd/1200k/hls/index.m3u8
+#EXTINF:-1 group-title="激情燃烧的岁月",第14集
+https://iqiyi.cdn25-okzy.com/20200314/198_d407faa6/1200k/hls/index.m3u8
+#EXTINF:-1 group-title="激情燃烧的岁月",第15集
+https://iqiyi.cdn25-okzy.com/20200314/199_732c6175/1200k/hls/index.m3u8
+#EXTINF:-1 group-title="激情燃烧的岁月",第16集
+https://iqiyi.cdn25-okzy.com/20200314/200_582db62d/1200k/hls/index.m3u8
+#EXTINF:-1 group-title="激情燃烧的岁月",第17集
+https://iqiyi.cdn25-okzy.com/20200314/201_d40eaede/1200k/hls/index.m3u8
+#EXTINF:-1 group-title="激情燃烧的岁月",第18集
+https://iqiyi.cdn25-okzy.com/20200314/202_ccefff5e/1200k/hls/index.m3u8
+#EXTINF:-1 group-title="激情燃烧的岁月",第19集
+https://iqiyi.cdn25-okzy.com/20200314/203_3d0a9544/1200k/hls/index.m3u8
+#EXTINF:-1 group-title="激情燃烧的岁月",第20集
+https://iqiyi.cdn25-okzy.com/20200314/204_9263921d/1200k/hls/index.m3u8
+#EXTINF:-1 group-title="激情燃烧的岁月",第21集
+https://iqiyi.cdn25-okzy.com/20200314/205_bf8784ca/1200k/hls/index.m3u8
+#EXTINF:-1 group-title="激情燃烧的岁月",第22集
+https://iqiyi.cdn25-okzy.com/20200314/206_3a21cbff/1200k/hls/index.m3u8
+#EXTINF:-1 group-title="好先生",第01集
+https://yushou.qitu-zuida.com/20180312/488ROeNW/index.m3u8
+#EXTINF:-1 group-title="好先生",第02集
+https://yushou.qitu-zuida.com/20180312/T2sd5yJM/index.m3u8
+#EXTINF:-1 group-title="好先生",第03集
+https://yushou.qitu-zuida.com/20180312/3l5GS7cU/index.m3u8
+#EXTINF:-1 group-title="好先生",第04集
+https://yushou.qitu-zuida.com/20180312/mtdcO1Qz/index.m3u8
+#EXTINF:-1 group-title="好先生",第05集
+https://yushou.qitu-zuida.com/20180313/TbOEjDgg/index.m3u8
+#EXTINF:-1 group-title="好先生",第06集
+https://yushou.qitu-zuida.com/20180313/S4Axoybd/index.m3u8
+#EXTINF:-1 group-title="好先生",第07集
+https://yushou.qitu-zuida.com/20180313/5FvHWZ4u/index.m3u8
+#EXTINF:-1 group-title="好先生",第08集
+https://yushou.qitu-zuida.com/20180313/SMZiNEKx/index.m3u8
+#EXTINF:-1 group-title="好先生",第09集
+https://yushou.qitu-zuida.com/20180313/7vbeWhRF/index.m3u8
+#EXTINF:-1 group-title="好先生",第10集
+https://yushou.qitu-zuida.com/20180313/bpnLmMgj/index.m3u8
+#EXTINF:-1 group-title="好先生",第11集
+https://yushou.qitu-zuida.com/20180313/K54DHTjj/index.m3u8
+#EXTINF:-1 group-title="好先生",第12集
+https://yushou.qitu-zuida.com/20180313/fzaFzJtc/index.m3u8
+#EXTINF:-1 group-title="好先生",第13集
+https://yushou.qitu-zuida.com/20180313/nGpB48bh/index.m3u8
+#EXTINF:-1 group-title="好先生",第14集
+https://yushou.qitu-zuida.com/20180313/5eHEPe4x/index.m3u8
+#EXTINF:-1 group-title="好先生",第15集
+https://yushou.qitu-zuida.com/20180313/yaos65ti/index.m3u8
+#EXTINF:-1 group-title="好先生",第16集
+https://yushou.qitu-zuida.com/20180313/N7fsW87o/index.m3u8
+#EXTINF:-1 group-title="好先生",第17集
+https://yushou.qitu-zuida.com/20180313/e8HOSMQP/index.m3u8
+#EXTINF:-1 group-title="好先生",第18集
+https://yushou.qitu-zuida.com/20180313/SQ5Pyi2g/index.m3u8
+#EXTINF:-1 group-title="好先生",第19集
+https://yushou.qitu-zuida.com/20180313/9bUWUuMg/index.m3u8
+#EXTINF:-1 group-title="好先生",第20集
+https://yushou.qitu-zuida.com/20180313/tkYj9wqx/index.m3u8
+#EXTINF:-1 group-title="好先生",第21集
+https://yushou.qitu-zuida.com/20180313/cjWPErSn/index.m3u8
+#EXTINF:-1 group-title="好先生",第22集
+https://yushou.qitu-zuida.com/20180313/4WbNQLQc/index.m3u8
+#EXTINF:-1 group-title="好先生",第23集
+https://yushou.qitu-zuida.com/20180313/kcbbZwUR/index.m3u8
+#EXTINF:-1 group-title="好先生",第24集
+https://yushou.qitu-zuida.com/20180313/bHLmaCjY/index.m3u8
+#EXTINF:-1 group-title="好先生",第25集
+https://yushou.qitu-zuida.com/20180313/tYcydWRU/index.m3u8
+#EXTINF:-1 group-title="好先生",第26集
+https://haoa.haozuida.com/20180313/9ikmVu9f/index.m3u8
+#EXTINF:-1 group-title="好先生",第27集
+https://haoa.haozuida.com/20180313/vw1BrZxQ/index.m3u8
+#EXTINF:-1 group-title="好先生",第28集
+https://haoa.haozuida.com/20180313/9nOmzlFl/index.m3u8
+#EXTINF:-1 group-title="好先生",第29集
+https://haoa.haozuida.com/20180313/aFvih4nL/index.m3u8
+#EXTINF:-1 group-title="好先生",第30集
+https://haoa.haozuida.com/20180313/s8zkW6bd/index.m3u8
+#EXTINF:-1 group-title="好先生",第31集
+https://yushou.qitu-zuida.com/20180313/LQpVed3J/index.m3u8
+#EXTINF:-1 group-title="好先生",第32集
+https://yushou.qitu-zuida.com/20180313/LQpVed3J/index.m3u8
+#EXTINF:-1 group-title="好先生",第33集
+https://yushou.qitu-zuida.com/20180313/tO1icgqd/index.m3u8
+#EXTINF:-1 group-title="好先生",第34集
+https://yushou.qitu-zuida.com/20180313/20D7OSxT/index.m3u8
+#EXTINF:-1 group-title="好先生",第35集
+https://yushou.qitu-zuida.com/20180313/TiWkgOBv/index.m3u8
+#EXTINF:-1 group-title="好先生",第36集
+https://yushou.qitu-zuida.com/20180313/NmlYgE0M/index.m3u8
+#EXTINF:-1 group-title="好先生",第37集
+https://yushou.qitu-zuida.com/20180313/Tp1WXmai/index.m3u8
+#EXTINF:-1 group-title="好先生",第38集
+https://yushou.qitu-zuida.com/20180313/QrHXVfCJ/index.m3u8
+#EXTINF:-1 group-title="好先生",第39集
+https://yushou.qitu-zuida.com/20180313/HpjyeCfs/index.m3u8
+#EXTINF:-1 group-title="好先生",第40集
+https://yushou.qitu-zuida.com/20180313/yLFIM9vD/index.m3u8
+#EXTINF:-1 group-title="好先生",第41集
+https://yushou.qitu-zuida.com/20180313/VTurQyvF/index.m3u8
+#EXTINF:-1 group-title="好先生",第42集
+https://haoa.haozuida.com/20180313/NM8OCl3A/index.m3u8
 #EXTINF:-1 group-title="大宅门",第01集
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1c5134fb2bfe4e92e55526b1c906c858/850.m3u8
 #EXTINF:-1 group-title="大宅门",第02集
@@ -2589,3 +3300,1852 @@ http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/289e1d231def46c3a57d
 http://hls.cntv.myalicdn.com/asp/hls/450/0303000a/3/default/42c4e93be64b4598b0ee49bcbb0e6c3f/450.m3u8
 #EXTINF:-1 group-title="人间正道是沧桑",第50集
 http://hls.cntv.myalicdn.com/asp/hls/450/0303000a/3/default/ffb1aa57bd0d4ce6a30270a7d27423d2/450.m3u8
+#EXTINF:-1 group-title="一仆二主",第01集
+https://iqiyi.com-qqcdn.com/20190927/2512_22b35a16/index.m3u8
+#EXTINF:-1 group-title="一仆二主",第02集
+https://iqiyi.com-qqcdn.com/20190927/2513_c27fd33a/index.m3u8
+#EXTINF:-1 group-title="一仆二主",第03集
+https://iqiyi.com-qqcdn.com/20190927/2514_5d54c3e9/index.m3u8
+#EXTINF:-1 group-title="一仆二主",第04集
+https://iqiyi.com-qqcdn.com/20190927/2515_2a389023/index.m3u8
+#EXTINF:-1 group-title="一仆二主",第05集
+https://iqiyi.com-qqcdn.com/20190927/2516_dea768fd/index.m3u8
+#EXTINF:-1 group-title="一仆二主",第06集
+https://iqiyi.com-qqcdn.com/20190927/2517_76432029/index.m3u8
+#EXTINF:-1 group-title="一仆二主",第07集
+https://iqiyi.com-qqcdn.com/20190927/2518_da8af45d/index.m3u8
+#EXTINF:-1 group-title="一仆二主",第08集
+https://iqiyi.com-qqcdn.com/20190927/2519_3ffe3e20/index.m3u8
+#EXTINF:-1 group-title="一仆二主",第09集
+https://iqiyi.com-qqcdn.com/20190927/2520_893a30d3/index.m3u8
+#EXTINF:-1 group-title="一仆二主",第10集
+https://iqiyi.com-qqcdn.com/20190927/2521_ab03f00b/index.m3u8
+#EXTINF:-1 group-title="一仆二主",第11集
+https://iqiyi.com-qqcdn.com/20190927/2522_05bf4174/index.m3u8
+#EXTINF:-1 group-title="一仆二主",第12集
+https://iqiyi.com-qqcdn.com/20190927/2523_010a6c1d/index.m3u8
+#EXTINF:-1 group-title="一仆二主",第13集
+https://iqiyi.com-qqcdn.com/20190927/2524_2c8a2652/index.m3u8
+#EXTINF:-1 group-title="一仆二主",第14集
+https://iqiyi.com-qqcdn.com/20190927/2525_a7cfadb6/index.m3u8
+#EXTINF:-1 group-title="一仆二主",第15集
+https://iqiyi.com-qqcdn.com/20190927/2526_28f733ad/index.m3u8
+#EXTINF:-1 group-title="一仆二主",第16集
+https://iqiyi.com-qqcdn.com/20190927/2527_cade494f/index.m3u8
+#EXTINF:-1 group-title="一仆二主",第17集
+https://iqiyi.com-qqcdn.com/20190927/2528_28963f08/index.m3u8
+#EXTINF:-1 group-title="一仆二主",第18集
+https://iqiyi.com-qqcdn.com/20190927/2529_c640743a/index.m3u8
+#EXTINF:-1 group-title="一仆二主",第19集
+https://iqiyi.com-qqcdn.com/20190927/2530_5cc93e8d/index.m3u8
+#EXTINF:-1 group-title="一仆二主",第20集
+https://iqiyi.com-qqcdn.com/20190927/2531_b745b97f/index.m3u8
+#EXTINF:-1 group-title="一仆二主",第21集
+https://iqiyi.com-qqcdn.com/20190927/2532_c7ab01d6/index.m3u8
+#EXTINF:-1 group-title="一仆二主",第22集
+https://iqiyi.com-qqcdn.com/20190927/2533_1bc8681a/index.m3u8
+#EXTINF:-1 group-title="一仆二主",第23集
+https://iqiyi.com-qqcdn.com/20190927/2534_99b30512/index.m3u8
+#EXTINF:-1 group-title="一仆二主",第24集
+https://iqiyi.com-qqcdn.com/20190927/2535_d5648dbc/index.m3u8
+#EXTINF:-1 group-title="一仆二主",第25集
+https://iqiyi.com-qqcdn.com/20190927/2536_f5fae562/index.m3u8
+#EXTINF:-1 group-title="一仆二主",第26集
+https://iqiyi.com-qqcdn.com/20190927/2537_4dd49f8c/index.m3u8
+#EXTINF:-1 group-title="一仆二主",第27集
+https://iqiyi.com-qqcdn.com/20190927/2538_3daac60c/index.m3u8
+#EXTINF:-1 group-title="一仆二主",第28集
+https://iqiyi.com-qqcdn.com/20190927/2539_28264d78/index.m3u8
+#EXTINF:-1 group-title="一仆二主",第29集
+https://iqiyi.com-qqcdn.com/20190927/2540_50ec7c21/index.m3u8
+#EXTINF:-1 group-title="一仆二主",第30集
+https://iqiyi.com-qqcdn.com/20190927/2541_da6ef81a/index.m3u8
+#EXTINF:-1 group-title="一仆二主",第31集
+https://iqiyi.com-qqcdn.com/20190927/2542_d8df0ffd/index.m3u8
+#EXTINF:-1 group-title="一仆二主",第32集
+https://iqiyi.com-qqcdn.com/20190927/2543_e80490bb/index.m3u8
+#EXTINF:-1 group-title="一仆二主",第33集
+https://iqiyi.com-qqcdn.com/20190927/2544_0313fe20/index.m3u8
+#EXTINF:-1 group-title="一仆二主",第34集
+https://iqiyi.com-qqcdn.com/20190927/2545_d070c3ef/index.m3u8
+#EXTINF:-1 group-title="一仆二主",第35集
+https://iqiyi.com-qqcdn.com/20190927/2546_9f5b69eb/index.m3u8
+#EXTINF:-1 group-title="一仆二主",第36集
+https://iqiyi.com-qqcdn.com/20190927/2547_36db9caf/index.m3u8
+#EXTINF:-1 group-title="一仆二主",第37集
+https://iqiyi.com-qqcdn.com/20190927/2548_e271c6a7/index.m3u8
+#EXTINF:-1 group-title="一仆二主",第38集
+https://iqiyi.com-qqcdn.com/20190927/2549_3cc3e4cb/index.m3u8
+#EXTINF:-1 group-title="一仆二主",第39集
+https://iqiyi.com-qqcdn.com/20190927/2550_d19e24bf/index.m3u8
+#EXTINF:-1 group-title="一仆二主",第40集
+https://iqiyi.com-qqcdn.com/20190927/2551_4e22fcb3/index.m3u8
+#EXTINF:-1 group-title="一仆二主",第41集
+https://iqiyi.com-qqcdn.com/20190927/2552_befd6d1b/index.m3u8
+#EXTINF:-1 group-title="一仆二主",第42集
+https://iqiyi.com-qqcdn.com/20190927/2553_5211f18c/index.m3u8
+#EXTINF:-1 group-title="一仆二主",第43集
+https://iqiyi.com-qqcdn.com/20190927/2554_41d6fe2f/index.m3u8
+#EXTINF:-1 group-title="面具",第01集
+https://yushou.qitu-zuida.com/20180706/8896_c4daa937/index.m3u8
+#EXTINF:-1 group-title="面具",第02集
+https://yushou.qitu-zuida.com/20180706/8895_593bd856/index.m3u8
+#EXTINF:-1 group-title="面具",第03集
+https://yushou.qitu-zuida.com/20180706/8894_ec561301/index.m3u8
+#EXTINF:-1 group-title="面具",第04集
+https://yushou.qitu-zuida.com/20180706/8893_76b2f69a/index.m3u8
+#EXTINF:-1 group-title="面具",第05集
+https://yushou.qitu-zuida.com/20180706/8892_05017608/index.m3u8
+#EXTINF:-1 group-title="面具",第06集
+https://yushou.qitu-zuida.com/20180706/8891_df21ec08/index.m3u8
+#EXTINF:-1 group-title="面具",第07集
+https://yushou.qitu-zuida.com/20180709/8992_2bc94d90/index.m3u8
+#EXTINF:-1 group-title="面具",第08集
+https://yushou.qitu-zuida.com/20180709/8991_23751b35/index.m3u8
+#EXTINF:-1 group-title="面具",第09集
+https://yushou.qitu-zuida.com/20180709/8990_8dbcb2bb/index.m3u8
+#EXTINF:-1 group-title="面具",第10集
+https://yushou.qitu-zuida.com/20180709/8989_6a2da327/index.m3u8
+#EXTINF:-1 group-title="面具",第11集
+https://yushou.qitu-zuida.com/20180709/8988_96986aa9/index.m3u8
+#EXTINF:-1 group-title="面具",第12集
+https://yushou.qitu-zuida.com/20180709/8987_4922659a/index.m3u8
+#EXTINF:-1 group-title="面具",第13集
+https://yushou.qitu-zuida.com/20180712/9145_8b48759c/index.m3u8
+#EXTINF:-1 group-title="面具",第14集
+https://yushou.qitu-zuida.com/20180712/9144_d5fe3f0e/index.m3u8
+#EXTINF:-1 group-title="面具",第15集
+https://yushou.qitu-zuida.com/20180712/9143_ad31dc6e/index.m3u8
+#EXTINF:-1 group-title="面具",第16集
+https://yushou.qitu-zuida.com/20180712/9142_3b52ac2a/index.m3u8
+#EXTINF:-1 group-title="面具",第17集
+https://yushou.qitu-zuida.com/20180712/9141_af8c0449/index.m3u8
+#EXTINF:-1 group-title="面具",第18集
+https://yushou.qitu-zuida.com/20180712/9140_47fb6f86/index.m3u8
+#EXTINF:-1 group-title="面具",第19集
+https://yushou.qitu-zuida.com/20180716/9417_b802fc6e/index.m3u8
+#EXTINF:-1 group-title="面具",第20集
+https://yushou.qitu-zuida.com/20180716/9411_d71476a1/index.m3u8
+#EXTINF:-1 group-title="面具",第21集
+https://yushou.qitu-zuida.com/20180716/9410_4cacc0b3/index.m3u8
+#EXTINF:-1 group-title="面具",第22集
+https://yushou.qitu-zuida.com/20180716/9409_4161af57/index.m3u8
+#EXTINF:-1 group-title="面具",第23集
+https://yushou.qitu-zuida.com/20180716/9408_f6abdb3b/index.m3u8
+#EXTINF:-1 group-title="面具",第24集
+https://yushou.qitu-zuida.com/20180716/9416_b60a33fd/index.m3u8
+#EXTINF:-1 group-title="面具",第25集
+https://yushou.qitu-zuida.com/20180719/9604_e469f8ee/index.m3u8
+#EXTINF:-1 group-title="面具",第26集
+https://yushou.qitu-zuida.com/20180719/9603_2b3fba9e/index.m3u8
+#EXTINF:-1 group-title="面具",第27集
+https://yushou.qitu-zuida.com/20180719/9602_1aa01dd7/index.m3u8
+#EXTINF:-1 group-title="面具",第28集
+https://yushou.qitu-zuida.com/20180719/9601_5f2f3310/index.m3u8
+#EXTINF:-1 group-title="面具",第29集
+https://yushou.qitu-zuida.com/20180719/9600_2da98670/index.m3u8
+#EXTINF:-1 group-title="面具",第30集
+https://yushou.qitu-zuida.com/20180719/9599_78a3a626/index.m3u8
+#EXTINF:-1 group-title="面具",第31集
+https://leshi.cdn-zuyida.com/20180722/30471_d0bf01f5/index.m3u8
+#EXTINF:-1 group-title="面具",第32集
+https://leshi.cdn-zuyida.com/20180722/30472_d8349fbe/index.m3u8
+#EXTINF:-1 group-title="面具",第33集
+https://leshi.cdn-zuyida.com/20180722/30473_fa6e9d6c/index.m3u8
+#EXTINF:-1 group-title="面具",第34集
+https://leshi.cdn-zuyida.com/20180722/30474_41fd6826/index.m3u8
+#EXTINF:-1 group-title="面具",第35集
+https://leshi.cdn-zuyida.com/20180722/30475_1bd2a14d/index.m3u8
+#EXTINF:-1 group-title="面具",第36集
+https://leshi.cdn-zuyida.com/20180722/30476_d402c9c7/index.m3u8
+#EXTINF:-1 group-title="面具",第37集
+https://yushou.qitu-zuida.com/20180725/10006_a0e25834/index.m3u8
+#EXTINF:-1 group-title="面具",第38集
+https://yushou.qitu-zuida.com/20180725/10005_c53bb1c1/index.m3u8
+#EXTINF:-1 group-title="面具",第39集
+https://yushou.qitu-zuida.com/20180725/10004_a72d2281/index.m3u8
+#EXTINF:-1 group-title="面具",第40集
+https://yushou.qitu-zuida.com/20180725/10003_9ebb663b/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号",第01集
+https://mei.huazuida.com/20200118/22771_0948038e/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号",第02集
+https://mei.huazuida.com/20200118/22770_3af68554/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号",第03集
+https://mei.huazuida.com/20200118/22769_c349edbb/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号",第04集
+https://mei.huazuida.com/20200118/22768_97953af0/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号",第05集
+https://mei.huazuida.com/20200118/22767_f3dc35a7/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号",第06集
+https://mei.huazuida.com/20200118/22766_dd49203d/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号",第07集
+https://mei.huazuida.com/20200118/22765_49686767/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号",第08集
+https://mei.huazuida.com/20200118/22764_e2e58cbc/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号",第09集
+https://mei.huazuida.com/20200118/22763_330ffe08/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号",第10集
+https://mei.huazuida.com/20200118/22762_3e3c14d2/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号",第11集
+https://mei.huazuida.com/20200118/22761_6d37f25a/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号",第12集
+https://mei.huazuida.com/20200118/22760_1e44b241/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号",第13集
+https://mei.huazuida.com/20200118/22759_cf9e26f3/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号",第14集
+https://mei.huazuida.com/20200118/22758_68445c9d/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号",第15集
+https://mei.huazuida.com/20200118/22757_5e843dc2/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号",第16集
+https://mei.huazuida.com/20200118/22756_80983369/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号",第17集
+https://mei.huazuida.com/20200118/22755_0e862299/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号",第18集
+https://mei.huazuida.com/20200118/22754_4fb366fb/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号",第19集
+https://mei.huazuida.com/20200118/22753_96237de7/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号",第20集
+https://mei.huazuida.com/20200118/22752_ce8a6fa8/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号",第21集
+https://mei.huazuida.com/20200118/22751_f9979b14/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号",第22集
+https://mei.huazuida.com/20200118/22750_bfecbf1f/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号",第23集
+https://mei.huazuida.com/20200118/22749_6d010371/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号",第24集
+https://mei.huazuida.com/20200118/22748_929d9fa8/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号",第25集
+https://mei.huazuida.com/20200118/22747_c3ed78a5/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号",第26集
+https://mei.huazuida.com/20200118/22746_a63b5716/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号",第27集
+https://mei.huazuida.com/20200118/22745_f0abf16f/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号",第28集
+https://mei.huazuida.com/20200118/22744_19c709db/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号",第29集
+https://mei.huazuida.com/20200118/22743_36e971cf/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号",第30集
+https://mei.huazuida.com/20200118/22742_5d756180/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号",第31集
+https://mei.huazuida.com/20200118/22741_469d8c77/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号",第32集
+https://mei.huazuida.com/20200118/22740_310e1fa7/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号",第33集
+https://mei.huazuida.com/20200118/22739_caf78098/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号",第34集
+https://mei.huazuida.com/20200118/22738_6f286939/index.m3u8
+#EXTINF:-1 group-title="潜伏",第01集
+https://wuji.zhulong-zuida.com/20191017/11165_5ca25934/index.m3u8
+#EXTINF:-1 group-title="潜伏",第02集
+https://wuji.zhulong-zuida.com/20191017/11164_3a5d344a/index.m3u8
+#EXTINF:-1 group-title="潜伏",第03集
+https://wuji.zhulong-zuida.com/20191017/11163_a79ae2e1/index.m3u8
+#EXTINF:-1 group-title="潜伏",第04集
+https://wuji.zhulong-zuida.com/20191017/11162_7ebbd92b/index.m3u8
+#EXTINF:-1 group-title="潜伏",第05集
+https://wuji.zhulong-zuida.com/20191017/11161_a88c3429/index.m3u8
+#EXTINF:-1 group-title="潜伏",第06集
+https://wuji.zhulong-zuida.com/20191017/11160_876aa158/index.m3u8
+#EXTINF:-1 group-title="潜伏",第07集
+https://wuji.zhulong-zuida.com/20191017/11159_e08cea81/index.m3u8
+#EXTINF:-1 group-title="潜伏",第08集
+https://wuji.zhulong-zuida.com/20191017/11158_4555e057/index.m3u8
+#EXTINF:-1 group-title="潜伏",第09集
+https://wuji.zhulong-zuida.com/20191017/11157_083a24c6/index.m3u8
+#EXTINF:-1 group-title="潜伏",第10集
+https://wuji.zhulong-zuida.com/20191017/11156_1e06c691/index.m3u8
+#EXTINF:-1 group-title="潜伏",第11集
+https://wuji.zhulong-zuida.com/20191017/11155_09b64f9d/index.m3u8
+#EXTINF:-1 group-title="潜伏",第12集
+https://wuji.zhulong-zuida.com/20191017/11154_9063ba96/index.m3u8
+#EXTINF:-1 group-title="潜伏",第13集
+https://wuji.zhulong-zuida.com/20191017/11153_aa8a2b56/index.m3u8
+#EXTINF:-1 group-title="潜伏",第14集
+https://wuji.zhulong-zuida.com/20191017/11152_c117a35b/index.m3u8
+#EXTINF:-1 group-title="潜伏",第15集
+https://wuji.zhulong-zuida.com/20191017/11151_3e52058a/index.m3u8
+#EXTINF:-1 group-title="潜伏",第16集
+https://wuji.zhulong-zuida.com/20191017/11150_d160a95c/index.m3u8
+#EXTINF:-1 group-title="潜伏",第17集
+https://wuji.zhulong-zuida.com/20191017/11149_00380a8b/index.m3u8
+#EXTINF:-1 group-title="潜伏",第18集
+https://wuji.zhulong-zuida.com/20191017/11148_cc601bfe/index.m3u8
+#EXTINF:-1 group-title="潜伏",第19集
+https://wuji.zhulong-zuida.com/20191017/11147_43cbd45b/index.m3u8
+#EXTINF:-1 group-title="潜伏",第20集
+https://wuji.zhulong-zuida.com/20191017/11146_da2ae89c/index.m3u8
+#EXTINF:-1 group-title="潜伏",第21集
+https://wuji.zhulong-zuida.com/20191017/11145_6b676d1a/index.m3u8
+#EXTINF:-1 group-title="潜伏",第22集
+https://wuji.zhulong-zuida.com/20191017/11144_fda5d922/index.m3u8
+#EXTINF:-1 group-title="潜伏",第23集
+https://wuji.zhulong-zuida.com/20191017/11143_bdea2f2a/index.m3u8
+#EXTINF:-1 group-title="潜伏",第24集
+https://wuji.zhulong-zuida.com/20191017/11142_e8a77a7b/index.m3u8
+#EXTINF:-1 group-title="潜伏",第25集
+https://wuji.zhulong-zuida.com/20191017/11141_bd1ae0aa/index.m3u8
+#EXTINF:-1 group-title="潜伏",第26集
+https://wuji.zhulong-zuida.com/20191017/11140_d3353d52/index.m3u8
+#EXTINF:-1 group-title="潜伏",第27集
+https://wuji.zhulong-zuida.com/20191017/11139_c6e50074/index.m3u8
+#EXTINF:-1 group-title="潜伏",第28集
+https://wuji.zhulong-zuida.com/20191017/11138_88b421ef/index.m3u8
+#EXTINF:-1 group-title="潜伏",第29集
+https://wuji.zhulong-zuida.com/20191017/11137_fd3abb78/index.m3u8
+#EXTINF:-1 group-title="潜伏",第30集
+https://wuji.zhulong-zuida.com/20191017/11136_66aef616/index.m3u8
+#EXTINF:-1 group-title="悬崖",第01集
+http://www.7639616.com/hls/20191015/4d7f6569c57fa0978b9d1c1820bf95d8/1571125199/index.m3u8
+#EXTINF:-1 group-title="悬崖",第02集
+http://www.7639616.com/hls/20191015/c37a395067005d48005f31721a0cf328/1571129670/index.m3u8
+#EXTINF:-1 group-title="悬崖",第03集
+http://www.7639616.com/hls/20191015/c2129ee0441f1e194c083c1ecb8042ab/1571133688/index.m3u8
+#EXTINF:-1 group-title="悬崖",第04集
+http://www.7639616.com/hls/20191015/85703e67ee8af49f0616dc55f2617d98/1571137674/index.m3u8
+#EXTINF:-1 group-title="悬崖",第05集
+http://www.7639616.com/hls/20191015/5eaa7ba4ff5a4ef681deeaf61988b248/1571138458/index.m3u8
+#EXTINF:-1 group-title="悬崖",第06集
+http://www.7639616.com/hls/20191015/4b2e14135dcf9dbd003400ffe37120e1/1571138825/index.m3u8
+#EXTINF:-1 group-title="悬崖",第07集
+http://www.7639616.com/hls/20191015/124ff736fcb533f3751b44fb92928425/1571139213/index.m3u8
+#EXTINF:-1 group-title="悬崖",第08集
+http://www.7639616.com/hls/20191015/78fad9c4774f03f4f3b20d822e3493a5/1571139613/index.m3u8
+#EXTINF:-1 group-title="悬崖",第09集
+http://www.7639616.com/hls/20191015/af1519843876c6d89c63bc4ac7fe04b6/1571139999/index.m3u8
+#EXTINF:-1 group-title="悬崖",第10集
+http://www.7639616.com/hls/20191015/9b3385136430d8a3317438aeca395392/1571125561/index.m3u8
+#EXTINF:-1 group-title="悬崖",第11集
+http://www.7639616.com/hls/20191015/fa544845dd5c68d7c77b26ad5a7511a9/1571125921/index.m3u8
+#EXTINF:-1 group-title="悬崖",第12集
+http://www.7639616.com/hls/20191015/9ba0bb6977d4f2f29b09ad63773e6e31/1571126282/index.m3u8
+#EXTINF:-1 group-title="悬崖",第13集
+http://www.7639616.com/hls/20191015/11b09f474579fc64eb12b345641b3f57/1571126648/index.m3u8
+#EXTINF:-1 group-title="悬崖",第14集
+http://www.7639616.com/hls/20191015/22fa3d53cd686330e59553ea65e3a85b/1571126997/index.m3u8
+#EXTINF:-1 group-title="悬崖",第15集
+http://www.7639616.com/hls/20191015/8d1146fae2686da4748868c6c59f1b6c/1571127845/index.m3u8
+#EXTINF:-1 group-title="悬崖",第16集
+http://www.7639616.com/hls/20191015/a110e2c149243e77f90d0ffd20b6598d/1571128195/index.m3u8
+#EXTINF:-1 group-title="悬崖",第17集
+http://www.7639616.com/hls/20191015/1014637cc9fd2cd46af2d24ddc320cab/1571128551/index.m3u8
+#EXTINF:-1 group-title="悬崖",第18集
+http://www.7639616.com/hls/20191015/73c19cd0594ff6d42448655e44612fc2/1571128905/index.m3u8
+#EXTINF:-1 group-title="悬崖",第19集
+http://www.7639616.com/hls/20191015/d5e49c9a1a566778cb8b77ebe881b8a8/1571129319/index.m3u8
+#EXTINF:-1 group-title="悬崖",第20集
+http://www.7639616.com/hls/20191015/8e4cba43cf33c93f4010f401e9129023/1571130053/index.m3u8
+#EXTINF:-1 group-title="悬崖",第21集
+http://www.7639616.com/hls/20191015/a3c05f047bd02c8bf05808d8a6ac6a49/1571130420/index.m3u8
+#EXTINF:-1 group-title="悬崖",第22集
+http://www.7639616.com/hls/20191015/b26dd8ee9925ef611403f052a1f0785c/1571130799/index.m3u8
+#EXTINF:-1 group-title="悬崖",第23集
+http://www.7639616.com/hls/20191015/f6487f91743e2b327049d66ce4d3d49b/1571131163/index.m3u8
+#EXTINF:-1 group-title="悬崖",第24集
+http://www.7639616.com/hls/20191015/87abc04995c3bcbded57b83264f82b73/1571131527/index.m3u8
+#EXTINF:-1 group-title="悬崖",第25集
+http://www.7639616.com/hls/20191015/3c08f58b23d3a1ad29d806ddf804a63d/1571131880/index.m3u8
+#EXTINF:-1 group-title="悬崖",第26集
+http://www.7639616.com/hls/20191015/f495dd8549c838a0ba3213de777661d8/1571132238/index.m3u8
+#EXTINF:-1 group-title="悬崖",第27集
+http://www.7639616.com/hls/20191015/15003f7b0dfd4b953ea6a531547be108/1571132603/index.m3u8
+#EXTINF:-1 group-title="悬崖",第28集
+http://www.7639616.com/hls/20191015/82fe08aa10cd09ba7c207deed67a9f37/1571132967/index.m3u8
+#EXTINF:-1 group-title="悬崖",第29集
+http://www.7639616.com/hls/20191015/492e6d0662fcf50ef0d895d3383e679a/1571133328/index.m3u8
+#EXTINF:-1 group-title="悬崖",第30集
+http://www.7639616.com/hls/20191015/dc5cbe9b935f0d57b999a19ac405cb8e/1571134071/index.m3u8
+#EXTINF:-1 group-title="悬崖",第31集
+http://www.7639616.com/hls/20191015/19344fed95a15c8c5252acbd3eba0b2b/1571134438/index.m3u8
+#EXTINF:-1 group-title="悬崖",第32集
+http://www.7639616.com/hls/20191015/fa2b0f8233385fe16ddb687ec6ae1743/1571134794/index.m3u8
+#EXTINF:-1 group-title="悬崖",第33集
+http://www.7639616.com/hls/20191015/54d994270d16db4a858cb4df2884b0fd/1571135145/index.m3u8
+#EXTINF:-1 group-title="悬崖",第34集
+http://www.7639616.com/hls/20191015/ec78bd5c795c8b0fcbaefb51a70ddab6/1571135482/index.m3u8
+#EXTINF:-1 group-title="悬崖",第35集
+http://www.7639616.com/hls/20191015/d995280d4801117d2392741b84aa06e6/1571135842/index.m3u8
+#EXTINF:-1 group-title="悬崖",第36集
+http://www.7639616.com/hls/20191015/df1dbf62afcd7c0ff0e1764d6165a9f0/1571136210/index.m3u8
+#EXTINF:-1 group-title="悬崖",第37集
+http://www.7639616.com/hls/20191015/ed98b236f53cffcc7acefe97c51e310f/1571136559/index.m3u8
+#EXTINF:-1 group-title="悬崖",第38集
+http://www.7639616.com/hls/20191015/da4180e98a5da2ee7a43308f51177ceb/1571136916/index.m3u8
+#EXTINF:-1 group-title="悬崖",第39集
+http://www.7639616.com/hls/20191015/6762b75b7d9f5c87cda492f3cb377ba6/1571137299/index.m3u8
+#EXTINF:-1 group-title="悬崖",第40集
+http://www.7639616.com/hls/20191015/e6f6f27f48079cbad67ec6a8d19658ad/1571138072/index.m3u8
+#EXTINF:-1 group-title="风筝",第01集
+https://yiyi.55zuiday.com/20171217/yniNecKp/index.m3u8
+#EXTINF:-1 group-title="风筝",第02集
+https://yiyi.55zuiday.com/20171218/dCDmlqmZ/index.m3u8
+#EXTINF:-1 group-title="风筝",第03集
+https://yiyi.55zuiday.com/20171218/Ug1hdePf/index.m3u8
+#EXTINF:-1 group-title="风筝",第04集
+https://yiyi.55zuiday.com/20171219/sI1jT6yR/index.m3u8
+#EXTINF:-1 group-title="风筝",第05集
+https://yiyi.55zuiday.com/20171219/4IDbyt7t/index.m3u8
+#EXTINF:-1 group-title="风筝",第06集
+https://yiyi.55zuiday.com/20171220/cWZTllrh/index.m3u8
+#EXTINF:-1 group-title="风筝",第07集
+https://yiyi.55zuiday.com/20171220/zrym13eG/index.m3u8
+#EXTINF:-1 group-title="风筝",第08集
+https://leshi.cdn-zuyida.com/20171222/Rcvab40a/index.m3u8
+#EXTINF:-1 group-title="风筝",第09集
+https://leshi.cdn-zuyida.com/20171222/4e6fmEhm/index.m3u8
+#EXTINF:-1 group-title="风筝",第10集
+https://leshi.cdn-zuyida.com/20171223/TCn2kLR0/index.m3u8
+#EXTINF:-1 group-title="风筝",第11集
+https://leshi.cdn-zuyida.com/20171223/fW8gC2QN/index.m3u8
+#EXTINF:-1 group-title="风筝",第12集
+https://leshi.cdn-zuyida.com/20171224/8Mc9BjAH/index.m3u8
+#EXTINF:-1 group-title="风筝",第13集
+https://leshi.cdn-zuyida.com/20171225/ZbvLzZ4K/index.m3u8
+#EXTINF:-1 group-title="风筝",第14集
+https://leshi.cdn-zuyida.com/20171225/Asgpd2sO/index.m3u8
+#EXTINF:-1 group-title="风筝",第15集
+https://leshi.cdn-zuyida.com/20171226/TrEufi9i/index.m3u8
+#EXTINF:-1 group-title="风筝",第16集
+https://leshi.cdn-zuyida.com/20171226/WJMWjEs6/index.m3u8
+#EXTINF:-1 group-title="风筝",第17集
+https://leshi.cdn-zuyida.com/20171227/rF1YKfKX/index.m3u8
+#EXTINF:-1 group-title="风筝",第18集
+https://leshi.cdn-zuyida.com/20171227/ZPJBcDqo/index.m3u8
+#EXTINF:-1 group-title="风筝",第19集
+https://haoa.haozuida.com/20171227/gVmAh09G/index.m3u8
+#EXTINF:-1 group-title="风筝",第20集
+https://haoa.haozuida.com/20171227/LWsBWBOn/index.m3u8
+#EXTINF:-1 group-title="风筝",第21集
+https://leshi.cdn-zuyida.com/20171228/rEHto9t5/index.m3u8
+#EXTINF:-1 group-title="风筝",第22集
+https://haoa.haozuida.com/20171228/Bh4y9JIK/index.m3u8
+#EXTINF:-1 group-title="风筝",第23集
+https://leshi.cdn-zuyida.com/20171229/Wj06pdzk/index.m3u8
+#EXTINF:-1 group-title="风筝",第24集
+https://leshi.cdn-zuyida.com/20171230/QKgCMVBi/index.m3u8
+#EXTINF:-1 group-title="风筝",第25集
+https://leshi.cdn-zuyida.com/20171231/A7DakRVN/index.m3u8
+#EXTINF:-1 group-title="风筝",第26集
+https://haoa.haozuida.com/20180101/i9rkocY6/index.m3u8
+#EXTINF:-1 group-title="风筝",第27集
+https://haoa.haozuida.com/20180101/zBXXswuw/index.m3u8
+#EXTINF:-1 group-title="风筝",第28集
+https://leshi.cdn-zuyida.com/20180103/rvNp7jW1/index.m3u8
+#EXTINF:-1 group-title="风筝",第29集
+https://leshi.cdn-zuyida.com/20180103/4vEtLBI3/index.m3u8
+#EXTINF:-1 group-title="风筝",第30集
+https://haoa.haozuida.com/20180103/0gPME8X9/index.m3u8
+#EXTINF:-1 group-title="风筝",第31集
+https://haoa.haozuida.com/20180103/HLwON4de/index.m3u8
+#EXTINF:-1 group-title="风筝",第32集
+https://haoa.haozuida.com/20180104/hXT99Swr/index.m3u8
+#EXTINF:-1 group-title="风筝",第33集
+https://leshi.cdn-zuyida.com/20180105/WB90xlqi/index.m3u8
+#EXTINF:-1 group-title="风筝",第34集
+https://leshi.cdn-zuyida.com/20180106/vxRy7gNp/index.m3u8
+#EXTINF:-1 group-title="风筝",第35集
+https://leshi.cdn-zuyida.com/20180106/KNoiUV6Y/index.m3u8
+#EXTINF:-1 group-title="风筝",第36集
+https://haoa.haozuida.com/20180106/7aoOWVi0/index.m3u8
+#EXTINF:-1 group-title="风筝",第37集
+https://haoa.haozuida.com/20180107/CnN9uuQb/index.m3u8
+#EXTINF:-1 group-title="风筝",第38集
+https://haoa.haozuida.com/20180107/WIQFMsWO/index.m3u8
+#EXTINF:-1 group-title="风筝",第39集
+https://haoa.haozuida.com/20180108/zmLLQNIg/index.m3u8
+#EXTINF:-1 group-title="风筝",第40集
+https://haoa.haozuida.com/20180108/0e8LShpH/index.m3u8
+#EXTINF:-1 group-title="风筝",第41集
+https://haoa.haozuida.com/20180109/e0nAnlbU/index.m3u8
+#EXTINF:-1 group-title="风筝",第42集
+https://haoa.haozuida.com/20180109/Y0fKmc47/index.m3u8
+#EXTINF:-1 group-title="风筝",第43集
+https://leshi.cdn-zuyida.com/20180111/5c207FzU/index.m3u8
+#EXTINF:-1 group-title="风筝",第44集
+https://leshi.cdn-zuyida.com/20180111/CsXK6qte/index.m3u8
+#EXTINF:-1 group-title="风筝",第45集
+https://haoa.haozuida.com/20180111/LYW8fQ8s/index.m3u8
+#EXTINF:-1 group-title="风筝",第46集
+https://haoa.haozuida.com/20180111/kuEN4nvT/index.m3u8
+#EXTINF:-1 group-title="历史的天空",第01集
+https://b.mhkuaibo.com/20200326/hoPX6j6c/index.m3u8
+#EXTINF:-1 group-title="历史的天空",第02集
+https://b.mhkuaibo.com/20200326/KE4uGbQj/index.m3u8
+#EXTINF:-1 group-title="历史的天空",第03集
+https://b.mhkuaibo.com/20200326/sdynqStU/index.m3u8
+#EXTINF:-1 group-title="历史的天空",第04集
+https://b.mhkuaibo.com/20200326/7Jq47RsO/index.m3u8
+#EXTINF:-1 group-title="历史的天空",第05集
+https://b.mhkuaibo.com/20200326/YgzOyDgN/index.m3u8
+#EXTINF:-1 group-title="历史的天空",第06集
+https://b.mhkuaibo.com/20200326/pvZn9xe0/index.m3u8
+#EXTINF:-1 group-title="历史的天空",第07集
+https://b.mhkuaibo.com/20200326/FLLlZx6f/index.m3u8
+#EXTINF:-1 group-title="历史的天空",第08集
+https://b.mhkuaibo.com/20200326/JJEMIg8q/index.m3u8
+#EXTINF:-1 group-title="历史的天空",第09集
+https://b.mhkuaibo.com/20200326/H5Bo0Iw2/index.m3u8
+#EXTINF:-1 group-title="历史的天空",第10集
+https://b.mhkuaibo.com/20200326/QcXLOvps/index.m3u8
+#EXTINF:-1 group-title="历史的天空",第11集
+https://b.mhkuaibo.com/20200326/zf7RMwM4/index.m3u8
+#EXTINF:-1 group-title="历史的天空",第12集
+https://b.mhkuaibo.com/20200326/rUi8fzqx/index.m3u8
+#EXTINF:-1 group-title="历史的天空",第13集
+https://b.mhkuaibo.com/20200326/R9jmAUBU/index.m3u8
+#EXTINF:-1 group-title="历史的天空",第14集
+https://b.mhkuaibo.com/20200326/3EfZbVTv/index.m3u8
+#EXTINF:-1 group-title="历史的天空",第15集
+https://b.mhkuaibo.com/20200326/Og0D2Iy8/index.m3u8
+#EXTINF:-1 group-title="历史的天空",第16集
+https://b.mhkuaibo.com/20200326/dDMHWvLf/index.m3u8
+#EXTINF:-1 group-title="历史的天空",第17集
+https://b.mhkuaibo.com/20200326/ozI8dP85/index.m3u8
+#EXTINF:-1 group-title="历史的天空",第18集
+https://b.mhkuaibo.com/20200326/NoD3RBD5/index.m3u8
+#EXTINF:-1 group-title="历史的天空",第19集
+https://b.mhkuaibo.com/20200326/mQgtaISX/index.m3u8
+#EXTINF:-1 group-title="历史的天空",第20集
+https://b.mhkuaibo.com/20200326/j0CvylUy/index.m3u8
+#EXTINF:-1 group-title="历史的天空",第21集
+https://b.mhkuaibo.com/20200326/ZkBU33gZ/index.m3u8
+#EXTINF:-1 group-title="历史的天空",第22集
+https://b.mhkuaibo.com/20200326/ea5kYdGz/index.m3u8
+#EXTINF:-1 group-title="历史的天空",第23集
+https://b.mhkuaibo.com/20200326/xpeuaMJQ/index.m3u8
+#EXTINF:-1 group-title="历史的天空",第24集
+https://b.mhkuaibo.com/20200326/uGAjzUZX/index.m3u8
+#EXTINF:-1 group-title="历史的天空",第25集
+https://b.mhkuaibo.com/20200326/j9hfVgYz/index.m3u8
+#EXTINF:-1 group-title="历史的天空",第26集
+https://b.mhkuaibo.com/20200326/zbEjUNxD/index.m3u8
+#EXTINF:-1 group-title="历史的天空",第27集
+https://b.mhkuaibo.com/20200326/uM7gaJm5/index.m3u8
+#EXTINF:-1 group-title="历史的天空",第28集
+https://b.mhkuaibo.com/20200326/BCQtcryf/index.m3u8
+#EXTINF:-1 group-title="历史的天空",第29集
+https://b.mhkuaibo.com/20200326/bMEqEjWq/index.m3u8
+#EXTINF:-1 group-title="历史的天空",第30集
+https://b.mhkuaibo.com/20200326/wVIZGaQ7/index.m3u8
+#EXTINF:-1 group-title="历史的天空",第31集
+https://b.mhkuaibo.com/20200326/oHSOTLrE/index.m3u8
+#EXTINF:-1 group-title="历史的天空",第32集
+https://b.mhkuaibo.com/20200326/UOlDcqGk/index.m3u8
+#EXTINF:-1 group-title="钢铁年代",第01集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/bc19b8e8abd54c5d9e1608984577da4f/850.m3u8
+#EXTINF:-1 group-title="钢铁年代",第02集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/0531eae349e541fcee7c53b56c85ef93/850.m3u8
+#EXTINF:-1 group-title="钢铁年代",第03集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/15f4122be0ba469d381a17afa9858482/850.m3u8
+#EXTINF:-1 group-title="钢铁年代",第04集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/47c95cfba5ec4b1bbd16d09c2e0069c5/850.m3u8
+#EXTINF:-1 group-title="钢铁年代",第05集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b07dd1ea24f345cf30a7698a2f51f701/850.m3u8
+#EXTINF:-1 group-title="钢铁年代",第06集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/eca3d39c3d104825d5fd82897eb65e3c/850.m3u8
+#EXTINF:-1 group-title="钢铁年代",第07集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/6d676e02b7fb4775f06395aec86c4c02/850.m3u8
+#EXTINF:-1 group-title="钢铁年代",第08集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/e6ab0fa47b554fdc7a128da67325a180/850.m3u8
+#EXTINF:-1 group-title="钢铁年代",第09集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/54c5222601a64b0c0b1c6fb9bf90a742/850.m3u8
+#EXTINF:-1 group-title="钢铁年代",第10集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/6ce92009354443a991e62a892c8b80c9/850.m3u8
+#EXTINF:-1 group-title="钢铁年代",第11集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/e7dc6e3096614463f00cce92a748b83b/850.m3u8
+#EXTINF:-1 group-title="钢铁年代",第12集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f87841b8988941d4c7b9c2ae8a9db29c/850.m3u8
+#EXTINF:-1 group-title="钢铁年代",第13集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/d1f22e62003a471657938b93a3ea5afb/850.m3u8
+#EXTINF:-1 group-title="钢铁年代",第14集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/be33916191a2401c376edaa3a9157270/850.m3u8
+#EXTINF:-1 group-title="钢铁年代",第15集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/cb42a8733ed5445ba5e9a2b23e691774/850.m3u8
+#EXTINF:-1 group-title="钢铁年代",第16集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/7f97e454abea4ffd848c5fb2f651f052/850.m3u8
+#EXTINF:-1 group-title="钢铁年代",第17集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/5a2301f0e0f4470638301bb9eefac4e8/850.m3u8
+#EXTINF:-1 group-title="钢铁年代",第18集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/108bff740d934e20822258ac6422ca3e/850.m3u8
+#EXTINF:-1 group-title="钢铁年代",第19集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/12334d0fe4314e02779f6da0219086e7/850.m3u8
+#EXTINF:-1 group-title="钢铁年代",第20集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/bd57a28409e54241d6654e9eab0d7edf/850.m3u8
+#EXTINF:-1 group-title="钢铁年代",第21集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c6e44d284f5c4fff7b07de95003bf0e6/850.m3u8
+#EXTINF:-1 group-title="钢铁年代",第22集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f6273529a20e43afffe1739cba1930a1/850.m3u8
+#EXTINF:-1 group-title="钢铁年代",第23集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1b9478e1bd42401901d23a809e33208b/850.m3u8
+#EXTINF:-1 group-title="钢铁年代",第24集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/5c3c7b0cccf74d525a3c6195dc2f5cf7/850.m3u8
+#EXTINF:-1 group-title="钢铁年代",第25集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9044f9e1c5a14f41f9b872aed7ca629d/850.m3u8
+#EXTINF:-1 group-title="钢铁年代",第26集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ffb47349d59243a06ede449a97cfb097/850.m3u8
+#EXTINF:-1 group-title="钢铁年代",第27集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a520b04017d14137a2508ea2785f2df6/850.m3u8
+#EXTINF:-1 group-title="钢铁年代",第28集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a2f4385934b648345b3c089ab38eec42/850.m3u8
+#EXTINF:-1 group-title="钢铁年代",第29集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/8518b3fd130245f2935776be1109f22d/850.m3u8
+#EXTINF:-1 group-title="钢铁年代",第30集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/0c8ed91b92794551fc060a9514d61072/850.m3u8
+#EXTINF:-1 group-title="钢铁年代",第31集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/45b5c636f50e3f94c0a549fdf2b3f5f0/850.m3u8
+#EXTINF:-1 group-title="钢铁年代",第32集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c6e9b5708caf4f76a79e728e7c1196a9/850.m3u8
+#EXTINF:-1 group-title="钢铁年代",第33集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/0d0af4ae23074765ec0acbab10561916/850.m3u8
+#EXTINF:-1 group-title="钢铁年代",第34集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/e3f8ff413734614527844561a095e29d/850.m3u8
+#EXTINF:-1 group-title="钢铁年代",第35集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/6c734c8f865d972ad259615247c0eee7/850.m3u8
+#EXTINF:-1 group-title="钢铁年代",第36集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/05aad9e76eb54f678d75de96a0efb2b4/850.m3u8
+#EXTINF:-1 group-title="钢铁年代",第37集
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/06174298a6464b67374ae1a80bf8261a/850.m3u8
+#EXTINF:-1 group-title="老农民",第01集
+https://sina.com-h-sina.com/20181024/21417_5d882c86/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="老农民",第02集
+https://sina.com-h-sina.com/20181024/21418_92c1e865/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="老农民",第03集
+https://sina.com-h-sina.com/20181024/21419_fe00d413/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="老农民",第04集
+https://sina.com-h-sina.com/20181024/21420_f5ca58fb/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="老农民",第05集
+https://sina.com-h-sina.com/20181024/21421_5afbf0bc/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="老农民",第06集
+https://sina.com-h-sina.com/20181024/21422_afa8f9c8/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="老农民",第07集
+https://sina.com-h-sina.com/20181024/21423_2aeafd2d/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="老农民",第08集
+https://sina.com-h-sina.com/20181024/21424_c3c0bbf9/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="老农民",第09集
+https://sina.com-h-sina.com/20181024/21425_adc65d35/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="老农民",第10集
+https://sina.com-h-sina.com/20181024/21426_6ecfdbbc/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="老农民",第11集
+https://sina.com-h-sina.com/20181024/21427_bafd96b2/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="老农民",第12集
+https://sina.com-h-sina.com/20181024/21428_c9d57109/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="老农民",第13集
+https://sina.com-h-sina.com/20181024/21429_f7968f48/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="老农民",第14集
+https://sina.com-h-sina.com/20181024/21430_85229cfa/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="老农民",第15集
+https://sina.com-h-sina.com/20181024/21431_0fca0389/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="老农民",第16集
+https://sina.com-h-sina.com/20181024/21432_473bec8c/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="老农民",第17集
+https://sina.com-h-sina.com/20181024/21433_9d4eaaa0/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="老农民",第18集
+https://sina.com-h-sina.com/20181024/21434_97a36205/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="老农民",第19集
+https://sina.com-h-sina.com/20181024/21435_ea1c3dc1/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="老农民",第20集
+https://sina.com-h-sina.com/20181024/21436_2e3d9aad/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="老农民",第21集
+https://sina.com-h-sina.com/20181024/21437_dad21a0d/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="老农民",第22集
+https://sina.com-h-sina.com/20181024/21438_7dee98c6/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="老农民",第23集
+https://sina.com-h-sina.com/20181024/21439_8ed4d3de/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="老农民",第24集
+https://sina.com-h-sina.com/20181024/21440_917dc954/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="老农民",第25集
+https://sina.com-h-sina.com/20181024/21441_0ac2e155/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="老农民",第26集
+https://sina.com-h-sina.com/20181024/21442_f1c2b0e2/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="老农民",第27集
+https://sina.com-h-sina.com/20181024/21443_aac7c161/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="老农民",第28集
+https://sina.com-h-sina.com/20181024/21444_1a3c2674/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="老农民",第29集
+https://sina.com-h-sina.com/20181024/21445_47496c08/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="老农民",第30集
+https://sina.com-h-sina.com/20181024/21446_c9f7d7ba/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="老农民",第31集
+https://sina.com-h-sina.com/20181024/21447_ce83cb31/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="老农民",第32集
+https://sina.com-h-sina.com/20181024/21448_54b5c051/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="老农民",第33集
+https://sina.com-h-sina.com/20181024/21449_250e714f/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="老农民",第34集
+https://sina.com-h-sina.com/20181024/21450_ccf0db2f/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="老农民",第35集
+https://sina.com-h-sina.com/20181024/21451_1f831af4/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="老农民",第36集
+https://sina.com-h-sina.com/20181024/21452_893dc2f7/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="老农民",第37集
+https://sina.com-h-sina.com/20181024/21453_a574ff2b/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="老农民",第38集
+https://sina.com-h-sina.com/20181024/21454_034ac969/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="老农民",第39集
+https://sina.com-h-sina.com/20181024/21455_63f8f313/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="老农民",第40集
+https://sina.com-h-sina.com/20181024/21456_32cf91df/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="老农民",第41集
+https://sina.com-h-sina.com/20181024/21457_439ac5a9/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="老农民",第42集
+https://sina.com-h-sina.com/20181024/21458_bc9696fa/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="老农民",第43集
+https://sina.com-h-sina.com/20181024/21459_7c42a1a1/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="老农民",第44集
+https://sina.com-h-sina.com/20181024/21460_c6f90067/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="老农民",第45集
+https://sina.com-h-sina.com/20181024/21461_5babca0a/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="老农民",第46集
+https://sina.com-h-sina.com/20181024/21462_3297b96b/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="老农民",第47集
+https://sina.com-h-sina.com/20181024/21463_de5152d8/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="老农民",第48集
+https://sina.com-h-sina.com/20181024/21464_764feb07/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="老农民",第49集
+https://sina.com-h-sina.com/20181024/21085_ca618ba2/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="老农民",第50集
+https://sina.com-h-sina.com/20181024/21092_a9ab7b6d/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="老农民",第51集
+https://sina.com-h-sina.com/20181024/21099_379de3ca/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="老农民",第52集
+https://sina.com-h-sina.com/20181024/21106_132b4b28/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="老农民",第53集
+https://sina.com-h-sina.com/20181024/21113_64bb00bc/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="老农民",第54集
+https://sina.com-h-sina.com/20181024/21120_25ff0a65/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="老农民",第55集
+https://sina.com-h-sina.com/20181024/21128_521c964e/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="老农民",第56集
+https://sina.com-h-sina.com/20181024/21137_ca8933a0/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="老农民",第57集
+https://sina.com-h-sina.com/20181024/21146_a10512ab/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="老农民",第58集
+https://sina.com-h-sina.com/20181024/21154_f7654406/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="老农民",第59集
+https://sina.com-h-sina.com/20181024/21163_6ae18af2/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="老农民",第60集
+https://sina.com-h-sina.com/20181024/21172_c2debcc5/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="小姨多鹤",第01集
+https://yanzishan.shuhu-zuida.com/20190828/15170_b9c98296/index.m3u8
+#EXTINF:-1 group-title="小姨多鹤",第02集
+https://yanzishan.shuhu-zuida.com/20190828/15169_799f67f3/index.m3u8
+#EXTINF:-1 group-title="小姨多鹤",第03集
+https://yanzishan.shuhu-zuida.com/20190828/15168_e6263fbf/index.m3u8
+#EXTINF:-1 group-title="小姨多鹤",第04集
+https://yanzishan.shuhu-zuida.com/20190828/15167_e0bfd312/index.m3u8
+#EXTINF:-1 group-title="小姨多鹤",第05集
+https://yanzishan.shuhu-zuida.com/20190828/15166_f7b184b2/index.m3u8
+#EXTINF:-1 group-title="小姨多鹤",第06集
+https://yanzishan.shuhu-zuida.com/20190828/15165_c0525748/index.m3u8
+#EXTINF:-1 group-title="小姨多鹤",第07集
+https://yanzishan.shuhu-zuida.com/20190828/15164_e6388e3f/index.m3u8
+#EXTINF:-1 group-title="小姨多鹤",第08集
+https://yanzishan.shuhu-zuida.com/20190828/15163_779e38a8/index.m3u8
+#EXTINF:-1 group-title="小姨多鹤",第09集
+https://yanzishan.shuhu-zuida.com/20190828/15162_a9e03e01/index.m3u8
+#EXTINF:-1 group-title="小姨多鹤",第10集
+https://yanzishan.shuhu-zuida.com/20190828/15161_b07d9729/index.m3u8
+#EXTINF:-1 group-title="小姨多鹤",第11集
+https://yanzishan.shuhu-zuida.com/20190828/15160_24e1596b/index.m3u8
+#EXTINF:-1 group-title="小姨多鹤",第12集
+https://yanzishan.shuhu-zuida.com/20190828/15159_99ced4b9/index.m3u8
+#EXTINF:-1 group-title="小姨多鹤",第13集
+https://yanzishan.shuhu-zuida.com/20190828/15158_c2798cb6/index.m3u8
+#EXTINF:-1 group-title="小姨多鹤",第14集
+https://yanzishan.shuhu-zuida.com/20190828/15157_d12bea49/index.m3u8
+#EXTINF:-1 group-title="小姨多鹤",第15集
+https://yanzishan.shuhu-zuida.com/20190828/15156_dea11298/index.m3u8
+#EXTINF:-1 group-title="小姨多鹤",第16集
+https://yanzishan.shuhu-zuida.com/20190828/15155_39f47456/index.m3u8
+#EXTINF:-1 group-title="小姨多鹤",第17集
+https://yanzishan.shuhu-zuida.com/20190828/15154_b3976f79/index.m3u8
+#EXTINF:-1 group-title="小姨多鹤",第18集
+https://yanzishan.shuhu-zuida.com/20190828/15153_9c9a062a/index.m3u8
+#EXTINF:-1 group-title="小姨多鹤",第19集
+https://yanzishan.shuhu-zuida.com/20190828/15152_5149f8a0/index.m3u8
+#EXTINF:-1 group-title="小姨多鹤",第20集
+https://yanzishan.shuhu-zuida.com/20190828/15151_0810cea1/index.m3u8
+#EXTINF:-1 group-title="小姨多鹤",第21集
+https://yanzishan.shuhu-zuida.com/20190828/15150_79116bbb/index.m3u8
+#EXTINF:-1 group-title="小姨多鹤",第22集
+https://yanzishan.shuhu-zuida.com/20190828/15149_8a43192d/index.m3u8
+#EXTINF:-1 group-title="小姨多鹤",第23集
+https://yanzishan.shuhu-zuida.com/20190828/15148_5acc4580/index.m3u8
+#EXTINF:-1 group-title="小姨多鹤",第24集
+https://yanzishan.shuhu-zuida.com/20190828/15147_7e6aeed2/index.m3u8
+#EXTINF:-1 group-title="小姨多鹤",第25集
+https://yanzishan.shuhu-zuida.com/20190828/15146_b3240f5e/index.m3u8
+#EXTINF:-1 group-title="小姨多鹤",第26集
+https://yanzishan.shuhu-zuida.com/20190828/15145_ce184ff1/index.m3u8
+#EXTINF:-1 group-title="小姨多鹤",第27集
+https://yanzishan.shuhu-zuida.com/20190828/15144_c6bd5f26/index.m3u8
+#EXTINF:-1 group-title="小姨多鹤",第28集
+https://yanzishan.shuhu-zuida.com/20190828/15143_8f5ec850/index.m3u8
+#EXTINF:-1 group-title="小姨多鹤",第29集
+https://yanzishan.shuhu-zuida.com/20190828/15142_2ce9ea90/index.m3u8
+#EXTINF:-1 group-title="小姨多鹤",第30集
+https://yanzishan.shuhu-zuida.com/20190828/15141_075ef445/index.m3u8
+#EXTINF:-1 group-title="小姨多鹤",第31集
+https://yanzishan.shuhu-zuida.com/20190828/15140_0bec770d/index.m3u8
+#EXTINF:-1 group-title="小姨多鹤",第32集
+https://yanzishan.shuhu-zuida.com/20190828/15139_6f76765a/index.m3u8
+#EXTINF:-1 group-title="小姨多鹤",第33集
+https://yanzishan.shuhu-zuida.com/20190828/15138_9000b6c0/index.m3u8
+#EXTINF:-1 group-title="小姨多鹤",第34集
+https://yanzishan.shuhu-zuida.com/20190828/15137_1cab96ea/index.m3u8
+#EXTINF:-1 group-title="士兵突击",第01集
+http://cn3.5311444.com/hls/20181018/c1e6066c38b3eda84655df712a37bbb0/1539829425/index.m3u8
+#EXTINF:-1 group-title="士兵突击",第02集
+http://cn3.5311444.com/hls/20181018/2ecc38d751b4e5b67d0e2243ee73225b/1539830980/index.m3u8
+#EXTINF:-1 group-title="士兵突击",第03集
+http://cn3.5311444.com/hls/20181018/cd6251c0331e58b955897fbd0b58c5ce/1539832664/index.m3u8
+#EXTINF:-1 group-title="士兵突击",第04集
+http://cn3.5311444.com/hls/20181018/53b606ead39ca661e83b53b505ea5a3e/1539832962/index.m3u8
+#EXTINF:-1 group-title="士兵突击",第05集
+http://cn3.5311444.com/hls/20181018/6e06ba5f9605fed728ff6e7452eba1e5/1539833114/index.m3u8
+#EXTINF:-1 group-title="士兵突击",第06集
+http://cn3.5311444.com/hls/20181018/b80bc69b4940555bdfdb08aff6ebfcb5/1539833262/index.m3u8
+#EXTINF:-1 group-title="士兵突击",第07集
+http://cn3.5311444.com/hls/20181018/8aaf4834184feea7cc39d1aafd55761d/1539833411/index.m3u8
+#EXTINF:-1 group-title="士兵突击",第08集
+http://cn3.5311444.com/hls/20181018/955b3ecb09ef4a14c0c98fe7f86fb11e/1539833557/index.m3u8
+#EXTINF:-1 group-title="士兵突击",第09集
+http://cn3.5311444.com/hls/20181018/2bc55e8e9e9b3ce3a39f1fe2d8c208fa/1539833706/index.m3u8
+#EXTINF:-1 group-title="士兵突击",第10集
+http://cn3.5311444.com/hls/20181018/fe4c310b5f00d3ed56dd7ca137d1f5f4/1539837638/index.m3u8
+#EXTINF:-1 group-title="士兵突击",第11集
+http://cn3.5311444.com/hls/20181018/42327053bfa1c6d743955c13369c8cef/1539829712/index.m3u8
+#EXTINF:-1 group-title="士兵突击",第12集
+http://cn3.5311444.com/hls/20181018/d532035da8bdb615fb6f67fc8631fdb5/1539829859/index.m3u8
+#EXTINF:-1 group-title="士兵突击",第13集
+http://cn3.5311444.com/hls/20181018/67bb721450082506b7ba433493d6a6d8/1539830001/index.m3u8
+#EXTINF:-1 group-title="士兵突击",第14集
+http://cn3.5311444.com/hls/20181018/0ac5237aecdd3e3758a40f555c84f721/1539830143/index.m3u8
+#EXTINF:-1 group-title="士兵突击",第15集
+http://cn3.5311444.com/hls/20181018/cfd957c8d2b73b66f03070af8b3cc03c/1539830282/index.m3u8
+#EXTINF:-1 group-title="士兵突击",第16集
+http://cn3.5311444.com/hls/20181018/0c41d1f5d4345ae26dbb964864336351/1539830420/index.m3u8
+#EXTINF:-1 group-title="士兵突击",第17集
+http://cn3.5311444.com/hls/20181018/0f215a3dd28fd865c618ca61b37ef5b8/1539830557/index.m3u8
+#EXTINF:-1 group-title="士兵突击",第18集
+http://cn3.5311444.com/hls/20181018/db085ab738708b3a80b695e6b0c0bde5/1539830696/index.m3u8
+#EXTINF:-1 group-title="士兵突击",第19集
+http://cn3.5311444.com/hls/20181018/0402a145198205cdf059a6517b9b7a79/1539830836/index.m3u8
+#EXTINF:-1 group-title="士兵突击",第20集
+http://cn3.5311444.com/hls/20181018/6219fd8416a4483f68ecf4ea80adaa96/1539831123/index.m3u8
+#EXTINF:-1 group-title="士兵突击",第21集
+http://cn3.5311444.com/hls/20181018/bdd849f839404e8d113ed0c720269e11/1539831268/index.m3u8
+#EXTINF:-1 group-title="士兵突击",第22集
+http://cn3.5311444.com/hls/20181018/455c0f956069eae7867d3458b2f253e1/1539831424/index.m3u8
+#EXTINF:-1 group-title="士兵突击",第23集
+http://cn3.5311444.com/hls/20181018/6ca66127d0a281d8566d525ef549d41a/1539831579/index.m3u8
+#EXTINF:-1 group-title="士兵突击",第24集
+http://cn3.5311444.com/hls/20181018/c2aedd2505a4af848d5b107e614bcc4b/1539831735/index.m3u8
+#EXTINF:-1 group-title="士兵突击",第25集
+http://cn3.5311444.com/hls/20181018/72c5c7cc276e88af4533c1de7e21eacf/1539831893/index.m3u8
+#EXTINF:-1 group-title="士兵突击",第26集
+http://cn3.5311444.com/hls/20181018/abbb6e9a46d17de438b5847010dba117/1539832040/index.m3u8
+#EXTINF:-1 group-title="士兵突击",第27集
+http://cn3.5311444.com/hls/20181018/b6ff271276b7adbaf292e28bd35a9ccf/1539832196/index.m3u8
+#EXTINF:-1 group-title="士兵突击",第28集
+http://cn3.5311444.com/hls/20181018/8f56aafe62b1fac875bd5704e38b7922/1539832353/index.m3u8
+#EXTINF:-1 group-title="士兵突击",第29集
+http://cn3.5311444.com/hls/20181018/70ba0169e3f705660a615d4179cd20b9/1539832504/index.m3u8
+#EXTINF:-1 group-title="士兵突击",第30集
+http://cn3.5311444.com/hls/20181018/e9ac884d6ba24b029a879dbe98a8fe0c/1539832811/index.m3u8
+#EXTINF:-1 group-title="五号特工组",第01集
+https://www.7639616.com/hls/20191006/7a6eecfac2e65eb7d4af81d35e6b90e3/1570296143/index.m3u8
+#EXTINF:-1 group-title="五号特工组",第02集
+https://www.7639616.com/hls/20191006/61a49831921374b937a92ad8c0077d17/1570299832/index.m3u8
+#EXTINF:-1 group-title="五号特工组",第03集
+https://www.7639616.com/hls/20191006/91acc1bf924d511112603cb5ba4a5569/1570303603/index.m3u8
+#EXTINF:-1 group-title="五号特工组",第04集
+https://www.7639616.com/hls/20191006/65a98f3d71eecb25a5738c12f3866112/1570304297/index.m3u8
+#EXTINF:-1 group-title="五号特工组",第05集
+https://www.7639616.com/hls/20191006/6b2c413151581e03dbe75f8d14b7f37e/1570304653/index.m3u8
+#EXTINF:-1 group-title="五号特工组",第06集
+https://www.7639616.com/hls/20191006/5bceb932b2614e0be93b7c288a3d1709/1570305001/index.m3u8
+#EXTINF:-1 group-title="五号特工组",第07集
+https://www.7639616.com/hls/20191006/d70ff24db19bffbbcbe43d524835d07b/1570305355/index.m3u8
+#EXTINF:-1 group-title="五号特工组",第08集
+https://www.7639616.com/hls/20191006/b678a7f5ff0714705c808df162626009/1570305785/index.m3u8
+#EXTINF:-1 group-title="五号特工组",第09集
+https://www.7639616.com/hls/20191006/2f3bb0b6480749391c1469c63d4f09a4/1570306147/index.m3u8
+#EXTINF:-1 group-title="五号特工组",第10集
+https://www.7639616.com/hls/20191006/d6b33bbcf52bbdb9025a8973c86c9c2b/1570296484/index.m3u8
+#EXTINF:-1 group-title="五号特工组",第11集
+https://www.7639616.com/hls/20191006/b67f24c04ea0539325884e05343c21d5/1570296819/index.m3u8
+#EXTINF:-1 group-title="五号特工组",第12集
+https://www.7639616.com/hls/20191006/d035ad2284205a5d3fdf42df9b1de0e1/1570297164/index.m3u8
+#EXTINF:-1 group-title="五号特工组",第13集
+https://www.7639616.com/hls/20191006/3f62afb751fce5919ce6f3c715c75990/1570297488/index.m3u8
+#EXTINF:-1 group-title="五号特工组",第14集
+https://www.7639616.com/hls/20191006/fa1bb496abd7fa65f59c3991cb4a6f9b/1570297811/index.m3u8
+#EXTINF:-1 group-title="五号特工组",第15集
+https://www.7639616.com/hls/20191006/bb47879726a578b53a2817b83d01e51c/1570298133/index.m3u8
+#EXTINF:-1 group-title="五号特工组",第16集
+https://www.7639616.com/hls/20191006/0d9e2d467f34d15989a18850ba0c8fc8/1570298539/index.m3u8
+#EXTINF:-1 group-title="五号特工组",第17集
+https://www.7639616.com/hls/20191006/46aa7b86919443f1773a6a361928863c/1570298864/index.m3u8
+#EXTINF:-1 group-title="五号特工组",第18集
+https://www.7639616.com/hls/20191006/52dea2de83603ca9a7543e635bda7fef/1570299204/index.m3u8
+#EXTINF:-1 group-title="五号特工组",第19集
+https://www.7639616.com/hls/20191006/b375c0f048758e1ac914e2fd20895a8e/1570299512/index.m3u8
+#EXTINF:-1 group-title="五号特工组",第20集
+https://www.7639616.com/hls/20191006/b9b3b887233c126b526aa73aa7647879/1570300186/index.m3u8
+#EXTINF:-1 group-title="五号特工组",第21集
+https://www.7639616.com/hls/20191006/3f38b1d6fb88e94b9bfa2bc5fc82c3f3/1570300514/index.m3u8
+#EXTINF:-1 group-title="五号特工组",第22集
+https://www.7639616.com/hls/20191006/a18eeebe43f40f944b9440721b545d89/1570300861/index.m3u8
+#EXTINF:-1 group-title="五号特工组",第23集
+https://www.7639616.com/hls/20191006/c66bed85e146fe8b2cab079de90fb9ed/1570301204/index.m3u8
+#EXTINF:-1 group-title="五号特工组",第24集
+https://www.7639616.com/hls/20191006/7aaa046607a20ba8f21d408fc3009056/1570301545/index.m3u8
+#EXTINF:-1 group-title="五号特工组",第25集
+https://www.7639616.com/hls/20191006/84e8dadfb7537d4df396ca4c4259f4a3/1570301891/index.m3u8
+#EXTINF:-1 group-title="五号特工组",第26集
+https://www.7639616.com/hls/20191006/2b83e74886e9c1d654a18862de322874/1570302232/index.m3u8
+#EXTINF:-1 group-title="五号特工组",第27集
+https://www.7639616.com/hls/20191006/a3a4459f0ed10106ef74dbe504abf3a1/1570302572/index.m3u8
+#EXTINF:-1 group-title="五号特工组",第28集
+https://www.7639616.com/hls/20191006/90801e3d5bb71e7cef63018100c2d0f0/1570302907/index.m3u8
+#EXTINF:-1 group-title="五号特工组",第29集
+https://www.7639616.com/hls/20191006/de8f905538f9402813259672bc60e775/1570303258/index.m3u8
+#EXTINF:-1 group-title="五号特工组",第30集
+https://www.7639616.com/hls/20191006/b57add626f750d11bc02ac12438d751c/1570303952/index.m3u8
+#EXTINF:-1 group-title="五号特工组2",第01集
+https://mei.huazuida.com/20191015/9320_0a90d21c/index.m3u8
+#EXTINF:-1 group-title="五号特工组2",第02集
+https://mei.huazuida.com/20191015/9319_e98ef202/index.m3u8
+#EXTINF:-1 group-title="五号特工组2",第03集
+https://mei.huazuida.com/20191015/9318_b0ef4987/index.m3u8
+#EXTINF:-1 group-title="五号特工组2",第04集
+https://mei.huazuida.com/20191015/9317_85056645/index.m3u8
+#EXTINF:-1 group-title="五号特工组2",第05集
+https://mei.huazuida.com/20191015/9316_a5253088/index.m3u8
+#EXTINF:-1 group-title="五号特工组2",第06集
+https://mei.huazuida.com/20191015/9315_2edb3f96/index.m3u8
+#EXTINF:-1 group-title="五号特工组2",第07集
+https://mei.huazuida.com/20191015/9314_b2747cc7/index.m3u8
+#EXTINF:-1 group-title="五号特工组2",第08集
+https://mei.huazuida.com/20191015/9313_0b64f02a/index.m3u8
+#EXTINF:-1 group-title="五号特工组2",第09集
+https://mei.huazuida.com/20191015/9312_5fb4e5fc/index.m3u8
+#EXTINF:-1 group-title="五号特工组2",第10集
+https://mei.huazuida.com/20191015/9311_9cb0b9b0/index.m3u8
+#EXTINF:-1 group-title="五号特工组2",第11集
+https://mei.huazuida.com/20191015/9310_55851047/index.m3u8
+#EXTINF:-1 group-title="五号特工组2",第12集
+https://mei.huazuida.com/20191015/9309_de5278da/index.m3u8
+#EXTINF:-1 group-title="五号特工组2",第13集
+https://mei.huazuida.com/20191015/9308_cd9bd0ea/index.m3u8
+#EXTINF:-1 group-title="五号特工组2",第14集
+https://mei.huazuida.com/20191015/9307_92b3c339/index.m3u8
+#EXTINF:-1 group-title="五号特工组2",第15集
+https://mei.huazuida.com/20191015/9306_08c7405d/index.m3u8
+#EXTINF:-1 group-title="五号特工组2",第16集
+https://mei.huazuida.com/20191015/9305_07ff37bf/index.m3u8
+#EXTINF:-1 group-title="五号特工组2",第17集
+https://mei.huazuida.com/20191015/9304_6127ce2f/index.m3u8
+#EXTINF:-1 group-title="五号特工组2",第18集
+https://mei.huazuida.com/20191015/9303_d06376f5/index.m3u8
+#EXTINF:-1 group-title="五号特工组2",第19集
+https://mei.huazuida.com/20191015/9302_f355ac8b/index.m3u8
+#EXTINF:-1 group-title="五号特工组2",第20集
+https://mei.huazuida.com/20191015/9301_c35e17f2/index.m3u8
+#EXTINF:-1 group-title="五号特工组2",第21集
+https://mei.huazuida.com/20191015/9300_74dd807f/index.m3u8
+#EXTINF:-1 group-title="五号特工组2",第22集
+https://mei.huazuida.com/20191015/9299_d5edc136/index.m3u8
+#EXTINF:-1 group-title="五号特工组2",第23集
+https://mei.huazuida.com/20191015/9298_d1d2406b/index.m3u8
+#EXTINF:-1 group-title="五号特工组2",第24集
+https://mei.huazuida.com/20191015/9297_d9831a6e/index.m3u8
+#EXTINF:-1 group-title="五号特工组2",第25集
+https://mei.huazuida.com/20191015/9296_c6db9df3/index.m3u8
+#EXTINF:-1 group-title="五号特工组2",第26集
+https://mei.huazuida.com/20191015/9295_c5c09dbd/index.m3u8
+#EXTINF:-1 group-title="五号特工组2",第27集
+https://mei.huazuida.com/20191015/9294_81d80df2/index.m3u8
+#EXTINF:-1 group-title="五号特工组2",第28集
+https://mei.huazuida.com/20191015/9293_3687ee68/index.m3u8
+#EXTINF:-1 group-title="五号特工组2",第29集
+https://mei.huazuida.com/20191015/9292_7e76b346/index.m3u8
+#EXTINF:-1 group-title="五号特工组2",第30集
+https://mei.huazuida.com/20191015/9291_90ef1e0d/index.m3u8
+#EXTINF:-1 group-title="五号特工组2",第31集
+https://mei.huazuida.com/20191015/9290_391d9624/index.m3u8
+#EXTINF:-1 group-title="五号特工组2",第32集
+https://mei.huazuida.com/20191015/9289_2a8c14fc/index.m3u8
+#EXTINF:-1 group-title="光荣时代",第01集
+https://feifei.feifeizuida.com/20191013/19998_4a65601f/index.m3u8
+#EXTINF:-1 group-title="光荣时代",第02集
+https://feifei.feifeizuida.com/20191013/20001_6dd7e7ff/index.m3u8
+#EXTINF:-1 group-title="光荣时代",第03集
+https://wuji.zhulong-zuida.com/20191014/10849_5e329b99/index.m3u8
+#EXTINF:-1 group-title="光荣时代",第04集
+https://feifei.feifeizuida.com/20191014/20070_5d5eacd3/index.m3u8
+#EXTINF:-1 group-title="光荣时代",第05集
+https://feifei.feifeizuida.com/20191015/20100_eff1550a/index.m3u8
+#EXTINF:-1 group-title="光荣时代",第06集
+https://feifei.feifeizuida.com/20191015/20111_412fc009/index.m3u8
+#EXTINF:-1 group-title="光荣时代",第07集
+https://wuji.zhulong-zuida.com/20191016/10980_1929f073/index.m3u8
+#EXTINF:-1 group-title="光荣时代",第08集
+https://feifei.feifeizuida.com/20191016/20160_e6a2de0d/index.m3u8
+#EXTINF:-1 group-title="光荣时代",第09集
+https://meng.wuyou-zuida.com/20191017/20267_8fc6e5e1/index.m3u8
+#EXTINF:-1 group-title="光荣时代",第10集
+https://meng.wuyou-zuida.com/20191017/20276_6e21decb/index.m3u8
+#EXTINF:-1 group-title="光荣时代",第11集
+https://meng.wuyou-zuida.com/20191018/20358_39db665c/index.m3u8
+#EXTINF:-1 group-title="光荣时代",第12集
+https://meng.wuyou-zuida.com/20191018/20362_a55a3e2f/index.m3u8
+#EXTINF:-1 group-title="光荣时代",第13集
+https://hong.tianzhen-zuida.com/20191020/11334_173517af/index.m3u8
+#EXTINF:-1 group-title="光荣时代",第14集
+https://hong.tianzhen-zuida.com/20191020/11379_2432a032/index.m3u8
+#EXTINF:-1 group-title="光荣时代",第15集
+https://meng.wuyou-zuida.com/20191020/20436_7f857825/index.m3u8
+#EXTINF:-1 group-title="光荣时代",第16集
+https://meng.wuyou-zuida.com/20191021/20505_6ec31751/index.m3u8
+#EXTINF:-1 group-title="光荣时代",第17集
+https://meng.wuyou-zuida.com/20191021/20507_4a2d8564/index.m3u8
+#EXTINF:-1 group-title="光荣时代",第18集
+https://meng.wuyou-zuida.com/20191022/20582_18d3220e/index.m3u8
+#EXTINF:-1 group-title="光荣时代",第19集
+https://hong.tianzhen-zuida.com/20191022/11742_82b8f316/index.m3u8
+#EXTINF:-1 group-title="光荣时代",第20集
+https://meng.wuyou-zuida.com/20191023/20643_9f24d0ec/index.m3u8
+#EXTINF:-1 group-title="光荣时代",第21集
+https://hong.tianzhen-zuida.com/20191023/11798_78579f42/index.m3u8
+#EXTINF:-1 group-title="光荣时代",第22集
+https://hong.tianzhen-zuida.com/20191024/11884_f0373742/index.m3u8
+#EXTINF:-1 group-title="光荣时代",第23集
+https://hong.tianzhen-zuida.com/20191024/11890_c2b53512/index.m3u8
+#EXTINF:-1 group-title="光荣时代",第24集
+https://meng.wuyou-zuida.com/20191025/20830_106fc2f5/index.m3u8
+#EXTINF:-1 group-title="光荣时代",第25集
+https://meng.wuyou-zuida.com/20191025/20829_73036a01/index.m3u8
+#EXTINF:-1 group-title="光荣时代",第26集
+https://hong.tianzhen-zuida.com/20191026/12033_ff6c35d2/index.m3u8
+#EXTINF:-1 group-title="光荣时代",第27集
+https://meng.wuyou-zuida.com/20191027/20928_001f5d81/index.m3u8
+#EXTINF:-1 group-title="光荣时代",第28集
+https://meng.wuyou-zuida.com/20191027/20927_1bddf563/index.m3u8
+#EXTINF:-1 group-title="光荣时代",第29集
+https://hong.tianzhen-zuida.com/20191028/12152_6cf97932/index.m3u8
+#EXTINF:-1 group-title="光荣时代",第30集
+https://hong.tianzhen-zuida.com/20191028/12158_ef4b3e19/index.m3u8
+#EXTINF:-1 group-title="光荣时代",第31集
+https://meng.wuyou-zuida.com/20191029/21116_d0e263a9/index.m3u8
+#EXTINF:-1 group-title="光荣时代",第32集
+https://meng.wuyou-zuida.com/20191029/21121_d24e0b08/index.m3u8
+#EXTINF:-1 group-title="光荣时代",第33集
+https://meng.wuyou-zuida.com/20191030/21168_eb443b97/index.m3u8
+#EXTINF:-1 group-title="光荣时代",第34集
+https://meng.wuyou-zuida.com/20191030/21180_6b2bd907/index.m3u8
+#EXTINF:-1 group-title="光荣时代",第35集
+https://meng.wuyou-zuida.com/20191031/21243_00fc1a9e/index.m3u8
+#EXTINF:-1 group-title="光荣时代",第36集
+https://meng.wuyou-zuida.com/20191031/21247_1c1987b7/index.m3u8
+#EXTINF:-1 group-title="光荣时代",第37集
+https://meng.wuyou-zuida.com/20191101/21309_a2a3af36/index.m3u8
+#EXTINF:-1 group-title="光荣时代",第38集
+https://hong.tianzhen-zuida.com/20191101/12565_e3f791f8/index.m3u8
+#EXTINF:-1 group-title="光荣时代",第39集
+https://meng.wuyou-zuida.com/20191102/21359_1afe1c47/index.m3u8
+#EXTINF:-1 group-title="光荣时代",第40集
+https://meng.wuyou-zuida.com/20191103/21411_c8ccc371/index.m3u8
+#EXTINF:-1 group-title="光荣时代",第41集
+https://meng.wuyou-zuida.com/20191103/21422_f49fe9c1/index.m3u8
+#EXTINF:-1 group-title="光荣时代",第42集
+https://hong.tianzhen-zuida.com/20191104/13016_59f3dac4/index.m3u8
+#EXTINF:-1 group-title="光荣时代",第43集
+https://hong.tianzhen-zuida.com/20191104/13022_4f538b84/index.m3u8
+#EXTINF:-1 group-title="光荣时代",第44集
+https://meng.wuyou-zuida.com/20191105/21542_b100d0be/index.m3u8
+#EXTINF:-1 group-title="光荣时代",第45集
+ttps://meng.wuyou-zuida.com/20191105/21545_d805ba38/index.m3u8
+#EXTINF:-1 group-title="光荣时代",第46集
+https://hong.tianzhen-zuida.com/20191106/13186_3b695660/index.m3u8
+#EXTINF:-1 group-title="传奇英雄",第01集
+https://youku.com-t-youku.com/20190514/20199_52c35b4d/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="传奇英雄",第02集
+https://youku.com-t-youku.com/20190514/20200_e6debb27/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="传奇英雄",第03集
+https://youku.com-t-youku.com/20190514/20201_ea42ca8e/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="传奇英雄",第04集
+https://youku.com-t-youku.com/20190514/20202_4f42ef02/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="传奇英雄",第05集
+https://youku.com-t-youku.com/20190514/20203_db7ab693/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="传奇英雄",第06集
+https://youku.com-t-youku.com/20190514/20204_10c27776/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="传奇英雄",第07集
+https://youku.com-t-youku.com/20190514/20205_8c26dbc7/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="传奇英雄",第08集
+https://youku.com-t-youku.com/20190514/20206_586d49ca/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="传奇英雄",第09集
+https://youku.com-t-youku.com/20190514/20207_ad91879d/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="传奇英雄",第10集
+https://youku.com-t-youku.com/20190514/20208_9767b66d/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="传奇英雄",第11集
+https://youku.com-t-youku.com/20190514/20209_824c8765/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="传奇英雄",第12集
+https://youku.com-t-youku.com/20190514/20210_07be3352/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="传奇英雄",第13集
+https://youku.com-t-youku.com/20190514/20211_932c0fd2/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="传奇英雄",第14集
+https://youku.com-t-youku.com/20190514/20212_a6433320/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="传奇英雄",第15集
+https://youku.com-t-youku.com/20190514/20213_179248aa/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="传奇英雄",第16集
+https://youku.com-t-youku.com/20190514/20214_818dc7cd/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="传奇英雄",第17集
+https://youku.com-t-youku.com/20190514/20215_da57dda9/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="传奇英雄",第18集
+https://youku.com-t-youku.com/20190514/20216_434804d8/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="传奇英雄",第19集
+https://youku.com-t-youku.com/20190514/20217_aa76826c/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="传奇英雄",第20集
+https://youku.com-t-youku.com/20190514/20218_4602e5d9/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="传奇英雄",第21集
+https://youku.com-t-youku.com/20190514/20219_8a7a6c4a/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="传奇英雄",第22集
+https://youku.com-t-youku.com/20190514/20220_41096552/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="传奇英雄",第23集
+https://youku.com-t-youku.com/20190514/20221_3855b962/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="传奇英雄",第24集
+https://youku.com-t-youku.com/20190514/20222_7f7d5c34/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="传奇英雄",第25集
+https://youku.com-t-youku.com/20190514/20223_1b85f9a1/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="传奇英雄",第26集
+https://youku.com-t-youku.com/20190514/20224_3255ea06/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="传奇英雄",第27集
+https://youku.com-t-youku.com/20190514/20225_645e52c9/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="传奇英雄",第28集
+https://youku.com-t-youku.com/20190514/20226_a08e9e47/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="传奇英雄",第29集
+https://youku.com-t-youku.com/20190514/20227_42ccaaa3/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="传奇英雄",第30集
+https://youku.com-t-youku.com/20190514/20228_12f0ec00/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="传奇英雄",第31集
+https://youku.com-t-youku.com/20190514/20229_9fdd0047/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="传奇英雄",第32集
+https://youku.com-t-youku.com/20190514/20230_703e6708/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="传奇英雄",第33集
+https://youku.com-t-youku.com/20190514/20231_72cfc5dc/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="传奇英雄",第34集
+https://youku.com-t-youku.com/20190514/20232_e56519e5/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="传奇英雄",第35集
+https://youku.com-t-youku.com/20190514/20233_2dedd46a/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="传奇英雄",第36集
+https://youku.com-t-youku.com/20190514/20234_18393e22/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="传奇英雄",第37集
+https://youku.com-t-youku.com/20190514/20235_8da2f50f/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="传奇英雄",第38集
+https://youku.com-t-youku.com/20190514/20236_1e80417f/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="传奇英雄",第39集
+https://youku.com-t-youku.com/20190514/20238_aa731f9e/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="我是赵传奇",第01集
+http://cn3.download05.com/hls/20190825/581d84a2446dccd4f7796f35dd962e8d/1566724127/index.m3u8
+#EXTINF:-1 group-title="我是赵传奇",第02集
+http://cn3.download05.com/hls/20190825/1b29e641a1ea95429eadd23da4e3e8bf/1566726574/index.m3u8
+#EXTINF:-1 group-title="我是赵传奇",第03集
+http://cn3.download05.com/hls/20190825/57e113082c816e292363ab31d71b90af/1566726875/index.m3u8
+#EXTINF:-1 group-title="我是赵传奇",第04集
+http://cn3.download05.com/hls/20190825/15cf0eec55c0f99369c92193b41b74f2/1566727158/index.m3u8
+#EXTINF:-1 group-title="我是赵传奇",第05集
+http://cn3.download05.com/hls/20190825/5b5f7990545695d36c0eaccf77606b10/1566727431/index.m3u8
+#EXTINF:-1 group-title="我是赵传奇",第06集
+http://cn3.download05.com/hls/20190825/93683c2ac18bccd0ebe5e0799e0d5968/1566727764/index.m3u8
+#EXTINF:-1 group-title="我是赵传奇",第07集
+http://cn3.download05.com/hls/20190825/19d92c43e480b13cb6fb01dcec7cd746/1566728047/index.m3u8
+#EXTINF:-1 group-title="我是赵传奇",第08集
+http://cn3.download05.com/hls/20190825/5b47ee590e2906e5de683676ed7c1964/1566728338/index.m3u8
+#EXTINF:-1 group-title="我是赵传奇",第09集
+http://cn3.download05.com/hls/20190825/e40db54fa18b478a85a9fb55016c8eaa/1566728620/index.m3u8
+#EXTINF:-1 group-title="我是赵传奇",第10集
+http://cn3.download05.com/hls/20190825/0fb08ec329a4fd9bd83bb5816432e44a/1566724446/index.m3u8
+#EXTINF:-1 group-title="我是赵传奇",第11集
+http://cn3.download05.com/hls/20190825/68f03903f57afe40d4a1e8fa5ce50a5a/1566724739/index.m3u8
+#EXTINF:-1 group-title="我是赵传奇",第12集
+http://cn3.download05.com/hls/20190825/79e1254f04488e3beaf52a78fb2f7002/1566725037/index.m3u8
+#EXTINF:-1 group-title="我是赵传奇",第13集
+http://cn3.download05.com/hls/20190825/47073b9f0601cceb7803759a7da5d4e0/1566725323/index.m3u8
+#EXTINF:-1 group-title="我是赵传奇",第14集
+http://cn3.download05.com/hls/20190825/f1710d3824f5a1395ed2e186402034b7/1566725641/index.m3u8
+#EXTINF:-1 group-title="我是赵传奇",第15集
+http://cn3.download05.com/hls/20190825/a00aeecef55132f1a4ae081f8f484621/1566725920/index.m3u8
+#EXTINF:-1 group-title="我是赵传奇",第16集
+http://cn3.download05.com/hls/20190825/ba41542e2c14e87f89afdf7cb34f820a/1566726286/index.m3u8
+#EXTINF:-1 group-title="我是赵传奇",第17集
+http://cn3.download05.com/hls/20190825/288f5c92905f6a5805a569706baf708d/1566729164/index.m3u8
+#EXTINF:-1 group-title="我是赵传奇",第18集
+http://cn3.download05.com/hls/20190825/0932efcca7206f971c256e9056dfc125/1566731543/index.m3u8
+#EXTINF:-1 group-title="我是赵传奇",第19集
+http://cn3.download05.com/hls/20190825/3c8f9c8b15e2471ffff26459cd16603b/1566731816/index.m3u8
+#EXTINF:-1 group-title="我是赵传奇",第20集
+http://cn3.download05.com/hls/20190825/9d9434076d9934fbe65f335d0241e93f/1566732117/index.m3u8
+#EXTINF:-1 group-title="我是赵传奇",第21集
+http://cn3.download05.com/hls/20190825/48c0080ac78926842e05967dee16a301/1566732406/index.m3u8
+#EXTINF:-1 group-title="我是赵传奇",第22集
+http://cn3.download05.com/hls/20190825/34fb03a66c1c0caa5611520f81de8204/1566732738/index.m3u8
+#EXTINF:-1 group-title="我是赵传奇",第23集
+http://cn3.download05.com/hls/20190825/ed3c6d658fb057158281bfc1f3b5d27b/1566733015/index.m3u8
+#EXTINF:-1 group-title="我是赵传奇",第24集
+http://cn3.download05.com/hls/20190825/a70c05980d31775bd6e9ee662c397bc4/1566729448/index.m3u8
+#EXTINF:-1 group-title="我是赵传奇",第25集
+http://cn3.download05.com/hls/20190825/fbd1d985ae30c2e06d65a1521a2d0361/1566729738/index.m3u8
+#EXTINF:-1 group-title="我是赵传奇",第26集
+http://cn3.download05.com/hls/20190825/1d5685f450292b0d0656f83bda9dc3dd/1566730035/index.m3u8
+#EXTINF:-1 group-title="我是赵传奇",第27集
+http://cn3.download05.com/hls/20190825/aced06d8036e446b554c2f557ec4378b/1566730310/index.m3u8
+#EXTINF:-1 group-title="我是赵传奇",第28集
+http://cn3.download05.com/hls/20190825/9504ada363a396310527098e22a0c7c5/1566730586/index.m3u8
+#EXTINF:-1 group-title="我是赵传奇",第29集
+http://cn3.download05.com/hls/20190825/814e538ab59b86ce388ad813de77f6fb/1566730850/index.m3u8
+#EXTINF:-1 group-title="我是赵传奇",第30集
+http://cn3.download05.com/hls/20190825/39cc3abc0e622284b48d208405cde814/1566731132/index.m3u8
+#EXTINF:-1 group-title="我是赵传奇",第31集
+http://cn3.download05.com/hls/20190825/19887c42a87c4f5cfe99c003419a050e/1566733308/index.m3u8
+#EXTINF:-1 group-title="我是赵传奇",第32集
+http://cn3.download05.com/hls/20190825/7d551d3c2fb257c3b54392313f2b8ae0/1566733729/index.m3u8
+#EXTINF:-1 group-title="我是赵传奇",第33集
+http://cn3.download05.com/hls/20190825/7323d565cd73d160ead80e6fab727e4e/1566734060/index.m3u8
+#EXTINF:-1 group-title="我是赵传奇",第34集
+http://cn3.download05.com/hls/20190825/9e7fbfef31b14f037432e07320c38bac/1566734356/index.m3u8
+#EXTINF:-1 group-title="我是赵传奇",第35集
+http://cn3.download05.com/hls/20190825/fbdde8f4752e68d6a46a6c9eec166af5/1566734619/index.m3u8
+#EXTINF:-1 group-title="我是赵传奇",第36集
+http://cn3.download05.com/hls/20190825/53cee560dbbd2fc096fe2a9d22f8d463/1566734909/index.m3u8
+#EXTINF:-1 group-title="我是赵传奇",第37集
+http://cn3.download05.com/hls/20190825/1ac27a24f4c9c1c5b3c459e46688019e/1566735230/index.m3u8
+#EXTINF:-1 group-title="我是赵传奇",第38集
+http://cn3.download05.com/hls/20190825/e7b2e8aba9c61c8d0628d849126d51b4/1566735504/index.m3u8
+#EXTINF:-1 group-title="我是赵传奇",第39集
+http://cn3.download05.com/hls/20190825/1592fa6e2c543cd324e6e511aadf151d/1566735845/index.m3u8
+#EXTINF:-1 group-title="我是赵传奇",第40集
+http://cn3.download05.com/hls/20190825/1183195bf04062629e632932faeab908/1566736132/index.m3u8
+#EXTINF:-1 group-title="我是赵传奇",第41集
+http://cn3.download05.com/hls/20190825/63d2f5dfd14535662a77d6b3999870e3/1566736470/index.m3u8
+#EXTINF:-1 group-title="我是赵传奇",第42集
+http://cn3.download05.com/hls/20190825/6d651f3614ae21101ae1a85aa5ec9d66/1566736805/index.m3u8
+#EXTINF:-1 group-title="我是赵传奇",第43集
+http://cn3.download05.com/hls/20190825/7f759dc37cebbe577f4db10fa87c9a65/1566742331/index.m3u8
+#EXTINF:-1 group-title="我是赵传奇",第44集
+http://cn3.download05.com/hls/20190825/1177a5d89d4aeaf22e80c62df38469ca/1566737485/index.m3u8
+#EXTINF:-1 group-title="我是赵传奇",第45集
+http://cn3.download05.com/hls/20190825/dd87a3ca2306f87e3cb956547bd44289/1566737832/index.m3u8
+#EXTINF:-1 group-title="鹿鼎记韩栋版",第01集
+https://cn5.download05.com/hls/20190824/a9107a84ea67deb5e8a1d57c316c23c2/1566576048/index.m3u8
+#EXTINF:-1 group-title="鹿鼎记韩栋版",第02集
+https://cn5.download05.com/hls/20190824/dba9f2e763bb93567674b7cd90b34a26/1566578786/index.m3u8
+#EXTINF:-1 group-title="鹿鼎记韩栋版",第03集
+https://cn5.download05.com/hls/20190824/5223689ea623c606f684ab9e3a0485b5/1566581445/index.m3u8
+#EXTINF:-1 group-title="鹿鼎记韩栋版",第04集
+https://cn5.download05.com/hls/20190824/e04068d9e5c89aa47b804a7db2b1d84b/1566584027/index.m3u8
+#EXTINF:-1 group-title="鹿鼎记韩栋版",第05集
+https://cn5.download05.com/hls/20190824/f707cd9d66b466bbc4a79641518e225a/1566586665/index.m3u8
+#EXTINF:-1 group-title="鹿鼎记韩栋版",第06集
+https://cn5.download05.com/hls/20190824/b313172cbc0d50a3149801870ff02a32/1566587133/index.m3u8
+#EXTINF:-1 group-title="鹿鼎记韩栋版",第07集
+https://cn5.download05.com/hls/20190824/89a8344abafd06319c32e4030262c5bf/1566587368/index.m3u8
+#EXTINF:-1 group-title="鹿鼎记韩栋版",第08集
+https://cn5.download05.com/hls/20190824/30a65e710dbce89ceeb0b222e00f4878/1566587598/index.m3u8
+#EXTINF:-1 group-title="鹿鼎记韩栋版",第09集
+https://cn5.download05.com/hls/20190824/c744ff4c6c4667fff0996a146da383ec/1566587828/index.m3u8
+#EXTINF:-1 group-title="鹿鼎记韩栋版",第10集
+https://cn5.download05.com/hls/20190824/f9871b3e3ee78257d7f7ea6cf3708a62/1566576321/index.m3u8
+#EXTINF:-1 group-title="鹿鼎记韩栋版",第11集
+https://cn5.download05.com/hls/20190824/94f8636c915e7479f12129c61bf6a127/1566576565/index.m3u8
+#EXTINF:-1 group-title="鹿鼎记韩栋版",第12集
+https://cn5.download05.com/hls/20190824/b3205b023034a3e443cd5ba27d0c098c/1566576806/index.m3u8
+#EXTINF:-1 group-title="鹿鼎记韩栋版",第13集
+https://cn5.download05.com/hls/20190824/07b6852a237d2d4ceb4fd5f8f672c22d/1566577047/index.m3u8
+#EXTINF:-1 group-title="鹿鼎记韩栋版",第14集
+https://cn5.download05.com/hls/20190824/9b03266f9023aea2fe80f67bda9b4c2d/1566577293/index.m3u8
+#EXTINF:-1 group-title="鹿鼎记韩栋版",第15集
+https://cn5.download05.com/hls/20190824/f8197c621fe3aa844e096b01f4f3b1fb/1566607114/index.m3u8
+#EXTINF:-1 group-title="鹿鼎记韩栋版",第16集
+https://cn5.download05.com/hls/20190824/37c88e23ebce7262a85921436751e3be/1566577822/index.m3u8
+#EXTINF:-1 group-title="鹿鼎记韩栋版",第17集
+https://cn5.download05.com/hls/20190824/719dbb902c0359093f387f17fce69905/1566578056/index.m3u8
+#EXTINF:-1 group-title="鹿鼎记韩栋版",第18集
+https://cn5.download05.com/hls/20190824/91f89a3e03fcfcedf93efa59a520f847/1566578298/index.m3u8
+#EXTINF:-1 group-title="鹿鼎记韩栋版",第19集
+https://cn5.download05.com/hls/20190824/01801b353d7fe218a5fb8fef75c7c232/1566578543/index.m3u8
+#EXTINF:-1 group-title="鹿鼎记韩栋版",第20集
+https://cn5.download05.com/hls/20190824/a46151925623b7e8cd12e07b8f6d4a5c/1566579057/index.m3u8
+#EXTINF:-1 group-title="鹿鼎记韩栋版",第21集
+https://cn5.download05.com/hls/20190824/693b03faa4e1bc3e5df6c8438b76f612/1566579290/index.m3u8
+#EXTINF:-1 group-title="鹿鼎记韩栋版",第22集
+https://cn5.download05.com/hls/20190824/9cb2bb0d7ddbfce674aca89ea77d7635/1566579550/index.m3u8
+#EXTINF:-1 group-title="鹿鼎记韩栋版",第23集
+https://cn5.download05.com/hls/20190824/0a501a75884a66c0f37991e20034e7df/1566579795/index.m3u8
+#EXTINF:-1 group-title="鹿鼎记韩栋版",第24集
+https://cn5.download05.com/hls/20190824/b9925ec7d95db79986f120a4af23376b/1566580027/index.m3u8
+#EXTINF:-1 group-title="鹿鼎记韩栋版",第25集
+https://cn5.download05.com/hls/20190824/37e3ba265be29bf4095cb0f1d0813280/1566580282/index.m3u8
+#EXTINF:-1 group-title="鹿鼎记韩栋版",第26集
+https://cn5.download05.com/hls/20190824/5c245fe3bb6f114b4a87c909f9f80ec6/1566580521/index.m3u8
+#EXTINF:-1 group-title="鹿鼎记韩栋版",第27集
+https://cn5.download05.com/hls/20190824/9b8622f701af45935b9669a062c82ee1/1566580756/index.m3u8
+#EXTINF:-1 group-title="鹿鼎记韩栋版",第28集
+https://cn5.download05.com/hls/20190824/ad074a2b01c7f8def303dbf6b5c3ff99/1566580989/index.m3u8
+#EXTINF:-1 group-title="鹿鼎记韩栋版",第29集
+https://cn5.download05.com/hls/20190824/f4341d6833e720171af4eaa0b5de23c9/1566581219/index.m3u8
+#EXTINF:-1 group-title="鹿鼎记韩栋版",第30集
+https://cn5.download05.com/hls/20190824/fd0172b6b61734f90f3e7f4d32438025/1566581689/index.m3u8
+#EXTINF:-1 group-title="鹿鼎记韩栋版",第31集
+https://cn5.download05.com/hls/20190824/6244a586ab3aa3dd1bdeff4923a1137e/1566581920/index.m3u8
+#EXTINF:-1 group-title="鹿鼎记韩栋版",第32集
+https://cn5.download05.com/hls/20190824/932807fc9df47f6577c1735f65d8e314/1566582158/index.m3u8
+#EXTINF:-1 group-title="鹿鼎记韩栋版",第33集
+https://cn5.download05.com/hls/20190824/7b9d834c75b9e08fc9bf5e70422680f7/1566582408/index.m3u8
+#EXTINF:-1 group-title="鹿鼎记韩栋版",第34集
+https://cn5.download05.com/hls/20190824/9a121950b754283cb7c28c741ffdf8d9/1566582638/index.m3u8
+#EXTINF:-1 group-title="鹿鼎记韩栋版",第35集
+https://cn5.download05.com/hls/20190824/cbdd4f515ffcfb466828a23244be30ce/1566582867/index.m3u8
+#EXTINF:-1 group-title="鹿鼎记韩栋版",第36集
+https://cn5.download05.com/hls/20190824/9019974e6d59f3010f3291a932617bbb/1566583098/index.m3u8
+#EXTINF:-1 group-title="鹿鼎记韩栋版",第37集
+https://cn5.download05.com/hls/20190824/73b0f0fe8d61dbcd33c7268951d8db30/1566583332/index.m3u8
+#EXTINF:-1 group-title="鹿鼎记韩栋版",第38集
+https://cn5.download05.com/hls/20190824/b66934c0a3aac411f95f56d42c924fc8/1566583564/index.m3u8
+#EXTINF:-1 group-title="鹿鼎记韩栋版",第39集
+https://cn5.download05.com/hls/20190824/2dec3a9c6b9a98669d9e1baefecd23cd/1566583798/index.m3u8
+#EXTINF:-1 group-title="鹿鼎记韩栋版",第40集
+https://cn5.download05.com/hls/20190824/fe9ccad13fecd4a1a9003705c4772a17/1566584255/index.m3u8
+#EXTINF:-1 group-title="鹿鼎记韩栋版",第41集
+https://cn5.download05.com/hls/20190824/3c653b22ff5d964de6c6fc97fbc7f14a/1566584494/index.m3u8
+#EXTINF:-1 group-title="鹿鼎记韩栋版",第42集
+https://cn5.download05.com/hls/20190824/9bec5790228fe52f9fbe500a87d24831/1566584731/index.m3u8
+#EXTINF:-1 group-title="鹿鼎记韩栋版",第43集
+https://cn5.download05.com/hls/20190824/772d76c8e10c17b105768f6ceea76a3d/1566585032/index.m3u8
+#EXTINF:-1 group-title="鹿鼎记韩栋版",第44集
+https://cn5.download05.com/hls/20190824/04645355270ee1b91005db8d6bc08429/1566585258/index.m3u8
+#EXTINF:-1 group-title="鹿鼎记韩栋版",第45集
+https://cn5.download05.com/hls/20190824/cba26abec824bc6908f1911e578cd86b/1566585490/index.m3u8
+#EXTINF:-1 group-title="鹿鼎记韩栋版",第46集
+https://cn5.download05.com/hls/20190824/67f9a35410468bdf5291fe9d69e2db76/1566585727/index.m3u8
+#EXTINF:-1 group-title="鹿鼎记韩栋版",第47集
+https://cn5.download05.com/hls/20190824/443f97726d8b7d3e03ed62e9b10e2f8b/1566585962/index.m3u8
+#EXTINF:-1 group-title="鹿鼎记韩栋版",第48集
+https://cn5.download05.com/hls/20190824/a48ccfd2aae45cfa3539cea0ad485327/1566586200/index.m3u8
+#EXTINF:-1 group-title="鹿鼎记韩栋版",第49集
+https://cn5.download05.com/hls/20190824/cad75041d005f8188df6134a5eefe699/1566586435/index.m3u8
+#EXTINF:-1 group-title="鹿鼎记韩栋版",第50集
+https://cn5.download05.com/hls/20190824/d38dc27817e29a4009dc603db2a21195/1566586906/index.m3u8
+#EXTINF:-1 group-title="我的 体育老师",第01集
+https://yiyi.55zuiday.com/20171113/roil6is2/index.m3u8
+#EXTINF:-1 group-title="我的 体育老师",第02集
+https://yiyi.55zuiday.com/20171113/gNL4uIiq/index.m3u8
+#EXTINF:-1 group-title="我的 体育老师",第03集
+https://yiyi.55zuiday.com/20171114/OGoivD6A/index.m3u8
+#EXTINF:-1 group-title="我的 体育老师",第04集
+https://yiyi.55zuiday.com/20171114/HTJY4HAT/index.m3u8
+#EXTINF:-1 group-title="我的 体育老师",第05集
+https://haoa.haozuida.com/20171115/u6N09aDx/index.m3u8
+#EXTINF:-1 group-title="我的 体育老师",第06集
+https://yiyi.55zuiday.com/20171116/G7DgMUL1/index.m3u8
+#EXTINF:-1 group-title="我的 体育老师",第07集
+https://yiyi.55zuiday.com/20171116/24EIUyd9/index.m3u8
+#EXTINF:-1 group-title="我的 体育老师",第08集
+https://yiyi.55zuiday.com/20171116/H23atW1R/index.m3u8
+#EXTINF:-1 group-title="我的 体育老师",第09集
+https://yiyi.55zuiday.com/20171117/GbwlJyyf/index.m3u8
+#EXTINF:-1 group-title="我的 体育老师",第10集
+https://yiyi.55zuiday.com/20171117/xQFnVSNW/index.m3u8
+#EXTINF:-1 group-title="我的 体育老师",第11集
+https://haoa.haozuida.com/20171118/M39e3VD9/index.m3u8
+#EXTINF:-1 group-title="我的 体育老师",第12集
+https://yiyi.55zuiday.com/20171119/HTtSz3Pp/index.m3u8
+#EXTINF:-1 group-title="我的 体育老师",第13集
+https://yiyi.55zuiday.com/20171119/l4phOYiG/index.m3u8
+#EXTINF:-1 group-title="我的 体育老师",第14集
+https://yiyi.55zuiday.com/20171120/14jOEmI1/index.m3u8
+#EXTINF:-1 group-title="我的 体育老师",第15集
+https://yiyi.55zuiday.com/20171120/hGZpj9UN/index.m3u8
+#EXTINF:-1 group-title="我的 体育老师",第16集
+https://yiyi.55zuiday.com/20171121/ZLfJsEEn/index.m3u8
+#EXTINF:-1 group-title="我的 体育老师",第17集
+https://yiyi.55zuiday.com/20171121/pZOzzcPp/index.m3u8
+#EXTINF:-1 group-title="我的 体育老师",第18集
+https://yiyi.55zuiday.com/20171122/DyAmfrNA/index.m3u8
+#EXTINF:-1 group-title="我的 体育老师",第19集
+https://yiyi.55zuiday.com/20171122/ooDyHd4R/index.m3u8
+#EXTINF:-1 group-title="我的 体育老师",第20集
+https://yiyi.55zuiday.com/20171123/9p06g4OP/index.m3u8
+#EXTINF:-1 group-title="我的 体育老师",第21集
+https://yiyi.55zuiday.com/20171123/ZSZny1zY/index.m3u8
+#EXTINF:-1 group-title="我的 体育老师",第22集
+https://yiyi.55zuiday.com/20171124/FbhrDfI1/index.m3u8
+#EXTINF:-1 group-title="我的 体育老师",第23集
+https://yiyi.55zuiday.com/20171124/iCcObYmz/index.m3u8
+#EXTINF:-1 group-title="我的 体育老师",第24集
+https://yiyi.55zuiday.com/20171125/yEzMQlFd/index.m3u8
+#EXTINF:-1 group-title="我的 体育老师",第25集
+https://yiyi.55zuiday.com/20171126/OTKvkyFa/index.m3u8
+#EXTINF:-1 group-title="我的 体育老师",第26集
+https://yiyi.55zuiday.com/20171126/2gp1AhZh/index.m3u8
+#EXTINF:-1 group-title="我的 体育老师",第27集
+https://yiyi.55zuiday.com/20171127/NrZRUohg/index.m3u8
+#EXTINF:-1 group-title="我的 体育老师",第28集
+https://yiyi.55zuiday.com/20171127/5yBr82Eo/index.m3u8
+#EXTINF:-1 group-title="我的 体育老师",第29集
+https://yiyi.55zuiday.com/20171128/Hxk5AI6G/index.m3u8
+#EXTINF:-1 group-title="我的 体育老师",第30集
+https://yiyi.55zuiday.com/20171128/KkYWhwft/index.m3u8
+#EXTINF:-1 group-title="我的 体育老师",第31集
+https://yiyi.55zuiday.com/20171129/r4lSZlfh/index.m3u8
+#EXTINF:-1 group-title="我的 体育老师",第32集
+https://yiyi.55zuiday.com/20171129/Mf47ETdR/index.m3u8
+#EXTINF:-1 group-title="我的 体育老师",第33集
+https://yiyi.55zuiday.com/20171130/Yoa0RVn1/index.m3u8
+#EXTINF:-1 group-title="我的 体育老师",第34集
+https://yiyi.55zuiday.com/20171130/uHy1xswd/index.m3u8
+#EXTINF:-1 group-title="我的 体育老师",第35集
+https://yiyi.55zuiday.com/20171201/wV1nONAj/index.m3u8
+#EXTINF:-1 group-title="我的 体育老师",第36集
+https://yiyi.55zuiday.com/20171201/OtIjgkh6/index.m3u8
+#EXTINF:-1 group-title="我的 体育老师",第37集
+https://yiyi.55zuiday.com/20171202/qIHSNeCF/index.m3u8
+#EXTINF:-1 group-title="我的 体育老师",第38集
+https://yiyi.55zuiday.com/20171203/6CZqgsbr/index.m3u8
+#EXTINF:-1 group-title="我的 体育老师",第39集
+https://yiyi.55zuiday.com/20171203/BBDrgy3F/index.m3u8
+#EXTINF:-1 group-title="战火兵魂",第01集
+https://xigua-cdn.haima-zuida.com/20200319/5038_a4408ff9/index.m3u8
+#EXTINF:-1 group-title="战火兵魂",第02集
+https://xigua-cdn.haima-zuida.com/20200319/5037_2dd4a442/index.m3u8
+#EXTINF:-1 group-title="战火兵魂",第03集
+https://xigua-cdn.haima-zuida.com/20200319/5036_8aaa8f74/index.m3u8
+#EXTINF:-1 group-title="战火兵魂",第04集
+https://xigua-cdn.haima-zuida.com/20200319/5035_729aeca6/index.m3u8
+#EXTINF:-1 group-title="战火兵魂",第05集
+https://xigua-cdn.haima-zuida.com/20200319/5034_e27acff8/index.m3u8
+#EXTINF:-1 group-title="战火兵魂",第06集
+https://xigua-cdn.haima-zuida.com/20200319/5033_3505ac6a/index.m3u8
+#EXTINF:-1 group-title="战火兵魂",第07集
+https://xigua-cdn.haima-zuida.com/20200319/5032_7b07114f/index.m3u8
+#EXTINF:-1 group-title="战火兵魂",第08集
+https://xigua-cdn.haima-zuida.com/20200319/5031_b2564696/index.m3u8
+#EXTINF:-1 group-title="战火兵魂",第09集
+https://xigua-cdn.haima-zuida.com/20200319/5030_8e979e21/index.m3u8
+#EXTINF:-1 group-title="战火兵魂",第10集
+https://xigua-cdn.haima-zuida.com/20200319/5029_f9c67824/index.m3u8
+#EXTINF:-1 group-title="战火兵魂",第11集
+https://xigua-cdn.haima-zuida.com/20200319/5028_ebcac95d/index.m3u8
+#EXTINF:-1 group-title="战火兵魂",第12集
+https://xigua-cdn.haima-zuida.com/20200319/5027_7d766630/index.m3u8
+#EXTINF:-1 group-title="战火兵魂",第13集
+https://xigua-cdn.haima-zuida.com/20200319/5026_f55de9c8/index.m3u8
+#EXTINF:-1 group-title="战火兵魂",第14集
+https://xigua-cdn.haima-zuida.com/20200319/5025_011f21e5/index.m3u8
+#EXTINF:-1 group-title="战火兵魂",第15集
+https://xigua-cdn.haima-zuida.com/20200319/5024_00799adb/index.m3u8
+#EXTINF:-1 group-title="战火兵魂",第16集
+https://xigua-cdn.haima-zuida.com/20200319/5023_231cde0a/index.m3u8
+#EXTINF:-1 group-title="战火兵魂",第17集
+https://xigua-cdn.haima-zuida.com/20200319/5022_28757d55/index.m3u8
+#EXTINF:-1 group-title="战火兵魂",第18集
+https://xigua-cdn.haima-zuida.com/20200319/5021_d229973f/index.m3u8
+#EXTINF:-1 group-title="战火兵魂",第19集
+https://xigua-cdn.haima-zuida.com/20200319/5020_aaf4566e/index.m3u8
+#EXTINF:-1 group-title="战火兵魂",第20集
+https://xigua-cdn.haima-zuida.com/20200319/5019_35e22f46/index.m3u8
+#EXTINF:-1 group-title="战火兵魂",第21集
+https://xigua-cdn.haima-zuida.com/20200319/5018_0aa42157/index.m3u8
+#EXTINF:-1 group-title="战火兵魂",第22集
+https://xigua-cdn.haima-zuida.com/20200319/5017_6459397f/index.m3u8
+#EXTINF:-1 group-title="战火兵魂",第23集
+https://xigua-cdn.haima-zuida.com/20200319/5016_9eb5b5a0/index.m3u8
+#EXTINF:-1 group-title="战火兵魂",第24集
+https://xigua-cdn.haima-zuida.com/20200319/5015_4a8fbfb9/index.m3u8
+#EXTINF:-1 group-title="战火兵魂",第25集
+https://xigua-cdn.haima-zuida.com/20200319/5014_daccd73f/index.m3u8
+#EXTINF:-1 group-title="战火兵魂",第26集
+https://xigua-cdn.haima-zuida.com/20200319/5013_283dfaef/index.m3u8
+#EXTINF:-1 group-title="战火兵魂",第27集
+https://xigua-cdn.haima-zuida.com/20200319/5012_4eee4ce0/index.m3u8
+#EXTINF:-1 group-title="战火兵魂",第28集
+https://xigua-cdn.haima-zuida.com/20200319/5011_71a89dbd/index.m3u8
+#EXTINF:-1 group-title="战火兵魂",第29集
+https://xigua-cdn.haima-zuida.com/20200319/5010_7df0d5bb/index.m3u8
+#EXTINF:-1 group-title="战火兵魂",第30集
+https://xigua-cdn.haima-zuida.com/20200319/5009_7fe42218/index.m3u8
+#EXTINF:-1 group-title="战火兵魂",第31集
+https://xigua-cdn.haima-zuida.com/20200319/5008_0d3d7ad6/index.m3u8
+#EXTINF:-1 group-title="战火兵魂",第32集
+https://xigua-cdn.haima-zuida.com/20200319/5007_c03d11c5/index.m3u8
+#EXTINF:-1 group-title="战火兵魂",第33集
+https://xigua-cdn.haima-zuida.com/20200319/5006_2bebb3e8/index.m3u8
+#EXTINF:-1 group-title="战火兵魂",第34集
+https://xigua-cdn.haima-zuida.com/20200319/5005_de920c25/index.m3u8
+#EXTINF:-1 group-title="战火兵魂",第35集
+https://xigua-cdn.haima-zuida.com/20200319/5004_9270e3bd/index.m3u8
+#EXTINF:-1 group-title="二炮手",第01集
+https://feifei.feifeizuida.com/20181230/4028_fc83f9d3/index.m3u8
+#EXTINF:-1 group-title="二炮手",第02集
+https://feifei.feifeizuida.com/20181230/4027_167ae56f/index.m3u8
+#EXTINF:-1 group-title="二炮手",第03集
+https://feifei.feifeizuida.com/20181230/4026_f1976c16/index.m3u8
+#EXTINF:-1 group-title="二炮手",第04集
+https://feifei.feifeizuida.com/20181230/4024_c77870d1/index.m3u8
+#EXTINF:-1 group-title="二炮手",第05集
+https://feifei.feifeizuida.com/20181230/4025_60d1fab9/index.m3u8
+#EXTINF:-1 group-title="二炮手",第06集
+https://feifei.feifeizuida.com/20181230/4023_609b5e58/index.m3u8
+#EXTINF:-1 group-title="二炮手",第07集
+https://feifei.feifeizuida.com/20181230/4022_c2197c10/index.m3u8
+#EXTINF:-1 group-title="二炮手",第08集
+https://yushou.qitu-zuida.com/20181230/23320_39bff3d3/index.m3u8
+#EXTINF:-1 group-title="二炮手",第09集
+https://feifei.feifeizuida.com/20181230/4021_61d9a4bf/index.m3u8
+#EXTINF:-1 group-title="二炮手",第10集
+https://feifei.feifeizuida.com/20181230/4020_5640bc46/index.m3u8
+#EXTINF:-1 group-title="二炮手",第11集
+https://feifei.feifeizuida.com/20181230/4018_5de427a8/index.m3u8
+#EXTINF:-1 group-title="二炮手",第12集
+https://feifei.feifeizuida.com/20181230/4019_c36370f8/index.m3u8
+#EXTINF:-1 group-title="二炮手",第13集
+https://feifei.feifeizuida.com/20181230/4017_add9023f/index.m3u8
+#EXTINF:-1 group-title="二炮手",第14集
+https://feifei.feifeizuida.com/20181230/4016_56f5dc5b/index.m3u8
+#EXTINF:-1 group-title="二炮手",第15集
+https://feifei.feifeizuida.com/20181230/4015_2554d12f/index.m3u8
+#EXTINF:-1 group-title="二炮手",第16集
+https://feifei.feifeizuida.com/20181230/4014_71c90f07/index.m3u8
+#EXTINF:-1 group-title="二炮手",第17集
+https://feifei.feifeizuida.com/20181230/4012_74a6b2de/index.m3u8
+#EXTINF:-1 group-title="二炮手",第18集
+https://feifei.feifeizuida.com/20181230/4011_672169d5/index.m3u8
+#EXTINF:-1 group-title="二炮手",第19集
+https://feifei.feifeizuida.com/20181230/4013_c2b67d17/index.m3u8
+#EXTINF:-1 group-title="二炮手",第20集
+https://feifei.feifeizuida.com/20181230/4010_13ce7da4/index.m3u8
+#EXTINF:-1 group-title="二炮手",第21集
+https://yushou.qitu-zuida.com/20181230/23335_7e64deac/index.m3u8
+#EXTINF:-1 group-title="二炮手",第22集
+https://yushou.qitu-zuida.com/20181230/23334_dcdc1a28/index.m3u8
+#EXTINF:-1 group-title="二炮手",第23集
+https://yushou.qitu-zuida.com/20181230/23333_7af16490/index.m3u8
+#EXTINF:-1 group-title="二炮手",第24集
+https://yushou.qitu-zuida.com/20181230/23336_33a80151/index.m3u8
+#EXTINF:-1 group-title="二炮手",第25集
+https://yushou.qitu-zuida.com/20181230/23332_f0e957f1/index.m3u8
+#EXTINF:-1 group-title="二炮手",第26集
+https://yushou.qitu-zuida.com/20181230/23331_9b09a1ab/index.m3u8
+#EXTINF:-1 group-title="二炮手",第27集
+https://yushou.qitu-zuida.com/20181230/23330_21e01ae8/index.m3u8
+#EXTINF:-1 group-title="二炮手",第28集
+https://yushou.qitu-zuida.com/20181230/23329_96fb5c83/index.m3u8
+#EXTINF:-1 group-title="二炮手",第29集
+https://yushou.qitu-zuida.com/20181230/23328_f9ca8c8d/index.m3u8
+#EXTINF:-1 group-title="二炮手",第30集
+https://yushou.qitu-zuida.com/20181230/23327_6d2e7dc4/index.m3u8
+#EXTINF:-1 group-title="二炮手",第31集
+https://yushou.qitu-zuida.com/20181230/23326_03f8a8c5/index.m3u8
+#EXTINF:-1 group-title="二炮手",第32集
+https://yushou.qitu-zuida.com/20181230/23325_ee4f6190/index.m3u8
+#EXTINF:-1 group-title="二炮手",第33集
+https://yushou.qitu-zuida.com/20181230/23324_6c6a435c/index.m3u8
+#EXTINF:-1 group-title="二炮手",第34集
+https://yushou.qitu-zuida.com/20181230/23323_176a719a/index.m3u8
+#EXTINF:-1 group-title="二炮手",第35集
+https://yushou.qitu-zuida.com/20181230/23322_cc0cedf2/index.m3u8
+#EXTINF:-1 group-title="二炮手",第36集
+https://yushou.qitu-zuida.com/20181230/23321_8185f47e/index.m3u8
+#EXTINF:-1 group-title="红色",第01集
+https://you-ku.qingyu-zuida.com/20200117/6329_b6fd723b/index.m3u8
+#EXTINF:-1 group-title="红色",第02集
+https://you-ku.qingyu-zuida.com/20200117/6328_47ebb1aa/index.m3u8
+#EXTINF:-1 group-title="红色",第03集
+https://you-ku.qingyu-zuida.com/20200117/6327_8fca2503/index.m3u8
+#EXTINF:-1 group-title="红色",第04集
+https://you-ku.qingyu-zuida.com/20200303/15365_f6ff5bbc/index.m3u8
+#EXTINF:-1 group-title="红色",第05集
+https://you-ku.qingyu-zuida.com/20200117/6325_24c7c685/index.m3u8
+#EXTINF:-1 group-title="红色",第06集
+https://you-ku.qingyu-zuida.com/20200117/6324_9effbd68/index.m3u8
+#EXTINF:-1 group-title="红色",第07集
+https://you-ku.qingyu-zuida.com/20200117/6323_48a566b3/index.m3u8
+#EXTINF:-1 group-title="红色",第08集
+https://you-ku.qingyu-zuida.com/20200117/6322_d0550149/index.m3u8
+#EXTINF:-1 group-title="红色",第09集
+https://you-ku.qingyu-zuida.com/20200303/15364_606c1c96/index.m3u8
+#EXTINF:-1 group-title="红色",第10集
+https://you-ku.qingyu-zuida.com/20200117/6320_10f499f7/index.m3u8
+#EXTINF:-1 group-title="红色",第11集
+https://you-ku.qingyu-zuida.com/20200117/6319_bf5b6c9e/index.m3u8
+#EXTINF:-1 group-title="红色",第12集
+https://you-ku.qingyu-zuida.com/20200117/6318_cd43c6f3/index.m3u8
+#EXTINF:-1 group-title="红色",第13集
+https://you-ku.qingyu-zuida.com/20200117/6317_88b38a20/index.m3u8
+#EXTINF:-1 group-title="红色",第14集
+https://you-ku.qingyu-zuida.com/20200117/6316_a0e28a55/index.m3u8
+#EXTINF:-1 group-title="红色",第15集
+https://you-ku.qingyu-zuida.com/20200117/6315_6144bce1/index.m3u8
+#EXTINF:-1 group-title="红色",第16集
+https://you-ku.qingyu-zuida.com/20200117/6314_7e0774d7/index.m3u8
+#EXTINF:-1 group-title="红色",第17集
+https://you-ku.qingyu-zuida.com/20200303/15363_711ac66c/index.m3u8
+#EXTINF:-1 group-title="红色",第18集
+https://you-ku.qingyu-zuida.com/20200303/15362_0d697c18/index.m3u8
+#EXTINF:-1 group-title="红色",第19集
+https://you-ku.qingyu-zuida.com/20200303/15361_6fc5ad34/index.m3u8
+#EXTINF:-1 group-title="红色",第20集
+https://you-ku.qingyu-zuida.com/20200303/15360_677381d5/index.m3u8
+#EXTINF:-1 group-title="红色",第21集
+https://you-ku.qingyu-zuida.com/20200117/6309_bc9a42c2/index.m3u8
+#EXTINF:-1 group-title="红色",第22集
+https://you-ku.qingyu-zuida.com/20200117/6308_b95a8d26/index.m3u8
+#EXTINF:-1 group-title="红色",第23集
+https://you-ku.qingyu-zuida.com/20200117/6307_6019d680/index.m3u8
+#EXTINF:-1 group-title="红色",第24集
+https://you-ku.qingyu-zuida.com/20200117/6306_129a369c/index.m3u8
+#EXTINF:-1 group-title="红色",第25集
+https://you-ku.qingyu-zuida.com/20200117/6305_009ac872/index.m3u8
+#EXTINF:-1 group-title="红色",第26集
+https://you-ku.qingyu-zuida.com/20200117/6304_c3497bb7/index.m3u8
+#EXTINF:-1 group-title="红色",第27集
+https://you-ku.qingyu-zuida.com/20200117/6303_59f9ac21/index.m3u8
+#EXTINF:-1 group-title="红色",第28集
+https://you-ku.qingyu-zuida.com/20200117/6302_9e4f9fa9/index.m3u8
+#EXTINF:-1 group-title="红色",第29集
+https://you-ku.qingyu-zuida.com/20200117/6301_38c3ad1a/index.m3u8
+#EXTINF:-1 group-title="红色",第30集
+https://you-ku.qingyu-zuida.com/20200117/6300_032c2702/index.m3u8
+#EXTINF:-1 group-title="红色",第31集
+https://you-ku.qingyu-zuida.com/20200117/6299_47224ef0/index.m3u8
+#EXTINF:-1 group-title="红色",第32集
+https://you-ku.qingyu-zuida.com/20200303/15359_3558994c/index.m3u8
+#EXTINF:-1 group-title="红色",第33集
+https://you-ku.qingyu-zuida.com/20200117/6297_cf6f7810/index.m3u8
+#EXTINF:-1 group-title="红色",第34集
+https://you-ku.qingyu-zuida.com/20200117/6296_e6def6eb/index.m3u8
+#EXTINF:-1 group-title="红色",第35集
+https://you-ku.qingyu-zuida.com/20200117/6295_a917a4cd/index.m3u8
+#EXTINF:-1 group-title="红色",第36集
+https://you-ku.qingyu-zuida.com/20200117/6294_346845c4/index.m3u8
+#EXTINF:-1 group-title="红色",第37集
+https://you-ku.qingyu-zuida.com/20200117/6293_4dd2f1ef/index.m3u8
+#EXTINF:-1 group-title="红色",第38集
+https://you-ku.qingyu-zuida.com/20200117/6292_55016279/index.m3u8
+#EXTINF:-1 group-title="红色",第39集
+https://you-ku.qingyu-zuida.com/20200117/6291_59a86d15/index.m3u8
+#EXTINF:-1 group-title="红色",第40集
+https://you-ku.qingyu-zuida.com/20200117/6290_56a5e227/index.m3u8
+#EXTINF:-1 group-title="红色",第41集
+https://you-ku.qingyu-zuida.com/20200117/6289_5a9d0ccb/index.m3u8
+#EXTINF:-1 group-title="红色",第42集
+https://you-ku.qingyu-zuida.com/20200117/6288_df9a536f/index.m3u8
+#EXTINF:-1 group-title="红色",第43集
+https://you-ku.qingyu-zuida.com/20200117/6287_4f1f13b8/index.m3u8
+#EXTINF:-1 group-title="红色",第44集
+https://you-ku.qingyu-zuida.com/20200117/6286_f13740ca/index.m3u8
+#EXTINF:-1 group-title="红色",第45集
+https://you-ku.qingyu-zuida.com/20200303/15358_ce28ddcc/index.m3u8
+#EXTINF:-1 group-title="红色",第46集
+https://you-ku.qingyu-zuida.com/20200117/6284_55d53848/index.m3u8
+#EXTINF:-1 group-title="红色",第47集
+https://you-ku.qingyu-zuida.com/20200303/15357_a61aece9/index.m3u8
+#EXTINF:-1 group-title="红色",第48集
+https://you-ku.qingyu-zuida.com/20200117/6282_802a79ed/index.m3u8
+#EXTINF:-1 group-title="和平饭店",第01集
+https://leshi.cdn-zuyida.com/20180126/eGxwsgBY/index.m3u8
+#EXTINF:-1 group-title="和平饭店",第02集
+https://leshi.cdn-zuyida.com/20180126/r5pCXyfQ/index.m3u8
+#EXTINF:-1 group-title="和平饭店",第03集
+https://haoa.haozuida.com/20180126/qlX42TZb/index.m3u8
+#EXTINF:-1 group-title="和平饭店",第04集
+https://haoa.haozuida.com/20180126/X0oVhd8V/index.m3u8
+#EXTINF:-1 group-title="和平饭店",第05集
+https://leshi.cdn-zuyida.com/20180128/F4Z6BOyp/index.m3u8
+#EXTINF:-1 group-title="和平饭店",第06集
+https://leshi.cdn-zuyida.com/20180128/14UA9KXF/index.m3u8
+#EXTINF:-1 group-title="和平饭店",第07集
+https://haoa.haozuida.com/20180128/d5e5w2Uo/index.m3u8
+#EXTINF:-1 group-title="和平饭店",第08集
+https://haoa.haozuida.com/20180128/dSAjCIl5/index.m3u8
+#EXTINF:-1 group-title="和平饭店",第09集
+https://leshi.cdn-zuyida.com/20180130/L5YlOR6d/index.m3u8
+#EXTINF:-1 group-title="和平饭店",第10集
+https://leshi.cdn-zuyida.com/20180130/OBzZOKSm/index.m3u8
+#EXTINF:-1 group-title="和平饭店",第11集
+https://leshi.cdn-zuyida.com/20180131/bLgFuncA/index.m3u8
+#EXTINF:-1 group-title="和平饭店",第12集
+https://leshi.cdn-zuyida.com/20180131/fH7KUtFb/index.m3u8
+#EXTINF:-1 group-title="和平饭店",第13集
+https://haoa.haozuida.com/20180131/qUFaz7dV/index.m3u8
+#EXTINF:-1 group-title="和平饭店",第14集
+https://haoa.haozuida.com/20180131/ELUOHHsy/index.m3u8
+#EXTINF:-1 group-title="和平饭店",第15集
+https://yushou.qitu-zuida.com/20180203/bwgAdwSq/index.m3u8
+#EXTINF:-1 group-title="和平饭店",第16集
+https://yushou.qitu-zuida.com/20180203/b1QwdUHt/index.m3u8
+#EXTINF:-1 group-title="和平饭店",第17集
+https://yushou.qitu-zuida.com/20180203/EXR5hL60/index.m3u8
+#EXTINF:-1 group-title="和平饭店",第18集
+https://leshi.cdn-zuyida.com/20180204/McrFJy4P/index.m3u8
+#EXTINF:-1 group-title="和平饭店",第19集
+https://leshi.cdn-zuyida.com/20180204/9TWcZ7Og/index.m3u8
+#EXTINF:-1 group-title="和平饭店",第20集
+https://leshi.cdn-zuyida.com/20180205/p3V7DWQB/index.m3u8
+#EXTINF:-1 group-title="和平饭店",第21集
+https://leshi.cdn-zuyida.com/20180205/Fn10Fzdz/index.m3u8
+#EXTINF:-1 group-title="和平饭店",第22集
+https://leshi.cdn-zuyida.com/20180206/bcCuAkii/index.m3u8
+#EXTINF:-1 group-title="和平饭店",第23集
+https://leshi.cdn-zuyida.com/20180206/5j0rbNFP/index.m3u8
+#EXTINF:-1 group-title="和平饭店",第24集
+https://leshi.cdn-zuyida.com/20180207/GwemxPcB/index.m3u8
+#EXTINF:-1 group-title="和平饭店",第25集
+https://leshi.cdn-zuyida.com/20180207/iXCMxvKq/index.m3u8
+#EXTINF:-1 group-title="和平饭店",第26集
+https://leshi.cdn-zuyida.com/20180208/MUs0COwW/index.m3u8
+#EXTINF:-1 group-title="和平饭店",第27集
+https://leshi.cdn-zuyida.com/20180208/RnmxnTos/index.m3u8
+#EXTINF:-1 group-title="和平饭店",第28集
+https://leshi.cdn-zuyida.com/20180209/5Tao7leS/index.m3u8
+#EXTINF:-1 group-title="和平饭店",第29集
+https://leshi.cdn-zuyida.com/20180209/o5lVsIT8/index.m3u8
+#EXTINF:-1 group-title="和平饭店",第30集
+https://yiyi.55zuiday.com/20180210/fODnlILz/index.m3u8
+#EXTINF:-1 group-title="和平饭店",第31集
+https://yiyi.55zuiday.com/20180211/0kdLd4dp/index.m3u8
+#EXTINF:-1 group-title="和平饭店",第32集
+https://yiyi.55zuiday.com/20180211/vRKhYb3v/index.m3u8
+#EXTINF:-1 group-title="和平饭店",第33集
+https://yushou.qitu-zuida.com/20180212/ctutctQ7/index.m3u8
+#EXTINF:-1 group-title="和平饭店",第34集
+https://yushou.qitu-zuida.com/20180212/QOI7JP9G/index.m3u8
+#EXTINF:-1 group-title="和平饭店",第35集
+https://yiyi.55zuiday.com/20180213/cMAfJjqd/index.m3u8
+#EXTINF:-1 group-title="和平饭店",第36集
+https://yiyi.55zuiday.com/20180213/KejoU89Y/index.m3u8
+#EXTINF:-1 group-title="和平饭店",第37集
+https://yushou.qitu-zuida.com/20180214/9Fsszpdl/index.m3u8
+#EXTINF:-1 group-title="和平饭店",第38集
+https://yiyi.55zuiday.com/20180214/KZ5DFEsr/index.m3u8
+#EXTINF:-1 group-title="和平饭店",第39集
+https://yiyi.55zuiday.com/20180215/qr4ndeb6/index.m3u8
+ 
+#EXTINF:-1 group-title="那年那兔那些事儿第一季",第01集
+https://you-cdn.maque-zuida.com/20200205/3DtNAgRQ/index.m3u8
+#EXTINF:-1 group-title="那年那兔那些事儿第一季",第02集
+https://you-cdn.maque-zuida.com/20200205/GmOEH6nk/index.m3u8
+#EXTINF:-1 group-title="那年那兔那些事儿第一季",第03集
+https://you-cdn.maque-zuida.com/20200205/ROTJGGSA/index.m3u8
+#EXTINF:-1 group-title="那年那兔那些事儿第一季",第04集
+https://you-cdn.maque-zuida.com/20200205/kxSYFwN1/index.m3u8
+#EXTINF:-1 group-title="那年那兔那些事儿第一季",第05集
+https://you-cdn.maque-zuida.com/20200205/UPr5eI5e/index.m3u8
+#EXTINF:-1 group-title="那年那兔那些事儿第一季",第06集
+https://you-cdn.maque-zuida.com/20200205/OuLulgGc/index.m3u8
+#EXTINF:-1 group-title="那年那兔那些事儿第一季",第07集
+https://you-cdn.maque-zuida.com/20200205/mzDtdAKD/index.m3u8
+#EXTINF:-1 group-title="那年那兔那些事儿第一季",第08集
+https://you-cdn.maque-zuida.com/20200205/UzWCv3db/index.m3u8
+#EXTINF:-1 group-title="那年那兔那些事儿第一季",第09集
+https://you-cdn.maque-zuida.com/20200205/V69zrpqP/index.m3u8
+#EXTINF:-1 group-title="那年那兔那些事儿第一季",第10集
+https://you-cdn.maque-zuida.com/20200205/w2n0SCi2/index.m3u8
+#EXTINF:-1 group-title="那年那兔那些事儿第一季",第11集
+https://you-cdn.maque-zuida.com/20200205/u6QqoNgx/index.m3u8
+#EXTINF:-1 group-title="那年那兔那些事儿第一季",第12集
+https://you-cdn.maque-zuida.com/20200205/kYlGoUvu/index.m3u8
+#EXTINF:-1 group-title="那年那兔那些事儿第二季",第01集
+https://you-cdn.maque-zuida.com/20200205/qKVivVS4/index.m3u8
+#EXTINF:-1 group-title="那年那兔那些事儿第二季",第02集
+https://you-cdn.maque-zuida.com/20200205/i2l1LY0l/index.m3u8
+#EXTINF:-1 group-title="那年那兔那些事儿第二季",第03集
+https://you-cdn.maque-zuida.com/20200205/UcKnwMl0/index.m3u8
+#EXTINF:-1 group-title="那年那兔那些事儿第二季",第04集
+https://you-cdn.maque-zuida.com/20200205/LRtBgyjr/index.m3u8
+#EXTINF:-1 group-title="那年那兔那些事儿第二季",第05集
+https://you-cdn.maque-zuida.com/20200205/d3bTAdmz/index.m3u8
+#EXTINF:-1 group-title="那年那兔那些事儿第二季",第06集
+https://you-cdn.maque-zuida.com/20200205/YXXzi7CC/index.m3u8
+#EXTINF:-1 group-title="那年那兔那些事儿第二季",第07集
+https://you-cdn.maque-zuida.com/20200205/1fdtdCqB/index.m3u8
+#EXTINF:-1 group-title="那年那兔那些事儿第二季",第08集
+https://you-cdn.maque-zuida.com/20200205/uh7eHxvG/index.m3u8
+#EXTINF:-1 group-title="那年那兔那些事儿第二季",第09集
+https://you-cdn.maque-zuida.com/20200205/oOH0J6y1/index.m3u8
+#EXTINF:-1 group-title="那年那兔那些事儿第二季",第10集
+https://you-cdn.maque-zuida.com/20200205/lUievDOv/index.m3u8
+#EXTINF:-1 group-title="那年那兔那些事儿第二季",第11集
+https://you-cdn.maque-zuida.com/20200205/7UMn5lH9/index.m3u8
+#EXTINF:-1 group-title="那年那兔那些事儿第二季",第12集
+https://you-cdn.maque-zuida.com/20200205/U2qLrdWX/index.m3u8
+#EXTINF:-1 group-title="那年那兔那些事儿第三季",第01集
+https://you-cdn.maque-zuida.com/20200205/XTqhHEMW/index.m3u8
+#EXTINF:-1 group-title="那年那兔那些事儿第三季",第02集
+https://you-cdn.maque-zuida.com/20200205/HNHC4Nzl/index.m3u8
+#EXTINF:-1 group-title="那年那兔那些事儿第三季",第03集
+https://you-cdn.maque-zuida.com/20200205/7UBJs0md/index.m3u8
+#EXTINF:-1 group-title="那年那兔那些事儿第三季",第04集
+https://you-cdn.maque-zuida.com/20200205/1D1IiEsM/index.m3u8
+#EXTINF:-1 group-title="那年那兔那些事儿第三季",第05集
+https://you-cdn.maque-zuida.com/20200205/TWc8pFcZ/index.m3u8
+#EXTINF:-1 group-title="那年那兔那些事儿第三季",第06集
+https://you-cdn.maque-zuida.com/20200205/pA0YLRm3/index.m3u8
+#EXTINF:-1 group-title="那年那兔那些事儿第三季",第07集
+https://you-cdn.maque-zuida.com/20200205/hOIZU177/index.m3u8
+#EXTINF:-1 group-title="那年那兔那些事儿第三季",第08集
+https://you-cdn.maque-zuida.com/20200205/xAmTsPwp/index.m3u8
+#EXTINF:-1 group-title="那年那兔那些事儿第三季",第09集
+https://you-cdn.maque-zuida.com/20200205/vuWxBqLP/index.m3u8
+#EXTINF:-1 group-title="那年那兔那些事儿第三季",第10集
+https://you-cdn.maque-zuida.com/20200205/V0EL14Kt/index.m3u8
+#EXTINF:-1 group-title="那年那兔那些事儿第三季",第11集
+https://you-cdn.maque-zuida.com/20200205/FcSfsT0p/index.m3u8
+#EXTINF:-1 group-title="那年那兔那些事儿第三季",第12集
+https://you-cdn.maque-zuida.com/20200205/2RqkwDkJ/index.m3u8
+#EXTINF:-1 group-title="那年那兔那些事儿第四季",第01集
+https://leshi.cdn-zuyida.com/20170630/a1sIp5Ko/index.m3u8
+#EXTINF:-1 group-title="那年那兔那些事儿第四季",第02集
+https://leshi.cdn-zuyida.com/20170713/I0F7iBVA/index.m3u8
+#EXTINF:-1 group-title="那年那兔那些事儿第四季",第03集
+https://leshi.cdn-zuyida.com/20170727/8uKeBygs/index.m3u8
+#EXTINF:-1 group-title="那年那兔那些事儿第四季",第04集
+https://leshi.cdn-zuyida.com/20170810/XPOZntoG/index.m3u8
+#EXTINF:-1 group-title="那年那兔那些事儿第四季",第05集
+https://leshi.cdn-zuyida.com/20170829/JbnakPAm/index.m3u8
+#EXTINF:-1 group-title="那年那兔那些事儿第四季",第06集
+https://leshi.cdn-zuyida.com/20170909/wUqyJoTq/index.m3u8
+#EXTINF:-1 group-title="那年那兔那些事儿第四季",第07集
+https://leshi.cdn-zuyida.com/20170920/N4Yff0Kv/index.m3u8
+#EXTINF:-1 group-title="那年那兔那些事儿第四季",第08集
+https://leshi.cdn-zuyida.com/20171004/vYe5GMvb/index.m3u8
+#EXTINF:-1 group-title="那年那兔那些事儿第四季",第09集
+https://leshi.cdn-zuyida.com/20171018/01m2Jvtf/index.m3u8
+#EXTINF:-1 group-title="那年那兔那些事儿第四季",第10集
+https://haoa.haozuida.com/20171102/d9CvqTvA/index.m3u8
+#EXTINF:-1 group-title="那年那兔那些事儿第四季",第11集
+https://leshi.cdn-zuyida.com/20171115/UrrzuZPc/index.m3u8
+#EXTINF:-1 group-title="那年那兔那些事儿第四季",第12集
+https://haoa.haozuida.com/20171129/5kExnUFR/index.m3u8
+#EXTINF:-1 group-title="那年那兔那些事儿第五季",第01集
+https://meng.wuyou-zuida.com/20191029/21114_94e0e272/index.m3u8
+#EXTINF:-1 group-title="那年那兔那些事儿第五季",第02集
+https://meng.wuyou-zuida.com/20191029/21113_9af08abc/index.m3u8
+#EXTINF:-1 group-title="那年那兔那些事儿第五季",第03集
+https://meng.wuyou-zuida.com/20191029/21112_4eeaad49/index.m3u8
+#EXTINF:-1 group-title="那年那兔那些事儿第五季",第04集
+https://hong.tianzhen-zuida.com/20191112/13661_e604d472/index.m3u8
+#EXTINF:-1 group-title="那年那兔那些事儿第五季",第05集
+https://hong.tianzhen-zuida.com/20191126/14758_396c3921/index.m3u8
+#EXTINF:-1 group-title="那年那兔那些事儿第五季",第06集
+https://hong.tianzhen-zuida.com/20191210/15777_1244ded4/index.m3u8
+#EXTINF:-1 group-title="那年那兔那些事儿第五季",第07集
+https://hong.tianzhen-zuida.com/20191230/17413_56f4becc/index.m3u8
+#EXTINF:-1 group-title="那年那兔那些事儿第五季",第08集
+https://hong.tianzhen-zuida.com/20200107/17951_9b26382d/index.m3u8
+#EXTINF:-1 group-title="那年那兔那些事儿第五季",第09集
+https://hong.tianzhen-zuida.com/20200121/18979_31bdc7d2/index.m3u8
+#EXTINF:-1 group-title="那年那兔那些事儿第五季",第10集
+https://hong.tianzhen-zuida.com/20200204/19769_c2b378f6/index.m3u8
+#EXTINF:-1 group-title="那年那兔那些事儿第五季",第11集
+https://xigua-cdn.haima-zuida.com/20200218/3007_16453ae0/index.m3u8
