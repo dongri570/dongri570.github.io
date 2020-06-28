@@ -1,60 +1,46 @@
 #EXTM3U
-#EXTINF:-1 group-title="央视节目",CCTV1 综合频道
-http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
-#EXTINF:-1 group-title="央视节目",CCTV2 财经频道
-http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8
-#EXTINF:-1 group-title="央视节目",CCTV3 综艺频道
-http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
-#EXTINF:-1 group-title="央视节目",CCTV4 中文国际
-http://ivi.bupt.edu.cn/hls/cctv4hd.m3u8
-#EXTINF:-1 group-title="央视节目",CCTV5 体育频道
-http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
-#EXTINF:-1 group-title="央视节目",CCTV6 电影频道
-http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
-#EXTINF:-1 group-title="央视节目",CCTV7 国防军事
-http://ivi.bupt.edu.cn/hls/cctv7hd.m3u8
-#EXTINF:-1 group-title="央视节目",CCTV8 视剧频道
-http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
-#EXTINF:-1 group-title="央视节目",CCTV9 记录频道
-http://ivi.bupt.edu.cn/hls/cctv9hd.m3u8
-#EXTINF:-1 group-title="央视节目",CCTV10 科教频道
-http://ivi.bupt.edu.cn/hls/cctv10hd.m3u8
-#EXTINF:-1 group-title="央视节目",CCTV11 戏曲频道
-http://121.31.30.90:8085/ysten-business/live/cctv-11/1.m3u8
-#EXTINF:-1 group-title="央视节目",CCTV12 社会与法
-http://ivi.bupt.edu.cn/hls/cctv12hd.m3u8
-#EXTINF:-1 group-title="央视节目",CCTV13 新闻频道
-http://121.31.30.90:8085/ysten-business/live/cctv-13/1.m3u8
-#EXTINF:-1 group-title="央视节目",CCTV14 少儿频道
-http://ivi.bupt.edu.cn/hls/cctv14hd.m3u8
-#EXTINF:-1 group-title="央视节目",CCTV15 音乐频道
-http://121.31.30.90:8085/ysten-business/live/cctv-15/1.m3u8
-#EXTINF:-1 group-title="央视节目",CCTV17 农业农村
-http://ivi.bupt.edu.cn/hls/cctv17hd.m3u8
-#EXTINF:-1 group-title="央视节目",CCTV 高夫网球
-http://106.54.30.243/gz009/gz.php?id=gefwq#http://117.59.8.4/PLTV/88888888/224/3221227535/index.m3u8
-#EXTINF:-1 group-title="央视节目",CCTV 风云足球
-http://117.59.8.4/PLTV/88888888/224/3221227538/index.m3u8#http://106.54.30.243/gz009/gz.php?id=fyzq
-#EXTINF:-1 group-title="央视节目",CCTV 世界地理
-http://117.59.8.4/PLTV/88888888/224/3221227517/index.m3u8
-#EXTINF:-1 group-title="央视节目",CCTV 奥林匹克
-http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
-#EXTINF:-1 group-title="央视节目",CCTV 怀旧剧场
-http://106.54.30.243/gz009/gz.php?id=hjjc#http://117.59.8.4/PLTV/88888888/224/3221227550/index.m3u8
-#EXTINF:-1 group-title="央视节目",CCTV 老故事台
-http://106.54.30.243/gz009/gz.php?id=lgs#http://117.59.8.4/PLTV/88888888/224/3221227685/index.m3u8
-#EXTINF:-1 group-title="央视节目",CCTV 女性时尚
-http://117.59.8.4/PLTV/88888888/224/3221227655/index.m3u8#http://106.54.30.243/gz009/gz.php?id=nxss
-#EXTINF:-1 group-title="央视节目",CGTN 国际频道
-http://ivi.bupt.edu.cn/hls/cgtnhd.m3u8
-#EXTINF:-1 group-title="央视节目",CGTN 记录频道
-http://ivi.bupt.edu.cn/hls/cgtndochd.m3u8
-#EXTINF:-1 group-title="央视节目",CEC 国际频道
-http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
-#EXTINF:-1 group-title="央视节目",CEC 国际旅游
-http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
-#EXTINF:-1 group-title="央视节目",CHC 动作电影
-http://ivi.bupt.edu.cn/hls/chchd.m3u8
+#EXTINF:-1 group-title="央视节目",CCTV-1高清
+http://cctvalih5ca.v.myalicdn.com/live/cctv1_2/index.m3u8
+#EXTINF:-1 group-title="央视节目",CCTV-2高清
+http://live-temp-litchi-hls-yf.jstv.com/live/zhibo-cctv2/online.m3u8
+#EXTINF:-1 group-title="央视节目",CCTV-3高清
+http://cctvalih5ca.v.myalicdn.com/live/cctv3_2/index.m3u8
+#EXTINF:-1 group-title="央视节目",CCTV-4高清
+http://cctvalih5ca.v.myalicdn.com/live/cctv4_2/index.m3u8
+#EXTINF:-1 group-title="央视节目",CCTV-5体育
+http://cctvalih5ca.v.myalicdn.com/live/cctv5_2/index.m3u8
+#EXTINF:-1 group-title="央视节目",CCTV-5+体育赛事
+http://cctvalih5ca.v.myalicdn.com/live/cctv5plus_2/index.m3u8
+#EXTINF:-1 group-title="央视节目",CCTV-6高清
+http://cctvalih5ca.v.myalicdn.com/live/cctv6_2/index.m3u8
+#EXTINF:-1 group-title="央视节目",CCTV-7高清
+http://cctvalih5ca.v.myalicdn.com/live/cctv7_2/index.m3u8
+#EXTINF:-1 group-title="央视节目",CCTV-8高清
+http://221.6.85.150:9000/live/cctv8_800/cctv8_800.m3u8
+#EXTINF:-1 group-title="央视节目",CCTV-9高清
+http://cctvalih5ca.v.myalicdn.com/live/cctvjilu_2/index.m3u8
+#EXTINF:-1 group-title="央视节目",CCTV-10高清
+http://221.6.85.150:9000/live/cctv10_800/cctv10_800.m3u8
+#EXTINF:-1 group-title="央视节目",CCTV-11高清
+http://cctvalih5ca.v.myalicdn.com/live/cctv11_2/index.m3u8
+#EXTINF:-1 group-title="央视节目",CCTV-12高清
+http://cctvalih5ca.v.myalicdn.com/live/cctv12_2/index.m3u8
+#EXTINF:-1 group-title="央视节目",CCTV-13高清
+http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
+#EXTINF:-1 group-title="央视节目",CCTV-14高清
+http://cctvalih5ca.v.myalicdn.com/live/cctvchild_2/index.m3u8
+#EXTINF:-1 group-title="央视节目",CCTV-15高清
+http://cctvalih5ca.v.myalicdn.com/live/cctv15_2/index.m3u8
+#EXTINF:-1 group-title="央视节目",CGTN-16高清
+http://live.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 group-title="央视节目",CCTV-电影剧场
+http://pili-live-hls.fssh.tianma3600.com/fssh/fsds.m3u8
+#EXTINF:-1 group-title="央视节目",CCTV-风云音乐
+http://sk.live.otvcloud.com/otv/skcc/live/channel51012/index.m3u8?k=27148210ed695d18624a5be0ff926fa4&t=5EF92846&UID=83DB3057
+#EXTINF:-1 group-title="央视节目",CCTV-风云足球
+http://sk.live.otvcloud.com/otv/skcc/live/channel22019/index.m3u8?k=4cb5c20ec8fd3894e8295413a7fd5a54&t=5EF92754&UID=26C44E37
+#EXTINF:-1 group-title="央视节目",CCTV-世界地理
+http://sk.live.otvcloud.com/otv/skcc/live/channel43057/index.m3u8?k=1c04e4d45cbc9102abb24e458af002cf&t=5EF92876&UID=5F78891B
 #EXTINF:-1 group-title="卫视",北京卫视蓝光
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
 #EXTINF:-1 group-title="卫视",天津卫视蓝光
