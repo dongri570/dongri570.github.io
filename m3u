@@ -128,7 +128,7 @@ http://stream3.hnntv.cn/ssws/sd/live.m3u8?_upt=5c82647d1593397707
 #EXTINF:-1 group-title="卫视节目",凤凰卫视中文台
 http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
 #EXTINF:-1 group-title="卫视节目",香港凤凰卫视资讯台
-http://117.169.120.160:8080/live/fhzixun/1.m3u8
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8?time=1593392893823
 #EXTINF:-1 group-title="中国通史",第01集
 https://youku.cdn5-okzy.com/20200508/23433_3ccef59c/1000k/hls/index.m3u8
 #EXTINF:-1 group-title="中国通史",第02集
