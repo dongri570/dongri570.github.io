@@ -41,77 +41,76 @@ http://sk.live.otvcloud.com/otv/skcc/live/channel51012/index.m3u8?k=27148210ed69
 http://sk.live.otvcloud.com/otv/skcc/live/channel22019/index.m3u8?k=4cb5c20ec8fd3894e8295413a7fd5a54&t=5EF92754&UID=26C44E37
 #EXTINF:-1 group-title="央视节目",CCTV-世界地理
 http://sk.live.otvcloud.com/otv/skcc/live/channel43057/index.m3u8?k=1c04e4d45cbc9102abb24e458af002cf&t=5EF92876&UID=5F78891B
-#EXTINF:-1 group-title="卫视",北京卫视蓝光
+#EXTINF:-1 group-title="卫视节目",北京卫视蓝光
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
-#EXTINF:-1 group-title="卫视",天津卫视蓝光
+#EXTINF:-1 group-title="卫视节目",天津卫视蓝光
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226246/1.m3u8
-#EXTINF:-1 group-title="卫视",河北卫视蓝光
-http://live5.plus.hebtv.com/hbws/sd/live.m3u8 
-#EXTINF:-1 group-title="卫视",东方卫视蓝光
+#EXTINF:-1 group-title="卫视节目",河北卫视蓝光
+http://live5.plus.hebtv.com/hbws/sd/live.m3u8
+#EXTINF:-1 group-title="卫视节目",东方卫视蓝光
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8
-#EXTINF:-1 group-title="卫视",湖南卫视蓝光
+#EXTINF:-1 group-title="卫视节目",湖南卫视蓝光
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226241/1.m3u8
-#EXTINF:-1 group-title="卫视",浙江卫视蓝光
+#EXTINF:-1 group-title="卫视节目",浙江卫视蓝光
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226247/1.m3u8
-#EXTINF:-1 group-title="卫视",江苏卫视蓝光
+#EXTINF:-1 group-title="卫视节目",江苏卫视蓝光
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8
-#EXTINF:-1 group-title="卫视",河南卫视蓝光
+#EXTINF:-1 group-title="卫视节目",河南卫视蓝光
 http://cctvalih5ca.v.myalicdn.com/wstv/henan_2/index.m3u8
-#EXTINF:-1 group-title="卫视",山东卫视蓝光
+#EXTINF:-1 group-title="卫视节目",山东卫视蓝光
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226308/1.m3u8
-#EXTINF:-1 group-title="卫视",湖北卫视蓝光
+#EXTINF:-1 group-title="卫视节目",湖北卫视蓝光
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226310/1.m3u8
-#EXTINF:-1 group-title="卫视",安徽卫视高清
+#EXTINF:-1 group-title="卫视节目",安徽卫视高清
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226223/1.m3u8
-#EXTINF:-1 group-title="卫视",广东卫视蓝光
+#EXTINF:-1 group-title="卫视节目",广东卫视蓝光
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226238/1.m3u8
-#EXTINF:-1 group-title="卫视",深圳卫视蓝光
+#EXTINF:-1 group-title="卫视节目",深圳卫视蓝光
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226245/1.m3u8
-#EXTINF:-1 group-title="卫视",辽宁卫视蓝光
+#EXTINF:-1 group-title="卫视节目",辽宁卫视蓝光
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225947/1.m3u8
-#EXTINF:-1 group-title="卫视",龙江卫视蓝光
+#EXTINF:-1 group-title="卫视节目",龙江卫视蓝光
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
-#EXTINF:-1 group-title="卫视",吉林卫视蓝光
+#EXTINF:-1 group-title="卫视节目",吉林卫视蓝光
 http://cctvalih5ca.v.myalicdn.com/wstv/jilin_2/index.m3u8
-#EXTINF:-1 group-title="卫视",江西卫视蓝光
+#EXTINF:-1 group-title="卫视节目",江西卫视蓝光
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226243/1.m3u8
-#EXTINF:-1 group-title="卫视",四川卫视蓝光
+#EXTINF:-1 group-title="卫视节目",四川卫视蓝光
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227006/1.m3u8
-#EXTINF:-1 group-title="卫视",重庆卫视蓝光
+#EXTINF:-1 group-title="卫视节目",重庆卫视蓝光
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
-#EXTINF:-1 group-title="卫视",厦门卫视蓝光
+#EXTINF:-1 group-title="卫视节目",厦门卫视蓝光
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226781/1.m3u8
-#EXTINF:-1 group-title="卫视",海南卫视蓝光
+#EXTINF:-1 group-title="卫视节目",海南卫视蓝光
 http://cctvalih5ca.v.myalicdn.com/wstv/travel_2/index.m3u8
-#EXTINF:-1 group-title="卫视",贵州卫视蓝光
+#EXTINF:-1 group-title="卫视节目",贵州卫视蓝光
 http://cctvalih5ca.v.myalicdn.com/wstv/guizhou_2/index.m3u8
-#EXTINF:-1 group-title="卫视",广西卫视高清
+#EXTINF:-1 group-title="卫视节目",广西卫视高清
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225879/1.m3u8
-#EXTINF:-1 group-title="卫视",甘肃卫视高清
+#EXTINF:-1 group-title="卫视节目",甘肃卫视高清
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225877/1.m3u8
-#EXTINF:-1 group-title="卫视",青海卫视高清
+#EXTINF:-1 group-title="卫视节目",青海卫视高清
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225893/1.m3u8
-#EXTINF:-1 group-title="卫视",山西卫视高清
+#EXTINF:-1 group-title="卫视节目",山西卫视高清
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225895/1.m3u8
-#EXTINF:-1 group-title="卫视",云南卫视高清
+#EXTINF:-1 group-title="卫视节目",云南卫视高清
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225902/1.m3u8
-#EXTINF:-1 group-title="卫视",陕西卫视高清
+#EXTINF:-1 group-title="卫视节目",陕西卫视高清
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225896/1.m3u8
-#EXTINF:-1 group-title="卫视",宁夏卫视高清
+#EXTINF:-1 group-title="卫视节目",宁夏卫视高清
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225892/1.m3u8
-#EXTINF:-1 group-title="卫视",内蒙卫视高清
+#EXTINF:-1 group-title="卫视节目",内蒙卫视高清
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225891/1.m3u8
-#EXTINF:-1 group-title="卫视",新疆卫视高清
+#EXTINF:-1 group-title="卫视节目",新疆卫视高清
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
-#EXTINF:-1 group-title="卫视",西藏卫视高清
+#EXTINF:-1 group-title="卫视节目",西藏卫视高清
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
-#EXTINF:-1 group-title="卫视",三沙卫视
+#EXTINF:-1 group-title="卫视节目",三沙卫视高清
 http://stream3.hnntv.cn/ssws/sd/live.m3u8?_upt=5c82647d1593397707
-#EXTINF:-1 group-title="卫视",凤凰卫视中文台
+#EXTINF:-1 group-title="卫视节目",凤凰卫视中文台
 http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
-#EXTINF:-1 group-title="卫视",香港凤凰卫视资讯台
+#EXTINF:-1 group-title="卫视节目",香港凤凰卫视资讯台
 http://117.169.120.160:8080/live/fhzixun/1.m3u8
-
 #EXTINF:-1 group-title="中国通史",第01集
 https://youku.cdn5-okzy.com/20200508/23433_3ccef59c/1000k/hls/index.m3u8
 #EXTINF:-1 group-title="中国通史",第02集
