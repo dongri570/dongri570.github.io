@@ -41,8 +41,7 @@ http://211.137.115.110:8080/gitv_live/G_CCTV-NEWS/G_CCTV-NEWS.m3u8
 http://211.137.115.110:8080/gitv_live/G_FAXIANZL/G_FAXIANZL.m3u8
 #EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="央视节目",CCTV-女性时尚
 http://211.137.115.110:8080/gitv_live/G_NVXINGSS/G_NVXINGSS.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视节目",CCTV-电影剧场
-http://pili-live-hls.fssh.tianma3600.com/fssh/fsds.m3u8
+
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视节目",北京卫视蓝光
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
 #EXTINF:-1 group-title="卫视节目",BTV文艺
