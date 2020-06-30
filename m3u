@@ -2011,6 +2011,14 @@ http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/27121d74055f468795f
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a23637f5a5794d5d87b33d1575e2193d/1200.m3u8
 #EXTINF:-1 group-title="舌尖上的中国",第三季 第八集 合
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/51b1937b8b6b469b837b48f6bcb3f0b1/1200.m3u8
+#EXTINF:-1 group-title="中华揭秘",寻味新疆 一
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/092a0ad69edc456a834c6953260f9766/1200.m3u8
+#EXTINF:-1 group-title="中华揭秘",寻味新疆 二
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/e4a12e7c09d8498d96c5e658cf557e62/1200.m3u8
+#EXTINF:-1 group-title="中华揭秘",寻味新疆 三
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/f090db6565d343b0a873b24ccff11609/1200.m3u8
+#EXTINF:-1 group-title="中华揭秘",寻味新疆 四
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/b01663fc8b304a25b05757f732cfc31b/1200.m3u8
 #EXTINF:-1 group-title="中华揭秘",寻味新疆（续）一
 http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/5a77d4d5f6e747fe8eeab111f4dc686b/1200.m3u8
 #EXTINF:-1 group-title="中华揭秘",寻味新疆（续）二
