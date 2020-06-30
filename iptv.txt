@@ -16,10 +16,11 @@ CCTV-13高清,http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
 CCTV-14高清,http://cctvalih5ca.v.myalicdn.com/live/cctvchild_2/index.m3u8
 CCTV-15高清,http://cctvalih5ca.v.myalicdn.com/live/cctv15_2/index.m3u8
 CGTN-16高清,http://live.cgtn.com/1000d/prog_index.m3u8
+CCTV-17高清,http://211.137.115.110:8080/gitv_live/G_CCTV-17-HD/G_CCTV-17-HD.m3u8
+CCTV-NEWS,http://211.137.115.110:8080/gitv_live/G_CCTV-NEWS/G_CCTV-NEWS.m3u8
+CCTV-发现之旅,http://211.137.115.110:8080/gitv_live/G_FAXIANZL/G_FAXIANZL.m3u8
+CCTV-女性时尚,http://211.137.115.110:8080/gitv_live/G_NVXINGSS/G_NVXINGSS.m3u8
 CCTV-电影剧场,http://pili-live-hls.fssh.tianma3600.com/fssh/fsds.m3u8
-CCTV-风云音乐,http://sk.live.otvcloud.com/otv/skcc/live/channel51012/index.m3u8?k=27148210ed695d18624a5be0ff926fa4&t=5EF92846&UID=83DB3057
-CCTV-风云足球,http://sk.live.otvcloud.com/otv/skcc/live/channel22019/index.m3u8?k=4cb5c20ec8fd3894e8295413a7fd5a54&t=5EF92754&UID=26C44E37
-CCTV-世界地理,http://sk.live.otvcloud.com/otv/skcc/live/channel43057/index.m3u8?k=1c04e4d45cbc9102abb24e458af002cf&t=5EF92876&UID=5F78891B
 卫视节目,#genre#
 北京卫视蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
 北京电视台文艺,http://cctvalih5ca.v.myalicdn.com/wstv/btv2_2/index.m3u8
