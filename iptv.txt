@@ -532,6 +532,11 @@ CCTV-世界地理,http://sk.live.otvcloud.com/otv/skcc/live/channel43057/index.m
 第三季 第六集 酥,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/27121d74055f468795f4c586c83717df/1200.m3u8
 第三季 第七集 生,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a23637f5a5794d5d87b33d1575e2193d/1200.m3u8
 第三季 第八集 合,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/51b1937b8b6b469b837b48f6bcb3f0b1/1200.m3u8
+中华揭秘,#genre#
+寻味新疆（续）一,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/5a77d4d5f6e747fe8eeab111f4dc686b/1200.m3u8
+寻味新疆（续）二,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/700b7d80f2544f979952d9b0732de884/1200.m3u8
+寻味新疆（续）三,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/99cc7da6bb904b4b994ba566c0d0f53f/1200.m3u8
+寻味新疆（续）四,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/09caa9d140d1445cbdd43d1e4fa246f5/1200.m3u8
 走遍中国美食篇,#genre#
 川菜 走遍中国,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f8c3a6ca3f564c19a79484cec497f181/850.m3u8
 鲁菜 走遍中国,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a5f3bdf962d548fcb1270657a220eadf/850.m3u8
