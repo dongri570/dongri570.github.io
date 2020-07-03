@@ -542,6 +542,23 @@ CCTV-电影剧场,http://pili-live-hls.fssh.tianma3600.com/fssh/fsds.m3u8
 寻味新疆（续）二,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/700b7d80f2544f979952d9b0732de884/1200.m3u8
 寻味新疆（续）三,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/99cc7da6bb904b4b994ba566c0d0f53f/1200.m3u8
 寻味新疆（续）四,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/09caa9d140d1445cbdd43d1e4fa246f5/1200.m3u8
+味道,#genre#  
+我的家乡菜·佛山篇上,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/9dc60f3ba07e45eea6597d5834ad65f7/1200.m3u8
+我的家乡菜·佛山篇下,https://hwhls.cntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/014a9020035c4dbb8300bd50979cddf3/1200.m3u8
+我的家乡菜·西宁篇 上https://hls.cntv.cdn20.com/asp/hls/1200/0303000a/3/default/493fa01204284712b93aa2ba140635cf/1200.m3u8
+我的家乡菜·西宁篇 下,https://hls.cntv.cdn20.com/asp/hls/1200/0303000a/3/default/7022c117b09846f8b2c900e367333188/1200.m3u8 
+寻鲜记 一,https://hls.cntv.cdn20.com/asp/hls/1200/0303000a/3/default/e1c522bf9b7c4822b99e97f902458561/1200.m3u8
+寻鲜记 二,https://hls.cntv.cdn20.com/asp/hls/1200/0303000a/3/default/74ea845f8024438aa134ef06d5c02bb1/1200.m3u8
+寻鲜记 三,https://hls.cntv.cdn20.com/asp/hls/1200/0303000a/3/default/c82407530d624ef3b12e0394d0e135c8/1200.m3u8
+寻鲜记 四,https://hwhls.cntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/fd1d4f0b6b0b41b787794d028d67f646/1200.m3u8 
+寻鲜记 五,https://hls.cntv.cdn20.com/asp/hls/1200/0303000a/3/default/f5ac2ceb374e4dd29acc31b224f1af0a/1200.m3u8
+寻鲜记 六,https://hwhls.cntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/29825a0259924fbc9043b7f08da99f37/1200.m3u8
+寻鲜记 七,https://hls.cntv.cdn20.com/asp/hls/1200/0303000a/3/default/2d2047a9401445e8b32e9b6eff30406a/1200.m3u8
+寻鲜记 八,https://hwhls.cntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/fc51785cd38d4f33b9b7bd3b9d0e19c9/1200.m3u8
+我的家乡菜·汕头篇 上,http://hwhls.cntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/30407c04e7144c5f99ac407085811bf0/1200.m3u8
+我的家乡菜·汕头篇 下,http://hls.cntv.cdn20.com/asp/hls/1200/0303000a/3/default/04b0fc69bd6946e8937e98c1164e2546/1200.m3u8
+
+
 走遍中国美食篇,#genre#
 川菜 走遍中国,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f8c3a6ca3f564c19a79484cec497f181/850.m3u8
 鲁菜 走遍中国,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a5f3bdf962d548fcb1270657a220eadf/850.m3u8
