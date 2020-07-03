@@ -545,7 +545,7 @@ CCTV-电影剧场,http://pili-live-hls.fssh.tianma3600.com/fssh/fsds.m3u8
 味道,#genre#  
 我的家乡菜·佛山篇上,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/9dc60f3ba07e45eea6597d5834ad65f7/1200.m3u8
 我的家乡菜·佛山篇下,https://hwhls.cntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/014a9020035c4dbb8300bd50979cddf3/1200.m3u8
-我的家乡菜·西宁篇 上https://hls.cntv.cdn20.com/asp/hls/1200/0303000a/3/default/493fa01204284712b93aa2ba140635cf/1200.m3u8
+我的家乡菜·西宁篇 上,https://hls.cntv.cdn20.com/asp/hls/1200/0303000a/3/default/493fa01204284712b93aa2ba140635cf/1200.m3u8
 我的家乡菜·西宁篇 下,https://hls.cntv.cdn20.com/asp/hls/1200/0303000a/3/default/7022c117b09846f8b2c900e367333188/1200.m3u8 
 寻鲜记 一,https://hls.cntv.cdn20.com/asp/hls/1200/0303000a/3/default/e1c522bf9b7c4822b99e97f902458561/1200.m3u8
 寻鲜记 二,https://hls.cntv.cdn20.com/asp/hls/1200/0303000a/3/default/74ea845f8024438aa134ef06d5c02bb1/1200.m3u8
