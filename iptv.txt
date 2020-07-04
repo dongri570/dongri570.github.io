@@ -550,7 +550,7 @@ CCTV-电影剧场,http://pili-live-hls.fssh.tianma3600.com/fssh/fsds.m3u8
 我的家乡菜·兰州篇 一,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/c8b8fd24eeb948c883fffefe194758ee/1200.m3u8
 我的家乡菜·兰州篇 二,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/c085544dda1f4ea49912af0d0cc33bb3/1200.m3u8
 我的家乡菜·兰州篇 三,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/f3f63330ac0f4bdea39c60f51fb0a178/1200.m3u8
-我的家乡菜·汕头篇 上,http://hwhls.cntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/30407c04e7144c5f99ac407085811bf0/1200.m3u8
+我的家乡菜·汕头篇 上,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/30407c04e7144c5f99ac407085811bf0/1200.m3u8
 我的家乡菜·汕头篇 下,http://hls.cntv.cdn20.com/asp/hls/1200/0303000a/3/default/04b0fc69bd6946e8937e98c1164e2546/1200.m3u8
 我的家乡菜·扬州篇 上,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/ea97a6ba7fee405a95f6f80854462840/1200.m3u8
 我的家乡菜·扬州篇 下,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/594adeab4f104ec1b7938d03fae18829/1200.m3u8
