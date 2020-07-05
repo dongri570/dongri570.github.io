@@ -2674,6 +2674,20 @@ https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/18a8a559464448dbaf
 https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/2f1976058d334d3b9e432de9e0ddc8e0/1200.m3u8
 #EXTINF:-1 group-title="航拍中国第一季",第三季第十集 宁夏
 https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/163c971a8ec44f0ba5dd1dc3ddffb8d7/1200.m3u8
+#EXTINF:-1 group-title="中国港口",第一集 长河帆影
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/1fe8013eafc44453aebb3eaea1a2a494/1200.m3u8
+#EXTINF:-1 group-title="中国港口",第二集 疾风浩荡
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/46ee86ec06c142569a4723cbdfa4355c/1200.m3u8
+#EXTINF:-1 group-title="中国港口",第三集 秣马厉兵
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/7cf64643c7234e05a807e8546db28440/1200.m3u8
+#EXTINF:-1 group-title="中国港口",第四集 远航之望
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/5371d71c8dd549158832b0270fcd6ac0/1200.m3u8
+#EXTINF:-1 group-title="这里是新疆",第一集 山水天地间
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/3b43546fdc504f88b1499c20adcea552/850.m3u8
+#EXTINF:-1 group-title="这里是新疆",第二集 动静皆逍遥
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/05c3455f452c4e9e8a77bd8216089785/850.m3u8
+#EXTINF:-1 group-title="这里是新疆",第三集 沟通之路
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c27bcc04da13421b8d0df02ab53bb2c4/850.m3u8
 
 #EXTINF:-1 group-title="于无声处",第1集
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/d1d949ce736746e99f8569bcfef02466/850.m3u8
