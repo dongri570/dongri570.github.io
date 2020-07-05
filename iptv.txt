@@ -97,6 +97,15 @@ CCTV-电影剧场,http://pili-live-hls.fssh.tianma3600.com/fssh/fsds.m3u8
 第三季第八集 湖南,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/18a8a559464448dbaf60d33913e09aea/1200.m3u8
 第三季第九集 河北,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/2f1976058d334d3b9e432de9e0ddc8e0/1200.m3u8
 第三季第十集 宁夏,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/163c971a8ec44f0ba5dd1dc3ddffb8d7/1200.m3u8
+中国港口,#genre#
+第一集 长河帆影,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/1fe8013eafc44453aebb3eaea1a2a494/1200.m3u8
+第二集 疾风浩荡,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/46ee86ec06c142569a4723cbdfa4355c/1200.m3u8
+第三集 秣马厉兵,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/7cf64643c7234e05a807e8546db28440/1200.m3u8
+第四集 远航之望,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/5371d71c8dd549158832b0270fcd6ac0/1200.m3u8
+这里是新疆,#genre# 
+第一集 山水天地间,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/3b43546fdc504f88b1499c20adcea552/850.m3u8
+第二集 动静皆逍遥,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/05c3455f452c4e9e8a77bd8216089785/850.m3u8
+第三集 沟通之路,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c27bcc04da13421b8d0df02ab53bb2c4/850.m3u8
 南宋,#genre#
 第一集 遥望中原,http://hw-v.cztv.com/cztv/vod/2015/12/08/7145E9F9A36449788C53F2876C396236/h264_1500k_mp4.mp4_playlist.m3u8
 第二集 240道美食,http://hw-v.cztv.com/cztv/vod/2015/12/15/5E813777FA0A4a4aA52DA4B92D1BC91F/h264_1500k_mp4.mp4_playlist.m3u8
