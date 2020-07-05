@@ -66,6 +66,15 @@ CCTV-电影剧场,http://pili-live-hls.fssh.tianma3600.com/fssh/fsds.m3u8
 三沙卫视高清,http://ivi.bupt.edu.cn/hls/sstv.m3u8
 凤凰卫视中文台,http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
 香港凤凰卫视资讯台,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8?time=1593392893823
+贺兰山,#genre# 
+第一集 山魂,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/c73c0c585fb545258cae85f71d8234dc/1200.m3u8
+第二集 水脉,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/47cdb6f23d3744a0aec5f4c82eece36b/1200.m3u8
+第三集 家园,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/64664a73bbda4b1fa6837c3041e66975/1200.m3u8
+第四集 丝路,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/fe0c41c11ee64482aabd8aa39742a042/1200.m3u8
+第五集 融合,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/56ef70252a3b45f394e22b0beb2abf83/1200.m3u8
+第六集 共生,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/0f9cfc83e860450192d8b84f4523cada/1200.m3u8
+航拍中国第一季,#genre#
+第一集 新疆,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/3ebb32c9a2474758b86d8a98f433c3b3/1200.m3u8
 南宋,#genre#
 第一集 遥望中原,http://hw-v.cztv.com/cztv/vod/2015/12/08/7145E9F9A36449788C53F2876C396236/h264_1500k_mp4.mp4_playlist.m3u8
 第二集 240道美食,http://hw-v.cztv.com/cztv/vod/2015/12/15/5E813777FA0A4a4aA52DA4B92D1BC91F/h264_1500k_mp4.mp4_playlist.m3u8
