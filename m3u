@@ -2616,6 +2616,65 @@ http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/25b36ec54a474c10932b
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f04511cd8d1945c6be409b3cc39e843b/850.m3u8
 #EXTINF:-1 group-title="时代",习仲勋 第六集 海纳百川
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a5e22570f4a742e8b2c1876f4ecd4cb1/850.m3u8
+#EXTINF:-1 group-title="贺兰山",第一集 山魂
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/c73c0c585fb545258cae85f71d8234dc/1200.m3u8
+#EXTINF:-1 group-title="贺兰山",第二集 水脉
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/47cdb6f23d3744a0aec5f4c82eece36b/1200.m3u8
+#EXTINF:-1 group-title="贺兰山",第三集 家园
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/64664a73bbda4b1fa6837c3041e66975/1200.m3u8
+#EXTINF:-1 group-title="贺兰山",第四集 丝路
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/fe0c41c11ee64482aabd8aa39742a042/1200.m3u8
+#EXTINF:-1 group-title="贺兰山",第五集 融合
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/56ef70252a3b45f394e22b0beb2abf83/1200.m3u8
+#EXTINF:-1 group-title="贺兰山",第六集 共生
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/0f9cfc83e860450192d8b84f4523cada/1200.m3u8
+#EXTINF:-1 group-title="航拍中国第一季",第一集 新疆
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/3ebb32c9a2474758b86d8a98f433c3b3/1200.m3u8
+#EXTINF:-1 group-title="航拍中国第一季",第二集 海南
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/393cdd3b16254d32950dd652dd603129/1200.m3u8
+#EXTINF:-1 group-title="航拍中国第一季",第三集 黑龙江
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/50eb00bbc2e445a18082378a302e93a7/1200.m3u8
+#EXTINF:-1 group-title="航拍中国第一季",第四集 陕西
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/947280ca50144f0c94763ea3d1ec51cc/1200.m3u8
+#EXTINF:-1 group-title="航拍中国第一季",第五集 江西
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/d53b2a618894453a9144fac9b3a1cd2a/1200.m3u8
+#EXTINF:-1 group-title="航拍中国第一季",第六集 上海
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/03395aaae70348a2a80554464bad67f3/1200.m3u8
+#EXTINF:-1 group-title="航拍中国第一季",第二季第一集 四川
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/f22f133aab0b40129360c0c6d6ff0d2d/1200.m3u8
+#EXTINF:-1 group-title="航拍中国第一季",第二季第二集 浙江
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/c40caee6399e45daa7676b9a5e4116d5/1200.m3u8
+#EXTINF:-1 group-title="航拍中国第一季",第二季第三集 甘肃
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/4b79a3079e6f41fe98735763fa200101/1200.m3u8
+#EXTINF:-1 group-title="航拍中国第一季",第二季第四集 广东
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/32074e14c72f449f9c77e247cc886ecc/1200.m3u8
+#EXTINF:-1 group-title="航拍中国第一季",第二季第五集 内蒙古
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/4c76529c9c434b38a9047daa000a7b90/1200.m3u8
+#EXTINF:-1 group-title="航拍中国第一季",第二季第六集 福建
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/be153a817c2e4b1181183d7fd8879e92/1200.m3u8
+#EXTINF:-1 group-title="航拍中国第一季",第二季第七集 江苏
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/64c2db4bb8fc4e0d9b41506556a718cd/1200.m3u8
+#EXTINF:-1 group-title="航拍中国第一季",第三季第一集 云南
+https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/dc534f3d3730442a8b50334424ec2c78/1200.m3u8
+#EXTINF:-1 group-title="航拍中国第一季",第三季第二集 安徽
+https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/67c4d1c8265b45898a455f4dbaf17680/1200.m3u8
+#EXTINF:-1 group-title="航拍中国第一季",第三季第三集 贵州
+https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/73c437874a0c447dbfe6d7467d4a6e64/1200.m3u8
+#EXTINF:-1 group-title="航拍中国第一季",第三季第四集 山东
+https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/0263fc1d530d4b25bbc9e0ede600c7e4/1200.m3u8
+#EXTINF:-1 group-title="航拍中国第一季",第三季第五集 天津
+https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/5f03d9f1684241f696b25a19ffc44145/1200.m3u8
+#EXTINF:-1 group-title="航拍中国第一季",第三季第六集 山西
+https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/4c0d9387b7514640bc9fceee79257be4/1200.m3u8
+#EXTINF:-1 group-title="航拍中国第一季",第三季第七集 吉林
+https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/ad1e94a68cb440fd98317cc3aa7f4f31/1200.m3u8
+#EXTINF:-1 group-title="航拍中国第一季",第三季第八集 湖南
+https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/18a8a559464448dbaf60d33913e09aea/1200.m3u8
+#EXTINF:-1 group-title="航拍中国第一季",第三季第九集 河北
+https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/2f1976058d334d3b9e432de9e0ddc8e0/1200.m3u8
+#EXTINF:-1 group-title="航拍中国第一季",第三季第十集 宁夏
+https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/163c971a8ec44f0ba5dd1dc3ddffb8d7/1200.m3u8
+
 #EXTINF:-1 group-title="于无声处",第1集
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/d1d949ce736746e99f8569bcfef02466/850.m3u8
 #EXTINF:-1 group-title="于无声处",第2集
