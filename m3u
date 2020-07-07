@@ -676,6 +676,14 @@ http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/0e714c84ceb849cdbc0e
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9ddae10a95044b12a660576353e6fd11/850.m3u8
 #EXTINF:-1 group-title="雪域军魂",第9集 不辱使命
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/088a1e3a2ec0437488d7643ad5f3aef4/850.m3u8
+#EXTINF:-1 group-title="军工记忆·三线风云",军工记忆·三线风云一
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/73d4f300a36345c98752f8844d3e4a5c/1200.m3u8
+#EXTINF:-1 group-title="军工记忆·三线风云",军工记忆·三线风云二
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/6a061da90f70486a9e8582045365bb94/1200.m3u8
+#EXTINF:-1 group-title="军工记忆·三线风云",工记忆·三线风云三
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/a9e349e600ed40cbb1ffea1bb8edfc37/1200.m3u8
+#EXTINF:-1 group-title="军工记忆·三线风云",军工记忆·三线风云四
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/d18ad06e307849c09c8141b4c82c0322/1200.m3u8
 #EXTINF:-1 group-title="BTV档案",BTV档案之美军历史上最丢脸的海外军事行动
 https://v.js4177.org/20200125/aU17PHG2/index.m3u8
 #EXTINF:-1 group-title="BTV档案",BTV档案之红色特工
