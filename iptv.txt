@@ -375,8 +375,15 @@ CCTV-17农业农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
 军工记忆·三线风云,#genre#
 军工记忆·三线风云一,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/73d4f300a36345c98752f8844d3e4a5c/1200.m3u8
 军工记忆·三线风云二,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/6a061da90f70486a9e8582045365bb94/1200.m3u8
-工记忆·三线风云三,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/a9e349e600ed40cbb1ffea1bb8edfc37/1200.m3u8
+军工记忆·三线风云三,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/a9e349e600ed40cbb1ffea1bb8edfc37/1200.m3u8
 军工记忆·三线风云四,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/d18ad06e307849c09c8141b4c82c0322/1200.m3u8
+三线风云 第二集 筚路蓝缕,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/7a2fcef7ac1442aba81c94050e8d245c/1200.m3u8
+三线风云 第三集 千里跋涉,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/63c565bddf0f4850aa77dc50086cb26a/1200.m3u8
+三线风云 第四集 风起潮涌,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/11f309ea34384815860c9e4b0c7a6a5b/1200.m3u8
+三线风云 第五集 逆境转型,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/86454fa99eb94a3683de2ecce6a00e4b/1200.m3u8
+三线风云 第六集 弯道超车,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/7d25eae22d09441e9552839736f1dfb1/1200.m3u8
+三线风云 第七集 上下求索,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/51e2a298a67b47d3b50b9d6c8827e674/1200.m3u8
+三线风云 第八集 岁月无声,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/4e0ef3892f4b4613b3f97e649ac64b55/1200.m3u8
 一带一路,#genre#
 一带一路 第一集 共同命运,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/738009050b204026b7a5aef93b2074c4/1200.m3u8
 一带一路 第二集 互通之路,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/756429ed109442d29d7bb93dc1a2f646/1200.m3u8
