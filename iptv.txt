@@ -102,6 +102,11 @@ CCTV-17农业农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
 第一集 山水天地间,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/3b43546fdc504f88b1499c20adcea552/850.m3u8
 第二集 动静皆逍遥,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/05c3455f452c4e9e8a77bd8216089785/850.m3u8
 第三集 沟通之路,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c27bcc04da13421b8d0df02ab53bb2c4/850.m3u8
+喀什四章,#genre# 
+第一集 山川诱惑,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/5c784de16a424004a5d6354bcac21af3/850.m3u8
+第二集 丝路绵延,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/04b84b89c08446f4bd7c93850a4c9741/850.m3u8
+第三集 绿洲风情,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/84770736d96f485e9ae934ac3cca9966/850.m3u8
+第四集 物华天宝,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/2de81464212b4305a7d0c59fcd00423f/850.m3u8
 新疆反恐,#genre#
 中国新疆反恐记忆,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/83acc9834d974b4faad6bce02dd71264/1200.m3u8
 新疆的反恐 去极端化斗争,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/02957c0f88774f7a9c9b50164a481a61/1200.m3u8
