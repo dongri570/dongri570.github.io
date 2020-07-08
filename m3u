@@ -125,7 +125,6 @@ http://stream3.hnntv.cn/ssws/sd/live.m3u8?_upt=5c82647d1593397707
 http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="卫视节目",香港凤凰卫视资讯台
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8?time=1593392893823
-
 #EXTINF:-1 group-title="中国通史",第01集
 https://youku.cdn5-okzy.com/20200508/23433_3ccef59c/1000k/hls/index.m3u8
 #EXTINF:-1 group-title="中国通史",第02集
@@ -2464,7 +2463,6 @@ http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/cb30d7cb63a041fe983
 http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/5c53228f17844a2c8bd72c415c47272d/1200.m3u8
 #EXTINF:-1 group-title="走遍中国三",第四集 魔鬼 码头
 http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/37cfef28b0ae4d5295cbe85266a9cab8/1200.m3u8
- 
 #EXTINF:-1 group-title="经济半小时",新区新坐标 四川天府新区
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/20a58117673a4c2690c3465c6b708c48/1200.m3u8
 #EXTINF:-1 group-title="经济半小时",新区新坐标 青岛西海岸新区
@@ -2691,6 +2689,14 @@ http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/3b43546fdc504f88b149
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/05c3455f452c4e9e8a77bd8216089785/850.m3u8
 #EXTINF:-1 group-title="这里是新疆",第三集 沟通之路
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c27bcc04da13421b8d0df02ab53bb2c4/850.m3u8
+#EXTINF:-1 group-title="喀什四章",第一集 山川诱惑
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/5c784de16a424004a5d6354bcac21af3/850.m3u8
+#EXTINF:-1 group-title="喀什四章",第二集 丝路绵延
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/04b84b89c08446f4bd7c93850a4c9741/850.m3u8
+#EXTINF:-1 group-title="喀什四章",第三集 绿洲风情
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/84770736d96f485e9ae934ac3cca9966/850.m3u8
+#EXTINF:-1 group-title="喀什四章",第四集 物华天宝
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/2de81464212b4305a7d0c59fcd00423f/850.m3u8
 #EXTINF:-1 group-title="新疆反恐",中国新疆反恐记忆
 https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/83acc9834d974b4faad6bce02dd71264/1200.m3u8
 #EXTINF:-1 group-title="新疆反恐",新疆的反恐 去极端化斗争
