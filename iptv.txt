@@ -693,7 +693,7 @@ CCTV-17农业农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
 创新中国 第四集 生命,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/4649b34d0e1a4143adae1806a1d14869/1200.m3u8
 创新中国 第五集 空海,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/147a48b9f36a46879fb368410892b19d/1200.m3u8
 创新中国 第六集 潮起,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/2d6045595cf443fcbb3a03c6800fd836/1200.m3u8
-大国工匠
+大国工匠,#genre#
 第一集 大勇不惧,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0ea148bc266f48a1921697febfa79e8b/1200.m3u8
 第二集 大术无极,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/18ca2c668b874cbaac3647dbc7d3964a/1200.m3u8
 第三集 大巧破难,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f0abf8fd85194bc894d5e3f7f566ae6e/1200.m3u8
@@ -702,7 +702,7 @@ CCTV-17农业农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
 第六集 大技贵精,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ef950d0f7ef44667a64583aa96f09e6d/1200.m3u8
 第七集 大道无疆,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bad822b9e74449cd80d4a28508dbf7a8/1200.m3u8
 第八集 大任担当,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ca20d6ab78664d7dabd4c12872e5ad14/1200.m3u8
-远方的家,#genre#
+远方的家边疆行,#genre#
 边疆行第1集,http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/539a3183a8a84a946e4f4197e75217ff/850.m3u8
 边疆行第2集,http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/9b73de695c05424acab8a68e20019918/850.m3u8
 边疆行第3集,http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/a06ac3e15ab842a1548f99ab0b721f28/850.m3u8
@@ -803,6 +803,7 @@ CCTV-17农业农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
 边疆行第98集,http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/6945dc8b4794428b793f70aa0a9372e1/850.m3u8
 边疆行第99集,http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/72314345cda048070ada4ba629efce16/850.m3u8
 边疆行第100集,http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/d8bd54a2fa5a482645bb9b8fb6852e72/850.m3u8
+远方的家沿海行,#genre#
 沿海行第1集,http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/bd2a65c1267b49f86de8b29f4236e85f/850.m3u8
 沿海行第2集,http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/3d0f090d7e3e45b2a8ab30af13e65a54/850.m3u8
 沿海行第3集,http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/baab17c4071c48b59be6f09af434ef65/850.m3u8
