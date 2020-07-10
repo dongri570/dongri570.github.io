@@ -123,6 +123,69 @@ http://stream3.hnntv.cn/ssws/sd/live.m3u8?_upt=5c82647d1593397707
 http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="卫视节目",香港凤凰卫视资讯台
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8?time=1593392893823
+#EXTINF:-1 group-title="河南",中牟 1080
+http://live.dxhmt.cn:9081/tv/10122-1.m3u8
+#EXTINF:-1 group-title="河南",荥阳 1080
+http://live.dxhmt.cn:9081/tv/10182-1.m3u8
+#EXTINF:-1 group-title="河南",新郑 1080
+http://live.dxhmt.cn:9081/tv/10184-1.m3u8
+#EXTINF:-1 group-title="河南",通许 1080
+http://live.dxhmt.cn:9081/tv/10222-1.m3u8
+#EXTINF:-1 group-title="河南",尉氏 1080
+http://live.dxhmt.cn:9081/tv/10223-1.m3u8
+#EXTINF:-1 group-title="河南",兰考 1080
+http://live.dxhmt.cn:9081/tv/10225-1.m3u8
+#EXTINF:-1 group-title="河南",新安 1080
+http://live.dxhmt.cn:9081/tv/10323-1.m3u8
+#EXTINF:-1 group-title="河南",汝阳 1080
+http://live.dxhmt.cn:9081/tv/10326-1.m3u8
+#EXTINF:-1 group-title="河南",伊川 1080
+http://live.dxhmt.cn:9081/tv/10329-1.m3u8
+#EXTINF:-1 group-title="河南",宝丰 1080
+http://live.dxhmt.cn:9081/tv/10421-1.m3u8
+#EXTINF:-1 group-title="河南",叶县 1080
+http://live.dxhmt.cn:9081/tv/10422-1.m3u8
+#EXTINF:-1 group-title="河南",鲁山 1080
+http://live.dxhmt.cn:9081/tv/10423-1.m3u8
+#EXTINF:-1 group-title="河南",郏县 1080
+http://live.dxhmt.cn:9081/tv/10425-1.m3u8
+#EXTINF:-1 group-title="河南",舞钢 1080
+http://live.dxhmt.cn:9081/tv/10481-1.m3u8
+#EXTINF:-1 group-title="河南",汝州 1080
+http://live.dxhmt.cn:9081/tv/10482-1.m3u8
+#EXTINF:-1 group-title="河南",汤阴 1080
+http://live.dxhmt.cn:9081/tv/10523-1.m3u8
+#EXTINF:-1 group-title="河南",滑县 1080
+http://live.dxhmt.cn:9081/tv/10526-1.m3u8
+#EXTINF:-1 group-title="河南",内黄 1080
+http://live.dxhmt.cn:9081/tv/10527-1.m3u8
+#EXTINF:-1 group-title="河南",林州 1080
+http://live.dxhmt.cn:9081/tv/10581-1.m3u8
+#EXTINF:-1 group-title="河南",浚县 1080
+http://live.dxhmt.cn:9081/tv/10621-1.m3u8
+#EXTINF:-1 group-title="河南",淇县 1080
+http://live.dxhmt.cn:9081/tv/10622-1.m3u8
+#EXTINF:-1 group-title="河南",原阳 1080
+http://live.dxhmt.cn:9081/tv/10725-1.m3u8
+#EXTINF:-1 group-title="河南",封丘 1080
+http://live.dxhmt.cn:9081/tv/10727-1.m3u8
+#EXTINF:-1 group-title="河南",长垣 1080
+http://live.dxhmt.cn:9081/tv/10728-1.m3u8
+#EXTINF:-1 group-title="河南",辉县 1080
+http://live.dxhmt.cn:9081/tv/10782-1.m3u8
+#EXTINF:-1 group-title="河南",修武 576
+http://live.dxhmt.cn:9081/tv/10821-1.m3u8
+#EXTINF:-1 group-title="河南",武陟 1080
+http://live.dxhmt.cn:9081/tv/10823-1.m3u8
+#EXTINF:-1 group-title="河南",温县 1080
+http://live.dxhmt.cn:9081/tv/10825-1.m3u8
+#EXTINF:-1 group-title="河南",泌阳 1080
+http://live.dxhmt.cn:9081/tv/10882-1.m3u8#http://live.dxhmt.cn:9081/tv/11726-1.m3u8
+#EXTINF:-1 group-title="河南",孟州 1080
+http://live.dxhmt.cn:9081/tv/10883-1.m3u8
+#EXTINF:-1 group-title="河南",清丰 1080
+http://live.dxhmt.cn:9081/tv/10922-1.m3u8
+
 #EXTINF:-1 group-title="中国通史",第01集
 https://youku.cdn5-okzy.com/20200508/23433_3ccef59c/1000k/hls/index.m3u8
 #EXTINF:-1 group-title="中国通史",第02集
