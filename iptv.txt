@@ -65,8 +65,6 @@ CCTV-17农业农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
 河南,#genre#
 中牟 1080,http://live.dxhmt.cn:9081/tv/10122-1.m3u8
 荥阳 1080,http://live.dxhmt.cn:9081/tv/10182-1.m3u8
-新郑 1080,http://live.dxhmt.cn:9081/tv/10184-1.m3u8
-通许 1080,http://live.dxhmt.cn:9081/tv/10222-1.m3u8
 尉氏 1080,http://live.dxhmt.cn:9081/tv/10223-1.m3u8
 兰考 1080,http://live.dxhmt.cn:9081/tv/10225-1.m3u8
 新安 1080,http://live.dxhmt.cn:9081/tv/10323-1.m3u8
@@ -74,7 +72,6 @@ CCTV-17农业农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
 伊川 1080,http://live.dxhmt.cn:9081/tv/10329-1.m3u8
 宝丰 1080,http://live.dxhmt.cn:9081/tv/10421-1.m3u8
 叶县 1080,http://live.dxhmt.cn:9081/tv/10422-1.m3u8
-鲁山 1080,http://live.dxhmt.cn:9081/tv/10423-1.m3u8
 郏县 1080,http://live.dxhmt.cn:9081/tv/10425-1.m3u8
 舞钢 1080,http://live.dxhmt.cn:9081/tv/10481-1.m3u8
 汝州 1080,http://live.dxhmt.cn:9081/tv/10482-1.m3u8
@@ -92,7 +89,6 @@ CCTV-17农业农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
 武陟 1080,http://live.dxhmt.cn:9081/tv/10823-1.m3u8
 温县 1080,http://live.dxhmt.cn:9081/tv/10825-1.m3u8
 泌阳 1080,http://live.dxhmt.cn:9081/tv/10882-1.m3u8#http://live.dxhmt.cn:9081/tv/11726-1.m3u8
-孟州 1080,http://live.dxhmt.cn:9081/tv/10883-1.m3u8
 清丰 1080,http://live.dxhmt.cn:9081/tv/10922-1.m3u8
 航拍中国第一季,#genre#
 第一集 新疆,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/3ebb32c9a2474758b86d8a98f433c3b3/1200.m3u8
