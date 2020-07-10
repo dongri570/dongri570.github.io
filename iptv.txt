@@ -392,6 +392,11 @@ CCTV-17农业农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
 第一集 智慧前行,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/9bb5f3e507db44ceb1ba612c3aae4068/1200.m3u8
 第二集 智慧生活,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/2d03e82b30ba4835991dae7680c90a69/1200.m3u8
 第三集 智慧星球,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/85bb407f22da458bb957ed35bc20b2d2/1200.m3u8
+《美丽中国》,#genre# 
+第一集 清水绿岸,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/8e22daf3bf9e4684bb05ddb48fa75ef3/1200.m3u8
+第二集 蓝天白云,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/f928f590b2a5477db489d7dac5300d72/1200.m3u8
+第三集 沃土如金,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/3dc3226b24044af29417734d9b1d1791/1200.m3u8
+第四集 生态文明之路,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/ba24489979954dc3bebde0e894b5077d/1200.m3u8
 中国建设者,#genre#
 中国建设者 深坑酒店,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/eaf3a94dd5cd4797b0d0708ec77dd62f/1200.m3u8
 中国建设者 极限运输,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e582b640351e4ca8a7a989621ca8b1a2/1200.m3u8
