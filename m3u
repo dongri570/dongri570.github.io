@@ -35,8 +35,6 @@ http://ivi.bupt.edu.cn/hls/cctv15.m3u8
 http://ivi.bupt.edu.cn/hls/cctv16.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视节目",CCTV-17农业农村
 http://ivi.bupt.edu.cn/hls/cctv17.m3u8
-
-
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视节目",北京卫视蓝光
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
 #EXTINF:-1 group-title="卫视节目",BTV文艺
@@ -3100,6 +3098,11 @@ https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/18a8a559464448dbaf
 https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/2f1976058d334d3b9e432de9e0ddc8e0/1200.m3u8
 #EXTINF:-1 group-title="航拍中国第一季",第三季第十集 宁夏
 https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/163c971a8ec44f0ba5dd1dc3ddffb8d7/1200.m3u8
+#EXTINF:-1 group-title="鸟瞰中国第二季",第一集 活力海岸
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/cc06d6ba3e20482baff74642a490a817/1200.m3u8
+#EXTINF:-1 group-title="鸟瞰中国第二季",第二集 壮丽山河
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/76a7b208e21140859e5ab54e48ade938/1200.m3u8
+
 #EXTINF:-1 group-title="中国港口",第一集 长河帆影
 http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/1fe8013eafc44453aebb3eaea1a2a494/1200.m3u8
 #EXTINF:-1 group-title="中国港口",第二集 疾风浩荡
