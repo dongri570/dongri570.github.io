@@ -62,7 +62,38 @@ CCTV-17农业农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
 三沙卫视高清,http://ivi.bupt.edu.cn/hls/sstv.m3u8
 凤凰卫视中文台,http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
 香港凤凰卫视资讯台,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8?time=1593392893823
-
+河南,#genre#
+中牟 1080,http://live.dxhmt.cn:9081/tv/10122-1.m3u8
+荥阳 1080,http://live.dxhmt.cn:9081/tv/10182-1.m3u8
+新郑 1080,http://live.dxhmt.cn:9081/tv/10184-1.m3u8
+通许 1080,http://live.dxhmt.cn:9081/tv/10222-1.m3u8
+尉氏 1080,http://live.dxhmt.cn:9081/tv/10223-1.m3u8
+兰考 1080,http://live.dxhmt.cn:9081/tv/10225-1.m3u8
+新安 1080,http://live.dxhmt.cn:9081/tv/10323-1.m3u8
+汝阳 1080,http://live.dxhmt.cn:9081/tv/10326-1.m3u8
+伊川 1080,http://live.dxhmt.cn:9081/tv/10329-1.m3u8
+宝丰 1080,http://live.dxhmt.cn:9081/tv/10421-1.m3u8
+叶县 1080,http://live.dxhmt.cn:9081/tv/10422-1.m3u8
+鲁山 1080,http://live.dxhmt.cn:9081/tv/10423-1.m3u8
+郏县 1080,http://live.dxhmt.cn:9081/tv/10425-1.m3u8
+舞钢 1080,http://live.dxhmt.cn:9081/tv/10481-1.m3u8
+汝州 1080,http://live.dxhmt.cn:9081/tv/10482-1.m3u8
+汤阴 1080,http://live.dxhmt.cn:9081/tv/10523-1.m3u8
+滑县 1080,http://live.dxhmt.cn:9081/tv/10526-1.m3u8
+内黄 1080,http://live.dxhmt.cn:9081/tv/10527-1.m3u8
+林州 1080,http://live.dxhmt.cn:9081/tv/10581-1.m3u8
+浚县 1080,http://live.dxhmt.cn:9081/tv/10621-1.m3u8
+淇县 1080,http://live.dxhmt.cn:9081/tv/10622-1.m3u8
+原阳 1080,http://live.dxhmt.cn:9081/tv/10725-1.m3u8
+封丘 1080,http://live.dxhmt.cn:9081/tv/10727-1.m3u8
+长垣 1080,http://live.dxhmt.cn:9081/tv/10728-1.m3u8
+辉县 1080,http://live.dxhmt.cn:9081/tv/10782-1.m3u8
+修武 576,http://live.dxhmt.cn:9081/tv/10821-1.m3u8
+武陟 1080,http://live.dxhmt.cn:9081/tv/10823-1.m3u8
+温县 1080,http://live.dxhmt.cn:9081/tv/10825-1.m3u8
+泌阳 1080,http://live.dxhmt.cn:9081/tv/10882-1.m3u8#http://live.dxhmt.cn:9081/tv/11726-1.m3u8
+孟州 1080,http://live.dxhmt.cn:9081/tv/10883-1.m3u8
+清丰 1080,http://live.dxhmt.cn:9081/tv/10922-1.m3u8
 航拍中国第一季,#genre#
 第一集 新疆,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/3ebb32c9a2474758b86d8a98f433c3b3/1200.m3u8
 第二集 海南,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/393cdd3b16254d32950dd652dd603129/1200.m3u8
