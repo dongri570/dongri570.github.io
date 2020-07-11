@@ -127,10 +127,6 @@ http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8?t
 http://live.dxhmt.cn:9081/tv/10122-1.m3u8
 #EXTINF:-1 group-title="河南",荥阳 1080
 http://live.dxhmt.cn:9081/tv/10182-1.m3u8
-#EXTINF:-1 group-title="河南",新郑 1080
-http://live.dxhmt.cn:9081/tv/10184-1.m3u8
-#EXTINF:-1 group-title="河南",通许 1080
-http://live.dxhmt.cn:9081/tv/10222-1.m3u8
 #EXTINF:-1 group-title="河南",尉氏 1080
 http://live.dxhmt.cn:9081/tv/10223-1.m3u8
 #EXTINF:-1 group-title="河南",兰考 1080
@@ -181,8 +177,6 @@ http://live.dxhmt.cn:9081/tv/10823-1.m3u8
 http://live.dxhmt.cn:9081/tv/10825-1.m3u8
 #EXTINF:-1 group-title="河南",泌阳 1080
 http://live.dxhmt.cn:9081/tv/10882-1.m3u8#http://live.dxhmt.cn:9081/tv/11726-1.m3u8
-#EXTINF:-1 group-title="河南",孟州 1080
-http://live.dxhmt.cn:9081/tv/10883-1.m3u8
 #EXTINF:-1 group-title="河南",清丰 1080
 http://live.dxhmt.cn:9081/tv/10922-1.m3u8
 
