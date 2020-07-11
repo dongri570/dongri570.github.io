@@ -930,6 +930,14 @@ http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/eaa21a36e16349d9b11
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a5efea0cb7cd47ad8dbdd350a1ba55cb/1200.m3u8
 #EXTINF:-1 group-title="一带一路",中国建设者 成昆传奇
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ef4b0747167c4c349b607df24bb333b5/1200.m3u8
+#EXTINF:-1 group-title="中国港口",第一集 长河帆影
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/1fe8013eafc44453aebb3eaea1a2a494/1200.m3u8
+#EXTINF:-1 group-title="中国港口",第二集 疾风浩荡
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/46ee86ec06c142569a4723cbdfa4355c/1200.m3u8
+#EXTINF:-1 group-title="中国港口",第三集 秣马厉兵
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/7cf64643c7234e05a807e8546db28440/1200.m3u8
+#EXTINF:-1 group-title="中国港口",第四集 远航之望
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/5371d71c8dd549158832b0270fcd6ac0/1200.m3u8
 #EXTINF:-1 group-title="辉煌中国",第一集 圆梦工程
 http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/a655bc32eb3f4e61a2518a943c2b43df/1200.m3u8
 #EXTINF:-1 group-title="辉煌中国",第二集 创新活力
@@ -3108,7 +3116,6 @@ http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ff5c4949c8e34240bce0
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b442a342eed045b288bfc4a93fa7a4f7/850.m3u8
 #EXTINF:-1 group-title="过年 第二季",第五集 团圆的味道
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1c0692b0520643bb9fc05c8856cd9d76/850.m3u8
-
 #EXTINF:-1 group-title="贺兰山",第一集 山魂
 http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/c73c0c585fb545258cae85f71d8234dc/1200.m3u8
 #EXTINF:-1 group-title="贺兰山",第二集 水脉
@@ -3175,14 +3182,6 @@ http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/01bf38f9f4d64471b5e5
 http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/cc06d6ba3e20482baff74642a490a817/1200.m3u8
 #EXTINF:-1 group-title="鸟瞰中国第一季",第二集 壮丽山河
 http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/76a7b208e21140859e5ab54e48ade938/1200.m3u8
-#EXTINF:-1 group-title="中国港口",第一集 长河帆影
-http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/1fe8013eafc44453aebb3eaea1a2a494/1200.m3u8
-#EXTINF:-1 group-title="中国港口",第二集 疾风浩荡
-http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/46ee86ec06c142569a4723cbdfa4355c/1200.m3u8
-#EXTINF:-1 group-title="中国港口",第三集 秣马厉兵
-http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/7cf64643c7234e05a807e8546db28440/1200.m3u8
-#EXTINF:-1 group-title="中国港口",第四集 远航之望
-http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/5371d71c8dd549158832b0270fcd6ac0/1200.m3u8
 #EXTINF:-1 group-title="这里是新疆",第一集 山水天地间
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/3b43546fdc504f88b1499c20adcea552/850.m3u8
 #EXTINF:-1 group-title="这里是新疆",第二集 动静皆逍遥
@@ -3197,7 +3196,6 @@ http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9c8f404e191e49eeb961
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/073bf3e351dc4d8a9eeb6f76bf683f92/850.m3u8
 #EXTINF:-1 group-title="喀什四章",第四集 物华天宝
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/84bb4031e3e74236a2111da7d437942b/850.m3u8
-
 #EXTINF:-1 group-title="于无声处",第1集
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/d1d949ce736746e99f8569bcfef02466/850.m3u8
 #EXTINF:-1 group-title="于无声处",第2集
