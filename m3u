@@ -120,9 +120,9 @@ http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3
 #EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="卫视节目",三沙卫视高清
 http://stream3.hnntv.cn/ssws/sd/live.m3u8?_upt=5c82647d1593397707
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="卫视节目",凤凰卫视中文台
-http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8?time=1594430523377
+http://112.50.243.8/PLTV/88888888/224/3221225900/index.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="卫视节目",香港凤凰卫视资讯台
-http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8?time=1593392893823
+http://112.50.243.8/PLTV/88888888/224/3221225901/index.m3u8
 #EXTINF:-1 group-title="河南",中牟 1080
 http://live.dxhmt.cn:9081/tv/10122-1.m3u8
 #EXTINF:-1 group-title="河南",荥阳 1080
