@@ -60,8 +60,8 @@ CCTV-17农业农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
 新疆卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
 西藏卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
 三沙卫视高清,http://ivi.bupt.edu.cn/hls/sstv.m3u8
-凤凰卫视中文台,http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
-香港凤凰卫视资讯台,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8?time=1593392893823
+凤凰卫视中文台,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8?time=1594430523377
+香港凤凰卫视资讯台,http://117.169.120.146:8080/live/fhzixun/1.m3u8?icpid=88888929&from=79102&hms_devid=432,485&online=1594430267&vqe=3
 河南,#genre#
 中牟 1080,http://live.dxhmt.cn:9081/tv/10122-1.m3u8
 荥阳 1080,http://live.dxhmt.cn:9081/tv/10182-1.m3u8
