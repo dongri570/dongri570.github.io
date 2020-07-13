@@ -1,27 +1,92 @@
-航拍中国,#genre#
-①江西,https://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/8edf3fb6a69148ea9a7dc0b5a9d99fdb/4000.m3u8
-①海南,https://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/ebc22b913d104ccfb153dc09850e0486/4000.m3u8
-①上海,https://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/3e5279df88b44cb7933157330f967490/4000.m3u8
-①黑龙江,https://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/1199803974fe4361980f8e764d94c607/4000.m3u8
-①陕西,https://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/c698d3595f504fd09044e0b6615040f0/4000.m3u8
-①新疆,https://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/611dfd08172c4e3082289d6d33db4df4/4000.m3u8
-②江苏,https://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/b1e17e11d274467db1ace20e1534a953/4000.m3u8
-②四川,https://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/9e9b2ec70cca4cdc917672cb1e44bb01/4000.m3u8
-②福建,https://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/8ba642c716404cf59a87f20ef9fc54a3/4000.m3u8
-②广东,https://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/d907ef756138493e9fe5b35b4ab69642/4000.m3u8
-②甘肃,https://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/1d627277720b4c4698ce58d4d2edb3b5/4000.m3u8
-②内蒙古,https://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f9817cb7f3b79a/4000.m3u8
-②浙江,https://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/cc46d0edb5974d9bb744a009edc9c01a/4000.m3u8
-③河北,https://hls.cntv.baishancdnx.cn/asp/hls/main/0303000a/3/default/a677ef50dc0f43c18f4ce0c53cdc8795/main.m3u8?maxbr=2048&minbr=400
-③云南,https://hls.cntv.baishancdnx.cn/asp/hls/main/0303000a/3/default/dc534f3d3730442a8b50334424ec2c78/main.m3u8?maxbr=2048&minbr=400
-③安徽,https://hls.cntv.baishancdnx.cn/asp/hls/main/0303000a/3/default/67c4d1c8265b45898a455f4dbaf17680/main.m3u8?maxbr=2048&minbr=400
-③贵州,https://hls.cntv.baishancdnx.cn/asp/hls/main/0303000a/3/default/5f0f1548cb8a4018be1921b24187f2e8/main.m3u8?maxbr=2048&minbr=400
-③山东,https://hls.cntv.baishancdnx.cn/asp/hls/main/0303000a/3/default/5ef3a7ab95984c6eb2b7aaca77a26eac/main.m3u8?maxbr=2048&minbr=400
-③天津,https://hls.cntv.baishancdnx.cn/asp/hls/main/0303000a/3/default/5f03d9f1684241f696b25a19ffc44145/main.m3u8?maxbr=2048&minbr=400
-③湖南,https://hls.cntv.baishancdnx.cn/asp/hls/main/0303000a/3/default/f5d8f71d90dd480599c0a36a26db3101/main.m3u8?maxbr=2048&minbr=400
-③山西,https://hls.cntv.baishancdnx.cn/asp/hls/main/0303000a/3/default/f1609a418f444f1ca0f9b8441d7a49fe/main.m3u8?maxbr=2048&minbr=400
-③吉林,https://hls.cntv.baishancdnx.cn/asp/hls/main/0303000a/3/default/7736ba0a79a94bdb83abef7ca0843c35/main.m3u8?maxbr=2048&minbr=400
-③宁夏,https://hls.cntv.baishancdnx.cn/asp/hls/main/0303000a/3/default/163c971a8ec44f0ba5dd1dc3ddffb8d7/main.m3u8?maxbr=2048&minbr=400
+
+央视节目,#genre#        
+CCTV-1综合,http://ivi.bupt.edu.cn/hls/cctv1.m3u8
+CCTV-2财经,http://ivi.bupt.edu.cn/hls/cctv2.m3u8
+CCTV-3综艺,http://ivi.bupt.edu.cn/hls/cctv3.m3u8
+CCTV-4中文国际,http://ivi.bupt.edu.cn/hls/cctv4.m3u8
+CCTV-5体育,http://cctvalih5ca.v.myalicdn.com/live/cctv5_2/index.m3u8
+CCTV-5+体育,http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+CCTV-6电影,http://ivi.bupt.edu.cn/hls/cctv6.m3u8
+CCTV-7国防军事,http://ivi.bupt.edu.cn/hls/cctv7.m3u8
+CCTV-8电视剧,http://ivi.bupt.edu.cn/hls/cctv8.m3u8
+CCTV-9纪录,http://ivi.bupt.edu.cn/hls/cctv9.m3u8
+CCTV-10科教,http://ivi.bupt.edu.cn/hls/cctv10.m3u8
+CCTV-11戏曲,http://ivi.bupt.edu.cn/hls/cctv11.m3u8
+CCTV-12高清,http://ivi.bupt.edu.cn/hls/cctv12hd.m3u8
+CCTV-13新闻,http://ivi.bupt.edu.cn/hls/cctv13.m3u8
+CCTV-14少儿,http://ivi.bupt.edu.cn/hls/cctv14.m3u8
+CCTV-15音乐,http://ivi.bupt.edu.cn/hls/cctv15.m3u8
+CGTN,http://ivi.bupt.edu.cn/hls/cctv16.m3u8
+CCTV-17农业农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
+卫视节目,#genre#
+北京卫视蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
+北京电视台文艺,http://cctvalih5ca.v.myalicdn.com/wstv/btv2_2/index.m3u8
+北京科教,http://cctvalih5ca.v.myalicdn.com/wstv/btv3_2/index.m3u8
+北京影视,http://cctvalih5ca.v.myalicdn.com/wstv/btv4_2/index.m3u8
+北京电视台财经,http://cctvalih5ca.v.myalicdn.com/wstv/btv5_2/index.m3u8
+北京生活,http://cctvalih5ca.v.myalicdn.com/wstv/btv7_2/index.m3u8
+北京青年,http://cctvalih5ca.v.myalicdn.com/wstv/btv8_2/index.m3u8
+北京新闻,http://cctvalih5ca.v.myalicdn.com/wstv/btv9_2/index.m3u8
+北京卡酷动画卫视,http://sk.live.otvcloud.com/otv/skcc/live/channel11003/2300.m3u8?k=6ec0bca3a3be0b0f80557b69b156a091&t=5EF92C76&UID=CD0D99E3
+北京冬奥纪实,http://live.hcs.cmvideo.cn:8088/wd_r3/btv/btv6/1000/index.m3u8?&encrypt=
+天津卫视蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226246/1.m3u8
+河北卫视蓝光,http://live5.plus.hebtv.com/hbws/sd/live.m3u8
+东方卫视蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8
+湖南卫视蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226241/1.m3u8
+浙江卫视蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226247/1.m3u8
+江苏卫视蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8
+河南卫视蓝光,http://cctvalih5ca.v.myalicdn.com/wstv/henan_2/index.m3u8
+山东卫视蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226308/1.m3u8
+湖北卫视蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226310/1.m3u8
+安徽卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226223/1.m3u8
+广东卫视蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226238/1.m3u8
+深圳卫视蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226245/1.m3u8
+辽宁卫视蓝光,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225947/1.m3u8
+龙江卫视蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
+吉林卫视蓝光,http://cctvalih5ca.v.myalicdn.com/wstv/jilin_2/index.m3u8
+江西卫视蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226243/1.m3u8
+四川卫视蓝光,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227006/1.m3u8
+重庆卫视蓝光,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
+厦门卫视蓝光,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226781/1.m3u8
+海南卫视蓝光,http://cctvalih5ca.v.myalicdn.com/wstv/travel_2/index.m3u8
+贵州卫视蓝光,http://cctvalih5ca.v.myalicdn.com/wstv/guizhou_2/index.m3u8
+广西卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225879/1.m3u8
+甘肃卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225877/1.m3u8
+青海卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225893/1.m3u8
+山西卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225895/1.m3u8
+云南卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225902/1.m3u8
+陕西卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225896/1.m3u8
+宁夏卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225892/1.m3u8
+内蒙卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225891/1.m3u8
+新疆卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
+西藏卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
+三沙卫视高清,http://ivi.bupt.edu.cn/hls/sstv.m3u8
+凤凰卫视中文台,http://112.50.243.8/PLTV/88888888/224/3221225900/index.m3u8
+香港凤凰卫视资讯台,http://112.50.243.8/PLTV/88888888/224/3221225901/index.m3u8
+航拍中国第一季,#genre#
+第一集 新疆,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/3ebb32c9a2474758b86d8a98f433c3b3/1200.m3u8
+第二集 海南,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/393cdd3b16254d32950dd652dd603129/1200.m3u8
+第三集 黑龙江,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/50eb00bbc2e445a18082378a302e93a7/1200.m3u8
+第四集 陕西,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/947280ca50144f0c94763ea3d1ec51cc/1200.m3u8
+第五集 江西,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/d53b2a618894453a9144fac9b3a1cd2a/1200.m3u8
+第六集 上海,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/03395aaae70348a2a80554464bad67f3/1200.m3u8
+第二季第一集 四川,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/f22f133aab0b40129360c0c6d6ff0d2d/1200.m3u8
+第二季第二集 浙江,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/c40caee6399e45daa7676b9a5e4116d5/1200.m3u8
+第二季第三集 甘肃,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/4b79a3079e6f41fe98735763fa200101/1200.m3u8
+第二季第四集 广东,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/32074e14c72f449f9c77e247cc886ecc/1200.m3u8
+第二季第五集 内蒙古,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/4c76529c9c434b38a9047daa000a7b90/1200.m3u8
+第二季第六集 福建,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/be153a817c2e4b1181183d7fd8879e92/1200.m3u8
+第二季第七集 江苏,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/64c2db4bb8fc4e0d9b41506556a718cd/1200.m3u8
+第三季第一集 云南,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/dc534f3d3730442a8b50334424ec2c78/1200.m3u8
+第三季第二集 安徽,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/67c4d1c8265b45898a455f4dbaf17680/1200.m3u8
+第三季第三集 贵州,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/73c437874a0c447dbfe6d7467d4a6e64/1200.m3u8
+第三季第四集 山东,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/0263fc1d530d4b25bbc9e0ede600c7e4/1200.m3u8
+第三季第五集 天津,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/5f03d9f1684241f696b25a19ffc44145/1200.m3u8
+第三季第六集 山西,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/4c0d9387b7514640bc9fceee79257be4/1200.m3u8
+第三季第七集 吉林,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/ad1e94a68cb440fd98317cc3aa7f4f31/1200.m3u8
+第三季第八集 湖南,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/18a8a559464448dbaf60d33913e09aea/1200.m3u8
+第三季第九集 河北,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/2f1976058d334d3b9e432de9e0ddc8e0/1200.m3u8
+第三季第十集 宁夏,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/163c971a8ec44f0ba5dd1dc3ddffb8d7/1200.m3u8
 鸟瞰中国第一季,#genre#
 第一集 源远流长,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a9787634e5cd4cb4b9410f84785fa542/850.m3u8
 第二集 继往开来,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/01bf38f9f4d64471b5e5dbcbbccdaeb5/850.m3u8
