@@ -1474,18 +1474,7 @@ http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/25b36ec54a474c10932b
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f04511cd8d1945c6be409b3cc39e843b/850.m3u8
 #EXTINF:-1 group-title="时代",习仲勋 第六集 海纳百川
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a5e22570f4a742e8b2c1876f4ecd4cb1/850.m3u8
-#EXTINF:-1 group-title="长江之恋",第01集
-https://zk1.603ee.com/2019/10/13/wc19JciQLmCQhavv/playlist.m3u8
-#EXTINF:-1 group-title="长江之恋",第02集
-https://zk1.603ee.com/2019/10/13/ohrptp6wH0xn1hlf/playlist.m3u8
-#EXTINF:-1 group-title="长江之恋",第03集
-https://zk1.603ee.com/2019/10/13/Za7nGDsLFbblXufy/playlist.m3u8
-#EXTINF:-1 group-title="长江之恋",第04集
-https://zk1.603ee.com/2019/10/13/W9ZiVU59MUlkQCEw/playlist.m3u8
-#EXTINF:-1 group-title="长江之恋",第05集
-https://zk1.603ee.com/2019/10/13/n8iaDAJhtYe3sDFO/playlist.m3u8
-#EXTINF:-1 group-title="长江之恋",第06集
-https://zk1.603ee.com/2019/10/13/YMgVIyBf1L5mGfux/playlist.m3u8
+
 
 #EXTINF:-1 group-title="大好河山",大好河山 中国丹霞 大地红裳
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5d329bf956ce421c8bbd17384029e2c3/1200.m3u8
