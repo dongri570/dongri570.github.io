@@ -152,8 +152,8 @@ CCTV-17农业农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
 第二十三集 辉煌新时代,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/c7c42950a4b443928a4ba347617fe68e/1200.m3u8
 第二十四集 领航中国,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/d798769e15bc4b308cc01ec03e7061b5/1200.m3u8
 苏联解体,#genre#
-红场阅兵·戈尔巴乔夫时代 上，http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/bbffa6cd05fa401c870f4e21816142a8/850.m3u8
-红场阅兵·戈尔巴乔夫时代 下，http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/bf288f16ff6e470193245c65de9f7da8/850.m3u8
+红场阅兵 戈尔巴乔夫时代 上,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/bbffa6cd05fa401c870f4e21816142a8/850.m3u8
+红场阅兵 戈尔巴乔夫时代 下,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/bf288f16ff6e470193245c65de9f7da8/850.m3u8
 苏联解体 八-一九事件内幕 上,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/0d11fdd446ba3ddda49e8f540a4e5c44/850.m3u8
 苏联解体 八·一九事件内幕 中,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/8fee3474477e3ddda49e8f540a4e5c44/850.m3u8
 新疆反恐,#genre#
