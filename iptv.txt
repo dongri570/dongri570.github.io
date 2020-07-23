@@ -232,6 +232,25 @@ CCTV-17农业农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
 第八集 破冰之旅,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c64092dae5434f469d6e2923625f7f1f/850.m3u8
 走近毛泽东 上,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a6814e59f74b44cf837fb1b2f2e04ad3/850.m3u8
 走近毛泽东 下,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/d6604f4f829a4ebb804e27a029c75fc8/850.m3u8
+毛主席用兵真如神,#genre#
+第一集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/73aa303f5b1f460e941c459b647fc027/850.m3u8
+第二集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/e51b359738bb492c7dbb5692dd59713d/850.m3u8
+第三集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f8d2dba40a3c4ea37610ef8bd8e79ad7/850.m3u8
+第四集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/d846063c2db9475c9280a783c35df564/850.m3u8
+第五集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/109ceb90bb2a4e72ba297480621be23a/850.m3u8
+第六集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/8c6bda58edc84957ad9b10901b5d6286/850.m3u8
+第七集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c92aadf8fd8046ccb8a700a40afbe25e/850.m3u8
+第八集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ea620a38bab8480551220a8ce8ad9763/850.m3u8
+第九集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/73d31cdb97794e9cd3e99596d90594be/850.m3u8
+第十集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/375147b712f644eed4098d8b8a20575c/850.m3u8
+第十一集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a0324263a84f40897cf03684c739ced7/850.m3u8
+第十二集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/99221465d6f44090f2aeefb0670b1677/850.m3u8
+第十三集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f1ed6f3b831f45a8df0ceaaf6739669a/850.m3u8
+第十四集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/dab6a8d1ded6413308c1f79702c14aeb/850.m3u8
+第十五集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/d6c63d9702ed4c6c43e6b0aaa323a597/850.m3u8
+第十六集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/565db25c8b814d89f72298866c7c8019/850.m3u8
+第十七集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/af670bf7e3e9436022caaebd77133aa5/850.m3u8
+第十八集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b7dc44e8c536479c6c406dafd6c5818e/850.m3u8
 时代,#genre#
 习仲勋 第一集 烽火陕甘,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/34539ad762ae464bb59a0e208041c9c4/850.m3u8
 习仲勋 第二集 纵横西北,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/8138d71042954fc7960e088c5379fd3d/850.m3u8
