@@ -424,6 +424,15 @@ CCTV-17农业农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
 三线风云 第六集 弯道超车,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/7d25eae22d09441e9552839736f1dfb1/1200.m3u8
 三线风云 第七集 上下求索,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/51e2a298a67b47d3b50b9d6c8827e674/1200.m3u8
 三线风云 第八集 岁月无声,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/4e0ef3892f4b4613b3f97e649ac64b55/1200.m3u8
+大国重器,#genre# 
+第一集 构筑基石,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/16771bf2daeb4ac5a91e4dba6b037335/1200.m3u8
+第二集 发动中国,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/a164632ff77a410da49008827d9ccc4d/1200.m3u8
+第三集 通达天下,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/a410c66a0809437c916b026a8ba447c4/1200.m3u8
+第四集 造血通脉,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/a55e7c5dbcd544dabc2b7fd025a256a3/1200.m3u8
+第五集 布局海洋,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/0a13a6bad6e3406c9b8f7d327d9793f3/1200.m3u8
+第六集 赢在互联,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/3ce6cd705fd84ad398916b6a75b0c050/1200.m3u8
+第七集 智造先锋,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/bf15587440b54c02957890972fc7b2c2/1200.m3u8
+第八集 创新体系,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/bd605053f799423db27c634e7651ecdd/1200.m3u8
 辉煌中国,#genre#
 第一集 圆梦工程,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/a655bc32eb3f4e61a2518a943c2b43df/1200.m3u8
 第二集 创新活力,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/500d1a37e82e4725966686b8bca4edd7/1200.m3u8
