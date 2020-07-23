@@ -62,34 +62,6 @@ CCTV-17农业农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
 三沙卫视高清,http://ivi.bupt.edu.cn/hls/sstv.m3u8
 凤凰卫视中文台,http://112.50.243.8/PLTV/88888888/224/3221225900/index.m3u8
 香港凤凰卫视资讯台,http://112.50.243.8/PLTV/88888888/224/3221225901/index.m3u8
-河南,#genre#
-中牟 1080,http://live.dxhmt.cn:9081/tv/10122-1.m3u8
-荥阳 1080,http://live.dxhmt.cn:9081/tv/10182-1.m3u8
-尉氏 1080,http://live.dxhmt.cn:9081/tv/10223-1.m3u8
-兰考 1080,http://live.dxhmt.cn:9081/tv/10225-1.m3u8
-新安 1080,http://live.dxhmt.cn:9081/tv/10323-1.m3u8
-汝阳 1080,http://live.dxhmt.cn:9081/tv/10326-1.m3u8
-伊川 1080,http://live.dxhmt.cn:9081/tv/10329-1.m3u8
-宝丰 1080,http://live.dxhmt.cn:9081/tv/10421-1.m3u8
-叶县 1080,http://live.dxhmt.cn:9081/tv/10422-1.m3u8
-郏县 1080,http://live.dxhmt.cn:9081/tv/10425-1.m3u8
-舞钢 1080,http://live.dxhmt.cn:9081/tv/10481-1.m3u8
-汝州 1080,http://live.dxhmt.cn:9081/tv/10482-1.m3u8
-汤阴 1080,http://live.dxhmt.cn:9081/tv/10523-1.m3u8
-滑县 1080,http://live.dxhmt.cn:9081/tv/10526-1.m3u8
-内黄 1080,http://live.dxhmt.cn:9081/tv/10527-1.m3u8
-林州 1080,http://live.dxhmt.cn:9081/tv/10581-1.m3u8
-浚县 1080,http://live.dxhmt.cn:9081/tv/10621-1.m3u8
-淇县 1080,http://live.dxhmt.cn:9081/tv/10622-1.m3u8
-原阳 1080,http://live.dxhmt.cn:9081/tv/10725-1.m3u8
-封丘 1080,http://live.dxhmt.cn:9081/tv/10727-1.m3u8
-长垣 1080,http://live.dxhmt.cn:9081/tv/10728-1.m3u8
-辉县 1080,http://live.dxhmt.cn:9081/tv/10782-1.m3u8
-修武 576,http://live.dxhmt.cn:9081/tv/10821-1.m3u8
-武陟 1080,http://live.dxhmt.cn:9081/tv/10823-1.m3u8
-温县 1080,http://live.dxhmt.cn:9081/tv/10825-1.m3u8
-泌阳 1080,http://live.dxhmt.cn:9081/tv/10882-1.m3u8#http://live.dxhmt.cn:9081/tv/11726-1.m3u8
-清丰 1080,http://live.dxhmt.cn:9081/tv/10922-1.m3u8
 航拍中国第一季,#genre#
 第一集 新疆,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/3ebb32c9a2474758b86d8a98f433c3b3/1200.m3u8
 第二集 海南,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/393cdd3b16254d32950dd652dd603129/1200.m3u8
@@ -151,6 +123,16 @@ CCTV-17农业农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
 第二十二集 命运与共,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/c24fb3ca2a5941d18bc2e5bd25fc1b45/1200.m3u8
 第二十三集 辉煌新时代,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/c7c42950a4b443928a4ba347617fe68e/1200.m3u8
 第二十四集 领航中国,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/d798769e15bc4b308cc01ec03e7061b5/1200.m3u8
+强军,#genre# 
+第一集 逐梦,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/2c9bf2ce636048a5a7350afa4e22129e/1200.m3u8
+第二集 铸魂,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/68d2c12c418f499bb1873f784bfbce6e/1200.m3u8
+第三集 制胜,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/b3417baf33754eb4a4000b87cfd10c3f/1200.m3u8
+第四集 重塑,
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/9e9c64dbb5d345f0b1f7f25ae49f8ce4/1200.m3u8
+第五集 浴火,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/9645f6d4e0104bf59d3a66f37bb02243/1200.m3u8
+第六集 跨越,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/a4f2259180ce44dca9f9344c76a83e3e/1200.m3u8
+第七集 铁律,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/24a1017851b24b1c8052826408a24975/1200.m3u8
+第八集 伟力,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/1f4a1b52cbad466895e24bf0be9e1ead/1200.m3u8
 苏联解体,#genre#
 红场阅兵 勃列日涅夫时代 上,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/69a96d4b544f4dca9d568a25873e0834/850.m3u8
 红场阅兵 勃列日涅夫时代 下,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/55f2d8291624438dad05461353ce7e77/850.m3u8
