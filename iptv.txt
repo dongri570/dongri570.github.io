@@ -308,26 +308,23 @@ CCTV-17农业农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
 第四集 气合,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/23ea1fa37dab41bab74e2b95ef610171/850.m3u8
 第五集 收官,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ac0aecedf6a544848452fa62a91fa5bf/850.m3u8
 隐蔽战线,#genre#
-第一集 龙潭三杰 上,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/359b2ac12acc438985636e8788c32a1d/1200.m3u8
- 第二集 龙潭三杰 下,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/db36b52cac6d416d9bfee0aeb4efbbc5/1200.m3u8
-第三集 消失在1945 上,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/2ec45400d0de48bf8bd53738cc89086b/1200.m3u8
-第四集 消失在1945 下,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/0e698dfa39814fcf8e5058df96697842/1200.m3u8
-第五集 马背谍影 一,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/b83f4d51cd144bf6a2fc368ea266b4e7/1200.m3u8
-第六集 马背谍影 二,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/032a2703f9214526b0ef079c0620fefd/1200.m3u8
-第七集 马背谍影 三,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/5e54890dd35f4d5ea07ab5251d117bea/1200.m3u8
-隐蔽战线II
-第一集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/d0a4a3cf4ba64c2e9edc1f4047f6af74/850.m3u8
-第二集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/d6c585749ec94d63abacbeec9118dcfb/850.m3u8
-第三集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9587f51675734f0fb7652612f2a0d22e/850.m3u8
-第四集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/d235cfe3a5f941d28ebf1c410c69cfcb/850.m3u8
-第五集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/cc0ec39a906f4548b37783a00d9867f3/850.m3u8
-隐蔽战线Ⅲ
-第一集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f6a71f04a117427db18de4b428f009fb/850.m3u8
-第二集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/09d418d7eab14cea31d86aa234760d04/850.m3u8
-第三集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/d5aa5c8f3ba44dd281ea059e40f52819/850.m3u8
-第三集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/d5aa5c8f3ba44dd281ea059e40f52819/850.m3u8
-第四集 张露萍上,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b8786fefaaba483a1bbbf2a08df2f948/850.m3u8
-第五集 张露萍下,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/3855fa7a71194d0c18bcb8a655493c53/850.m3u8
+第一季第一集 龙潭三杰 上,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/359b2ac12acc438985636e8788c32a1d/1200.m3u8
+第一季第二集 龙潭三杰 下,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/db36b52cac6d416d9bfee0aeb4efbbc5/1200.m3u8
+第一季第三集 消失在1945 上,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/2ec45400d0de48bf8bd53738cc89086b/1200.m3u8
+第一季第四集 消失在1945 下,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/0e698dfa39814fcf8e5058df96697842/1200.m3u8
+第一季第五集 马背谍影 一,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/b83f4d51cd144bf6a2fc368ea266b4e7/1200.m3u8
+第一季第六集 马背谍影 二,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/032a2703f9214526b0ef079c0620fefd/1200.m3u8
+第一季第七集 马背谍影 三,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/5e54890dd35f4d5ea07ab5251d117bea/1200.m3u8
+第二季第一集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/d0a4a3cf4ba64c2e9edc1f4047f6af74/850.m3u8
+第二季第二集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/d6c585749ec94d63abacbeec9118dcfb/850.m3u8
+第二季第三集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9587f51675734f0fb7652612f2a0d22e/850.m3u8
+第二季第四集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/d235cfe3a5f941d28ebf1c410c69cfcb/850.m3u8
+第二季第五集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/cc0ec39a906f4548b37783a00d9867f3/850.m3u8
+第三季第一集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f6a71f04a117427db18de4b428f009fb/850.m3u8
+第三季第二集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/09d418d7eab14cea31d86aa234760d04/850.m3u8
+第三季第三集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/d5aa5c8f3ba44dd281ea059e40f52819/850.m3u8
+第三季第四集 张露萍上,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b8786fefaaba483a1bbbf2a08df2f948/850.m3u8
+第三季第五集 张露萍下,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/3855fa7a71194d0c18bcb8a655493c53/850.m3u8
 发现之路,#genre#
 恶之花 第一集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/95c96815d43b4a2f82e840e28d27e13b/850.m3u8
 恶之花 第二集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/cb9d49218f5f498da262e9253088b505/850.m3u8
@@ -422,12 +419,18 @@ CCTV-17农业农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
 第四集 刺客时代,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ddff8dc094ac4e93b7471353ca35160f/850.m3u8
 第五集 走向堕落,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/af8245a2e82a41f989c12d3379aafae6/850.m3u8
 军工记忆,#genre#
-东方红一号 人造卫星,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/2dc19540fbab41e981da7f2c566eeeed/850.m3u8
-巨浪一号 潜地导弹,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/5c4437269e3449aa91bb8ed981b2a649/850.m3u8
-红箭-8 反坦克导弹,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/440a4dea89fc4dada05cb26fc9a7144d/850.m3u8
-052型 导弹驱逐舰,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f09141afcf2f494688c250dc6b0b1417/850.m3u8
-歼-10 战斗机,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/380296dbaa4b4fea8ed158e1f3df84e4/850.m3u8
-空警2000 预警机,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a8e0d8efead04a6c823d30118dee7c66/850.m3u8
+第一季东方红一号 人造卫星,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/2dc19540fbab41e981da7f2c566eeeed/850.m3u8
+第一季巨浪一号 潜地导弹,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/5c4437269e3449aa91bb8ed981b2a649/850.m3u8
+第一季红箭-8 反坦克导弹,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/440a4dea89fc4dada05cb26fc9a7144d/850.m3u8
+第一季052型 导弹驱逐舰,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f09141afcf2f494688c250dc6b0b1417/850.m3u8
+第一季歼-10 战斗机,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/380296dbaa4b4fea8ed158e1f3df84e4/850.m3u8
+第一季空警2000 预警机,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a8e0d8efead04a6c823d30118dee7c66/850.m3u8
+第二季第一集 第一颗氢弹,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/0f24172c1add47d8aed1082329af922e/1200.m3u8
+第二季 第二集 直10武装直升机,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/52bf6914b52446b49c90152421128091/1200.m3u8
+第二季 第三集 05式两栖装甲车族,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/ae57b6fa374f4cbc8ff549ed06ac128c/1200.m3u8
+第二季 第四集 054导弹护卫舰,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/63a7f2e64d3745758f69c43d20cc3aa6/1200.m3u8
+第二季 第五集 歼11系列飞机,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/da91dad4d5404ea6ace1f53ff553abdf/1200.m3u8
+第二季 第六集 95式枪族,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/21b8a6495766475d8276435a50a44195/1200.m3u8
 军工记忆·三线风云,#genre#
 军工记忆·三线风云一,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/73d4f300a36345c98752f8844d3e4a5c/1200.m3u8
 军工记忆·三线风云二,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/6a061da90f70486a9e8582045365bb94/1200.m3u8
