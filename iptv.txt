@@ -650,6 +650,12 @@ CCTV-17农业农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
 第六集 大技贵精,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ef950d0f7ef44667a64583aa96f09e6d/1200.m3u8
 第七集 大道无疆,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bad822b9e74449cd80d4a28508dbf7a8/1200.m3u8
 第八集 大任担当,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ca20d6ab78664d7dabd4c12872e5ad14/1200.m3u8
+大数据时代,#genre#
+第一集 数据时代,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/8648b31019c4406aa53a9e2f8f13e3f8/1200.m3u8
+第二集 转型之路,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/659be3ee066347c88d91278cbccab5f0/1200.m3u8
+第三集 决策之智,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/ecc763a3ae04454eaadc8f94aa0113a9/1200.m3u8
+第四集 商业之变,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/7b48e19bc1154ba3a088598518a0e48d/1200.m3u8
+第五集 未来已来,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/4d08b53fae4541e8aea45c2f038cb4c8/1200.m3u8
 特赦1959,#genre#
 第1集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/3dc972c4a0b74a6bb535ddd71e3eff94/1200.m3u8
 第2集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/cda07d68c119485b88f4589ceb73e23f/1200.m3u8
