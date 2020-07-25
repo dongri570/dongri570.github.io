@@ -91,6 +91,16 @@ CCTV-17农业农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
 第二集 疾风浩荡,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/46ee86ec06c142569a4723cbdfa4355c/1200.m3u8
 第三集 秣马厉兵,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/7cf64643c7234e05a807e8546db28440/1200.m3u8
 第四集 远航之望,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/5371d71c8dd549158832b0270fcd6ac0/1200.m3u8
+中国高铁
+第一集 时代脉动,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/043503a679a34538871fc77579931a69/1200.m3u8
+第二集 创新之路,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/7b145cbf2f264d988506da1b77cc0cc8/1200.m3u8
+第三集 经世通途,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/ad39360a6d6e4f818d12f5225fc4fe3f/1200.m3u8
+中国城轨，
+第一集 改变 与时代竞速,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/8f55b36c867d441791c844a23d5f703a/1200.m3u8
+第二集 穿越 与科技共进,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/bdf20edf3d054f31a55f789787099c62/1200.m3u8
+第三集 魅力 与文化同轨,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/64c6aece3a054a21b68bff03d6df9cf6/1200.m3u8
+第四集 开拓 与世界同享,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/c40247ebe03b4bbf9ec7c8178dba7364/1200.m3u8
+第五集 创新 与梦想同行,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/13bc565174244a12a150ef95f9123a63/1200.m3u8
 一带一路,#genre#
 一带一路 第一集 共同命运,https://pptv.yongjiu-pptv.com/ppvod/2179B17AB3F4311CB761BC52C94CBA2B.m3u8
 一带一路 第二集 互通之路,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/756429ed109442d29d7bb93dc1a2f646/1200.m3u8
