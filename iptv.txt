@@ -91,7 +91,7 @@ CCTV-17农业农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
 第二集 疾风浩荡,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/46ee86ec06c142569a4723cbdfa4355c/1200.m3u8
 第三集 秣马厉兵,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/7cf64643c7234e05a807e8546db28440/1200.m3u8
 第四集 远航之望,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/5371d71c8dd549158832b0270fcd6ac0/1200.m3u8
-中国高铁
+中国高铁,#genre#
 第一集 时代脉动,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/043503a679a34538871fc77579931a69/1200.m3u8
 第二集 创新之路,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/7b145cbf2f264d988506da1b77cc0cc8/1200.m3u8
 第三集 经世通途,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/ad39360a6d6e4f818d12f5225fc4fe3f/1200.m3u8
