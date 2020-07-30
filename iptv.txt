@@ -133,6 +133,10 @@ CCTV-17农业农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
 第二十二集 命运与共,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/c24fb3ca2a5941d18bc2e5bd25fc1b45/1200.m3u8
 第二十三集 辉煌新时代,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/c7c42950a4b443928a4ba347617fe68e/1200.m3u8
 第二十四集 领航中国,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/d798769e15bc4b308cc01ec03e7061b5/1200.m3u8
+速度的力量,#genre#
+第一集 致命一击,http://hls.cntv.cdn20.com/asp/hls/1200/0303000a/3/default/8ff858932f9b4115baa7680541c24e6d/1200.m3u8
+第二集 秒杀利器,https://hls.cntv.cdn20.com/asp/hls/1200/0303000a/3/default/9ef386f24ae44a34862aef01b451ed93/1200.m3u8
+第三集 生死时速,http://hls.cntv.cdn20.com/asp/hls/1200/0303000a/3/default/369059ada7b846ffa5515377103a1f86/1200.m3u8
 强军,#genre# 
 第一集 逐梦,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/2c9bf2ce636048a5a7350afa4e22129e/1200.m3u8
 第二集 铸魂,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/68d2c12c418f499bb1873f784bfbce6e/1200.m3u8
