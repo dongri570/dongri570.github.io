@@ -286,3 +286,14 @@
 第32集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/fd5d4ab4be8b41eb9f00d22157bc6934/850.m3u8
 第33集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/21d3a89324ba4fba8ec9455d2dbc813a/850.m3u8
 第34集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/0a383bb4d0234ecabda7a7d07371cada/850.m3u8
+延安颂,#genre# 
+第01集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/71e64aa036ab4b2d980818d80865d3a5/850.m3u8
+第02集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/fb0aeccf478b4ed297d337ea929af40f/850.m3u8
+第03集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/861b7e2003cf4003b0c05c8cde92e66a/850.m3u8
+第04集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/7be30b09a2d44f71b44af23873a828ca/850.m3u8
+第05集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b7ec8bb60a7f42fdb397606223f44c54/850.m3u8
+第06集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ad2bcb6cf14e4d81b92e65467ab32f78/850.m3u8
+第07集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1909c7fa88f242aea5d56c388ad98375/850.m3u8
+第08集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9077075b04134d71ad68ffaaeaaa2b7c/850.m3u8
+第09集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a33b19d70cc64f578ba24f200abe8562/850.m3u8
+第10集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/e7ac396ee5df44ff90e52c3234d624e6/850.m3u8
