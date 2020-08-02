@@ -1673,8 +1673,7 @@ http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6262de3ad3524cc0883
 第33集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/21d3a89324ba4fba8ec9455d2dbc813a/850.m3u8
 第34集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/0a383bb4d0234ecabda7a7d07371cada/850.m3u8
 
-#EXTINF:-1 group-title="一带一路",一带一路 第六集 筑梦丝路
-http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6262de3ad3524cc0883db2d94383c455/1200.m3u8
+
 #EXTINF:-1 group-title="一带一路",中国建设者 深坑酒店
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/eaf3a94dd5cd4797b0d0708ec77dd62f/1200.m3u8
 #EXTINF:-1 group-title="一带一路",中国建设者 极限运输
@@ -5055,86 +5054,6 @@ https://wuji.zhulong-zuida.com/20191017/11138_88b421ef/index.m3u8
 https://wuji.zhulong-zuida.com/20191017/11137_fd3abb78/index.m3u8
 #EXTINF:-1 group-title="潜伏",第30集
 https://wuji.zhulong-zuida.com/20191017/11136_66aef616/index.m3u8
-#EXTINF:-1 group-title="悬崖",第01集
-http://www.7639616.com/hls/20191015/4d7f6569c57fa0978b9d1c1820bf95d8/1571125199/index.m3u8
-#EXTINF:-1 group-title="悬崖",第02集
-http://www.7639616.com/hls/20191015/c37a395067005d48005f31721a0cf328/1571129670/index.m3u8
-#EXTINF:-1 group-title="悬崖",第03集
-http://www.7639616.com/hls/20191015/c2129ee0441f1e194c083c1ecb8042ab/1571133688/index.m3u8
-#EXTINF:-1 group-title="悬崖",第04集
-http://www.7639616.com/hls/20191015/85703e67ee8af49f0616dc55f2617d98/1571137674/index.m3u8
-#EXTINF:-1 group-title="悬崖",第05集
-http://www.7639616.com/hls/20191015/5eaa7ba4ff5a4ef681deeaf61988b248/1571138458/index.m3u8
-#EXTINF:-1 group-title="悬崖",第06集
-http://www.7639616.com/hls/20191015/4b2e14135dcf9dbd003400ffe37120e1/1571138825/index.m3u8
-#EXTINF:-1 group-title="悬崖",第07集
-http://www.7639616.com/hls/20191015/124ff736fcb533f3751b44fb92928425/1571139213/index.m3u8
-#EXTINF:-1 group-title="悬崖",第08集
-http://www.7639616.com/hls/20191015/78fad9c4774f03f4f3b20d822e3493a5/1571139613/index.m3u8
-#EXTINF:-1 group-title="悬崖",第09集
-http://www.7639616.com/hls/20191015/af1519843876c6d89c63bc4ac7fe04b6/1571139999/index.m3u8
-#EXTINF:-1 group-title="悬崖",第10集
-http://www.7639616.com/hls/20191015/9b3385136430d8a3317438aeca395392/1571125561/index.m3u8
-#EXTINF:-1 group-title="悬崖",第11集
-http://www.7639616.com/hls/20191015/fa544845dd5c68d7c77b26ad5a7511a9/1571125921/index.m3u8
-#EXTINF:-1 group-title="悬崖",第12集
-http://www.7639616.com/hls/20191015/9ba0bb6977d4f2f29b09ad63773e6e31/1571126282/index.m3u8
-#EXTINF:-1 group-title="悬崖",第13集
-http://www.7639616.com/hls/20191015/11b09f474579fc64eb12b345641b3f57/1571126648/index.m3u8
-#EXTINF:-1 group-title="悬崖",第14集
-http://www.7639616.com/hls/20191015/22fa3d53cd686330e59553ea65e3a85b/1571126997/index.m3u8
-#EXTINF:-1 group-title="悬崖",第15集
-http://www.7639616.com/hls/20191015/8d1146fae2686da4748868c6c59f1b6c/1571127845/index.m3u8
-#EXTINF:-1 group-title="悬崖",第16集
-http://www.7639616.com/hls/20191015/a110e2c149243e77f90d0ffd20b6598d/1571128195/index.m3u8
-#EXTINF:-1 group-title="悬崖",第17集
-http://www.7639616.com/hls/20191015/1014637cc9fd2cd46af2d24ddc320cab/1571128551/index.m3u8
-#EXTINF:-1 group-title="悬崖",第18集
-http://www.7639616.com/hls/20191015/73c19cd0594ff6d42448655e44612fc2/1571128905/index.m3u8
-#EXTINF:-1 group-title="悬崖",第19集
-http://www.7639616.com/hls/20191015/d5e49c9a1a566778cb8b77ebe881b8a8/1571129319/index.m3u8
-#EXTINF:-1 group-title="悬崖",第20集
-http://www.7639616.com/hls/20191015/8e4cba43cf33c93f4010f401e9129023/1571130053/index.m3u8
-#EXTINF:-1 group-title="悬崖",第21集
-http://www.7639616.com/hls/20191015/a3c05f047bd02c8bf05808d8a6ac6a49/1571130420/index.m3u8
-#EXTINF:-1 group-title="悬崖",第22集
-http://www.7639616.com/hls/20191015/b26dd8ee9925ef611403f052a1f0785c/1571130799/index.m3u8
-#EXTINF:-1 group-title="悬崖",第23集
-http://www.7639616.com/hls/20191015/f6487f91743e2b327049d66ce4d3d49b/1571131163/index.m3u8
-#EXTINF:-1 group-title="悬崖",第24集
-http://www.7639616.com/hls/20191015/87abc04995c3bcbded57b83264f82b73/1571131527/index.m3u8
-#EXTINF:-1 group-title="悬崖",第25集
-http://www.7639616.com/hls/20191015/3c08f58b23d3a1ad29d806ddf804a63d/1571131880/index.m3u8
-#EXTINF:-1 group-title="悬崖",第26集
-http://www.7639616.com/hls/20191015/f495dd8549c838a0ba3213de777661d8/1571132238/index.m3u8
-#EXTINF:-1 group-title="悬崖",第27集
-http://www.7639616.com/hls/20191015/15003f7b0dfd4b953ea6a531547be108/1571132603/index.m3u8
-#EXTINF:-1 group-title="悬崖",第28集
-http://www.7639616.com/hls/20191015/82fe08aa10cd09ba7c207deed67a9f37/1571132967/index.m3u8
-#EXTINF:-1 group-title="悬崖",第29集
-http://www.7639616.com/hls/20191015/492e6d0662fcf50ef0d895d3383e679a/1571133328/index.m3u8
-#EXTINF:-1 group-title="悬崖",第30集
-http://www.7639616.com/hls/20191015/dc5cbe9b935f0d57b999a19ac405cb8e/1571134071/index.m3u8
-#EXTINF:-1 group-title="悬崖",第31集
-http://www.7639616.com/hls/20191015/19344fed95a15c8c5252acbd3eba0b2b/1571134438/index.m3u8
-#EXTINF:-1 group-title="悬崖",第32集
-http://www.7639616.com/hls/20191015/fa2b0f8233385fe16ddb687ec6ae1743/1571134794/index.m3u8
-#EXTINF:-1 group-title="悬崖",第33集
-http://www.7639616.com/hls/20191015/54d994270d16db4a858cb4df2884b0fd/1571135145/index.m3u8
-#EXTINF:-1 group-title="悬崖",第34集
-http://www.7639616.com/hls/20191015/ec78bd5c795c8b0fcbaefb51a70ddab6/1571135482/index.m3u8
-#EXTINF:-1 group-title="悬崖",第35集
-http://www.7639616.com/hls/20191015/d995280d4801117d2392741b84aa06e6/1571135842/index.m3u8
-#EXTINF:-1 group-title="悬崖",第36集
-http://www.7639616.com/hls/20191015/df1dbf62afcd7c0ff0e1764d6165a9f0/1571136210/index.m3u8
-#EXTINF:-1 group-title="悬崖",第37集
-http://www.7639616.com/hls/20191015/ed98b236f53cffcc7acefe97c51e310f/1571136559/index.m3u8
-#EXTINF:-1 group-title="悬崖",第38集
-http://www.7639616.com/hls/20191015/da4180e98a5da2ee7a43308f51177ceb/1571136916/index.m3u8
-#EXTINF:-1 group-title="悬崖",第39集
-http://www.7639616.com/hls/20191015/6762b75b7d9f5c87cda492f3cb377ba6/1571137299/index.m3u8
-#EXTINF:-1 group-title="悬崖",第40集
-http://www.7639616.com/hls/20191015/e6f6f27f48079cbad67ec6a8d19658ad/1571138072/index.m3u8
 #EXTINF:-1 group-title="风筝",第01集
 https://yiyi.55zuiday.com/20171217/yniNecKp/index.m3u8
 #EXTINF:-1 group-title="风筝",第02集
@@ -5613,66 +5532,7 @@ https://youku.com-l-youku.com/20190107/11714_1998519c/1000k/hls/index.m3u8
 https://youku.com-l-youku.com/20190107/11715_bcaf120d/1000k/hls/index.m3u8
 #EXTINF:-1 group-title="士兵突击",第30集
 https://youku.com-l-youku.com/20190107/11716_7b2143fa/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="五号特工组",第01集
-https://www.7639616.com/hls/20191006/7a6eecfac2e65eb7d4af81d35e6b90e3/1570296143/index.m3u8
-#EXTINF:-1 group-title="五号特工组",第02集
-https://www.7639616.com/hls/20191006/61a49831921374b937a92ad8c0077d17/1570299832/index.m3u8
-#EXTINF:-1 group-title="五号特工组",第03集
-https://www.7639616.com/hls/20191006/91acc1bf924d511112603cb5ba4a5569/1570303603/index.m3u8
-#EXTINF:-1 group-title="五号特工组",第04集
-https://www.7639616.com/hls/20191006/65a98f3d71eecb25a5738c12f3866112/1570304297/index.m3u8
-#EXTINF:-1 group-title="五号特工组",第05集
-https://www.7639616.com/hls/20191006/6b2c413151581e03dbe75f8d14b7f37e/1570304653/index.m3u8
-#EXTINF:-1 group-title="五号特工组",第06集
-https://www.7639616.com/hls/20191006/5bceb932b2614e0be93b7c288a3d1709/1570305001/index.m3u8
-#EXTINF:-1 group-title="五号特工组",第07集
-https://www.7639616.com/hls/20191006/d70ff24db19bffbbcbe43d524835d07b/1570305355/index.m3u8
-#EXTINF:-1 group-title="五号特工组",第08集
-https://www.7639616.com/hls/20191006/b678a7f5ff0714705c808df162626009/1570305785/index.m3u8
-#EXTINF:-1 group-title="五号特工组",第09集
-https://www.7639616.com/hls/20191006/2f3bb0b6480749391c1469c63d4f09a4/1570306147/index.m3u8
-#EXTINF:-1 group-title="五号特工组",第10集
-https://www.7639616.com/hls/20191006/d6b33bbcf52bbdb9025a8973c86c9c2b/1570296484/index.m3u8
-#EXTINF:-1 group-title="五号特工组",第11集
-https://www.7639616.com/hls/20191006/b67f24c04ea0539325884e05343c21d5/1570296819/index.m3u8
-#EXTINF:-1 group-title="五号特工组",第12集
-https://www.7639616.com/hls/20191006/d035ad2284205a5d3fdf42df9b1de0e1/1570297164/index.m3u8
-#EXTINF:-1 group-title="五号特工组",第13集
-https://www.7639616.com/hls/20191006/3f62afb751fce5919ce6f3c715c75990/1570297488/index.m3u8
-#EXTINF:-1 group-title="五号特工组",第14集
-https://www.7639616.com/hls/20191006/fa1bb496abd7fa65f59c3991cb4a6f9b/1570297811/index.m3u8
-#EXTINF:-1 group-title="五号特工组",第15集
-https://www.7639616.com/hls/20191006/bb47879726a578b53a2817b83d01e51c/1570298133/index.m3u8
-#EXTINF:-1 group-title="五号特工组",第16集
-https://www.7639616.com/hls/20191006/0d9e2d467f34d15989a18850ba0c8fc8/1570298539/index.m3u8
-#EXTINF:-1 group-title="五号特工组",第17集
-https://www.7639616.com/hls/20191006/46aa7b86919443f1773a6a361928863c/1570298864/index.m3u8
-#EXTINF:-1 group-title="五号特工组",第18集
-https://www.7639616.com/hls/20191006/52dea2de83603ca9a7543e635bda7fef/1570299204/index.m3u8
-#EXTINF:-1 group-title="五号特工组",第19集
-https://www.7639616.com/hls/20191006/b375c0f048758e1ac914e2fd20895a8e/1570299512/index.m3u8
-#EXTINF:-1 group-title="五号特工组",第20集
-https://www.7639616.com/hls/20191006/b9b3b887233c126b526aa73aa7647879/1570300186/index.m3u8
-#EXTINF:-1 group-title="五号特工组",第21集
-https://www.7639616.com/hls/20191006/3f38b1d6fb88e94b9bfa2bc5fc82c3f3/1570300514/index.m3u8
-#EXTINF:-1 group-title="五号特工组",第22集
-https://www.7639616.com/hls/20191006/a18eeebe43f40f944b9440721b545d89/1570300861/index.m3u8
-#EXTINF:-1 group-title="五号特工组",第23集
-https://www.7639616.com/hls/20191006/c66bed85e146fe8b2cab079de90fb9ed/1570301204/index.m3u8
-#EXTINF:-1 group-title="五号特工组",第24集
-https://www.7639616.com/hls/20191006/7aaa046607a20ba8f21d408fc3009056/1570301545/index.m3u8
-#EXTINF:-1 group-title="五号特工组",第25集
-https://www.7639616.com/hls/20191006/84e8dadfb7537d4df396ca4c4259f4a3/1570301891/index.m3u8
-#EXTINF:-1 group-title="五号特工组",第26集
-https://www.7639616.com/hls/20191006/2b83e74886e9c1d654a18862de322874/1570302232/index.m3u8
-#EXTINF:-1 group-title="五号特工组",第27集
-https://www.7639616.com/hls/20191006/a3a4459f0ed10106ef74dbe504abf3a1/1570302572/index.m3u8
-#EXTINF:-1 group-title="五号特工组",第28集
-https://www.7639616.com/hls/20191006/90801e3d5bb71e7cef63018100c2d0f0/1570302907/index.m3u8
-#EXTINF:-1 group-title="五号特工组",第29集
-https://www.7639616.com/hls/20191006/de8f905538f9402813259672bc60e775/1570303258/index.m3u8
-#EXTINF:-1 group-title="五号特工组",第30集
-https://www.7639616.com/hls/20191006/b57add626f750d11bc02ac12438d751c/1570303952/index.m3u8
+
 #EXTINF:-1 group-title="五号特工组2",第01集
 https://mei.huazuida.com/20191015/9320_0a90d21c/index.m3u8
 #EXTINF:-1 group-title="五号特工组2",第02集
