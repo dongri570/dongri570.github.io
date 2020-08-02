@@ -16,7 +16,7 @@ CCTV-12高清,http://ivi.bupt.edu.cn/hls/cctv12hd.m3u8
 CCTV-13新闻,http://ivi.bupt.edu.cn/hls/cctv13.m3u8
 CCTV-14少儿,http://ivi.bupt.edu.cn/hls/cctv14.m3u8
 CCTV-15音乐,http://ivi.bupt.edu.cn/hls/cctv15.m3u8
-CGTN,http://ivi.bupt.edu.cn/hls/cctv16.m3u8
+CGTN国际,http://ivi.bupt.edu.cn/hls/cctv16.m3u8
 CCTV-17农业农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
 卫视节目,#genre#
 北京卫视蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
