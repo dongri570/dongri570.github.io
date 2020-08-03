@@ -362,7 +362,7 @@ CCTV-17农业农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
 第08集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9077075b04134d71ad68ffaaeaaa2b7c/850.m3u8
 第09集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a33b19d70cc64f578ba24f200abe8562/850.m3u8
 第10集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/e7ac396ee5df44ff90e52c3234d624e6/850.m3u8
-第11集.http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a83522cb26a0414aac395a65b4d9d426/850.m3u8
+第11集,http://hwhls.cntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/a83522cb26a0414aac395a65b4d9d426/850.m3u8
 第12集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c641a802ffe34b2e9eac9ae6e6749075/850.m3u8
 第13集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/6360b2c2fe53481d8ed623b55a725033/850.m3u8
 第14集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/abb1f02d8e1240ce8c46fe5a5bc9c944/850.m3u8
