@@ -443,3 +443,14 @@ CCTV-17农业农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
 第48集,
 第49集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/8f943c96de914553cb44d29ab618e715/850.m3u8
 第50集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/50235b6c44eb405f582215afeaca82ec/850.m3u8
+换了人间,#genre#
+第1集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/a075698c7257468093184bfbe2d90649/1200.m3u8
+第2集,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/1b2ff2bd76c24c248270b7b825a10999/1200.m3u8
+第3集,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/b84cf8f3bbd7460bb7cce6571cdab8dc/1200.m3u8
+第4集,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/63e251c3bf494bcdb06248871bf3df92/1200.m3u8
+第5集,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/30ebf69f724643fe9b3daa9bcbc97cfe/1200.m3u8
+第6集,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/036eb77112d541eb8f3ec5aa7bffd53c/1200.m3u8
+第7集,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/7a93cca963c740a986ea8054fcde4212/1200.m3u8
+第8集,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/4155a9e5b65841f58985411c821c257e/1200.m3u8
+第9集,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/4600f58c66624d4aa0232dfd34987f5b/1200.m3u8
+第10集,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/f6418e51612d4123a5fabd70527e2cb2/1200.m3u8
