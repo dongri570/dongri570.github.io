@@ -653,6 +653,16 @@ CCTV-17农业农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
 煤矿新天地,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/92fbe4af28e9439e92dbf776cb60d8f5/1200.m3u8
 决胜微米间,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/e112d75c1f164e6d9989372bebf4d389/1200.m3u8
 台儿庄的 美丽经济,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/11849904381e4d8987f676b2234f2207/1200.m3u8
+云端的家园,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/4ce3ba435c754315b5114fc6f553d6b9/1200.m3u8
+雪域的大棚,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/2645743470db46e1ad1865d8dcf2f396/1200.m3u8
+顿珠的新居,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/cbbd389cec28438fa986e28620aa9143/1200.m3u8
+神奇的青草,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/67e48b0a49364a78ab8b03fbeb87c442/1200.m3u8
+神山牦牛队,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/26a94a64741d43a39f2b98cf1a58ed11/1200.m3u8
+横空出世,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/e22f1d65f7de440c94b8e6f91f55d0f2/1200.m3u8
+飞架南北,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/54b235d6d951424394cb36c6dc8dc6b8/1200.m3u8
+超级挑战,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/ec0fb4b7b16a40dfb3ca8752dca89331/1200.m3u8
+惊世神器,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/6024c3d479d144c1b7b9232bea0f66ef/1200.m3u8
+桥梁医生,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/d8581b3c3c8d4bd58d6a0cb73f35da1e/1200.m3u8
 创新中国,#genre#
 创新中国 第一集 信息,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/b729d80cc13d40c2a0c8abc48584c902/1200.m3u8
 创新中国 第二集 能源,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/c57e21095a314f5f99ab76f73df463f8/1200.m3u8
