@@ -648,6 +648,11 @@ CCTV-17农业农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
 第二集 焊将雄心,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/cb30d7cb63a041fe98370fe380cea42f/1200.m3u8
 第三集 海上大力士,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/5c53228f17844a2c8bd72c415c47272d/1200.m3u8
 第四集 魔鬼 码头,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/37cfef28b0ae4d5295cbe85266a9cab8/1200.m3u8
+煤城变绿城,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/bf063a57ada648bb93113b819e9f5889/1200.m3u8
+老矿变形记,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/1fc554385a604724bb1263e1ef820cba/1200.m3u8
+煤矿新天地,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/92fbe4af28e9439e92dbf776cb60d8f5/1200.m3u8
+决胜微米间,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/e112d75c1f164e6d9989372bebf4d389/1200.m3u8
+台儿庄的 美丽经济,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/11849904381e4d8987f676b2234f2207/1200.m3u8
 创新中国,#genre#
 创新中国 第一集 信息,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/b729d80cc13d40c2a0c8abc48584c902/1200.m3u8
 创新中国 第二集 能源,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/c57e21095a314f5f99ab76f73df463f8/1200.m3u8
