@@ -638,12 +638,12 @@ CCTV-17农业农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
 大国基业 大通道 齐头并进,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b06a0ceeafeb4f189293a88c18ac2480/1200.m3u8
 大国基业 大通道 腾飞之翼,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/84b6c42df7974cfbb7116215ecb55398/1200.m3u8
 大国基业 大通道 互联互通,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4465dc5c09744b09bebfff5076efe10c/1200.m3u8
+大国基业超凡建筑极限挑战，http：//newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/230b92258f064595a32f029242b0b7ff/1200.m3u8
+大国基业超凡建筑绿色建筑，http：//newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/229121a252204e8ca9e03abf6222d46b/1200.m3u8
+大国基业超凡建筑超级工厂，http：//newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6b08e728c47940268f167ef9e997df2c/1200.m3u8
+大国基业超凡建筑智慧建造，http：//newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6347a2353b374a1bb6cd18b582e7a38a/1200.m3u8
+大国基业超凡建筑利刃出击，http：//newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/150b32fda3324b1987c22fb4cb9bf524/1200.m3u8
 走遍中国三,#genre#
-大国基业 超凡建筑 极限挑战,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/230b92258f064595a32f029242b0b7ff/1200.m3u8
-大国基业 超凡建筑 绿色建筑,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/229121a252204e8ca9e03abf6222d46b/1200.m3u8
-大国基业 超凡建筑 超级工厂,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6b08e728c47940268f167ef9e997df2c/1200.m3u8
-大国基业 超凡建筑 智慧建造,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6347a2353b374a1bb6cd18b582e7a38a/1200.m3u8
-大国基业 超凡建筑 利刃出击,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/150b32fda3324b1987c22fb4cb9bf524/1200.m3u8
 第一集 崛起之路,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/f34578ae3f564704b7b4bab8b2624e58/1200.m3u8
 第二集 焊将雄心,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/cb30d7cb63a041fe98370fe380cea42f/1200.m3u8
 第三集 海上大力士,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/5c53228f17844a2c8bd72c415c47272d/1200.m3u8
