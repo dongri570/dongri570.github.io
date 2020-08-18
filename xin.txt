@@ -493,7 +493,7 @@ CCTV-17农业农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
 第45集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/739e92d7913d476e77716f86bbc4e279/850.m3u8
 第46集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/af678c2a94c24582bdd35fa043a4ea95/850.m3u8
 第47集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ba280bb50d9248ab98e2fdb19c7df8e1/850.m3u8
-第48集,
+第48集,https://c.mahua-kb.com/20200729/mQKvIVRa/index.m3u8
 第49集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/8f943c96de914553cb44d29ab618e715/850.m3u8
 第50集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/50235b6c44eb405f582215afeaca82ec/850.m3u8
 换了人间,#genre#
