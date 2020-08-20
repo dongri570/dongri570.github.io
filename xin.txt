@@ -64,6 +64,7 @@ CCTV-17农业农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
 三沙卫视高清,http://ivi.bupt.edu.cn/hls/sstv.m3u8
 鳳凰中文,vjms://23.237.115.18:8500:3502/live/cid=400
 鳳凰資訊,vjms://23.237.115.18:8500:3502/live/cid=401
+亮剑超清,http://sousou2.top/dl/yy1.php?t=32110908
 亮剑,#genre#
 第01集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/8c5c8a1079bd45aea6e7d38f984e5ccb/850.m3u8
 第02集,https://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a452d5e8f9fa498f945ed6e3ae27a209/850.m3u8
