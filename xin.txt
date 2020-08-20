@@ -62,8 +62,8 @@ CCTV-17农业农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
 新疆卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
 西藏卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
 三沙卫视高清,http://ivi.bupt.edu.cn/hls/sstv.m3u8
-凤凰卫视中文台,http://112.50.243.8/PLTV/88888888/224/3221225900/index.m3u8
-香港凤凰卫视资讯台,http://112.50.243.8/PLTV/88888888/224/3221225901/index.m3u8
+鳳凰中文,vjms://23.237.115.18:8500:3502/live/cid=400
+鳳凰資訊,vjms://23.237.115.18:8500:3502/live/cid=401
 亮剑,#genre#
 第01集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/8c5c8a1079bd45aea6e7d38f984e5ccb/850.m3u8
 第02集,https://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a452d5e8f9fa498f945ed6e3ae27a209/850.m3u8
