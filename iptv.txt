@@ -159,7 +159,7 @@ CCTV-17农业农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
 中国新疆 反恐前沿,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/2c477b82d0ee43e29734723b4e9fe8af/1200.m3u8
 南宋,#genre#
 第一集 遥望中原,http://hw-v.cztv.com/cztv/vod/2015/12/08/7145E9F9A36449788C53F2876C396236/h264_1500k_mp4.mp4_playlist.m3u8
-第二集 240道美食,http://hw-v.cztv.com/cztv/vod/2015/12/15/5E813777FA0A4a4aA52DA4B92D1BC91F/h264_1500k_mp4.mp4_playlist.m3u8
+第二集 240道美食,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/5bb85ec6d26b41bc93fdede975e489b9/850.m3u8
 第三集 诗词流域,http://hw-v.cztv.com/cztv/vod/2015/12/22/269816A5F09E4978A34A2A0C3522B118/h264_1500k_mp4.mp4_playlist.m3u8
 第四集 宋画江山,http://hw-v.cztv.com/cztv/vod/2015/12/29/119FF580AFD0445aA4AA89B68BC3C324/h264_1500k_mp4.mp4_playlist.m3u8
 第五集 戏文南北,http://hw-v.cztv.com/cztv/vod/2016/01/05/5F90172AB60A4f8f8CBC09DB65ED3F21/h264_1500k_mp4.mp4_playlist.m3u8
