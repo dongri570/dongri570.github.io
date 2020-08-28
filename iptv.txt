@@ -14,9 +14,9 @@ CCTV-11戏曲,http://58.251.112.67/tlivecloud-cdn.ysp.cctv.cn/cctv/2000204101.m3
 CCTV-12高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8
 CCTV-13新闻,http://223.110.241.130:6610/gitv/live1/G_CCTV-13-HQ/.m3u8
 CCTV-14少儿,http://58.251.112.67/tlivecloud-cdn.ysp.cctv.cn/cctv/2000204402.m3u8
-CCTV-15音乐,http://58.251.112.67/tlivecloud-c dn.ysp.cctv.cn/cctv/2000205001.m3u8
-CGTN,http://ivi.bupt.edu.cn/hls/cctv16.m3u8
-CCTV-17农业农村,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226990/1.m3u8
+CCTV-15音乐,http://58.251.112.67/tlivecloud-cdn.ysp.cctv.cn/cctv/2000205001.m3u8
+CGTN,http://live.cgtn.com/1000/prog_index.m3u8
+CCTV-17农业农村,http://cctvalih5ca.v.myalicdn.com/live/cctv17_2/index.m3u8
 卫视节目,#genre#
 北京卫视蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
 北京电视台文艺,http://cctvalih5ca.v.myalicdn.com/wstv/btv2_2/index.m3u8
