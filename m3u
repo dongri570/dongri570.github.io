@@ -3236,6 +3236,7 @@ http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9c8f404e191e49eeb961
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/073bf3e351dc4d8a9eeb6f76bf683f92/850.m3u8
 #EXTINF:-1 group-title="喀什四章",第四集 物华天宝
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/84bb4031e3e74236a2111da7d437942b/850.m3u8
+
 #EXTINF:-1 group-title="长征",第01集
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/90804c1fa6744dce1c8fac8738d712fc/850.m3u8
 #EXTINF:-1 group-title="长征",第02集
@@ -3751,6 +3752,8 @@ http://videos.kkyun-iqiyi.com/20170914/DLK1mNvR/index.m3u8
 http://videos.kkyun-iqiyi.com/20170914/UhYq9LTh/index.m3u8
 #EXTINF:-1 group-title="亮剑",第30集
 http://videos.kkyun-iqiyi.com/20170914/eNuDcx5Y/index.m3u8
+#EXTINF:-1 group-title="大染坊",第1集
+https://m3u9.30dian.cn/data/iqiyi/eae73e2bba75cb2b96c9e5e7ac5fb8b2.m3u8
 
 #EXTINF:-1 group-title="破局1950",第01集
 http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/782e32e4458f46db95453779bffb0fc0/1200.m3u8
