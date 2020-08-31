@@ -8,15 +8,16 @@ CCTV-5+体育,http://cctvalih5ca.v.myalicdn.com/live/cctv5plus_2/index.m3u8
 CCTV-6电影,http://cctvalih5ca.v.myalicdn.com/live/cctv6_2/index.m3u8
 CCTV-7国防军事,http://cctvalih5ca.v.myalicdn.com/live/cctv7_2/index.m3u8
 CCTV-8电视剧,http://cctvalih5ca.v.myalicdn.com/live/cctv8_2/index.m3u8
-CCTV-9纪录,http://ivi.bupt.edu.cn/hls/cctv9.m3u8
-CCTV-10科教,http://ivi.bupt.edu.cn/hls/cctv10.m3u8
-CCTV-11戏曲,http://ivi.bupt.edu.cn/hls/cctv11.m3u8
-CCTV-12高清,http://ivi.bupt.edu.cn/hls/cctv12hd.m3u8
-CCTV-13新闻,http://223.110.241.130:6610/gitv/live1/G_CCTV-13-HQ/.m3u8
-CCTV-14少儿,http://58.251.112.67/tlivecloud-cdn.ysp.cctv.cn/cctv/2000204402.m3u8
-CCTV-15音乐,http://ivi.bupt.edu.cn/hls/cctv15.m3u8
-CGTN,http://live.cgtn.com/1000/prog_index.m3u8
-CCTV-17农业农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
+CCTV-9纪录,http://39.134.66.66/PLTV/88888888/224/3221225519/index.m3u8
+CCTV-10科教,http://39.134.66.66/PLTV/88888888/224/3221225520/index.m3u8
+CCTV-11戏曲,http://39.134.66.66/PLTV/88888888/224/3221225517/index.m3u8
+CCTV-12高清,http://39.134.66.66/PLTV/88888888/224/3221225518/index.m3u8
+CCTV-13新闻,http://39.134.66.66/PLTV/88888888/224/3221225515/index.m3u8
+CCTV-14少儿,http://39.134.157.205/PLTV/88888888/224/3221225638/index.m3u8
+CCTV-15音乐,http://39.134.66.66/PLTV/88888888/224/3221225513/index.m3u8
+CGTN,http://39.134.66.66/PLTV/88888888/224/3221225515/index.m3u8
+CCTV-17农业农村,http://39.134.157.205/PLTV/88888888/224/3221225675/index.m3u8
+纯享4K 20M2160,http://39.134.157.199/PLTV/88888888/224/3221225670/index.m3u8
 卫视节目,#genre#
 北京卫视蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
 北京电视台文艺,http://cctvalih5ca.v.myalicdn.com/wstv/btv2_2/index.m3u8
