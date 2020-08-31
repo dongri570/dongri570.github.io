@@ -1,4 +1,3 @@
-
 央视节目,#genre#        
 CCTV-1综合,http://39.134.39.39/PLTV/88888888/224/3221226247/index.m3u8
 CCTV-2财经,http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
@@ -36,7 +35,7 @@ IPTV野外,http://39.134.39.39/PLTV/88888888/224/3221226262/index.m3u8
 北京青年,http://cctvalih5ca.v.myalicdn.com/wstv/btv8_2/index.m3u8
 北京新闻,http://cctvalih5ca.v.myalicdn.com/wstv/btv9_2/index.m3u8
 北京卡酷动画卫视,http://sk.live.otvcloud.com/otv/skcc/live/channel11003/2300.m3u8?k=6ec0bca3a3be0b0f80557b69b156a091&t=5EF92C76&UID=CD0D99E3
-北京冬奥纪实,http://live.hcs.cmvideo.cn:8088/wd_r3/btv/btv6/1000/index.m3u8?&encrypt=
+北京冬奥纪实,http://39.134.157.205/PLTV/88888888/224/3221225604/index.m3u8
 天津卫视蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226246/1.m3u8
 河北卫视蓝光,http://live5.plus.hebtv.com/hbws/sd/live.m3u8
 东方卫视蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8
@@ -69,9 +68,28 @@ IPTV野外,http://39.134.39.39/PLTV/88888888/224/3221226262/index.m3u8
 新疆卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
 西藏卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
 三沙卫视高清,http://ivi.bupt.edu.cn/hls/sstv.m3u8
-上海纪实人文,http://39.134.66.66/PLTV/88888888/224/3221225673/index.m3u8
 凤凰卫视中文台,http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
 香港凤凰卫视资讯台,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
+NewTV,#genre#
+NewTV中国功夫 2.5M1080,http://39.134.157.205/PLTV/88888888/224/3221225585/index.m3u8
+NewTV农业致富 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225568/index.m3u8
+NewTV家庭剧场 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225685/index.m3u8
+NewTV惊悚悬疑 2.5M1080,http://39.134.157.205/PLTV/88888888/224/3221225577/index.m3u8
+NewTV明星大片 2.5M1080,http://39.134.157.205/PLTV/88888888/224/3221225669/index.m3u8
+NewTV武搏世界 2.5M1080,http://39.134.157.205/PLTV/88888888/224/3221225560/index.m3u8
+NewTV海外剧场 1080 2.5M1080,http://39.134.157.205/PLTV/88888888/224/3221225579/index.m3u8
+NewTV潮妈辣婆 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225574/index.m3u8
+NewTV炫舞未来 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225558/index.m3u8
+NewTV爱情喜剧 2.5M1080,http://39.134.157.205/PLTV/88888888/224/3221225564/index.m3u8
+NewTV精品体育 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225672/index.m3u8
+NewTV精品大剧 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225583/index.m3u8
+NewTV精品纪录 2.5M1080,http://39.134.157.205/PLTV/88888888/224/3221225570/index.m3u8
+NewTV超级体育 8M1080,http://39.134.157.205/PLTV/88888888/224/3221225653/index.m3u8
+NewTV超级电影 8M1080,http://39.134.157.205/PLTV/88888888/224/3221225656/index.m3u8
+NewTV超级电视剧 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225595/index.m3u8
+NewTV超级综艺 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225593/index.m3u8
+NewTV金牌综艺 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225689/index.m3u8
+上海纪实人文 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225590/index.m3u8
 航拍中国第一季,#genre#
 第一集 新疆,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/3ebb32c9a2474758b86d8a98f433c3b3/1200.m3u8
 第二集 海南,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/393cdd3b16254d32950dd652dd603129/1200.m3u8
