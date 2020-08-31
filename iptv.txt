@@ -35,7 +35,7 @@ IPTV野外,http://39.134.39.39/PLTV/88888888/224/3221226262/index.m3u8
 北京青年,http://cctvalih5ca.v.myalicdn.com/wstv/btv8_2/index.m3u8
 北京新闻,http://cctvalih5ca.v.myalicdn.com/wstv/btv9_2/index.m3u8
 北京卡酷动画卫视,http://sk.live.otvcloud.com/otv/skcc/live/channel11003/2300.m3u8?k=6ec0bca3a3be0b0f80557b69b156a091&t=5EF92C76&UID=CD0D99E3
-北京冬奥纪实,http://live.hcs.cmvideo.cn:8088/wd_r3/btv/btv6/1000/index.m3u8?&encrypt=
+北京冬奥纪实,http://39.134.157.205/PLTV/88888888/224/3221225604/index.m3u8
 天津卫视蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226246/1.m3u8
 河北卫视蓝光,http://live5.plus.hebtv.com/hbws/sd/live.m3u8
 东方卫视蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8
