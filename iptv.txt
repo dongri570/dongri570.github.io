@@ -60,6 +60,7 @@ CCTV-17农业农村,http://39.134.157.205/PLTV/88888888/224/3221225675/index.m3u
 新疆卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
 西藏卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
 三沙卫视高清,http://ivi.bupt.edu.cn/hls/sstv.m3u8
+上海纪实人文,http://39.134.66.66/PLTV/88888888/224/3221225673/index.m3u8
 凤凰卫视中文台,http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
 香港凤凰卫视资讯台,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
 话说四合院,#genre# 
