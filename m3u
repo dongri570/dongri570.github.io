@@ -3752,9 +3752,6 @@ http://videos.kkyun-iqiyi.com/20170914/DLK1mNvR/index.m3u8
 http://videos.kkyun-iqiyi.com/20170914/UhYq9LTh/index.m3u8
 #EXTINF:-1 group-title="亮剑",第30集
 http://videos.kkyun-iqiyi.com/20170914/eNuDcx5Y/index.m3u8
-#EXTINF:-1 group-title="大染坊",第1集
-https://m3u9.30dian.cn/data/iqiyi/eae73e2bba75cb2b96c9e5e7ac5fb8b2.m3u8
-
 #EXTINF:-1 group-title="破局1950",第01集
 http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/782e32e4458f46db95453779bffb0fc0/1200.m3u8
 #EXTINF:-1 group-title="破局1950",第02集
@@ -4833,7 +4830,6 @@ https://mei.huazuida.com/20200119/23087_f640854a/index.m3u8
 https://mei.huazuida.com/20200119/23086_52668553/index.m3u8
 #EXTINF:-1 group-title="暗算",第34集
 https://mei.huazuida.com/20200119/23085_6e632dc9/index.m3u8
-
 #EXTINF:-1 group-title="历史的天空",第01集
 https://b.mhkuaibo.com/20200326/hoPX6j6c/index.m3u8
 #EXTINF:-1 group-title="历史的天空",第02集
@@ -5092,6 +5088,54 @@ https://pp.www605zy.com/20190922/O3IVGogP/index.m3u8
 https://pp.www605zy.com/20190922/DJqaFue0/index.m3u8
 #EXTINF:-1 group-title="老农民",第60集
 https://pp.www605zy.com/20190922/hSGh0dRO/index.m3u8
+#EXTINF:-1 group-title="大染坊",第01集
+https://m3u9.30dian.cn/data/iqiyi/eae73e2bba75cb2b96c9e5e7ac5fb8b2.m3u8
+#EXTINF:-1 group-title="大染坊",第02集
+https://m3u9.30dian.cn/data/iqiyi/9599b082b029bf5839c8f734d236d9cc.m3u8
+#EXTINF:-1 group-title="大染坊",第03集
+https://m3u9.30dian.cn/data/iqiyi/11e460608bce52189171c7b9db52bdcf.m3u8
+#EXTINF:-1 group-title="大染坊",第04集
+https://m3u9.30dian.cn/data/iqiyi/f8834ffd246472ffbbf67f85472f567e.m3u8
+#EXTINF:-1 group-title="大染坊",第05集
+https://m3u9.30dian.cn/data/iqiyi/fcf303f5397ed0d9a7b4eaaab10a400b.m3u8
+#EXTINF:-1 group-title="大染坊",第06集
+https://m3u9.30dian.cn/data/iqiyi/4e045469e51bd5054e97525e65607b37.m3u8
+#EXTINF:-1 group-title="大染坊",第07集
+https://m3u9.30dian.cn/data/iqiyi/c3f8ec9e6191c21fd887c6f940cbae16.m3u8
+#EXTINF:-1 group-title="大染坊",第08集
+https://m3u9.30dian.cn/data/iqiyi/30e89b7118373f018e3a0d3fa56075ad.m3u8
+#EXTINF:-1 group-title="大染坊",第09集
+https://m3u9.30dian.cn/data/iqiyi/cdbb03dd18224959b2a2025c6777e5fc.m3u8
+#EXTINF:-1 group-title="大染坊",第10集
+https://m3u9.30dian.cn/data/iqiyi/ef57d24d3113f8320ad665b1c54b3a05.m3u8
+#EXTINF:-1 group-title="大染坊",第11集
+https://m3u9.30dian.cn/data/iqiyi/b935550a8932df7bdfeceb6db583cee3.m3u8
+#EXTINF:-1 group-title="大染坊",第12集
+https://m3u9.30dian.cn/data/iqiyi/b1f4823ba07276f36b8f59e76754ff09.m3u8
+#EXTINF:-1 group-title="大染坊",第13集
+https://m3u9.30dian.cn/data/iqiyi/40fc6e156b88ee7ed3c1008030583550.m3u8
+#EXTINF:-1 group-title="大染坊",第14集
+https://m3u9.30dian.cn/data/iqiyi/059f518979b28c0188f341bc50b82d52.m3u8
+#EXTINF:-1 group-title="大染坊",第15集
+https://m3u9.30dian.cn/data/iqiyi/a06b718b1f65efe49dffe611c1089fb8.m3u8
+#EXTINF:-1 group-title="大染坊",第16集
+https://m3u9.30dian.cn/data/iqiyi/8538c02bbce2181278154280de959d76.m3u8
+#EXTINF:-1 group-title="大染坊",第17集
+https://m3u9.30dian.cn/data/iqiyi/8538c02bbce2181278154280de959d76.m3u8
+#EXTINF:-1 group-title="大染坊",第18集
+https://m3u9.30dian.cn/data/iqiyi/dffa04bb5e1cbf0676bee39f5a2138c5.m3u8
+#EXTINF:-1 group-title="大染坊",第19集
+https://m3u9.30dian.cn/data/iqiyi/4739d75bc3497b5a2912bea1d60c36f2.m3u8
+#EXTINF:-1 group-title="大染坊",第20集
+https://m3u9.30dian.cn/data/iqiyi/372e96fe4d7ea344be7bed7f2194573f.m3u8
+#EXTINF:-1 group-title="大染坊",第21集
+https://m3u9.30dian.cn/data/iqiyi/78b9969704653b493544582da4d0fe6d.m3u8
+#EXTINF:-1 group-title="大染坊",第22集
+https://m3u9.30dian.cn/data/iqiyi/d42ed7d0cc6146567941eaae0037d0cd.m3u8
+#EXTINF:-1 group-title="大染坊",第23集
+https://m3u9.30dian.cn/data/iqiyi/2578e53b3b97a9bdedd92765234dc122.m3u8
+#EXTINF:-1 group-title="大染坊",第24集
+https://m3u9.30dian.cn/data/iqiyi/d5d64a7d9e1faa427fdfcb0f64c9a853.m3u8
 #EXTINF:-1 group-title="小姨多鹤",第01集
 https://yanzishan.shuhu-zuida.com/20190828/15170_b9c98296/index.m3u8
 #EXTINF:-1 group-title="小姨多鹤",第02集
