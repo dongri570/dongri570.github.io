@@ -36,6 +36,8 @@ http://39.134.66.66/PLTV/88888888/224/3221225513/index.m3u8
 http://39.134.66.66/PLTV/88888888/224/3221225515/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视节目",CCTV-17农业农村
 http://39.134.157.205/PLTV/88888888/224/3221225675/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视节目",纯享4K 20M2160
+http://39.134.157.199/PLTV/88888888/224/3221225670/index.m3u8
 #EXTINF:-1 tvg-id="7240" tvg-name="IPTV3+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV3+.png" group-title="央视节目",IPTV3+
 http://39.134.39.39/PLTV/88888888/224/3221226265/index.m3u8
 #EXTINF:-1 tvg-id="94" tvg-name="IPTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV5+.png" group-title="央视节目",IPTV5+
@@ -3236,6 +3238,10 @@ http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9c8f404e191e49eeb961
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/073bf3e351dc4d8a9eeb6f76bf683f92/850.m3u8
 #EXTINF:-1 group-title="喀什四章",第四集 物华天宝
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/84bb4031e3e74236a2111da7d437942b/850.m3u8
+#EXTINF:-1 group-title="影视轮播",复仇者联盟
+https://bili.meijuzuida.com/20190731/21094_0a89b649/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="影视轮播",速度与激情
+https://leshi.cdn-zuyida.com/20170603/XgwO7tMy/600kb/hls/index.m3u8
 #EXTINF:-1 group-title="长征",第01集
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/90804c1fa6744dce1c8fac8738d712fc/850.m3u8
 #EXTINF:-1 group-title="长征",第02集
