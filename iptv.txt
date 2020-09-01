@@ -34,10 +34,10 @@ IPTV野外,http://39.134.39.39/PLTV/88888888/224/3221226262/index.m3u8
 北京生活,http://cctvalih5ca.v.myalicdn.com/wstv/btv7_2/index.m3u8
 北京青年,http://cctvalih5ca.v.myalicdn.com/wstv/btv8_2/index.m3u8
 北京新闻,http://cctvalih5ca.v.myalicdn.com/wstv/btv9_2/index.m3u8
-北京卡酷动画卫视,http://sk.live.otvcloud.com/otv/skcc/live/channel11003/2300.m3u8?k=6ec0bca3a3be0b0f80557b69b156a091&t=5EF92C76&UID=CD0D99E3
+北京卡酷动画卫视,http://39.134.157.205/PLTV/88888888/224/3221225606/index.m3u8
 北京冬奥纪实,http://39.134.157.205/PLTV/88888888/224/3221225604/index.m3u8
 天津卫视蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226246/1.m3u8
-河北卫视蓝光,http://live5.plus.hebtv.com/hbws/sd/live.m3u8
+河北卫视蓝光,http://39.134.157.205/PLTV/88888888/224/3221225523/index.m3u8
 东方卫视蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8
 湖南卫视蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226241/1.m3u8
 浙江卫视蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226247/1.m3u8
@@ -167,6 +167,13 @@ NewTV金牌综艺 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225689/inde
 第八集 古镇风情,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/da9466eb7bb14faa80106e94cfd93f9e/850.m3u8
 第九集 长乐未央,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/00456a0760f94a33b02c1d46193edefa/850.m3u8
 第十集 动力之源,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/faafcb3f69124bc1b550582ec31c7809/850.m3u8
+纪录片 第三极,#genre#
+第一集 生命之伴,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c212ea1879914c8b88732c915dc1ca1c/850.m3u8
+第二集 一方热土,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/72ea466c3e41494d94320ed74ed977ac/850.m3u8
+第三集 高原之歌,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/5d79427cf4bb488d9d66a43663a65eeb/850.m3u8
+第四集 上善之水,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1bd3606f33084acb8d83d820dd43fc71/850.m3u8
+第五集 大山儿女,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/0cdc4223fec347c5bd9b04d388887142/850.m3u8
+第六集 高原相遇,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/6eabd03c3a74454c989f9a929a06af53/850.m3u8
 行走青山绿水间,#genre#
 中华水塔,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/982265e2752d486fbcb196e7550468e2/1200.m3u8
 黄河寻源,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/a4dbe3d02f3642c795df0a0ddb42f7ab/1200.m3u8
