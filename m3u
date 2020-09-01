@@ -36,8 +36,6 @@ http://39.134.66.66/PLTV/88888888/224/3221225513/index.m3u8
 http://39.134.66.66/PLTV/88888888/224/3221225515/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视节目",CCTV-17农业农村
 http://39.134.157.205/PLTV/88888888/224/3221225675/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视节目",纯享4K 20M2160
-http://39.134.157.199/PLTV/88888888/224/3221225670/index.m3u8
 #EXTINF:-1 tvg-id="7240" tvg-name="IPTV3+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV3+.png" group-title="央视节目",IPTV3+
 http://39.134.39.39/PLTV/88888888/224/3221226265/index.m3u8
 #EXTINF:-1 tvg-id="94" tvg-name="IPTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV5+.png" group-title="央视节目",IPTV5+
@@ -2968,6 +2966,18 @@ http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bdd8cd330ecb4dc5891
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f9b1d2c0068b4763a1834a3146bad423/1200.m3u8
 #EXTINF:-1 group-title="远方的家四",第534集 纳米比亚 道路通四方 中纳情谊长
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/30e2ccf2d3334aef8631bb58206df5f0/1200.m3u8
+#EXTINF:-1 group-title="纪录片第三极",第一集 生命之伴
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c212ea1879914c8b88732c915dc1ca1c/850.m3u8
+#EXTINF:-1 group-title="纪录片第三极",第二集 一方热土
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/72ea466c3e41494d94320ed74ed977ac/850.m3u8
+#EXTINF:-1 group-title="纪录片第三极",第三集 高原之歌
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/5d79427cf4bb488d9d66a43663a65eeb/850.m3u8
+#EXTINF:-1 group-title="纪录片第三极",第四集 上善之水
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1bd3606f33084acb8d83d820dd43fc71/850.m3u8
+#EXTINF:-1 group-title="纪录片第三极",第五集 大山儿女
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/0cdc4223fec347c5bd9b04d388887142/850.m3u8
+#EXTINF:-1 group-title="纪录片第三极",第六集 高原相遇
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/6eabd03c3a74454c989f9a929a06af53/850.m3u8
 #EXTINF:-1 group-title="舌尖上的中国",第一集 自然的馈赠
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bd6af893d44941a9805807eb08dfd1b6/1200.m3u8
 #EXTINF:-1 group-title="舌尖上的中国",第二集 主食的故事
