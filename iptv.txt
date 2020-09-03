@@ -226,6 +226,9 @@ NewTV金牌综艺 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225689/inde
 宁夏 沙漠边缘的美丽家园,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/7a8dac93592743e79cde4d1f4c266851/1200.m3u8
 海南 热带雨林中的精灵,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/7a8dac93592743e79cde4d1f4c266851/1200.m3u8
 海南 丰饶的 海上明珠,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/a89476e130e240c6bd5bc5fdf518c91f/1200.m3u8
+海南 海南岛上果蔬香,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/d160fd770e37406eb123246dce737bcb/1200.m3u8
+海南 海南岛上果蔬香,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/2c7d440426ac490ea66017a85559c3c6/1200.m3u8
+
 长城内外一,#genre#
 [辽宁] 第01集 万里长城 东起虎山,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/fc2cb58ef3aa4bb4ab694d11adc48eba/850.m3u8
 第02集 徒步辽东边堡,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/111bef901caa490293a28fe3a2352259/850.m3u8
