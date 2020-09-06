@@ -228,6 +228,8 @@ NewTV金牌综艺 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225689/inde
 海南 丰饶的 海上明珠,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/a89476e130e240c6bd5bc5fdf518c91f/1200.m3u8
 海南 海南岛上果蔬香,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/2c7d440426ac490ea66017a85559c3c6/1200.m3u8
 海南 南海明珠的慢生活,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/f72e0810c2994f27883e566c64fc090e/1200.m3u8
+海南 山海之间有美味,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/bca1aa7d78504cf19956642549cb5df9/1200.m3u8
+
 长城内外一,#genre#
 [辽宁] 第01集 万里长城 东起虎山,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/fc2cb58ef3aa4bb4ab694d11adc48eba/850.m3u8
 第02集 徒步辽东边堡,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/111bef901caa490293a28fe3a2352259/850.m3u8
@@ -519,7 +521,6 @@ NewTV金牌综艺 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225689/inde
 94新安江 皖南山水出新安,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/8c2ba9a6e0d04bd68f6863e3cbe135a9/1200.m3u8
 95鸭绿江——大自然的馈赠,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/7cfc4a23941e40c8a8de39a559aa75ed/1200.m3u8
 96鸭绿江——多彩风情,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/0e62d122c5e145ff9930a78203be89e6/1200.m3u8
-
 4美食过大年 最是难忘家乡味,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0ba5113cc9ab4ed48d4bc26b639399d6/1200.m3u8
 5美食过大年 年年有鱼喜庆味,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/552b885bb3df4d78854aaa10a897176b/1200.m3u8
 6美食过大年 精彩纷呈吉祥味,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ce604d81eae946a49586ed035fd751a4/1200.m3u8
