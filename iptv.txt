@@ -1,4 +1,6 @@
-央视节目,#genre#        
+
+
+央视节目     
 CCTV-1综合,http://39.134.39.39/PLTV/88888888/224/3221226247/index.m3u8
 CCTV-2财经,http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
 CCTV-3综艺,http://39.134.66.66/PLTV/88888888/224/3221225490/index.m3u8
@@ -25,7 +27,7 @@ IPTV法治,http://39.134.39.39/PLTV/88888888/224/3221226258/index.m3u8
 IPTV相声小品,http://39.134.39.39/PLTV/88888888/224/3221226260/index.m3u8
 IPTV谍战剧场,http://39.134.39.39/PLTV/88888888/224/3221226256/index.m3u8
 IPTV野外,http://39.134.39.39/PLTV/88888888/224/3221226262/index.m3u8
-卫视节目,#genre#
+卫视节目
 北京卫视蓝光,http://39.134.66.66/PLTV/88888888/224/3221225678/index.m3u8
 北京电视台文艺,http://cctvalih5ca.v.myalicdn.com/wstv/btv2_2/index.m3u8
 北京科教,http://cctvalih5ca.v.myalicdn.com/wstv/btv3_2/index.m3u8
@@ -70,7 +72,7 @@ IPTV野外,http://39.134.39.39/PLTV/88888888/224/3221226262/index.m3u8
 三沙卫视高清,http://ivi.bupt.edu.cn/hls/sstv.m3u8
 凤凰卫视中文台,http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
 香港凤凰卫视资讯台,http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
-NewTV,#genre#
+NewTV
 NewTV中国功夫 2.5M1080,http://39.134.157.205/PLTV/88888888/224/3221225585/index.m3u8
 NewTV农业致富 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225568/index.m3u8
 NewTV家庭剧场 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225685/index.m3u8
@@ -90,14 +92,13 @@ NewTV超级电视剧 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225595/i
 NewTV超级综艺 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225593/index.m3u8
 NewTV金牌综艺 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225689/index.m3u8
 上海纪实人文 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225590/index.m3u8
-话说四合院,#genre# 
+话说四合院
 第01集,http://hls.cntv.myalicdn.com/asp/hls/450/0303000a/3/default/01bc95a1209d48071629d88b77afd9e4/450.m3u8
 第02集,http://hls.cntv.myalicdn.com/asp/hls/450/0303000a/3/default/50cc785f65004472f2020da19a54ee9f/450.m3u8
 第03集,http://hls.cntv.myalicdn.com/asp/hls/450/0303000a/3/default/c2dd7cf73f1b42df696f9ebbdd680057/450.m3u8
 第04集,http://hls.cntv.myalicdn.com/asp/hls/450/0303000a/3/default/aeea170cac0146b39cefec8bdd20fc47/450.m3u8
 第05集,http://hls.cntv.myalicdn.com/asp/hls/450/0303000a/3/default/5a701c0da63349f04deadaaee9aa6098/450.m3u8
-走遍中国,#genre#
-[八方小吃],
+八方小吃
 第01集 西安小吃,http://hwhls.cntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ed6a24d2ab84541acbf8555fbe6badd/1200.m3u8
 第02集 成都小吃,http://hls.cntv.cdn20.com/asp/hls/1200/0303000a/3/default/eeb50bff5d5a431ea55b180ed5ce4047/1200.m3u8
 第03集 淄博小吃,http://hls.cntv.cdn20.com/asp/hls/1200/0303000a/3/default/371847f1e4f941298d9a9c7b37063e5b/1200.m3u8
@@ -114,12 +115,12 @@ NewTV金牌综艺 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225689/inde
 第14集 黄山小吃,http://hls.cntv.cdn20.com/asp/hls/850/0303000a/3/default/004db74398ef45fba95a17cee7f3d9de/850.m3u8
 第15集 福州小吃,http://hwhls.cntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/3f35185d627944a8858a8298256436ba/850.m3u8
 第16集 西宁小吃,http://hls.cntv.cdn20.com/asp/hls/1200/0303000a/3/default/ed92b66f80bf4501812a822a23e97408/1200.m3u8
-[大美青海],
+大美青海
 青海湖,http://hls.cntv.cdn20.com/asp/hls/850/0303000a/3/default/53168e2cc3c24505be86bed527acd816/850.m3u8
 三江源,http://hls.cntv.cdn20.com/asp/hls/850/0303000a/3/default/6fe8173a3ffd4a852c84d8865e31d7ed/850.m3u8
 柴达木,http://hls.cntv.cdn20.com/asp/hls/850/0303000a/3/default/bcf4178427884e6f104588ade831dc2f/850.m3u8
 食在西宁,http://hls.cntv.cdn20.com/asp/hls/850/0303000a/3/default/75e32cba2a5e49b4a3a053ad41f4e74c/850.m3u8
-航拍中国第一季,#genre#
+航拍中国第一季
 第一集 新疆,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/3ebb32c9a2474758b86d8a98f433c3b3/1200.m3u8
 第二集 海南,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/393cdd3b16254d32950dd652dd603129/1200.m3u8
 第三集 黑龙江,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/50eb00bbc2e445a18082378a302e93a7/1200.m3u8
@@ -143,20 +144,19 @@ NewTV金牌综艺 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225689/inde
 第三季第八集 湖南,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/18a8a559464448dbaf60d33913e09aea/1200.m3u8
 第三季第九集 河北,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/2f1976058d334d3b9e432de9e0ddc8e0/1200.m3u8
 第三季第十集 宁夏,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/163c971a8ec44f0ba5dd1dc3ddffb8d7/1200.m3u8
-鸟瞰中国第一季,#genre#
-第一集 源远流长,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a9787634e5cd4cb4b9410f84785fa542/850.m3u8
-第二集 继往开来,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/01bf38f9f4d64471b5e5dbcbbccdaeb5/850.m3u8
-鸟瞰中国第二季，
-第一集 活力海岸,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/cc06d6ba3e20482baff74642a490a817/1200.m3u8
-第二集 壮丽山河,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/76a7b208e21140859e5ab54e48ade938/1200.m3u8
-美丽中国,#genre#
+鸟瞰中国第一季
+第一季第一集 源远流长,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a9787634e5cd4cb4b9410f84785fa542/850.m3u8
+第一季第二集 继往开来,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/01bf38f9f4d64471b5e5dbcbbccdaeb5/850.m3u8
+第二季第一集 活力海岸,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/cc06d6ba3e20482baff74642a490a817/1200.m3u8
+第二季第二集 壮丽山河,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/76a7b208e21140859e5ab54e48ade938/1200.m3u8
+美丽中国
 第一集 锦绣华南,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/bcf20e2d4e7b4495953ad8229249bace/1200.m3u8
 第二集 云翔天边,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/8cc1de88d37e412e8e433f64b1d2473a/1200.m3u8
 第三集 神奇高原,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/5541926380bd47e28426034947aa548a/1200.m3u8
 第四集 风雪塞外,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/9b29317d5d2b4ed690081ca7f949262e/1200.m3u8
 第五集 沃土中原,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/f6c4c86abfa746a5bb245121375f2c14/1200.m3u8
 第六集 潮涌海岸,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/1f29f01c8b3d4088bfbfc917bb727cfb/1200.m3u8
-大美陕西,#genre#
+大美陕西
 第一集 中央山脉,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c8c8af753f32415c9f220857bba7fd29/850.m3u8
 第二集 江河之水,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1b0a11e6927b414eb88f42e0c450ff62/850.m3u8
 第三集 大地之歌,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/378883fe46ad4787a430ac0b827cb2fa/850.m3u8
@@ -167,14 +167,14 @@ NewTV金牌综艺 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225689/inde
 第八集 古镇风情,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/da9466eb7bb14faa80106e94cfd93f9e/850.m3u8
 第九集 长乐未央,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/00456a0760f94a33b02c1d46193edefa/850.m3u8
 第十集 动力之源,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/faafcb3f69124bc1b550582ec31c7809/850.m3u8
-纪录片 第三极,#genre#
+纪录片 第三极
 第一集 生命之伴,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c212ea1879914c8b88732c915dc1ca1c/850.m3u8
 第二集 一方热土,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/72ea466c3e41494d94320ed74ed977ac/850.m3u8
 第三集 高原之歌,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/5d79427cf4bb488d9d66a43663a65eeb/850.m3u8
 第四集 上善之水,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1bd3606f33084acb8d83d820dd43fc71/850.m3u8
 第五集 大山儿女,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/0cdc4223fec347c5bd9b04d388887142/850.m3u8
 第六集 高原相遇,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/6eabd03c3a74454c989f9a929a06af53/850.m3u8
-行走青山绿水间,#genre#
+行走青山绿水间
 中华水塔,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/982265e2752d486fbcb196e7550468e2/1200.m3u8
 黄河寻源,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/a4dbe3d02f3642c795df0a0ddb42f7ab/1200.m3u8
 松花江探源,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/17982debd79047dbac1b76dc8a602a87/1200.m3u8
@@ -207,7 +207,7 @@ NewTV金牌综艺 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225689/inde
 仓廪实 善举暖人心,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/1f4d75600e684509aa9e911aca367bc2/1200.m3u8
 深山之中有宝藏,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/0041c3a0529443cfae7ef1320bc622b9/1200.m3u8
 绿色生态 美丽家园,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/9ced60ab5a0b4a05b02e5fe223603404/1200.m3u8
-[最美是家乡],
+最美是家乡
 甘肃 黄土高原的魅力,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/4b371572656e43029bcf7079ecb71a8c/1200.m3u8
 甘肃 祁连山  野生动物的家园,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/b0eca59509924b3880bd27a5c489c824/1200.m3u8
 甘肃 漫漫雄关路 丝路韵悠长,https://hls.cntv.cdn20.com/asp/hls/1200/0303000a/3/default/36c8cbf5b75c4b10b0089f27f1bce6ed/1200.m3u8
@@ -231,8 +231,7 @@ NewTV金牌综艺 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225689/inde
 海南 山海之间有美味,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/bca1aa7d78504cf19956642549cb5df9/1200.m3u8
 海南 海岛上的山水家园,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/62979510352f40be8c7b1b383144dca2/1200.m3u8
 海南 体验海岛的乐趣,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/bbd8c64a6153461cb9b2e7c71be336a3/1200.m3u8
-
-长城内外一,#genre#
+长城内外一
 [辽宁] 第01集 万里长城 东起虎山,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/fc2cb58ef3aa4bb4ab694d11adc48eba/850.m3u8
 第02集 徒步辽东边堡,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/111bef901caa490293a28fe3a2352259/850.m3u8
 第03集 长城脚下是故乡,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/e4951db8a01a463d8d1423e43765418d/850.m3u8
@@ -307,7 +306,7 @@ NewTV金牌综艺 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225689/inde
 第72集 黄土高原 好运吉县,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1f2a64e41ed544beaf40eb078f81daa0/850.m3u8
 第73集 中国之源 尧都临汾,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f8311f1a93b5419f8c184371f6134221/850.m3u8
 第74集 大槐树下是我家,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a29b0c7858ee4cf9be9c0b1758aa2db9/850.m3u8
-长城内外二,#genre#
+长城内外二
 [陕西] 第75集 长城与黄河的交响,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/bdc3afdb9bcf4748a8f534abd014d92b/850.m3u8
 第76集 镇北台下好风光,http://hwhls.cntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/50a97ff1ae194e6ca42a3451b336d806/850.m3u8
 第77集 长城脚下 锣鼓声声,http://hls.cntv.cdn20.com/asp/hls/850/0303000a/3/default/53bded6ab6164eb6940129b2ccc7b3ef/850.m3u8
@@ -324,7 +323,7 @@ NewTV金牌综艺 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225689/inde
 第88集 铜川宜君 艺术之乡,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/37258a7015524a1882be83fb1613b315/850.m3u8
 第89集 古韵青铜 寻味岐山,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/50eacaf80c0e457eac64a01aefa6e3bb/850.m3u8
 [宁夏] 第90集 古盐池的新长城,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/acf266ccae984dd1b0a9f9635cb2f371/850.m3u8
-第91集 寻找八十年后的你，http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/bbba3cd276e843069d3a0b536140fe0c/850.m3u8
+第91集 寻找八十年后的你,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/bbba3cd276e843069d3a0b536140fe0c/850.m3u8
 第92集 贺兰山下 美丽银川,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1306c88317964319a5381616e328d529/850.m3u8
 第94集 长城古镇 中卫风情,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/736b968602ea485fb9e6e17bf02f99f9/850.m3u8
 第95集 传承的精彩,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/715893df68b740cd9786538169efe4b9/850.m3u8
@@ -339,7 +338,7 @@ NewTV金牌综艺 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225689/inde
 第104集 隆务河谷 堡寨人家,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b7fe6efb57f94aae82d4a7704e747a3c/850.m3u8
 第105集 金色谷地 热贡之乡,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/4399beb8c1cc488292c608005edaac9b/850.m3u8
 第106集 河谷堡寨 草原人家,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1035e41cd9ea409b8a06a1891a66e594/850.m3u8
-长城内外三,#genre#
+长城内外三
 [甘肃] 第107集 长城脚下 成纪故地,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/fc4966a262eb475c86717e63f61239ff/850.m3u8
 第108集 黄土高坡 绿色梦想,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/382bdce289fe40aa8f9de7b20ac97248/850.m3u8
 第109集 边塞之地 美味陇西,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/7270c1444f0944eb9922772b21ec6ad4/850.m3u8
@@ -427,7 +426,7 @@ NewTV金牌综艺 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225689/inde
 第192集 走进胡杨林深处,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/098e93a6b3444af88bb3f97ec5794696/1200.m3u8
 第193集 龟兹古韵 西域风情,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/0ec30c3de7c94334b125b4beba75c5dc/1200.m3u8
 第194集 长城两边是故乡,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/177d0561319048b4aa8caac9d9027887/1200.m3u8
-大好河山,#genre#
+大好河山
 01三级阶梯看中国 世界屋脊的自然之美,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/807c6e63012f40edac667b2ac5affd37/1200.m3u8
 02三级阶梯看中国 高原上的珍稀野生动物,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/a01511816e2045408803b7a65156733a/1200.m3u8
 03三级阶梯看中国 世界屋脊上的生活,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/6412447fc8e041229dd845ff8d8459f3/1200.m3u8
@@ -529,7 +528,7 @@ NewTV金牌综艺 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225689/inde
 7美食过大年 阖家欢聚团圆味,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3595686cbb7c45559ac012394310127e/1200.m3u8
 8美食过大年 豆腐品出幸福味,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b7e555cb1b93430592f16104d41151ca/1200.m3u8
 客家首府 古韵汀州,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/683c3cf364d3456fa527335eb4e03c39/1200.m3u8
-百山百川行一,#genre#
+百山百川行一
 第01集 翻越高黎贡,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/6a4b9e378b3e4416b016cedd4b6e792f/850.m3u8
 第02集 家在丙中洛,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/466f3b67cb754253ab2ce03ca55cf1af/850.m3u8
 第03集 峡谷情深,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b25a84f9ac2440cbae9b4944dd98154c/850.m3u8
@@ -610,7 +609,7 @@ NewTV金牌综艺 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225689/inde
 第78集 家在秦岭北坡,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/e04ac359245447b99004ee60bfb52c9b/850.m3u8
 第79集 山崩天然博物馆,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/0c99d82a868547edbdcfedc0a50a3a13/850.m3u8
 第80集 秦岭深处的美妙之声,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/3e4975242528430a8f6c6f65815f84a4/850.m3u8
-百山百川行二,#genre# 
+百山百川行二
 第81集 千年美食 秦镇米皮,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9ea51b50a72c457397100638d115925e/850.m3u8
 第82集 秦岭 探访秦岭熊猫家园,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/2609ae5e6abe49f388b36a8f05109cdd/850.m3u8
 第83集 秦岭 朱鹮起舞 水润平川,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c58efd318e244a5fb2115f3a81791922/850.m3u8
@@ -691,7 +690,7 @@ NewTV金牌综艺 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225689/inde
 第158集 中国北极的守护者,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/5f14cb92c0a64aa2b388b281c5efaa86/850.m3u8
 第159集 情系兴安岭,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c064136299aa41209f58c22389f3d902/850.m3u8
 第160集 小兴安岭：森林宝库,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1d3c9923996043e6a51368061ca8c66a/850.m3u8
-百山百川行三,#genre#
+百山百川行三
 第161集 原木上的旋律,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/33b2a20c8ef74728ac181528a763a434/850.m3u8
 第162集 张广才岭 岭上东北虎,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/bc6c7053a95440028f78e86f8fdf8744/850.m3u8
 第163集 文化宁安城 奇观镜泊湖,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/8e83358c838f49309faeea4ee482e8b4/850.m3u8
@@ -771,7 +770,7 @@ NewTV金牌综艺 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225689/inde
 第237集 寻觅西南重山中,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/2fadfc135de040b7b1270261af3fd5bc/850.m3u8
 第238集 六万大山 绿色宝地,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/fb79d824621b4268a26ca95484dddfe0/850.m3u8
 第239集 大容山 容山容水容自然,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/0fc265eccbc0412289dd5a44feb5c8dc/850.m3u8
-回望长江,#genre#
+回望长江
 01 中华水塔 生态家园,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/71d71dd4dec4413e9df39351ad0a8d0d/1200.m3u8
 02 金沙江畔 美丽甘孜,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/71d71dd4dec4413e9df39351ad0a8d0d/1200.m3u8
 03 山高水长 梦境迪庆,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/71d71dd4dec4413e9df39351ad0a8d0d/1200.m3u8
@@ -790,13 +789,13 @@ NewTV金牌综艺 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225689/inde
 16 鱼米之乡 山水芜湖,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/d69b3c64302746559a65777c03eeb2a0/1200.m3u8
 17 江城南京,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/cc6437c9651a416c9ad1e55d2471c150/1200.m3u8
 18 江尾海头 活力江阴,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/3ab43a80337b42bb81b8028881afcb33/1200.m3u8
-长江行,#genre#
-长江行1.长江源头沱沱河,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/6c98286f4c4b44eb813ca1d18985e726/1200.m3u8
-长江行2 相逢在长江源,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/c45bc629834d4d01b3088567c11448c8/1200.m3u8
+长江行
+1.长江源头沱沱河,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/6c98286f4c4b44eb813ca1d18985e726/1200.m3u8
+2 相逢在长江源,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/c45bc629834d4d01b3088567c11448c8/1200.m3u8
 3.雪域高原 辽阔玉树,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/20588bf0c21c448bb06d9f9d92eed935/1200.m3u8
 4.壮美青海 生命之源,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/e7d76cb6107740f7b673fcf6c9f55591/1200.m3u8
-5金沙序曲 生态石渠,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/19e397d9ffe34dc8a1ab8197eed69820/1200.m3u8
-6金沙源头新变化,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/87fd2aa0d8f041fdba2505f6f340d9fb/1200.m3u8
+5 金沙序曲 生态石渠,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/19e397d9ffe34dc8a1ab8197eed69820/1200.m3u8
+6 金沙源头新变化,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/87fd2aa0d8f041fdba2505f6f340d9fb/1200.m3u8
 7.与水为邻 重拾梦想,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/c4f64d81706c45649b69e85010806d8d/1200.m3u8
 8.高山深处鱼通人,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/9dfd8e7e9ed3429e9d27c960b93ee856/1200.m3u8
 9.泸定的宜居生活,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/4bc1093d03f948b08fd940018ffb05de/1200.m3u8
@@ -897,7 +896,7 @@ NewTV金牌综艺 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225689/inde
 104 万里长江归大海,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/94de984c642141aba598aabbd85a38df/1200.m3u8
 105 临江倚湖 风雅常熟,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/12764e3108834c46b78962b90eb5276e/1200.m3u8
 106 长江行 完 锦绣江南金太仓，https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/b3a6d0a73608470f8b03aa2605ed81da/1200.m3u8
-边疆行,#genre#
+边疆行
 边疆行第1集,http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/539a3183a8a84a946e4f4197e75217ff/850.m3u8
 边疆行第2集,http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/9b73de695c05424acab8a68e20019918/850.m3u8
 边疆行第3集,http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/a06ac3e15ab842a1548f99ab0b721f28/850.m3u8
@@ -998,7 +997,7 @@ NewTV金牌综艺 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225689/inde
 边疆行第98集,http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/6945dc8b4794428b793f70aa0a9372e1/850.m3u8
 边疆行第99集,http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/72314345cda048070ada4ba629efce16/850.m3u8
 边疆行第100集,http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/d8bd54a2fa5a482645bb9b8fb6852e72/850.m3u8
-沿海行,#genre#
+沿海行
 沿海行第1集,http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/bd2a65c1267b49f86de8b29f4236e85f/850.m3u8
 沿海行第2集,http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/3d0f090d7e3e45b2a8ab30af13e65a54/850.m3u8
 沿海行第3集,http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/baab17c4071c48b59be6f09af434ef65/850.m3u8
@@ -1111,7 +1110,7 @@ NewTV金牌综艺 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225689/inde
 沿海行第110集,http://cntv.vod.cdn.myqcloud.com/flash/mp4video21/TMS/2012/05/07/b7d0555275df4e17a2fbdde326720423_h264418000nero_aac32-1.mp4
 沿海行第111集,http://cntv.vod.cdn.myqcloud.com/flash/mp4video21/TMS/2012/05/08/88385ccbffde4428845f5901fc300e20_h264418000nero_aac32-1.mp4
 沿海行第112集,http://cntv.vod.cdn.myqcloud.com/flash/mp4video21/TMS/2012/05/09/4f9d60fdcc3145028be6c6b7f20ebe8f_h264418000nero_aac32-1.mp4
-远方的家一,#genre#
+远方的家一
 第01集 千年古港焕新颜,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d2a4fe04ee2445ca96b35dc22d88a2c5/1200.m3u8
 第02集 海定波宁 水韵宁波,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/600842e1c47e438ba6cc8a2c93340c19/1200.m3u8
 第03集 百年传奇 远洋航标,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c74d0d3930b446dbbfa5fa33e2583db6/1200.m3u8
@@ -1206,12 +1205,12 @@ NewTV金牌综艺 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225689/inde
 第99集 柬埔寨 光纤连万家,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/376edfe9d5504903bdf9f23270662222/1200.m3u8
 第100集 柬埔寨 湄公河畔金边城,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1a51c2f4a5db4979b3aa575432a91654/1200.m3u8
 第102集 柬埔寨 从金边到暹粒,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/cc3e9910560345e4b052787d169e996b/1200.m3u8
-第103集柬埔寨 微笑的吴哥,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a47d3414d640492db55b78820fdc82bd/1200.m3u8
-第104集柬埔寨 生活在洞里萨湖畔,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9d2e8208714a4a2daabc2d3db8b2c124/1200.m3u8
-第105集柬埔寨 行走暹粒,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/be5051730ed94216a174f6b9aea97179/1200.m3u8
-第106集柬埔寨 水润稻香马德望,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/613cb70c9b564c8c831ed758dde01192/1200.m3u8
-第107集柬埔寨 西哈努克见闻,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2c8cea92da954213bbf6e0458f5fc3ec/1200.m3u8
-第108集柬埔寨 西港人的特区梦,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/12f68143ba164c3581e1219a63ddce95/1200.m3u8
+第103集 柬埔寨 微笑的吴哥,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a47d3414d640492db55b78820fdc82bd/1200.m3u8
+第104集 柬埔寨 生活在洞里萨湖畔,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9d2e8208714a4a2daabc2d3db8b2c124/1200.m3u8
+第105集 柬埔寨 行走暹粒,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/be5051730ed94216a174f6b9aea97179/1200.m3u8
+第106集 柬埔寨 水润稻香马德望,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/613cb70c9b564c8c831ed758dde01192/1200.m3u8
+第107集 柬埔寨 西哈努克见闻,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2c8cea92da954213bbf6e0458f5fc3ec/1200.m3u8
+第108集 柬埔寨 西港人的特区梦,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/12f68143ba164c3581e1219a63ddce95/1200.m3u8
 第109集 柬埔寨 变化中的七星海,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1e0687dee98c466ea0e3cca036ac6827/1200.m3u8
 第110集 柬埔寨 生活在海陆相连处,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c0ae79ead02f4d4ea3199884ad8fa6f6/1200.m3u8
 第111集 柬埔寨 网络通千村 电力送万家,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1b44fd1dc1d44cd588e266abd6127203/1200.m3u8
@@ -1226,11 +1225,11 @@ NewTV金牌综艺 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225689/inde
 第120集 斯里兰卡 古城茶香,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b8b68739224344e68f17022811967294/1200.m3u8
 第121集 斯里兰卡 海上十字路口,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b6f9075102ad4ae7937ba9c9f71e736b/1200.m3u8
 第122集 斯里兰卡 万里犹比邻,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/94c0083d4d0d4b9ebe83b0dcdfcbfa6a/1200.m3u8
-第123集老挝 共饮一江水,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/cfcc2dbb066346af912793befffb3c13/1200.m3u8
-第124集老挝 今朝古城换新颜,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/81768136115b45c78356c4ca69fd632e/1200.m3u8
+第123集 老挝 共饮一江水,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/cfcc2dbb066346af912793befffb3c13/1200.m3u8
+第124集 老挝 今朝古城换新颜,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/81768136115b45c78356c4ca69fd632e/1200.m3u8
 第125集 老挝 共圆 卫星梦,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0d9c872306f14b68b396ab9612b3987c/1200.m3u8
 第126集 山水万荣,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/59a29e58e8b745d9ae9d24290e317b5a/1200.m3u8
-第127集：生活在南湃河畔,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/103603dcecfc425c846cdb8d9dce2509/1200.m3u8
+第127集 生活在南湃河畔,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/103603dcecfc425c846cdb8d9dce2509/1200.m3u8
 第128集 老挝 千年古城 琅勃拉邦,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/749dc7d3adb04496a112bd00f026c6e1/1200.m3u8
 第129集 老挝 南欧江水中老情,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6d8ecf4c5a7741c38fd6df2890507389/1200.m3u8
 第130集 老挝 山水相连的友好邻邦,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f515f5789a194f58a6be4958a7979654/1200.m3u8
@@ -1250,9 +1249,9 @@ NewTV金牌综艺 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225689/inde
 第144集 丝路航标,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/999e1e0c9a44422cb5a917be97130be6/1200.m3u8
 第145集 绿色侨乡,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/0dcd87a3b4984236b55286fc2573a3b1/1200.m3u8
 第146集 南海故事,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/f1758261f4084a349230af5dbd01912a/1200.m3u8
-丝路古国——伊朗,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/3b373cd494c8421abea7eed88581e233/1200.m3u8
-走进伊朗,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/890957f28cac440b8b090a8c70d801fe/1200.m3u8
-中国人在伊朗,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/27b47aaa4d114bce8750611e48f12ba3/1200.m3u8
+第147集 丝路古国 伊朗,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/3b373cd494c8421abea7eed88581e233/1200.m3u8
+第148集 走进伊朗 http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/890957f28cac440b8b090a8c70d801fe/1200.m3u8
+第149集 中国人在 伊朗,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/27b47aaa4d114bce8750611e48f12ba3/1200.m3u8
 第158集 阿联酋 别样迪拜,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/36827539e33e4dd5b48fd44085140b13/1200.m3u8
 第159集 阿联酋 迪拜奇迹,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0653823572ab48a380fa3d12537ff29c/1200.m3u8
 第160集 阿联酋 筑梦在迪拜,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3feedd2fd61e4f0cb8c242709d6b30ed/1200.m3u8
@@ -1262,8 +1261,8 @@ NewTV金牌综艺 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225689/inde
 第164集 阿联酋 阿布扎比初印象,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c6507c2a92fe40ab97efebd2d39382e7/1200.m3u8
 第165集 阿联酋 一半海水 一半沙漠,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c759bb4d9b694aae8ad583910f6b0e96/1200.m3u8
 第166集 阿联酋 神奇的阿布扎比,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ebeb1975f23b4dbc9996ef013368e228/1200.m3u8
-远方的家二,#genre#
-第167集肯尼亚 你好·肯尼亚,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/19d8cce1b0cb4d73907a632492a89426/1200.m3u8
+远方的家二
+第167集 肯尼亚 你好·肯尼亚,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/19d8cce1b0cb4d73907a632492a89426/1200.m3u8
 第168集 肯尼亚 内罗毕——远方的家,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3be9b06eb5064efbb4899511d4c87a7e/1200.m3u8
 第169集 肯尼亚 走进央视非洲分台,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4527444470fd43cdb93733d5913520de/1200.m3u8
 第170集 肯尼亚 从内罗毕到纳瓦沙湖,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/582ad4c165e641d1a1166a9f7689a5ba/1200.m3u8
@@ -1306,14 +1305,14 @@ NewTV金牌综艺 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225689/inde
 第207集 坦桑尼亚 动物王国 塞伦盖蒂,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5728526f3dc1406ba772e9430206a67a/1200.m3u8
 第208集 坦桑尼亚 徒步乞力马扎罗山,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/fc1d51ec37ba4c5bb651eb1b45b6cb01/1200.m3u8
 第209集 坦桑尼亚 从乞力马扎罗到东非大裂谷,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/fcff011ae74e4b8d97fe91e29549281f/1200.m3u8
-第210集埃塞俄比亚亚 你好,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e09c451750d2412d824649d612374f10/1200.m3u8  
+第210集 埃塞俄比亚亚 你好,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e09c451750d2412d824649d612374f10/1200.m3u8  
 第211集 埃塞俄比亚 非洲高原上的中埃情谊,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9050a358620b454ca97b3a8e2a1ede5a/1200.m3u8
 第212集 埃塞俄比亚 你好 中国朋友,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9918c0fa36ce40f3990d7f8f051cf06a/1200.m3u8
 第213集 埃塞俄比亚 非洲屋脊上的中国工业园,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/13e39aeceaea4fad951403f2534b5b54/1200.m3u8
 第214集 埃塞俄比亚 中国专家的非洲情,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/31cf6603493d4fc79392b9539197769f/1200.m3u8
 第215集 埃塞俄比亚 饮水思源中非情,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7a2d3fa93b43429f9a78227dc7834a3c/1200.m3u8
 第216集 埃塞俄比亚 走进古城 哈勒尔,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3b4c1d7bc6d34ea1b1f370c01ded483f/1200.m3u8
-第217）埃塞俄比亚 哈勒尔的传说,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a480101cf5904397a3cd09754191ab92/1200.m3u8
+第217集 埃塞俄比亚 哈勒尔的传说,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a480101cf5904397a3cd09754191ab92/1200.m3u8
 第218集 埃塞俄比亚 非洲高原上的白衣天使,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a65e7aebe6a24681b6145e0fc8c2255f/1200.m3u8
 第219集 埃塞俄比亚 开往春天的列车,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/264c7063e616451aa8d344f15684f68c/1200.m3u8
 第220集 科特迪瓦 初见阿比让,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d7958216d5ff46e48b89173a026f9d56/1200.m3u8
@@ -1355,7 +1354,7 @@ NewTV金牌综艺 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225689/inde
 第257集 德国 美茵河畔的古老城市,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/185e0a7a70494f1f82dc536ba4bc4e53/1200.m3u8
 第258集 德国 中欧金融之门,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/45097f6837b8401fa941beda8ddf0d9c/1200.m3u8
 第259集 德国 无处不在的中国情,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d4d21d1e7163413d8b117e30e70ac440/1200.m3u8
-第260集  德国 汉堡：因水而生,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/96d2fa440c3f4b2ebd74d706c1f5e77e/1200.m3u8
+第260集 德国 汉堡：因水而生,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/96d2fa440c3f4b2ebd74d706c1f5e77e/1200.m3u8
 第261集 德国 汉堡：汉堡港的中国缘,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/fe6206d688154263a48fba8d1248cabb/1200.m3u8
 第262集 德国 走进柏林,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/25213b4ef670458cbcf9c0c781ac4f40/1200.m3u8
 第263集 德国 柏林：文化艺术之都,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/92c108487d14469e9927f1fe133cffc5/1200.m3u8
@@ -1413,7 +1412,7 @@ NewTV金牌综艺 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225689/inde
 第315集 塔吉克斯坦 共建能源大动脉,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/02dbd90ed88d451a975d386ae20514ed/1200.m3u8
 第316集 塔吉克斯坦 古丝路上的新故事,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b7f06eaef3b6403cb802474d9ea17a91/1200.m3u8
 第317集 塔吉克斯坦 情暖杜尚别,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7a314b9fd34f49d79a9959d710247f21/1200.m3u8
-远方的家三,#genre#
+远方的家三
 第318集 中哈边境 丝路西行,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8c9d70ee4f91430d9831059a766a0c49/1200.m3u8
 第319集 哈萨克斯坦 荒原上的宝藏,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/49404eea2869440eaa3d4bfddd9c80a5/1200.m3u8
 第320集 哈萨克斯坦 从荒原小镇到中亚都会,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d03cdc8e34e74ca983d13bcdecfb41ad/1200.m3u8
@@ -1544,7 +1543,7 @@ NewTV金牌综艺 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225689/inde
 第447集 智利 星空下的友谊,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/82fc2a6368714b4e9c4be0684ac982ba/1200.m3u8
 第448集 智利 美丽伊基克 魂望故乡情,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/95371ab48c314b4a9b0b0d8e0fa138f3/1200.m3u8
 第449集 智利 伊基克的中国情,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5996ce458ece47b793dd6b71e3530505/1200.m3u8
-远方的家四,#genre#
+远方的家四
 第450集 厄瓜多尔 初到厄瓜多尔,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/062d76a3e13d4e13bc5d456842135b0b/1200.m3u8
 第451集 厄瓜多尔 学汉语的印第安青年,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5213649d3bb6412a9d46ef145f75c261/1200.m3u8
 第452集 厄瓜多尔 太平洋中的进化岛,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/97ced3efefd74b0ab90576260af8e430/1200.m3u8
@@ -1563,8 +1562,8 @@ NewTV金牌综艺 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225689/inde
 第465集 乌兹别克斯坦 丝路之桥 友谊纽带,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4c979e01c130486d96fb38bb88151b37/1200.m3u8
 第466集 乌兹别克斯坦 翻越西天山,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a9a78ba183594842a1c757dc881e8a74/1200.m3u8
 第467集 乌兹别克斯坦 山水虽隔 丝路相连,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/079b6fb84b1d4b38a85f6e56e6e383de/1200.m3u8
-第468）乌兹别克斯坦 锡尔河畔的中国故事,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ca5b436ba89d4efeb7837cc4a2962562/1200.m3u8
-第469集乌兹别克斯坦 穿行古丝路 遇见马尔吉兰,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/000e82da0a594863999514e45830c011/1200.m3u8
+第468集 乌兹别克斯坦 锡尔河畔的中国故事,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ca5b436ba89d4efeb7837cc4a2962562/1200.m3u8
+第469集 乌兹别克斯坦 穿行古丝路 遇见马尔吉兰,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/000e82da0a594863999514e45830c011/1200.m3u8
 第470集 乌兹别克斯坦 驼铃远去汽笛鸣,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/13b37b5071c1482bb1d36981b6ecb042/1200.m3u8
 第471集 乌兹别克斯坦 丝路上的丝绸之都,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8fa13e6db7194f9cbc547deec75075df/1200.m3u8
 第472集 乌兹别克斯坦 丝绸之路上的明珠,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7b4ce55f87c34f1bb9e0ecc5b45ffa52/1200.m3u8
@@ -1630,7 +1629,7 @@ NewTV金牌综艺 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225689/inde
 第532集 纳米比亚 沙海相连之地,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bdd8cd330ecb4dc589115c1bef7c8c66/1200.m3u8
 第533集 纳米比亚 荒漠之下有宝藏,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f9b1d2c0068b4763a1834a3146bad423/1200.m3u8
 第534集 纳米比亚 道路通四方 中纳情谊长,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/30e2ccf2d3334aef8631bb58206df5f0/1200.m3u8
-舌尖上的中国,#genre#
+舌尖上的中国
 第一集 自然的馈赠,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bd6af893d44941a9805807eb08dfd1b6/1200.m3u8
 第二集 主食的故事,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bd6af893d44941a9805807eb08dfd1b6/1200.m3u8
 第三集 转化的灵感,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/84cc69c290d145c48265d3018f87c064/1200.m3u8
@@ -1653,7 +1652,7 @@ NewTV金牌综艺 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225689/inde
 第三季 第六集 酥,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/27121d74055f468795f4c586c83717df/1200.m3u8
 第三季 第七集 生,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a23637f5a5794d5d87b33d1575e2193d/1200.m3u8
 第三季 第八集 合,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/51b1937b8b6b469b837b48f6bcb3f0b1/1200.m3u8
-中国美食探秘,#genre#
+中国美食探秘
 第一集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/02d3d4a244e5478ebabae8287bd4a428/850.m3u8 
 第二集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c2be9efc475446d889c7801c42eee423/850.m3u8
 第三集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/4b2c27c745244292a985dc6e09138ee1/850.m3u8
@@ -1661,23 +1660,23 @@ NewTV金牌综艺 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225689/inde
 第五集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/4782a33607454ed49f245c27f5079fd1/850.m3u8
 第六集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/432dc0b5076f4722aa452b8806b8cc24/850.m3u8
 第七集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/16c465b1febb4ff8a39eac7e0bdd904b/850.m3u8
-贺兰山,#genre#
+贺兰山
 第一集 山魂,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/c73c0c585fb545258cae85f71d8234dc/1200.m3u8
 第二集 水脉,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/47cdb6f23d3744a0aec5f4c82eece36b/1200.m3u8
 第三集 家园,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/64664a73bbda4b1fa6837c3041e66975/1200.m3u8
 第四集 丝路,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/fe0c41c11ee64482aabd8aa39742a042/1200.m3u8
 第五集 融合,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/56ef70252a3b45f394e22b0beb2abf83/1200.m3u8
 第六集 共生,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/0f9cfc83e860450192d8b84f4523cada/1200.m3u8
-这里是新疆,#genre#
+这里是新疆
 第一集 山水天地间,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/3b43546fdc504f88b1499c20adcea552/850.m3u8
 第二集 动静皆逍遥,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/05c3455f452c4e9e8a77bd8216089785/850.m3u8
 第三集 沟通之路,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c27bcc04da13421b8d0df02ab53bb2c4/850.m3u8
-喀什四章,#genre#
+喀什四章
 第一集 山川诱惑,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/89ecb0a58e7b44d9bdc8d77a6fc7d904/850.m3u8
 第二集 丝路绵延,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9c8f404e191e49eeb96173549a6c13ec/850.m3u8
 第三集 绿洲风情,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/073bf3e351dc4d8a9eeb6f76bf683f92/850.m3u8
 第四集 物华天宝,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/84bb4031e3e74236a2111da7d437942b/850.m3u8
-《丝路印象》,#genre#
+丝路印象
 第一集 陕西,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/9d0c23aaee14453991058aedc3f72f7d/1200.m3u8
 第二集 宁夏  上,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/c6d584eb2ed0495e95fd8713a4d62850/1200.m3u8
 第三集 宁夏 下,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/1bf253db70d74b2587976c1d0d0e4c1a/1200.m3u8
@@ -1685,7 +1684,7 @@ NewTV金牌综艺 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225689/inde
 第五集 甘肃 下,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/5a0d13c2d0a14c4aa038dd4cf0c163dc/1200.m3u8
 第六集 新疆 上,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/3811255a57c14e22bf85b4ff83ebe42c/1200.m3u8
 第七集 新疆 下,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/5036163ba0194603bdcf2947fbdb87d4/1200.m3u8
-中华揭秘,#genre#
+中华揭秘
 寻味新疆 一,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/092a0ad69edc456a834c6953260f9766/1200.m3u8
 寻味新疆 二,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/e4a12e7c09d8498d96c5e658cf557e62/1200.m3u8
 寻味新疆 三,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/f090db6565d343b0a873b24ccff11609/1200.m3u8
@@ -1694,24 +1693,24 @@ NewTV金牌综艺 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225689/inde
 寻味新疆（续）二,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/700b7d80f2544f979952d9b0732de884/1200.m3u8
 寻味新疆（续）三,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/99cc7da6bb904b4b994ba566c0d0f53f/1200.m3u8
 寻味新疆（续）四,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/09caa9d140d1445cbdd43d1e4fa246f5/1200.m3u8
-味道,#genre#  
-我的家乡菜·佛山篇上,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/9dc60f3ba07e45eea6597d5834ad65f7/1200.m3u8
-我的家乡菜·佛山篇下,https://hwhls.cntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/014a9020035c4dbb8300bd50979cddf3/1200.m3u8
-我的家乡菜·西宁篇 上,https://hls.cntv.cdn20.com/asp/hls/1200/0303000a/3/default/493fa01204284712b93aa2ba140635cf/1200.m3u8
-我的家乡菜·西宁篇 下,https://hls.cntv.cdn20.com/asp/hls/1200/0303000a/3/default/7022c117b09846f8b2c900e367333188/1200.m3u8
-我的家乡菜·兰州篇 一,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/c8b8fd24eeb948c883fffefe194758ee/1200.m3u8
-我的家乡菜·兰州篇 二,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/c085544dda1f4ea49912af0d0cc33bb3/1200.m3u8
-我的家乡菜·兰州篇 三,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/f3f63330ac0f4bdea39c60f51fb0a178/1200.m3u8
-我的家乡菜·汕头篇 上,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/30407c04e7144c5f99ac407085811bf0/1200.m3u8
-我的家乡菜·汕头篇 下,http://hls.cntv.cdn20.com/asp/hls/1200/0303000a/3/default/04b0fc69bd6946e8937e98c1164e2546/1200.m3u8
-我的家乡菜·扬州篇 上,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/ea97a6ba7fee405a95f6f80854462840/1200.m3u8
-我的家乡菜·扬州篇 下,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/594adeab4f104ec1b7938d03fae18829/1200.m3u8
-我的家乡菜·定西篇 上,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/20bd9ad1eaac4dbfa8436796179a73ca/1200.m3u8
-我的家乡菜·定西篇 下,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/a38f8dbd6a5c46e2868916e00aa0adb2/1200.m3u8
-我的家乡菜·瓮安篇,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/fad13e0634a547ec9c7b0de399b28fdc/1200.m3u8
-我的家乡菜·汤溪篇,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/ed8c643abb7f4513804c5524c5f15e98/1200.m3u8
-我的家乡菜·大连篇 上,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/9fecc7961f2443419411bc9c006f2ddb/1200.m3u8
-我的家乡菜·大连篇 下,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/691dcaad07df422a8a2f59fd81276036/1200.m3u8
+味道
+我的家乡菜 佛山篇 上,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/9dc60f3ba07e45eea6597d5834ad65f7/1200.m3u8
+我的家乡菜 佛山篇 下,https://hwhls.cntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/014a9020035c4dbb8300bd50979cddf3/1200.m3u8
+我的家乡菜 西宁篇 上,https://hls.cntv.cdn20.com/asp/hls/1200/0303000a/3/default/493fa01204284712b93aa2ba140635cf/1200.m3u8
+我的家乡菜 西宁篇 下,https://hls.cntv.cdn20.com/asp/hls/1200/0303000a/3/default/7022c117b09846f8b2c900e367333188/1200.m3u8
+我的家乡菜 兰州篇 一,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/c8b8fd24eeb948c883fffefe194758ee/1200.m3u8
+我的家乡菜 兰州篇 二,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/c085544dda1f4ea49912af0d0cc33bb3/1200.m3u8
+我的家乡菜 兰州篇 三,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/f3f63330ac0f4bdea39c60f51fb0a178/1200.m3u8
+我的家乡菜 汕头篇 上,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/30407c04e7144c5f99ac407085811bf0/1200.m3u8
+我的家乡菜 汕头篇 下,http://hls.cntv.cdn20.com/asp/hls/1200/0303000a/3/default/04b0fc69bd6946e8937e98c1164e2546/1200.m3u8
+我的家乡菜 扬州篇 上,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/ea97a6ba7fee405a95f6f80854462840/1200.m3u8
+我的家乡菜 扬州篇 下,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/594adeab4f104ec1b7938d03fae18829/1200.m3u8
+我的家乡菜 定西篇 上,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/20bd9ad1eaac4dbfa8436796179a73ca/1200.m3u8
+我的家乡菜 定西篇 下,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/a38f8dbd6a5c46e2868916e00aa0adb2/1200.m3u8
+我的家乡菜 瓮安篇,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/fad13e0634a547ec9c7b0de399b28fdc/1200.m3u8
+我的家乡菜 汤溪篇,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/ed8c643abb7f4513804c5524c5f15e98/1200.m3u8
+我的家乡菜 大连篇 上,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/9fecc7961f2443419411bc9c006f2ddb/1200.m3u8
+我的家乡菜 大连篇 下,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/691dcaad07df422a8a2f59fd81276036/1200.m3u8
 寻鲜记 一,https://hls.cntv.cdn20.com/asp/hls/1200/0303000a/3/default/e1c522bf9b7c4822b99e97f902458561/1200.m3u8
 寻鲜记 二,https://hls.cntv.cdn20.com/asp/hls/1200/0303000a/3/default/74ea845f8024438aa134ef06d5c02bb1/1200.m3u8
 寻鲜记 三,https://hls.cntv.cdn20.com/asp/hls/1200/0303000a/3/default/c82407530d624ef3b12e0394d0e135c8/1200.m3u8
@@ -1720,7 +1719,7 @@ NewTV金牌综艺 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225689/inde
 寻鲜记 六,https://hwhls.cntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/29825a0259924fbc9043b7f08da99f37/1200.m3u8
 寻鲜记 七,https://hls.cntv.cdn20.com/asp/hls/1200/0303000a/3/default/2d2047a9401445e8b32e9b6eff30406a/1200.m3u8
 寻鲜记 八,https://hwhls.cntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/fc51785cd38d4f33b9b7bd3b9d0e19c9/1200.m3u8
-走遍中国美食篇,#genre#
+走遍中国美食篇
 川菜 走遍中国,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f8c3a6ca3f564c19a79484cec497f181/850.m3u8
 鲁菜 走遍中国,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a5f3bdf962d548fcb1270657a220eadf/850.m3u8
 湘菜 走遍中国,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1814ce0df72e441c98ea98fb71221f58/850.m3u8
@@ -1731,7 +1730,7 @@ NewTV金牌综艺 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225689/inde
 赣菜 走遍中国,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1335b24887c9485c93c2554beae093b8/850.m3u8
 淮扬菜 走遍中国,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/3b22f126412043958b2cc532026d6127/850.m3u8
 闽菜 走遍中国,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f53d266a04dc58a75469cf5a496d73d8/850.m3u8
-[八方小吃],#genre#
+八方小吃
 第01集 西安小吃 活色生香,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/3ed6a24d2ab84541acbf8555fbe6badd/1200.m3u8
 第02集 成都小吃 无中生有,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/eeb50bff5d5a431ea55b180ed5ce4047/1200.m3u8
 第03集 淄博小吃——粗中有细,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/371847f1e4f941298d9a9c7b37063e5b/1200.m3u8
@@ -1748,22 +1747,22 @@ NewTV金牌综艺 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225689/inde
 第14集 黄山小吃——山水之味,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/9396cef97d584ecd90acab4b716529ac/1200.m3u8
 第15集 福州小吃—福地口福,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/3f35185d627944a8858a8298256436ba/850.m3u8
 第16集 西宁小吃——高原风味,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/ed92b66f80bf4501812a822a23e97408/1200.m3u8
-[大美青海],
+大美青海
 青海湖,http://hls.cntv.cdn20.com/asp/hls/850/0303000a/3/default/53168e2cc3c24505be86bed527acd816/850.m3u8
 三江源,http://hls.cntv.cdn20.com/asp/hls/850/0303000a/3/default/6fe8173a3ffd4a852c84d8865e31d7ed/850.m3u8
 柴达木,http://hls.cntv.cdn20.com/asp/hls/850/0303000a/3/default/bcf4178427884e6f104588ade831dc2f/850.m3u8
 食在西宁,http://hls.cntv.cdn20.com/asp/hls/850/0303000a/3/default/75e32cba2a5e49b4a3a053ad41f4e74c/850.m3u8
-中华老字号,#genre#
-瑞蚨祥·腰身 六必居·酱藏,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/cff0cffb2f6b43f182b1c5ecc9c0e394/1200.m3u8
-大北照相·记忆 北京市珐琅厂·寻蓝,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/cf397c4f09dd4abca0dc14976feff40d/1200.m3u8
-仿膳饭庄·精细 内联陞·分寸,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/3f466762d8db42148337ee6011947526/1200.m3u8
-戴月轩·毫颖 烤肉季·武吃,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/ddd9929735b04fe7882b31f2c9c3a2b4/1200.m3u8
-护国寺小吃·京味儿 红都·往事,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/62734c1676fb4836b41436b9b0862d53/1200.m3u8
-全聚德·招牌,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/a987f023c0434275b6343651c307fa99/1200.m3u8
-龙顺成·匠心,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/f41a77913b0c43ab83fcd3e9ea6d21b8/1200.m3u8
-丰泽园·师承,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/704eaf185aff4a9db352c616d8dbf858/1200.m3u8
-王致和·回味,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/9ad09599f6f14223ab5a8af6c2fdd8e9/1200.m3u8
-回家过年,#genre#
+中华老字号
+瑞蚨祥 腰身 六必居·酱藏,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/cff0cffb2f6b43f182b1c5ecc9c0e394/1200.m3u8
+大北照相 记忆 北京市珐琅厂·寻蓝,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/cf397c4f09dd4abca0dc14976feff40d/1200.m3u8
+仿膳饭庄 精细 内联陞·分寸,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/3f466762d8db42148337ee6011947526/1200.m3u8
+戴月轩 毫颖 烤肉季·武吃,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/ddd9929735b04fe7882b31f2c9c3a2b4/1200.m3u8
+护国寺小吃 京味儿 红都·往事,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/62734c1676fb4836b41436b9b0862d53/1200.m3u8
+全聚德 招牌,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/a987f023c0434275b6343651c307fa99/1200.m3u8
+龙顺成 匠心,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/f41a77913b0c43ab83fcd3e9ea6d21b8/1200.m3u8
+丰泽园 师承,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/704eaf185aff4a9db352c616d8dbf858/1200.m3u8
+王致和 回味,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/9ad09599f6f14223ab5a8af6c2fdd8e9/1200.m3u8
+回家过年
 第一集 回家的路有多长,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/6c2f5ba4ba7d475c92fbe5d3482faae7/1200.m3u8
 第二集 全年包邮,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/9618d3092b8f4f07aed716f234508b0b/1200.m3u8
 第三集 沙县一家人,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/c55de95b47f7411a94f607046af32ff4/1200.m3u8
@@ -1773,13 +1772,13 @@ NewTV金牌综艺 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225689/inde
 第八集 搬迁后的新年,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/8b6018bb403a4f8798b41083685fc205/1200.m3u8
 第九集 爹娘在哪儿，哪儿就是家,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/d2d73b5b3cab443e8e3060eb284680b3/1200.m3u8
 第十集 远在中国的家,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/aaf2ffb1f78845da8291f5b533437110/1200.m3u8
-过年 第二季,#genre#
+过年第二季
 第一集 自然的积蓄,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/d19275dc3bbd4a0a88401a8c5a99c7b6/850.m3u8
 第二集 守候的心意,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a1a5a7d68ebc459d914aea5f178a89d7/850.m3u8
 第三集 劳作的收成,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ff5c4949c8e34240bce037d096aa2883/850.m3u8
 第四集 家传的手艺,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b442a342eed045b288bfc4a93fa7a4f7/850.m3u8
 第五集 团圆的味道,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1c0692b0520643bb9fc05c8856cd9d76/850.m3u8
-一城一味,#genre#
+一城一味
 第一集 天津,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/8c5766f2c79c4eb8a1bfd78a15a89e8d/850.m3u8
 第二集 银川,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/086856c245644660a599ba63111021b1/850.m3u8
 第三集 芜湖,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/749a195dda344492bc544523295aca15/850.m3u8
@@ -1787,22 +1786,22 @@ NewTV金牌综艺 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225689/inde
 五集 宿迁,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/cf6a8680709749d79db838f7fa45e68a/850.m3u8
 第六集 扬州,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/95786f247f5e4ab28bfac1c798d43a90/850.m3u8
 第七集 香港,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/e5d9798d08474098a140c91afb59dacb/850.m3u8
-寻味顺德,#genre#
+寻味顺德
 第一集 乡土之源,http://hls.cntv.cdn20.com/asp/hls/850/0303000a/3/default/d54b29e1abeb4da29e336200cec3a8d4/850.m3u8
 第二集 匠心独运,http://hls.cntv.cdn20.com/asp/hls/850/0303000a/3/default/366785819a004123a8a404a6058e824a/850.m3u8
 第三集 美味相传,http://hls.cntv.cdn20.com/asp/hls/850/0303000a/3/default/5717e7fdbdb3485da0f5b2b368b8422d/850.m3u8
-[锦绣纪],
+锦绣纪
 第一集 穿梭,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/2aae90d9a1c248069ff1216077eeee30/1200.m3u8
 第二集 引线,http://hls.cntv.cdn20.com/asp/hls/1200/0303000a/3/default/946348397f5a404ea8610e499e177423/1200.m3u8
 第三集 采桑,http://hwhls.cntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/554f6cb91ea043869e9675e36c869c9e/1200.m3u8
-自然的力量,#genre#
+自然的力量
 第一集 纵横,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/953dc0668aba46a386256c1588d3d5b2/1200.m3u8
 第二集 山峙,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/d1b5ddbde20145f9846d295f14cd4a82/1200.m3u8
 第三集 水流,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/0e7d939af7c34a42a126d85be7b03e7f/1200.m3u8
 第四集 风起,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/105a5e357086400c9c6e91fcf6b2e328/1200.m3u8
 第五集 共生,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/faf1a22c8cc645fbac0181d8edd555be/1200.m3u8
 第六集 追寻,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/a3d7f6a762804941afb2c275f51766d3/1200.m3u8
-[天河],
+天河
 第一集 源,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/730b60b2cd014aaba1e0acc34b9a5891/850.m3u8
 第二集 大江东去,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/0594d12171254cc7b16239acf96c17d0/850.m3u8
 第三集 阳光之城,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/3ab02e0eaf5a40c2ac6c59de2625ba39/850.m3u8
@@ -1810,7 +1809,7 @@ NewTV金牌综艺 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225689/inde
 第四集 三江之地,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/8a35e5a6905b40028216f82e3f9c4218/850.m3u8
 第五集 雅砻河畔,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/baad4632061148f59d5a03c76cf1311c/850.m3u8
 第六集 大峡谷,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/e812cb10c92741af8b117262b9b45e54/850.m3u8
-亮剑,#genre#
+亮剑
 第01集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/8c5c8a1079bd45aea6e7d38f984e5ccb/850.m3u8
 第02集,https://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a452d5e8f9fa498f945ed6e3ae27a209/850.m3u8
 第03集,https://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a6b8f5e28b764cc5b3ccdca165b42d61/850.m3u8
@@ -1837,16 +1836,16 @@ NewTV金牌综艺 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225689/inde
 第24集,https://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/98d5c93f9a674953bd4e225b0d805b7f/850.m3u8
 第25集,https://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a5e6b699a9ca4be99ec0910c2185149b/850.m3u8
 第26集,https://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/e065f30d9f5d4aad94243eba8655a958/850.m3u8
-特赦1959,#genre#
-第1集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/3dc972c4a0b74a6bb535ddd71e3eff94/1200.m3u8
-第2集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/cda07d68c119485b88f4589ceb73e23f/1200.m3u8
-第3集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/cbd48f72d80941e3be51685da620cafe/1200.m3u8
-第4集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/60e4b6d734cc4b7a83bde6168be4a598/1200.m3u8
-第5集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/0a43318709f04cb595ffbca73e86882c/1200.m3u8
-第6集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/5ec0acb9ba3f476c9aa0f0182ee0fb9f/1200.m3u8
-第7集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/179320a83481480b94453668454795cb/1200.m3u8
-第8集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/9cdc1de2781948c19c0b6dc3f75aeb8d/1200.m3u8
-第9集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/85e64ba78db84aa2b0fda0d158dd64a7/1200.m3u8
+特赦1959
+第01集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/3dc972c4a0b74a6bb535ddd71e3eff94/1200.m3u8
+第02集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/cda07d68c119485b88f4589ceb73e23f/1200.m3u8
+第03集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/cbd48f72d80941e3be51685da620cafe/1200.m3u8
+第04集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/60e4b6d734cc4b7a83bde6168be4a598/1200.m3u8
+第05集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/0a43318709f04cb595ffbca73e86882c/1200.m3u8
+第06集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/5ec0acb9ba3f476c9aa0f0182ee0fb9f/1200.m3u8
+第07集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/179320a83481480b94453668454795cb/1200.m3u8
+第08集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/9cdc1de2781948c19c0b6dc3f75aeb8d/1200.m3u8
+第09集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/85e64ba78db84aa2b0fda0d158dd64a7/1200.m3u8
 第10集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/9f5efc6ec0ee4c9a8fcdb1cf625281e6/1200.m3u8
 第11集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/dcdc18e8525d4204a32323f68250ca5f/1200.m3u8
 第12集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/3c0a1983dd37468ea779c944efd48ce5/1200.m3u8
@@ -1877,16 +1876,16 @@ NewTV金牌综艺 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225689/inde
 第37集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/807bbe45e18146859ba9233229c41b83/1200.m3u8
 第38集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/dc0fc556362644989b282dc0f1b9ac88/1200.m3u8
 第39集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/4468f7821ace4dda998f721b23627a05/1200.m3u8
-父母爱情,#genre#
-第1集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/cca52149a15e4e6db923f3ca8db21e79/850.m3u8
-第2集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b2c39d7aa8b34a738d6bbf320af4ec0c/850.m3u8
-第3集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/7ef5667f4079410a933291247284523f/850.m3u8
-第4集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/fb75435bc13e4865b54298b09c303f0c/850.m3u8
-第5集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1c3b25a1e4e74e26b2c0db3c0e0c17b1/850.m3u8
-第6集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/915f5bb746f6485ebee3b8b5fc1f384f/850.m3u8
-第7集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/fa54dca1595949fea2fa66d6935544e5/850.m3u8
-第8集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/bcbab0e94fdc42989df0e57e3acab91e/850.m3u8
-第9集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/2f1fb6efde8c4ce0a75ba765d178dbfb/850.m3u8
+父母爱情
+第01集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/cca52149a15e4e6db923f3ca8db21e79/850.m3u8
+第02集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b2c39d7aa8b34a738d6bbf320af4ec0c/850.m3u8
+第03集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/7ef5667f4079410a933291247284523f/850.m3u8
+第04集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/fb75435bc13e4865b54298b09c303f0c/850.m3u8
+第05集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1c3b25a1e4e74e26b2c0db3c0e0c17b1/850.m3u8
+第06集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/915f5bb746f6485ebee3b8b5fc1f384f/850.m3u8
+第07集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/fa54dca1595949fea2fa66d6935544e5/850.m3u8
+第08集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/bcbab0e94fdc42989df0e57e3acab91e/850.m3u8
+第09集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/2f1fb6efde8c4ce0a75ba765d178dbfb/850.m3u8
 第10集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/2e64817b703a4cce8e4b1fc66f2eae2c/850.m3u8
 第11集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/7ea9a9baf9d64db484c757a64ac30e21/850.m3u8
 第12集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/70a91a3dc99e465baf272c9eeabcef40/850.m3u8
@@ -1922,16 +1921,16 @@ NewTV金牌综艺 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225689/inde
 第42集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/389250256974409e8fa253da48469e4b/850.m3u8
 第43集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/06d6023b90504002a56df1d5bedce12c/850.m3u8
 第44集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/e3bc43b9022a4847b4071f58e468ce64/850.m3u8
-火蓝刀锋,#genre#
-第1集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/4b04bd7d41f640bbab406d323ff4e122/850.m3u8
-第2集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/fa708831380f48bba6833094e072d9c5/850.m3u8
-第3集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/2e6d39cdf01942029a99cd2aacd31d94/850.m3u8
-第4集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a00210193959463892557ff00f3a3dda/850.m3u8
-第5集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/76d10504df9745a59dcb35d8fbf5f868/850.m3u8
-第6集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/07d2d40126954a3a86cce3a628a10c5d/850.m3u8
-第7集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/e6f7e29c54e8489599df9e762f68d971/850.m3u8
-第8集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1bde3e1603de459f8d9ba9b540a52aea/850.m3u8
-第9集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1e00a8a23c8d4ba8964da5ac1955bd00/850.m3u8
+火蓝刀锋
+第01集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/4b04bd7d41f640bbab406d323ff4e122/850.m3u8
+第02集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/fa708831380f48bba6833094e072d9c5/850.m3u8
+第03集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/2e6d39cdf01942029a99cd2aacd31d94/850.m3u8
+第04集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a00210193959463892557ff00f3a3dda/850.m3u8
+第05集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/76d10504df9745a59dcb35d8fbf5f868/850.m3u8
+第06集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/07d2d40126954a3a86cce3a628a10c5d/850.m3u8
+第07集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/e6f7e29c54e8489599df9e762f68d971/850.m3u8
+第08集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1bde3e1603de459f8d9ba9b540a52aea/850.m3u8
+第09集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1e00a8a23c8d4ba8964da5ac1955bd00/850.m3u8
 第10集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/99815c3cedb7401a9c37a7deb5d3e8d9/850.m3u8
 第11集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/d62becd3748842a0a0580cd2b0a1cefa/850.m3u8
 第12集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c3d84b98481048f38528ca2d1147fef5/850.m3u8
@@ -1954,16 +1953,16 @@ NewTV金牌综艺 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225689/inde
 第29集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c32dc8d30fe3481bb527a28555f87fb8/850.m3u8
 第30集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a626017bb3a641c3a6b442a84055092c/850.m3u8
 第31集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c68a8b1018e8472989ecb85138b233fb/850.m3u8
-人间正道是沧桑,#genre#
-第1集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/7aa3a21ff50b48334ecee3932424c055/850.m3u8
-第2集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/baef700182014260a81b74b0ffcd6f3b/850.m3u8
-第3集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/6c76224d45384a69bd75259769549e04/850.m3u8
-第4集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/8ffeb6560cad43f5c11495b1cc93318a/850.m3u8
-第5集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c94eeee6e1f541a894c3c8a5f84ab945/850.m3u8
-第6集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/e35b5b0c90b547e298403a86140195d6/850.m3u8
-第7集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/8d863043c68d4aca44b18899a68c0dfd/850.m3u8
-第8集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b4f789ca585343d17d4d10b0473812b9/850.m3u8
-第9集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/82bec1ec5c84495fafae0f9b45883441/850.m3u8
+人间正道是沧桑
+第01集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/7aa3a21ff50b48334ecee3932424c055/850.m3u8
+第02集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/baef700182014260a81b74b0ffcd6f3b/850.m3u8
+第03集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/6c76224d45384a69bd75259769549e04/850.m3u8
+第04集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/8ffeb6560cad43f5c11495b1cc93318a/850.m3u8
+第05集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c94eeee6e1f541a894c3c8a5f84ab945/850.m3u8
+第06集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/e35b5b0c90b547e298403a86140195d6/850.m3u8
+第07集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/8d863043c68d4aca44b18899a68c0dfd/850.m3u8
+第08集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b4f789ca585343d17d4d10b0473812b9/850.m3u8
+第09集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/82bec1ec5c84495fafae0f9b45883441/850.m3u8
 第10集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/d01782a873a14e4a89ac6688d7e7a66e/850.m3u8
 第11集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1f291430d2804eb3dda0f29293ffa93b/850.m3u8
 第12集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/3b266562be9345ae8dff6fbd0f3a11ae/850.m3u8
@@ -2005,7 +2004,7 @@ NewTV金牌综艺 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225689/inde
 第48集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/289e1d231def46c3a57d74998c01080c/850.m3u8
 第49集,http://hls.cntv.myalicdn.com/asp/hls/450/0303000a/3/default/42c4e93be64b4598b0ee49bcbb0e6c3f/450.m3u8
 第50集,http://hls.cntv.myalicdn.com/asp/hls/450/0303000a/3/default/ffb1aa57bd0d4ce6a30270a7d27423d2/450.m3u8
-破局1950,#genre#  
+破局1950
 第01集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/782e32e4458f46db95453779bffb0fc0/1200.m3u8
 第02集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/d5859de984cf4f71ae36d0b4225e4a23/1200.m3u8
 第03集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/89ac5b231bdd4b2d8a71d218fe2de63b/1200.m3u8
@@ -2052,7 +2051,7 @@ NewTV金牌综艺 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225689/inde
 第44集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/2f5e84ae882c422ea914028f48ae08b2/1200.m3u8
 第45集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/9df6135e3fd24ab38a76a3ed4116644a/1200.m3u8
 第46集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/7f5fffef8b1b4279a36418a11e6d4541/1200.m3u8
-钢铁年代,#genre# 
+钢铁年代
 第01集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/bc19b8e8abd54c5d9e1608984577da4f/850.m3u8
 第02集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/0531eae349e541fcee7c53b56c85ef93/850.m3u8
 第03集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/15f4122be0ba469d381a17afa9858482/850.m3u8
@@ -2090,16 +2089,16 @@ NewTV金牌综艺 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225689/inde
 第35集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/6c734c8f865d972ad259615247c0eee7/850.m3u8
 第36集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/05aad9e76eb54f678d75de96a0efb2b4/850.m3u8
 第37集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/06174298a6464b67374ae1a80bf8261a/850.m3u8
-于无声处,#genre# 
-第1集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/d1d949ce736746e99f8569bcfef02466/850.m3u8
-第2集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c67832aed42044668574ebc6af3ff5c2/850.m3u8
-第3集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/8c0cfe8ce4f64730bafde9a1eb30b879/850.m3u8
-第4集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c34a88a40eb54ff5a9cde6422a72fb42/850.m3u8
-第5集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ed518fe8f8484731ac1d4cb35f2810d8/850.m3u8
-第6集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/dfa199618401496a85815562caa6fbed/850.m3u8
-第7集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/bb46d9bcbadb48b68313c81906e7016b/850.m3u8
-第8集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/41bb9a4029ff4d7582ed76a29efab003/850.m3u8
-第9集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/7791880440374d0aa5ff62644285ae54/850.m3u8
+于无声处
+第01集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/d1d949ce736746e99f8569bcfef02466/850.m3u8
+第02集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c67832aed42044668574ebc6af3ff5c2/850.m3u8
+第03集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/8c0cfe8ce4f64730bafde9a1eb30b879/850.m3u8
+第04集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c34a88a40eb54ff5a9cde6422a72fb42/850.m3u8
+第05集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ed518fe8f8484731ac1d4cb35f2810d8/850.m3u8
+第06集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/dfa199618401496a85815562caa6fbed/850.m3u8
+第07集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/bb46d9bcbadb48b68313c81906e7016b/850.m3u8
+第08集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/41bb9a4029ff4d7582ed76a29efab003/850.m3u8
+第09集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/7791880440374d0aa5ff62644285ae54/850.m3u8
 第10集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c439ff601b864368ab4b02d95af47b7b/850.m3u8
 第11集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/d8d6eff0dad740b885b87c70bc0d1c01/850.m3u8
 第12集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/0558646c2d004f39ae7ce08b0191d359/850.m3u8
@@ -2125,8 +2124,7 @@ NewTV金牌综艺 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225689/inde
 第32集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/fd5d4ab4be8b41eb9f00d22157bc6934/850.m3u8
 第33集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/21d3a89324ba4fba8ec9455d2dbc813a/850.m3u8
 第34集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/0a383bb4d0234ecabda7a7d07371cada/850.m3u8
-
-长征,#genre#
+长征
 第01集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/90804c1fa6744dce1c8fac8738d712fc/850.m3u8
 第02集,https://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/15279d23d49a43a63e36a0a67a1a9e1c/850.m3u8
 第03集,https://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/477984cdbb2847c75cea4185827fe3f5/850.m3u8
@@ -2151,7 +2149,7 @@ NewTV金牌综艺 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225689/inde
 第22集,https://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/3d7afb9e47c2498a196bd099d414e133/850.m3u8
 第23集,https://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f59844ae7e7f4378bd2fcb81c2ae9bdc/850.m3u8
 第24集,https://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/475a08e87f5f40a0504c6f8324b9f761/850.m3u8
-延安颂,#genre# 
+延安颂
 第01集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/71e64aa036ab4b2d980818d80865d3a5/850.m3u8
 第02集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/fb0aeccf478b4ed297d337ea929af40f/850.m3u8
 第03集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/861b7e2003cf4003b0c05c8cde92e66a/850.m3u8
@@ -2191,8 +2189,8 @@ NewTV金牌综艺 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225689/inde
 第37集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/893c901e9a494660a2797eded6426704/850.m3u8
 第38集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a45d46fc6ef744cda3a15362daf3a2c3/850.m3u8
 第39集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ece79720bf054b3894ba9e52aeecde3c/850.m3u8
-第40集[大结局],http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/4e2236a2421d4f4b92f67b1f04b18bbc/850.m3u8
-解放,#genre# 
+第40集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/4e2236a2421d4f4b92f67b1f04b18bbc/850.m3u8
+解放
 第01集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/140f13c543614476938bec8fc0f70666/850.m3u8
 第02集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9f007a32d5cd408c3eebc7b8da684c1f/850.m3u8
 第03集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a123c51be201420d12efb08b210117d8/850.m3u8
@@ -2243,7 +2241,7 @@ NewTV金牌综艺 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225689/inde
 第48集,https://haitang.kankan-kuyunzy.com/20200407/20615_0f202831/1000k/hls/index.m3u8
 第49集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/8f943c96de914553cb44d29ab618e715/850.m3u8
 第50集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/50235b6c44eb405f582215afeaca82ec/850.m3u8
-换了人间,#genre#
+换了人间
 第01集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/a075698c7257468093184bfbe2d90649/1200.m3u8
 第02集,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/1b2ff2bd76c24c248270b7b825a10999/1200.m3u8
 第03集,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/b84cf8f3bbd7460bb7cce6571cdab8dc/1200.m3u8
@@ -2283,8 +2281,8 @@ NewTV金牌综艺 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225689/inde
 第37集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/d1bd53f5f4d64f09be5905015839880a/1200.m3u8
 第38集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/346eab6833d141f2bfe65ceaa3afcfd7/1200.m3u8
 第39集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/3ecc7eac11244e5d8ce37495285e8311/1200.m3u8
-第40集 [大结局],http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/6344037225f64c81a364149fe429239c/1200.m3u8
-东方,#genre#
+第40集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/6344037225f64c81a364149fe429239c/1200.m3u8
+东方
 第01集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9e168f2d71594d7f9f55a38a8d8d5008/850.m3u8
 第02集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/cb08c4b3e6454ba12cded59c8e5e5ed0/850.m3u8
 第03集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/596ac2e7260340f3bb04fc94c7375cf2/850.m3u8
