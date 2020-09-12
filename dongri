@@ -258,6 +258,13 @@ https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/bca1aa7d78504cf199
 https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/62979510352f40be8c7b1b383144dca2/1200.m3u8
 #EXTINF:-1 group-title="最美是家乡",海南 体验海岛的乐趣
 https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/bbd8c64a6153461cb9b2e7c71be336a3/1200.m3u8
+#EXTINF:-1 group-title="最美是家乡",山西 黄河之水天上来
+https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/d60d95e1124541ed90f78920170f08ef/1200.m3u8
+#EXTINF:-1 group-title="最美是家乡",山西 三晋大地 华夏之根
+https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/dc96eaf89f044557a52d50036e64af26/1200.m3u8
+#EXTINF:-1 group-title="最美是家乡",山西 古建瑰宝话山西
+https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/650bf7d3517c4ed99c2635207e60d163/1200.m3u8
+
 #EXTINF:-1 group-title="长城内外一",[辽宁] 第01集 万里长城 东起虎山
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/fc2cb58ef3aa4bb4ab694d11adc48eba/850.m3u8
 #EXTINF:-1 group-title="长城内外一",第02集 徒步辽东边堡
