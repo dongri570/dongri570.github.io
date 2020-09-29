@@ -1760,7 +1760,10 @@ https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/ccaf9a8e21dc45afb8
 https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/5eb8e510ba4942e7af754b061365474e/1200.m3u8
 #EXTINF:-1 group-title="最美是家乡",重庆 山城重庆品美食
 https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/11ae56af6dbd499ba0449d8718b42df4/1200.m3u8
-
+#EXTINF:-1 group-title="最美是家乡",辽宁 壮阔山水 生态家园
+https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/584e2bb865a74d6e929a1ee86e57576b/1200.m3u8
+#EXTINF:-1 group-title="最美是家乡",辽宁 历史重镇 宝地辽东
+https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/3186c8351a704bd39737a685effea3ea/1200.m3u8
 #EXTINF:-1 group-title="长城内外一",[辽宁] 第01集 万里长城 东起虎山
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/fc2cb58ef3aa4bb4ab694d11adc48eba/850.m3u8
 #EXTINF:-1 group-title="长城内外一",第02集 徒步辽东边堡
