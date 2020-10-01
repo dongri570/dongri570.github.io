@@ -622,20 +622,26 @@ http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a26f60e078594923a2a7
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f39f4713e1ed41579b178a0ab0a4ec4d/850.m3u8
 #EXTINF:-1 group-title="红色特工秘档",郭汝瑰
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ddeba17ff049469ab9709ced009d92c1/850.m3u8
-#EXTINF:-1 group-title="炮击金门",风云突变
-https://yuledy.helanzuida.com/20200609/5583_6ba843f0/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="炮击金门",调兵遣将
-https://yuledy.helanzuida.com/20200609/5582_63ba14d6/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="炮击金门",于无声处
-https://yuledy.helanzuida.com/20200609/5581_374b56ae/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="炮击金门",台风暴雨
-https://yuledy.helanzuida.com/20200609/5580_2a75be76/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="炮击金门",捍卫领海
-https://yuledy.helanzuida.com/20200609/5579_583f7f95/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="炮击金门",封锁金门
-https://yuledy.helanzuida.com/20200609/5578_e4ba4f7b/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="炮击金门",蓝天防线
-https://yuledy.helanzuida.com/20200609/5577_d3ba2981/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="一九五八炮击金门",风云突变
+https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/bdfa8f3f31b049dd83ba973cf44a99a1/1200.m3u8
+#EXTINF:-1 group-title="一九五八炮击金门",调兵遣将
+https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/54d60cbf1ea340239a0c38aa60c190ca/1200.m3u8
+#EXTINF:-1 group-title="一九五八炮击金门",于无声处
+https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/8790782149ab485b897e1365ec9a4e9f/1200.m3u8
+#EXTINF:-1 group-title="一九五八炮击金门",台风暴雨
+https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/7c5eb0093e05435bb9f55f5a1153edd0/1200.m3u8
+#EXTINF:-1 group-title="一九五八炮击金门",捍卫领海
+https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/5a93c255b8794342b5bc61ad0c63e00e/1200.m3u8
+#EXTINF:-1 group-title="一九五八炮击金门",封锁金门
+https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/ea527deec8cc4f5da7078615dad53368/1200.m3u8
+#EXTINF:-1 group-title="一九五八炮击金门",蓝天防线
+https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/2a3d793cf07a42eaa9ce87ae4fd96a16/1200.m3u8
+#EXTINF:-1 group-title="一九五八炮击金门",攻心为上
+https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/4e9c617ec9a24f818681ad5ea0a0059b/1200.m3u8
+#EXTINF:-1 group-title="一九五八炮击金门",英雄民兵
+https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/d3ec74e7539a4a04818ba076f579acf3/1200.m3u8
+#EXTINF:-1 group-title="一九五八炮击金门",炮声犹在
+https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/b64b212a6594488d98328442a04beb1d/1200.m3u8
 #EXTINF:-1 group-title="世界各国特种部队大揭秘",法国海外军团-死亡军团
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/11c9a92ef5224a40a33376f92240f698/850.m3u8
 #EXTINF:-1 group-title="世界各国特种部队大揭秘",绿色贝雷帽
