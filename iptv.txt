@@ -245,6 +245,8 @@ NewTV金牌综艺 4M1080,http://39.134.157.205/PLTV/88888888/224/3221225689/inde
 重庆 山城重庆品美食,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/11ae56af6dbd499ba0449d8718b42df4/1200.m3u8
 辽宁 壮阔山水 生态家园,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/584e2bb865a74d6e929a1ee86e57576b/1200.m3u8
 辽宁 历史重镇 宝地辽东,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/3186c8351a704bd39737a685effea3ea/1200.m3u8
+辽宁 丰饶大地 缤纷辽西,https://hls.cntv.cdn20.com/asp/hls/1200/0303000a/3/default/35285329dda84a0fbc8cc400c53e12c8/1200.m3u8
+辽宁 多彩海岸 美好家园,https://hls.cntv.cdn20.com/asp/hls/1200/0303000a/3/default/f61ce6b33bb7428d9ce5d5fcafc7de04/1200.m3u8
 长城内外一,#genre# 
 [辽宁] 第01集 万里长城 东起虎山,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/fc2cb58ef3aa4bb4ab694d11adc48eba/850.m3u8
 第02集 徒步辽东边堡,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/111bef901caa490293a28fe3a2352259/850.m3u8
