@@ -634,6 +634,10 @@ https://sina.com-h-sina.com/20180801/4730_9a7986ff/index.m3u8
 https://sina.com-h-sina.com/20180801/4731_547746b4/index.m3u8
 #EXTINF:-1 group-title="断刀 朝鲜战场大逆转",第十集
 https://sina.com-h-sina.com/20180801/4732_1f18275d/index.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",毛泽东4A急电林彪打锦州上
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/03fe7ac45e9449d481759b189bf09ee6/850.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",毛泽东4A急电林彪打锦州下
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/df837beeebf64fb192cd07b54aa08eb3/850.m3u8
 #EXTINF:-1 group-title="红色特工秘档",熊向晖
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ad22e74265034f889c8d1cc70a11c20e/850.m3u8
 #EXTINF:-1 group-title="红色特工秘档",关露
