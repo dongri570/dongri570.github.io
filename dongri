@@ -648,6 +648,25 @@ http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/6ace5623c2274abb9b0
 http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/d0fd90c203694bed81d0980737eb668c/1200.m3u8
 #EXTINF:-1 group-title="北京纪实-档案",民国风云人物 阎锡山
 http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/ec9d6fe9ded940e6943217a3537c4652/1200.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",反恐雷霆之2012 俄罗斯莫斯科剧院人质危机一
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/18f9650a11144a25a3a508e805a1252c/850.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",反恐雷霆之2012 俄罗斯莫斯科剧院人质危机二
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/3703f78f85504c3eaf9f15b8389f290d/850.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",美军历史上最丢脸的海外军事行动
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f2c0d9e5ae0b427db6321f3330f4ea4e/850.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",揭秘日本开拓团向东北移民计划
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/587bd3a0545c438d8b443a59a046df83/850.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",侵华日军的化学武器 抹不去的战争梦魇
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/0c93f5bbb0974cf7bbcd2a95e6f26fee/850.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",剑桥 谍中谍
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/6af52b3785794194b32a8b0be5d0985d/850.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",一九五三 美国间谍风云
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/e547f94ad39c45c78973d8f30759f936/850.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",跨世天劫 洛克比炸机惊魂
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/51fa3e48d4a84a75be9b625a2f3e8665/850.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",达拉斯的枪声和36种可能
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b0d0be3818b144d69409377cbd2ce986/850.m3u8
+
 #EXTINF:-1 group-title="红色特工秘档",熊向晖
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ad22e74265034f889c8d1cc70a11c20e/850.m3u8
 #EXTINF:-1 group-title="红色特工秘档",关露
