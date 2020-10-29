@@ -1,68 +1,651 @@
 
-央视节目,#genre#        
-CCTV-1综合,http://58.251.112.67/tlivecloud-cdn.ysp.cctv.cn/cctv/2000210101.m3u8
-CCTV-2财经,http://ivi.bupt.edu.cn/hls/cctv2.m3u8
-CCTV-3综艺,http://58.251.112.67/tlivecloud-cdn.ysp.cctv.cn/cctv/2000203802.m3u8
-CCTV-4中文国际,http://ivi.bupt.edu.cn/hls/cctv4.m3u8
-CCTV-5体育,http://cctvalih5ca.v.myalicdn.com/live/cctv5_2/index.m3u8
-CCTV-5+体育,http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
-CCTV-6电影,http://ivi.bupt.edu.cn/hls/cctv6.m3u8
-CCTV-7国防军事,http://ivi.bupt.edu.cn/hls/cctv7.m3u8
-CCTV-8电视剧,http://ivi.bupt.edu.cn/hls/cctv8.m3u8
-CCTV-9纪录,http://ivi.bupt.edu.cn/hls/cctv9.m3u8
-CCTV-10科教,http://ivi.bupt.edu.cn/hls/cctv10.m3u8
-CCTV-11戏曲,http://ivi.bupt.edu.cn/hls/cctv11.m3u8
-CCTV-12高清,http://ivi.bupt.edu.cn/hls/cctv12hd.m3u8
-CCTV-13新闻,http://ivi.bupt.edu.cn/hls/cctv13.m3u8
-CCTV-14少儿,http://ivi.bupt.edu.cn/hls/cctv14.m3u8
-CCTV-15音乐,http://ivi.bupt.edu.cn/hls/cctv15.m3u8
-CGTN,http://ivi.bupt.edu.cn/hls/cctv16.m3u8
-CCTV-17农业农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
-卫视节目,#genre#
-北京卫视蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
-北京电视台文艺,http://cctvalih5ca.v.myalicdn.com/wstv/btv2_2/index.m3u8
-北京科教,http://cctvalih5ca.v.myalicdn.com/wstv/btv3_2/index.m3u8
-北京影视,http://cctvalih5ca.v.myalicdn.com/wstv/btv4_2/index.m3u8
-北京电视台财经,http://cctvalih5ca.v.myalicdn.com/wstv/btv5_2/index.m3u8
-北京生活,http://cctvalih5ca.v.myalicdn.com/wstv/btv7_2/index.m3u8
-北京青年,http://cctvalih5ca.v.myalicdn.com/wstv/btv8_2/index.m3u8
-北京新闻,http://cctvalih5ca.v.myalicdn.com/wstv/btv9_2/index.m3u8
-北京卡酷动画卫视,http://sk.live.otvcloud.com/otv/skcc/live/channel11003/2300.m3u8?k=6ec0bca3a3be0b0f80557b69b156a091&t=5EF92C76&UID=CD0D99E3
-北京冬奥纪实,http://live.hcs.cmvideo.cn:8088/wd_r3/btv/btv6/1000/index.m3u8?&encrypt=
-天津卫视蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226246/1.m3u8
-河北卫视蓝光,http://live5.plus.hebtv.com/hbws/sd/live.m3u8
-东方卫视蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8
-湖南卫视蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226241/1.m3u8
-浙江卫视蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226247/1.m3u8
-江苏卫视蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8
-河南卫视蓝光,http://cctvalih5ca.v.myalicdn.com/wstv/henan_2/index.m3u8
-山东卫视蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226308/1.m3u8
-湖北卫视蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226310/1.m3u8
-安徽卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226223/1.m3u8
-广东卫视蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226238/1.m3u8
-深圳卫视蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226245/1.m3u8
-辽宁卫视蓝光,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225947/1.m3u8
-龙江卫视蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
-吉林卫视蓝光,http://cctvalih5ca.v.myalicdn.com/wstv/jilin_2/index.m3u8
-江西卫视蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226243/1.m3u8
-四川卫视蓝光,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227006/1.m3u8
-重庆卫视蓝光,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
-厦门卫视蓝光,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226781/1.m3u8
-海南卫视蓝光,http://cctvalih5ca.v.myalicdn.com/wstv/travel_2/index.m3u8
-贵州卫视蓝光,http://cctvalih5ca.v.myalicdn.com/wstv/guizhou_2/index.m3u8
-广西卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225879/1.m3u8
-甘肃卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225877/1.m3u8
-青海卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225893/1.m3u8
-山西卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225895/1.m3u8
-云南卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225902/1.m3u8
-陕西卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225896/1.m3u8
-宁夏卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225892/1.m3u8
-内蒙卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225891/1.m3u8
-新疆卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
-西藏卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
-三沙卫视高清,http://ivi.bupt.edu.cn/hls/sstv.m3u8
-凤凰卫视中文台,http://112.50.243.8/PLTV/88888888/224/3221225900/index.m3u8
-香港凤凰卫视资讯台,http://112.50.243.8/PLTV/88888888/224/3221225901/index.m3u8
+中国港口,#genre#
+第一集 长河帆影,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/1fe8013eafc44453aebb3eaea1a2a494/1200.m3u8
+第二集 疾风浩荡,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/46ee86ec06c142569a4723cbdfa4355c/1200.m3u8
+第三集 秣马厉兵,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/7cf64643c7234e05a807e8546db28440/1200.m3u8
+第四集 远航之望,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/5371d71c8dd549158832b0270fcd6ac0/1200.m3u8
+中国高铁,#genre#
+第一集 时代脉动,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/043503a679a34538871fc77579931a69/1200.m3u8
+第二集 创新之路,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/7b145cbf2f264d988506da1b77cc0cc8/1200.m3u8
+第三集 经世通途,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/ad39360a6d6e4f818d12f5225fc4fe3f/1200.m3u8
+[中国城轨],
+第一集 改变 与时代竞速,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/8f55b36c867d441791c844a23d5f703a/1200.m3u8
+第二集 穿越 与科技共进,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/bdf20edf3d054f31a55f789787099c62/1200.m3u8
+第三集 魅力 与文化同轨,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/64c6aece3a054a21b68bff03d6df9cf6/1200.m3u8
+第四集 开拓 与世界同享,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/c40247ebe03b4bbf9ec7c8178dba7364/1200.m3u8
+第五集 创新 与梦想同行,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/13bc565174244a12a150ef95f9123a63/1200.m3u8
+一带一路,#genre#
+一带一路 第一集 共同命运,https://pptv.yongjiu-pptv.com/ppvod/2179B17AB3F4311CB761BC52C94CBA2B.m3u8
+一带一路 第二集 互通之路,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/756429ed109442d29d7bb93dc1a2f646/1200.m3u8
+一带一路 第三集 光明纽带,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9f81e9ae50dc41119645aef2211f1c6c/1200.m3u8
+一带一路 第四集 财富通途,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/88bc317e7ded44dfb204ab082cc5befd/1200.m3u8
+一带一路 第五集 金融互联,https://pptv.yongjiu-pptv.com/ppvod/A17E7106BC76CF23D7DDE8714F71A02C.m3u8
+一带一路 第六集 筑梦丝路,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6262de3ad3524cc0883db2d94383c455/1200.m3u8
+[我们走在大路上],#genre#
+第一集 新中国诞生,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/3768ae9421ed427881d1261e7e82aa19/1200.m3u8
+第二集 敢教日月换新天,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/dba4eda3899545e9a4b93996a6d216ec/1200.m3u8
+第三集 大业奠基,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/77ef3f3ed5c24e949b4391eba2344339/1200.m3u8
+第四集 起宏图,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/c8449d30b6324a688fc6873ba5f77063/1200.m3u8
+第五集 壮志凌云,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/fd4612fa31804a66abedaab8a75629e4/1200.m3u8
+第六集 激情燃烧的岁月,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/c51d3de2dc5947dca44a70993c6f889a/1200.m3u8
+第七集 艰辛探索,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/9c17f8b5f8f8416eba3d502ec92aee3e/1200.m3u8
+第八集 伟大转折,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/e613060893504128bec5f991fab688dc/1200.m3u8
+第九集 改革春潮,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/f3c7901050d54269b72f4187c45d5df9/1200.m3u8
+第十集 突破重围,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/e530ce308624414c8edb28f846eb3e06/1200.m3u8
+第十一集 统一大业,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/3619e5ffb3ac4fc289102dd6e05c2a52/1200.m3u8
+第十二集 融入世界,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/45e6305b07724808ade5827baf745296/1200.m3u8
+第十三集 神州腾飞,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/f2f8459cb562432c8224583a75a44916/1200.m3u8
+第十四集 民为邦本,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/34c9ac4c109447daa0b0432addc0f228/1200.m3u8
+第十五集 我们都是追梦人,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/2696fa72bfdf4f769428127ca8689524/1200.m3u8
+第十六集 打铁必须自身硬,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/62de0c6f31e543c190b791ef7cf05ea7/1200.m3u8
+第十七集 改革开放谱新篇,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/04958fb129234f08a784b95957c59617/1200.m3u8
+第十八集 脱贫攻坚,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/81dc7d3bf3f54e608bad0bd1e5180b4c/1200.m3u8
+第十九集 绿水青山就是金山银山,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/6c6dd2f64d29489584c2d3269bb6987a/1200.m3u8
+第二十集 文化铸魂,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/598d591ea70b41efb6a2073f6a774fdf/1200.m3u8
+第二十一集 强军战歌,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/ca699aa38bb842d3b3968e83446ee256/1200.m3u8
+第二十二集 命运与共,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/c24fb3ca2a5941d18bc2e5bd25fc1b45/1200.m3u8
+第二十三集 辉煌新时代,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/c7c42950a4b443928a4ba347617fe68e/1200.m3u8
+第二十四集 领航中国,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/d798769e15bc4b308cc01ec03e7061b5/1200.m3u8
+不能忘却的伟大胜利,#genre#
+第01集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/d1fe283b14c54199a2b2b1a7c30b5485/850.m3u8
+第02集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b9a2b44dd51e488fb8eeedacae538e07/850.m3u8
+第03集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/6fc616d7caf743ec80b42808819d794f/850.m3u8
+第04集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b731269ed0ca421bab2bd576124edb74/850.m3u8
+第05集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1f0342b56dba49e18335886fc10cc50b/850.m3u8
+第06集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c300fbac07cb445b9569d3034c5a0118/850.m3u8
+第07集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/403e4c9331ff4e05961e6582f9df02aa/850.m3u8
+第08集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/cb4e417302024da29b76e37dc27909af/850.m3u8
+第09集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/61048658ec3e468aa1a13a035945b445/850.m3u8
+第10集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/77db2551607547e9bb2bca9037408ecc/850.m3u8
+第11集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ad4b3594f5d04b30b3c71a9a21d15020/850.m3u8
+第12集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/d28bfbe9401e47f781286ac9f4cfe80d/850.m3u8
+速度的力量,#genre#
+第一集 致命一击,http://hls.cntv.cdn20.com/asp/hls/1200/0303000a/3/default/8ff858932f9b4115baa7680541c24e6d/1200.m3u8
+第二集 秒杀利器,https://hls.cntv.cdn20.com/asp/hls/1200/0303000a/3/default/9ef386f24ae44a34862aef01b451ed93/1200.m3u8
+第三集 生死时速,http://hls.cntv.cdn20.com/asp/hls/1200/0303000a/3/default/369059ada7b846ffa5515377103a1f86/1200.m3u8
+强军,#genre# 
+第一集 逐梦,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/2c9bf2ce636048a5a7350afa4e22129e/1200.m3u8
+第二集 铸魂,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/68d2c12c418f499bb1873f784bfbce6e/1200.m3u8
+第三集 制胜,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/b3417baf33754eb4a4000b87cfd10c3f/1200.m3u8
+第四集 重塑,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/9e9c64dbb5d345f0b1f7f25ae49f8ce4/1200.m3u8
+第五集 浴火,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/9645f6d4e0104bf59d3a66f37bb02243/1200.m3u8
+第六集 跨越,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/a4f2259180ce44dca9f9344c76a83e3e/1200.m3u8
+第七集 铁律,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/24a1017851b24b1c8052826408a24975/1200.m3u8
+第八集 伟力,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/1f4a1b52cbad466895e24bf0be9e1ead/1200.m3u8
+苏联解体,#genre#
+红场阅兵 勃列日涅夫时代 上,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/69a96d4b544f4dca9d568a25873e0834/850.m3u8
+红场阅兵 勃列日涅夫时代 下,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/55f2d8291624438dad05461353ce7e77/850.m3u8
+红场阅兵 戈尔巴乔夫时代 上,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/bbffa6cd05fa401c870f4e21816142a8/850.m3u8
+红场阅兵 戈尔巴乔夫时代 下,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/bf288f16ff6e470193245c65de9f7da8/850.m3u8
+苏联解体 八-一九事件内幕 上,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/0d11fdd446ba3ddda49e8f540a4e5c44/850.m3u8
+苏联解体 八·一九事件内幕 中,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/8fee3474477e3ddda49e8f540a4e5c44/850.m3u8
+新疆反恐,#genre#
+中国新疆反恐记忆,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/83acc9834d974b4faad6bce02dd71264/1200.m3u8
+新疆的反恐 去极端化斗争,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/02957c0f88774f7a9c9b50164a481a61/1200.m3u8
+中国新疆 反恐前沿,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/2c477b82d0ee43e29734723b4e9fe8af/1200.m3u8
+南宋,#genre#
+第一集 遥望中原,http://hw-v.cztv.com/cztv/vod/2015/12/08/7145E9F9A36449788C53F2876C396236/h264_1500k_mp4.mp4_playlist.m3u8
+第二集 240道美食,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/5bb85ec6d26b41bc93fdede975e489b9/850.m3u8
+第三集 诗词流域,http://hw-v.cztv.com/cztv/vod/2015/12/22/269816A5F09E4978A34A2A0C3522B118/h264_1500k_mp4.mp4_playlist.m3u8
+第四集 宋画江山,http://hw-v.cztv.com/cztv/vod/2015/12/29/119FF580AFD0445aA4AA89B68BC3C324/h264_1500k_mp4.mp4_playlist.m3u8
+第五集 戏文南北,http://hw-v.cztv.com/cztv/vod/2016/01/05/5F90172AB60A4f8f8CBC09DB65ED3F21/h264_1500k_mp4.mp4_playlist.m3u8
+第六集 发明时代,http://hw-v.cztv.com/cztv/vod/2016/01/12/1937049D29104779B97536121D571159/h264_1500k_mp4.mp4_playlist.m3u8
+第七集 回望未来,http://hw-v.cztv.com/cztv/vod/2016/01/19/7092FE015C874387A91A76FD590998CC/h264_1500k_mp4.mp4_playlist.m3u8
+汉匈之战,#genre#
+汉匈之战 第一集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/f321247ba9524eb1b4d8a8d8e77e6ba9/1200.m3u8
+汉匈之战 第二集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/fbcaebcdd44a467a86bd1d8022eea693/1200.m3u8
+汉匈之战 第三集,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/d1fb1de49d9a4e9f81a5e6c7fd7b40e9/1200.m3u8
+古兵器大揭秘,#genre# 
+第一集 战车 戈,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/6de0b3463e3f496e8237e440d30d0856/850.m3u8
+第二集 弩,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/0b2bec9809404c32ad0498fef3a97196/850.m3u8
+第三集 陌刀,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/aa2b827117b944c0be1e9d923a3f4e2c/850.m3u8
+第四集 铁骑锋芒,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b77d67b856b648f4ba2c563cc914822c/850.m3u8
+第五集 神机枪炮,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1fffbd22233448f0a637aaa5d5c1407e/850.m3u8
+第六集 铁戟·钩镶,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/776f42bce5d24afc8bc884fc82297881/850.m3u8
+第七集 槊·明光铠,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/35437e10b098445fb57194a9067a863b/850.m3u8
+第八集 神臂弓·铁浮屠,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/2576dbf6adb24670a5e8fa01e27b7670/850.m3u8
+第九集 打击兵器·冷锻甲,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/493e401d68084b5aa8c3bee76f67a676/850.m3u8
+第十集 狼筅·倭刀,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1ce808c9e54840e598532864a1657b14/850.m3u8
+解放战争启示录,#genre#
+第一集 抉择,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/14a914984a604beda8cd0e6089b6cdd7/1200.m3u8
+第二集 同心,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/deb4e337288c45c4a5fe743c5d21e515/1200.m3u8
+第三集 制胜,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/5a8e078ae3ca4cb9bcf8388f2802a5f5/1200.m3u8
+第四集 血性,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/cfa78824777b46c18b4bd07443946fcd/1200.m3u8
+第五集 民心,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/5891f3f1907c46f48a5497a14cd3d8ab/1200.m3u8
+平津战役 上,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/a8a4e2fb8e1147259a6d0175a222058a/1200.m3u8
+平津战役 下,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/76ff6f9af53b4fc5a6f723288567b0ef/1200.m3u8
+辽沈战役 上,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/21b9735e96dc4c438e9cd24ef74ae2df/1200.m3u8
+辽沈战役 下,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/33bb6f8e5e044ee6a49c9e6e18ebac34/1200.m3u8
+淮海战役 上,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/77143e5d3e30433988c039e6544bd936/1200.m3u8
+淮海战役 中,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/c214869c3f52494c948814d95cda369c/1200.m3u8
+淮海战役 下,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/5abeeabe125043719bec7c77434acc0c/1200.m3u8
+大揭秘,#genre#
+中苏关系解密之 较量,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b34d6e7fdbf64b00bde2df1d4afb1452/850.m3u8
+中苏关系解密之 斯大林的选择,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/e4724f1a7fd94cc7978a50f9430ef6e8/850.m3u8
+中苏关系解密之延安来了美国人,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/42803df3edf74c2097cc8acbeac9d3d7/850.m3u8
+中苏关系解密之 一再错过的会面,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/898b0a9862364106a77bf8398bcba185/850.m3u8
+东方全纪录,#genre#
+希特勒与纳粹德国的将帅们 1,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/fcf1b994fdcc4caa8a82e6f73ba2f38a/850.m3u8
+希特勒与纳粹德国的将帅们 2,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/86ae9a970db34693919ec52b67f8a79c/850.m3u8
+希特勒与纳粹德国的将帅们 3,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/921e69e6c3fc43929cc4c811543c422c/850.m3u8
+希特勒与纳粹德国的将帅们 4,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/6f5f775dbf0e47e98a001a1f1c2880c4/850.m3u8
+中美外交档案解密 冷眼相对,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1f88d4b2a76744c5aac15865dead4f6c/850.m3u8
+中美外交档案解密 投石问路,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/8e037acba27c4d93b563000cc8f2f76b/850.m3u8
+中美外交档案解密 破冰之旅,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1ab4198f49144a6d8b5ab98c26617c05/850.m3u8
+致命武器 B-2隐身轰炸机,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/7938d6d2a6534eb7b8d77e0d5584b1cd/850.m3u8
+致命武器 神风特攻队（上）,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/98d525b5fa91428fab7ed1b77afb111c/850.m3u8
+致命武器 神风特攻队（下）,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a4098fc0f40f485c93126090ba1c19de/850.m3u8
+第一集 乌苏里江上的枪声,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/66a0eff95001402babf08aab2cdb4a04/850.m3u8
+第二集 坦克争夺战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/89fc3a984a7b4e4f95710acb7e34ffc2/850.m3u8
+第三集 坦克谍战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/aacc905f1d50464bb11aa65aaf8d7cfa/850.m3u8
+美苏核威胁-朝鲜战争,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/49e314a6ef5444398ddfb7197382fd70/850.m3u8
+北京纪实-档案,#genre#
+毛泽东4A急电林彪打锦州上,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/03fe7ac45e9449d481759b189bf09ee6/850.m3u8
+毛泽东4A急电林彪打锦州下,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/df837beeebf64fb192cd07b54aa08eb3/850.m3u8
+西柏坡密电 毛泽东巧施空城计退敌十万兵,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/cdc79838c00c48fd8d67b5973b121e80/850.m3u8
+西柏坡密电 粟裕挥师千里围歼黄百韬,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/6d227d243fa44c72b3c02e8efcee2638/1200.m3u8
+罪恶魔女川岛芳子,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/6ace5623c2274abb9b00f201d045061c/1200.m3u8
+东北大帅 张作霖,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/d0fd90c203694bed81d0980737eb668c/1200.m3u8
+民国风云人物 阎锡山,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/ec9d6fe9ded940e6943217a3537c4652/1200.m3u8
+反恐雷霆之2012 俄罗斯莫斯科剧院人质危机一,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/18f9650a11144a25a3a508e805a1252c/850.m3u8
+反恐雷霆之2012 俄罗斯莫斯科剧院人质危机二,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/3703f78f85504c3eaf9f15b8389f290d/850.m3u8
+美军历史上最丢脸的海外军事行动,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f2c0d9e5ae0b427db6321f3330f4ea4e/850.m3u8
+揭秘日本开拓团向东北移民计划,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/587bd3a0545c438d8b443a59a046df83/850.m3u8
+侵华日军的化学武器 抹不去的战争梦魇,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/0c93f5bbb0974cf7bbcd2a95e6f26fee/850.m3u8
+剑桥 谍中谍,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/6af52b3785794194b32a8b0be5d0985d/850.m3u8
+一九五三 美国间谍风云,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/e547f94ad39c45c78973d8f30759f936/850.m3u8
+跨世天劫 洛克比炸机惊魂,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/51fa3e48d4a84a75be9b625a2f3e8665/850.m3u8
+达拉斯的枪声和36种可能,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b0d0be3818b144d69409377cbd2ce986/850.m3u8
+日本关东大地震后的阴谋,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/8dcfe7ae959a4deb9cef3b644cf9894b/850.m3u8
+南海风云之毛泽东运筹帷幄挥师西沙,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/2512cf6050dd4c599935d10882c73ed8/850.m3u8
+苏联解体 八·一九事件内幕 下,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/fbfbb17ade1d456aa7253c027ddfad20/850.m3u8
+新中国反腐第一案始末,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/6b49d5a57633479a99acef1e4af0f07e/850.m3u8
+焦裕禄在兰考的475天,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b0b3b8a20e2d46b79e56d564894500dd/850.m3u8
+做百姓的儿子 焦裕禄,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/e0d78a966bd74537a5c8ca704af4933e/850.m3u8
+我为祖国献石油 “铁人”王进喜,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c2c47c4a40c0488482a485ba6c2e792f/850.m3u8
+一九五八炮击金门,#genre#
+风云突变,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/bdfa8f3f31b049dd83ba973cf44a99a1/1200.m3u8
+调兵遣将,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/54d60cbf1ea340239a0c38aa60c190ca/1200.m3u8
+于无声处,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/8790782149ab485b897e1365ec9a4e9f/1200.m3u8
+台风暴雨,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/7c5eb0093e05435bb9f55f5a1153edd0/1200.m3u8
+捍卫领海,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/5a93c255b8794342b5bc61ad0c63e00e/1200.m3u8
+封锁金门,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/ea527deec8cc4f5da7078615dad53368/1200.m3u8
+蓝天防线,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/2a3d793cf07a42eaa9ce87ae4fd96a16/1200.m3u8
+攻心为上,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/4e9c617ec9a24f818681ad5ea0a0059b/1200.m3u8
+英雄民兵,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/d3ec74e7539a4a04818ba076f579acf3/1200.m3u8
+炮声犹在,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/b64b212a6594488d98328442a04beb1d/1200.m3u8
+世界各国特种部队大揭秘,#genre#
+法国海外军团-死亡军团,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/11c9a92ef5224a40a33376f92240f698/850.m3u8
+绿色贝雷帽,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9d9b278e5b29468cad21e6fcc52d10d8/850.m3u8
+海军海豹部队,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/683007d643074343ab1243e3c77ef4c6/850.m3u8
+皇家海军陆战队,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/d1282da523534cc38a1a32c45fc3c5e1/850.m3u8
+廓尔喀兵,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/091208bad8894ffc83170ec302bc02d5/850.m3u8
+英国秘密特种部队,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/666d9962523448549b8a232bbdbaea0e/850.m3u8
+英国空军特种部队,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/7bd1723cb125477cb9d6193305aca4d4/850.m3u8
+南非特种部队,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/583af9a937c64190aef3dd619bd8f6c0/850.m3u8
+美国特种部队,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1498c4a6f84245e18dd8aba47cc013f9/850.m3u8
+前苏联特种部队,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/deef70564da048b2b048639b70557786/850.m3u8
+特战奇兵,#genre#
+象牙海岸行动,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/174b1a401ebb445bbe7967b010ed8d31/850.m3u8
+神行飞燕,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/24a2f78edf424b38b866649451ce011d/850.m3u8
+折戟大漠,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/3d8fad147d6649a994cfbfcc8955df06/850.m3u8
+黑鹰坠落,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/bcb8858891ce4282a01ddb4e33a0c907/850.m3u8
+电闪乌干达,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/716c6c3923e64a508b4fbeea04a95735/850.m3u8
+绝地救魔,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/524faf186b7244968c9066355af654ff/850.m3u8
+夜袭马岛,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/fbbda3f733124aaba8b8c7bd66bffb66/850.m3u8
+艰难一日,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/6528e3c2b22c4093a10490b149c038e6/850.m3u8
+飞夺密支那,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/581c545e9a144ac38984719cdc6e9021/850.m3u8
+奇袭武陵桥,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/83fe900a9b644aef87f2c01896465b58/850.m3u8
+毛泽东的科学预见,#genre#
+第一集 独立寒秋,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/02523b57701545ac9f61e8196ea4e62c/850.m3u8
+第二集 打破宿命,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/e36655d3f7eb4ca190e185b18ce80a89/850.m3u8
+第三集 中国必胜,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/de8aa79428494229932fbc0e12f9a5dc/850.m3u8
+第四集 洞悉万里,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ee3da48df64147a5a3ba877c84101d00/850.m3u8
+第五集 神机妙算,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/bf63e7c676e448a5977395cca5ea251a/850.m3u8
+第六集 扬眉拔剑,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/df3c59e5b2ff46f1b32a62aa76a474c7/850.m3u8
+第七集 一个中国,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/6603c066f006462f8f1ab6130e2223cd/850.m3u8
+第八集 破冰之旅,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c64092dae5434f469d6e2923625f7f1f/850.m3u8
+走近毛泽东 上,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a6814e59f74b44cf837fb1b2f2e04ad3/850.m3u8
+走近毛泽东 下,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/d6604f4f829a4ebb804e27a029c75fc8/850.m3u8
+毛主席用兵真如神,#genre#
+第一集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/73aa303f5b1f460e941c459b647fc027/850.m3u8
+第二集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/e51b359738bb492c7dbb5692dd59713d/850.m3u8
+第三集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f8d2dba40a3c4ea37610ef8bd8e79ad7/850.m3u8
+第四集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/d846063c2db9475c9280a783c35df564/850.m3u8
+第五集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/109ceb90bb2a4e72ba297480621be23a/850.m3u8
+第六集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/8c6bda58edc84957ad9b10901b5d6286/850.m3u8
+第七集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c92aadf8fd8046ccb8a700a40afbe25e/850.m3u8
+第八集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ea620a38bab8480551220a8ce8ad9763/850.m3u8
+第九集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/73d31cdb97794e9cd3e99596d90594be/850.m3u8
+第十集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/375147b712f644eed4098d8b8a20575c/850.m3u8
+第十一集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a0324263a84f40897cf03684c739ced7/850.m3u8
+第十二集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/99221465d6f44090f2aeefb0670b1677/850.m3u8
+第十三集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f1ed6f3b831f45a8df0ceaaf6739669a/850.m3u8
+第十四集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/dab6a8d1ded6413308c1f79702c14aeb/850.m3u8
+第十五集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/d6c63d9702ed4c6c43e6b0aaa323a597/850.m3u8
+第十六集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/565db25c8b814d89f72298866c7c8019/850.m3u8
+第十七集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/af670bf7e3e9436022caaebd77133aa5/850.m3u8
+第十八集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b7dc44e8c536479c6c406dafd6c5818e/850.m3u8
+时代,#genre#
+习仲勋 第一集 烽火陕甘,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/34539ad762ae464bb59a0e208041c9c4/850.m3u8
+习仲勋 第二集 纵横西北,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/8138d71042954fc7960e088c5379fd3d/850.m3u8
+习仲勋 第三集 国事春秋,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ff8f6f820d4f482880707825fa5e7039/850.m3u8
+习仲勋 第四集 主政南粤,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/25b36ec54a474c10932b39583505c098/850.m3u8
+习仲勋 第五集 勤政岁月,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f04511cd8d1945c6be409b3cc39e843b/850.m3u8
+习仲勋 第六集 海纳百川,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a5e22570f4a742e8b2c1876f4ecd4cb1/850.m3u8
+人文历史,#genre#
+伟大的抗美援朝 第一集 抉择,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/b7c050d48aff40de9521b7b07fc347f2/1200.m3u8
+伟大的抗美援朝 第二集 较量,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/9b6e84b6fdff4fddba66e269cf15aafc/1200.m3u8
+伟大的抗美援朝 第三集 英雄,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/b3e2e57114d041538a78d7e88d8c2da2/1200.m3u8
+伟大的抗美援朝 第四集 后盾,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/e3df181e328e47feab29126cb0d5717d/1200.m3u8
+伟大的抗美援朝 第五集 和平,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/a1cb37f6524d414c878697ed6bcad714/1200.m3u8
+中苏外交档案解密,#genre#
+第一集 斯大林的选择 上,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b200fa845ae64ed39a5424421f1204b2/850.m3u8
+第二集 斯大林的选择 下,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/64fc3d20b79c42888996bca736d1fefb/850.m3u8
+第三集 交锋莫斯科 上,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1769902929f54e5798b0235a92bb7b26/850.m3u8
+第四集 交锋莫斯科 下,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/69a26c0f20d5454294d2bc8d940b53b9/850.m3u8
+第五集 歃血为盟 上,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/54063a9dacc54ae19d738b3e028cb323/850.m3u8
+第六集 歃血为盟 下,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/4b1fdbd7dc1240179aacc6fad2405f98/850.m3u8
+第七集 亲密同志 上,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9f2bc8614375442497cb51bc7c2f3550/850.m3u8
+第八集 亲密同志 下,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/2cf6a362ae1348559f90135b7e11ffbc/850.m3u8
+第九集 独领风骚,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/142949054485452aa96e08a6645be040/850.m3u8
+第十集 山雨欲来 上,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/6938e34fdf9d434b81c8e49fc38821ac/850.m3u8
+第十一集 山雨欲来 下,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/cb61d6a9c2ce4168ae1459bb966714ca/850.m3u8
+第十二集 分庭抗礼,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/eb82ebf72c584f56839dcc306f08b3df/850.m3u8
+第十三集 蘑菇云下,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c7c3a2cf735941d0a76fe6dc28c7177d/850.m3u8
+第十四集 兵戎相见,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/82ed6b891ffe498ab9e23ed87b3496a4/850.m3u8
+特别呈现,#genre# 
+铁在烧 第一集 风起铁原,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/843660964e594db1bebe9b2231b1d3b3/850.m3u8
+铁在烧 第二集 临危受命,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ba59c4b1c7c449319f1f1d55634ffd4d/850.m3u8
+铁在烧 第三集 生死抉择,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/504a57cf7e1f4e56aad6ad1abcca43fb/850.m3u8
+铁在烧 第四集 最后防线,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ef2a0e22ffc248f48ba7e1082c116d27/850.m3u8
+铁在烧 第五集 东方精神,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/fb2557e5770b4b98b92da7421f81c9e6/850.m3u8
+最长的43天 第一集 摊牌三八线,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/0cdbfabd0c9145d8b4500d5dedeb65ec/850.m3u8
+最长的43天 第二集 高地集结令,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f4529f2195a9436bba17f778f6074977/850.m3u8
+最长的43天 第三集 火线危机战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/4b8fd37efc7a423ebbae7049a8695b93/850.m3u8
+最长的43天 第四集 战地土行孙,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9ad306614e6f4f57b07a8040db7eb728/850.m3u8
+最长的43天 第五集 你好喀秋莎,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1d59983275ae45ddbac3961b776709bc/850.m3u8
+最长的43天 第六集 突破封锁线,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/74f1ed1815b14653838fa2e5e2d01932/850.m3u8
+最长的43天 第七集 异国英雄塚,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/e40fe28729284aa18ac2da1a547dfe9f/850.m3u8
+最长的43天 第八集 最美战地花,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/4332121bc3b74711b1303fa9520eaf88/850.m3u8
+最长的43天 第九集 摧毁心理战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/4e41ddd15f3c4eff96ad556354294055/850.m3u8
+最长的43天 第十集 凝固三八线,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/225c8e34c43749ffa1aeaa8336ed921b/850.m3u8
+红色特工秘档,#genre#
+熊向晖,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ad22e74265034f889c8d1cc70a11c20e/850.m3u8
+关露,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/7bbe63081d634508a22439b270a2c9be/850.m3u8
+李茂堂,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a26f60e078594923a2a76a211d750a72/850.m3u8
+阎宝航,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f39f4713e1ed41579b178a0ab0a4ec4d/850.m3u8
+郭汝瑰,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ddeba17ff049469ab9709ced009d92c1/850.m3u8
+大棋局,#genre#
+第一集 入局,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/e7eaabf8032e47a796dfbd4ab6f4997d/850.m3u8
+第二集 落子,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/da935583389143deae6fa350ffc4621d/850.m3u8
+第三集 争劫,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b7b67fddeadf45feaa20084b1bf3ced3/850.m3u8
+第四集 气合,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/23ea1fa37dab41bab74e2b95ef610171/850.m3u8
+第五集 收官,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ac0aecedf6a544848452fa62a91fa5bf/850.m3u8
+隐蔽战线,#genre#
+第一季第一集 龙潭三杰 上,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/359b2ac12acc438985636e8788c32a1d/1200.m3u8
+第一季第二集 龙潭三杰 下,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/db36b52cac6d416d9bfee0aeb4efbbc5/1200.m3u8
+第一季第三集 消失在1945 上,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/2ec45400d0de48bf8bd53738cc89086b/1200.m3u8
+第一季第四集 消失在1945 下,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/0e698dfa39814fcf8e5058df96697842/1200.m3u8
+第一季第五集 马背谍影 一,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/b83f4d51cd144bf6a2fc368ea266b4e7/1200.m3u8
+第一季第六集 马背谍影 二,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/032a2703f9214526b0ef079c0620fefd/1200.m3u8
+第一季第七集 马背谍影 三,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/5e54890dd35f4d5ea07ab5251d117bea/1200.m3u8
+第二季第一集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/d0a4a3cf4ba64c2e9edc1f4047f6af74/850.m3u8
+第二季第二集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/d6c585749ec94d63abacbeec9118dcfb/850.m3u8
+第二季第三集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9587f51675734f0fb7652612f2a0d22e/850.m3u8
+第二季第四集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/d235cfe3a5f941d28ebf1c410c69cfcb/850.m3u8
+第二季第五集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/cc0ec39a906f4548b37783a00d9867f3/850.m3u8
+第三季第一集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f6a71f04a117427db18de4b428f009fb/850.m3u8
+第三季第二集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/09d418d7eab14cea31d86aa234760d04/850.m3u8
+第三季第三集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/d5aa5c8f3ba44dd281ea059e40f52819/850.m3u8
+第三季第四集 张露萍上,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b8786fefaaba483a1bbbf2a08df2f948/850.m3u8
+第三季第五集 张露萍下,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/3855fa7a71194d0c18bcb8a655493c53/850.m3u8
+发现之路,#genre#
+恶之花 第一集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/95c96815d43b4a2f82e840e28d27e13b/850.m3u8
+恶之花 第二集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/cb9d49218f5f498da262e9253088b505/850.m3u8
+恶之花 第三集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a0e7ad509cd24e43b379947ff234df04/850.m3u8
+恶之花 第四集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/3f2d543bd39241b4b4ce15d062e2d0eb/850.m3u8
+戴笠之死 上,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/a8c0967c2bcb413b8115ffcca5663c31/1200.m3u8
+戴笠之死 下,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/57962bea24364c1b9437f6f532ce0ce4/1200.m3u8
+二战前夜 上,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/1fe46295bbbc4220854516b17a824d6c/1200.m3u8
+二战前夜 下,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/9ec00d3d41af4e74867e0de1e4be459c/1200.m3u8
+铁血二战·战争降临一,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/1c265db31cca4070a63179618c155e84/1200.m3u8
+铁血二战·战争降临二,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/6d89649038bd4822a7fa8effe1a474dc/1200.m3u8
+铁血二战·战争降临三,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/599e435ecd594d50956fe26176efc297/1200.m3u8
+库尔斯克会战 南线上,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/26921bf0a90d401e97b83af9f224da22/1200.m3u8
+库尔斯克会战 南线下,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/0588bdebe8364b87902c999b3fae0278/1200.m3u8
+诺曼底登陆战役上,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/cac15144fce6463698f250012f2de5a0/1200.m3u8
+诺曼底登陆战役下,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/f5053bd1eaaf458baf94377e43a0ce1a/1200.m3u8
+冷战 铁幕 上,http://hls.cntv.myalicdn.com/asp/hls/450/0303000a/3/default/ad57f4e3d59f4d4f8add139600be1b16/450.m3u8
+冷战 铁幕 下,http://hls.cntv.myalicdn.com/asp/hls/450/0303000a/3/default/86b6af2f612944063e6252b12d56b5ba/450.m3u8
+库尔斯克：钢铁大绞杀,http://hls.cntv.myalicdn.com/asp/hls/450/0303000a/3/default/cd81b9401b8b45268d3ec4b077357942/450.m3u8
+斯大林格勒·兵临城下,http://hls.cntv.myalicdn.com/asp/hls/450/0303000a/3/default/75d12a3bcb534bd8a1f875930fdea583/450.m3u8
+莫斯科·十万火急,http://hls.cntv.myalicdn.com/asp/hls/450/0303000a/3/default/ef1d69f0d655434fd2cdbc9095f1e455/450.m3u8
+真实纪录,#genre#
+中法建交秘闻1,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/3b1e2dea915d4541b10bed17fd52bf39/850.m3u8
+中法建交秘闻2,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/24915fd7e201483faa0b27f7dcc6c9ca/850.m3u8
+太空-美苏争霸 Ⅰ,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ea3c2f0df7f64974a352ea6e5e782872/850.m3u8
+太空-美苏争霸 Ⅱ,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9419e55ca05046f9af64db742329c644/850.m3u8
+太空-美苏争霸 Ⅲ,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9b8095e5b9d741b4bfe23e5abdfffbb6/850.m3u8
+太空-美苏争霸 Ⅳ,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1d99b48c823342a0ab9669dc26316a6d/850.m3u8 
+太空-美苏争霸 Ⅴ,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/27f7aba52e5e4d0d85e3d01bfbf7b4aa/850.m3u8 
+苦难辉煌,#genre#
+第一集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/0fd2c9672b944299b7db36a4e1d0afef/850.m3u8
+第二集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f9125d43219d439cbae272b4d6c732ce/850.m3u8
+第三集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/993bc2f16c574e92a832c52bd6a895de/850.m3u8
+第四集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/00c911a5ae454858a7d8cb18882a7ebd/850.m3u8
+第五集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/879f79dc341143daa82a479c996887e0/850.m3u8
+第六集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/bc3c8e453b714d3e8134f3331f273dac/850.m3u8
+第七集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b307ef322491425caabecbb2f7cd9c38/850.m3u8
+第八集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/2e557a724c134a4487eaa0027cd497d7/850.m3u8
+第九集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/fc95611b11ba4feda5dbdc9014e4a595/850.m3u8
+第十集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9a2b789ddda44b11863d46b9ff0d5827/850.m3u8
+第十一集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1e5c2959911446ccb9b4e0bcf591c0a6/850.m3u8
+第十二集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/0507c4f4828f412085fd653f61d0c8de/850.m3u
+雪域军魂,#genre#
+第1集 奉命进藏,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/fb07e5a28474452490eeb1e6962f03fc/850.m3u8
+第2集 向心进军,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/2b75087fd864482bb475451ee34640d6/850.m3u8
+第3集 和平解放,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/653f94d5937c416c94840efe99c95046/850.m3u8
+第4集 平息叛乱,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a379c01d7cb54a6b9efb969f0953d3eb/850.m3u8
+第4集 平息叛乱,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a379c01d7cb54a6b9efb969f0953d3eb/850.m3u8
+第5集 站稳脚跟,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/8295995ff488468d8dd337ed70ac9093/850.m3u8
+第6集 文明之师,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/20de4e365148489b8e5446a770470a27/850.m3u8
+第7集 戍边卫国,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/0e714c84ceb849cdbc0eb057ada21803/850.m3u8
+第8集 铁骨柔情,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9ddae10a95044b12a660576353e6fd11/850.m3u8
+第9集 不辱使命,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/088a1e3a2ec0437488d7643ad5f3aef4/850.m3u8
+大国崛起,#genre#
+第一集 海洋时代,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c8e8d3b78be244b3ac8c4e229202fe63/850.m3u8
+第二集 小国大业,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/d92d1f3548ad49fd81fff84664d38095/850.m3u8
+第三集 走向现代,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/5485cdb2f2264adf8d48556f9828ccab/850.m3u8
+第四集 工业先声,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c33575be20ba4f15aba8392d95834a50/850.m3u8
+第五集 激情岁月,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/8a27859be4c7465b9dddb657f5627d10/850.m3u8
+第六集 帝国春秋,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/e5406e5ad6fe44558e10d70cb16f776a/850.m3u8
+第七集 百年维新,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a79104bb907f47f4b95226912777bc97/850.m3u8
+第八集 寻道图强,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9ca1b213ac6f4d0a806c518c43632d49/850.m3u8
+第九集 风云新途,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f885747e1cea43eab71b842dcaa0a887/850.m3u8
+第十集 新国新梦,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ddfaf17e9fee45c3b37d3821065ae2b4/850.m3u8
+第十一集 危局新政,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/6fa4049b916844f8bbf13fc43b9fb915/850.m3u8
+第十二集 大道行思,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/50ef1c18386f49668d6087a8e8fa4d92/850.m3u8
+贸易战争,#genre#
+从重商主义到自由贸易,http://hls.cntv.myalicdn.com/asp/hls/450/0303000a/3/default/794cf6b209244010e3237d88e2a6e567/450.m3u8
+自由贸易 大旗易主,http://hls.cntv.myalicdn.com/asp/hls/450/0303000a/3/default/3c65c6ddd77540f1bf67f1acdb10512f/450.m3u8
+自由贸易 谁主沉浮,http://hls.cntv.myalicdn.com/asp/hls/450/0303000a/3/default/bd898a335bd046dbe821f7a995c6cd3f/450.m3u8
+全球化的阴谋与爱情,http://hls.cntv.myalicdn.com/asp/hls/450/0303000a/3/default/6c5e8165c39e4f0f0e95ce80f7d922b5/450.m3u8
+多级化的时代变局,http://hls.cntv.myalicdn.com/asp/hls/450/0303000a/3/default/555310f0e85c4d66dfa8af8fd58042db/450.m3u8
+货币,#genre#
+第一集 有价星球,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/295d660dc3044ce1a099d997d1035bff/850.m3u8
+第二集 从哪里来,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f74b131001e44275ba5395d1e748cce5/850.m3u8
+第三集 黄金命运,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/cb3e54e9283841c7aaacaf09f896809b/850.m3u8
+第四集 银行历程,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/324b8f6194df4b45a47fb73baa930378/850.m3u8
+第五集 权力之争,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/5c7db4e6fbf84a1481cc4fec033832fe/850.m3u8
+第六集 通胀之殇,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b3c74b4d0d4a4864b7b382fe99cb4ab1/850.m3u8
+第七集 三条红线,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/e3cc2092395d42bd8431b90b2e222037/850.m3u8
+第八集 汇率之路,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/992ba349924941d2b533b05ea0210111/850.m3u8
+第九集 超越国界,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/060425f6891f49fcbd2e6d6ec0d70fd5/850.m3u8
+第十集 未来多远,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/5e23ebcc83b04975ab11e49628dbe279/850.m3u8
+见证 交锋,#genre#
+第一集 危机时刻,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/91b6a6e6c58943b39b46e14bc7f414d7/850.m3u8
+第二集 开放之门,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b3ac8c9564424ee89843a33b188dfe0d/850.m3u8
+第三集 创新之路,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/114e0c0428be41aaa3cb9a24d74261a2/850.m3u8
+大视野 蓝衣社,#genre# 
+第一集 两统之争,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/3d9a67cc105d4979a886caf47247eb1c/850.m3u8
+第二集 始作俑者,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/127d5e35b71840fb871e7366b556cff6/850.m3u8
+第三集 四大金刚,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/39aabf9de57d4669adce9b7699e97977/850.m3u8
+第四集 刺客时代,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ddff8dc094ac4e93b7471353ca35160f/850.m3u8
+第五集 走向堕落,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/af8245a2e82a41f989c12d3379aafae6/850.m3u8
+军工记忆,#genre#
+第一季东方红一号 人造卫星,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/2dc19540fbab41e981da7f2c566eeeed/850.m3u8
+第一季巨浪一号 潜地导弹,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/5c4437269e3449aa91bb8ed981b2a649/850.m3u8
+第一季红箭-8 反坦克导弹,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/440a4dea89fc4dada05cb26fc9a7144d/850.m3u8
+第一季052型 导弹驱逐舰,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f09141afcf2f494688c250dc6b0b1417/850.m3u8
+第一季歼-10 战斗机,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/380296dbaa4b4fea8ed158e1f3df84e4/850.m3u8
+第一季空警2000 预警机,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a8e0d8efead04a6c823d30118dee7c66/850.m3u8
+第二季第一集 第一颗氢弹,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/0f24172c1add47d8aed1082329af922e/1200.m3u8
+第二季 第二集 直10武装直升机,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/52bf6914b52446b49c90152421128091/1200.m3u8
+第二季 第三集 05式两栖装甲车族,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/ae57b6fa374f4cbc8ff549ed06ac128c/1200.m3u8
+第二季 第四集 054导弹护卫舰,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/63a7f2e64d3745758f69c43d20cc3aa6/1200.m3u8
+第二季 第五集 歼11系列飞机,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/da91dad4d5404ea6ace1f53ff553abdf/1200.m3u8
+第二季 第六集 95式枪族,https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/21b8a6495766475d8276435a50a44195/1200.m3u8
+军工记忆·三线风云,#genre#
+军工记忆·三线风云一,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/73d4f300a36345c98752f8844d3e4a5c/1200.m3u8
+军工记忆·三线风云二,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/6a061da90f70486a9e8582045365bb94/1200.m3u8
+军工记忆·三线风云三,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/a9e349e600ed40cbb1ffea1bb8edfc37/1200.m3u8
+军工记忆·三线风云四,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/d18ad06e307849c09c8141b4c82c0322/1200.m3u8
+三线风云 第二集 筚路蓝缕,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/7a2fcef7ac1442aba81c94050e8d245c/1200.m3u8
+三线风云 第三集 千里跋涉,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/63c565bddf0f4850aa77dc50086cb26a/1200.m3u8
+三线风云 第四集 风起潮涌,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/11f309ea34384815860c9e4b0c7a6a5b/1200.m3u8
+三线风云 第五集 逆境转型,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/86454fa99eb94a3683de2ecce6a00e4b/1200.m3u8
+三线风云 第六集 弯道超车,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/7d25eae22d09441e9552839736f1dfb1/1200.m3u8
+三线风云 第七集 上下求索,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/51e2a298a67b47d3b50b9d6c8827e674/1200.m3u8
+三线风云 第八集 岁月无声,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/4e0ef3892f4b4613b3f97e649ac64b55/1200.m3u8
+大国重器,#genre# 
+第一季第一集 国家博弈,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/26b9d729f6f6487792fc59f30eb16f40/850.m3u8
+第一季第二集 国之砝码,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/47ba7839a6d94f16828b0f4166e77eb2/850.m3u8
+第一季第三集 赶超之路,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f889e735bb3b405598afcde5ca90b2e1/850.m3u8
+第一季第四集 智慧转型,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/4f7bfdf62f6e45c8ba919090e6cb403a/850.m3u8
+第一季第五集 创新驱动,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/0190005a42524fd087ae875297c0769c/850.m3u8
+第一季第六集 制造强国,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/713caf1e24de4aec89bd5c07806f70eb/850.m3u8
+第二季第一集 构筑基石,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/16771bf2daeb4ac5a91e4dba6b037335/1200.m3u8
+第二季第二集 发动中国,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/a164632ff77a410da49008827d9ccc4d/1200.m3u8
+第二季第三集 通达天下,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/a410c66a0809437c916b026a8ba447c4/1200.m3u8
+第二季第四集 造血通脉,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/a55e7c5dbcd544dabc2b7fd025a256a3/1200.m3u8
+第二季第五集 布局海洋,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/0a13a6bad6e3406c9b8f7d327d9793f3/1200.m3u8
+第二季第六集 赢在互联,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/3ce6cd705fd84ad398916b6a75b0c050/1200.m3u8
+第二季第七集 智造先锋,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/bf15587440b54c02957890972fc7b2c2/1200.m3u8
+第二季第八集 创新体系,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/bd605053f799423db27c634e7651ecdd/1200.m3u8
+辉煌中国,#genre#
+第一集 圆梦工程,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/a655bc32eb3f4e61a2518a943c2b43df/1200.m3u8
+第二集 创新活力,https://video.suyunbo.tv/20171003/Oc3OeZW8/1500kb/hls/index.m3u8
+第三集 协调发展,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/01439df58207407795ce1d8370167446/1200.m3u8
+第四集 绿色家园,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/5e45c5bc688b4180a1466791f8860a9a/1200.m3u8
+第五集 共享小康,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/8997f1423cf3452789e8b38841771002/1200.m3u8
+第六集 开放中国,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/62e1ae3c52114b2599bd34325b51af11/1200.m3u8
+智慧中国,#genre# 
+第一集 智慧前行,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/9bb5f3e507db44ceb1ba612c3aae4068/1200.m3u8
+第二集 智慧生活,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/2d03e82b30ba4835991dae7680c90a69/1200.m3u8
+第三集 智慧星球,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/85bb407f22da458bb957ed35bc20b2d2/1200.m3u8
+《美丽中国》,#genre# 
+第一集 清水绿岸,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/8e22daf3bf9e4684bb05ddb48fa75ef3/1200.m3u8
+第二集 蓝天白云,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/f928f590b2a5477db489d7dac5300d72/1200.m3u8
+第三集 沃土如金,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/3dc3226b24044af29417734d9b1d1791/1200.m3u8
+第四集 生态文明之路,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/ba24489979954dc3bebde0e894b5077d/1200.m3u8
+中国建设者,#genre#
+中国建设者 深坑酒店,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/eaf3a94dd5cd4797b0d0708ec77dd62f/1200.m3u8
+中国建设者 极限运输,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e582b640351e4ca8a7a989621ca8b1a2/1200.m3u8
+中国建设者 海上巨无霸,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0fb5c8fbac5f4736b0f04f82960dee2a/1200.m3u8
+中国建设者 巨龙在野,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9ace9eea691b4345b3349af04b25f8dc/1200.m3u8
+中国建设者 穿越海峡,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ead757cc930d4b5eace64d3ad61d9c8a/1200.m3u8
+中国建设者 天堑变通途,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c0ff89bda0a54be48768ed45f88c211f/1200.m3u8
+中国建设着 未来之城,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/25e8bc27221a4c209ce5c7acdb0caf64/1200.m3u8
+中国建设者“死亡之海”里的奇迹,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d78d404ce2c448f08ca0a8ef0532e7f3/1200.m3u8
+中国建设者 极限钻井,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/324b03f8fcec4ee7a88971eb7a938013/1200.m3u8
+中国建设者 灭火导弹,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/be4150789ca740f9a2f886b673e27965/1200.m3u8
+中国建设者 北京新机场,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e01be9c9288d45b785b9d19126f95e95/1200.m3u8
+中国建设者 超级电车,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/faa0d64ed3c745f6b643223252ecc931/1200.m3u8
+中国建设者 超级电车,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b26d939c2b17481999bb024529fe0c09/1200.m3u8
+中国建设者 北京新机场,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2086bf7195c54bfd9530f9e2fa6e83ed/1200.m3u8
+中国建设者 京张高铁,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/44cf7badb2d74d308ebb7aed34effde4/1200.m3u8
+中国建设者 造岛神器,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d6deb52e2ace4124904308359b1a8b2c/1200.m3u8
+中国建设者 鲲鹏展翅,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/52f8faedd9074fba8f5c14b35466bc5b/1200.m3u8
+中国建设者 大洋深处的挑战,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ce518a8aa59e4874a9045386ba6fd829/1200.m3u8
+中国建设者 巨龙在野,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6f56a7ceee00420cb2eddd9f6b9bd9d0/1200.m3u8
+中国建设者 极限运输,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/45dd50c7a4344c0190fce5185340176a/1200.m3u8
+中国建设者 造岛神器,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/76f2b505671c43d28c09f0da2a1fa381/1200.m3u8
+中国建设者 鲲鹏展翅,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/54edc3c4d7d04aff8381f59b8ead965c/1200.m3u8
+中国建设者 灭火 导弹,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9857bcfb4ae34dcf877ba25d8b61bb31/1200.m3u8
+中国建设者 长江大保护,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/be1b0ca2dd0a4d8a95214afb9870e73b/1200.m3u8
+中国建设者 我在莫斯科修地铁,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0b6bc1ba2dd94b438deb74f8c0d5d94c/1200.m3u8
+中国建设者 穿越伶仃洋,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6420b93ae06d4929bd1b66cb8dd2ba97/1200.m3u8
+中国建设者 云巅上的奇迹,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8f1db4b048184c5d8e013d230a7c3bb1/1200.m3u8
+中国建设者 太空快递,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9d8280da50d04b0e8f9c7eb3716404b7/1200.m3u8
+中国建设者 助力冬奥,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/eaa21a36e16349d9b11c953acba03075/1200.m3u8
+中国建设者 编织绿色电网,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a5efea0cb7cd47ad8dbdd350a1ba55cb/1200.m3u8
+中国建设者 成昆传奇,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ef4b0747167c4c349b607df24bb333b5/1200.m3u8
+走遍中国一,#genre#
+打破垄断,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c51962e9f2884f5cafd42c4e87cea7ef/1200.m3u8
+5 G来临,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9ff70eb26cc3457b96eed53baa284f31/1200.m3u8
+无处不在,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/68c058853a814190bd228339c972498e/1200.m3u8
+畅行海上,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/de47c5a63024494aaef9c48d31e233d8/1200.m3u8
+万物互联,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/876c5e9b06ed482984c653182e41e27d/1200.m3u8
+精密耕耘,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6c4843e6423041b18895de739d2dd59d/1200.m3u8
+绿色守卫,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2c2d8186660b4734b071220ff3a7fa85/1200.m3u8
+灾情哨兵,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f98fa9798ff54daabac5da11a22cf1c6/1200.m3u8
+北斗护航,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4a44f887ef2c4d6c8653d46d46286573/1200.m3u8
+择海重生,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/637e9063cccb43338569b1faf6d34bdf/1200.m3u8
+大器铸成,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/693d7dae7ae74deea4c7e165e9acf83b/1200.m3u8
+精钢涅槃,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0a681947a48b48208e382fe2405ca5db/1200.m3u8
+水火共荣,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c617d9c291274b31845e443c6d7cebea/1200.m3u8
+冰雪邀约,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/63093990156b4ca1b5a930f60fc0a243/1200.m3u8
+会思考的机器,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/713f91703a324d3e91c02e275d0efbae/1200.m3u8
+智能支付,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/08ce00c924ff41659362f7fb0f736eb4/1200.m3u8
+城市大脑,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5a1658da79ba42d6b43fbfa2f451ef13/1200.m3u8
+人脸追踪,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2e79a7885a8d4c62a8765bbc34226405/1200.m3u8
+无人驾驶,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c6451522b9254c29bebc2cd7d6ce87ca/1200.m3u8
+借梯登楼,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/170c7e76ab9845e98a0ff63f27adf5cb/1200.m3u8
+抢滩登陆,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/74001a154ceb48d699c6fd769fadca64/1200.m3u8
+驾船出海,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a07646803bb947e9a16e1d5025f94bb7/1200.m3u8
+撞出安全上,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/98a7590199a74ebabeea519762cdb06d/1200.m3u8
+撞出安全下,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1ac4a9f90c71400088370ceb74f4ef47/1200.m3u8 
+突出重围,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/057289c653c046c49562afe090ba869b/1200.m3u8
+智能小管家,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e70dabbfa1c54f4fa3bfb583f5cb6961/1200.m3u8
+逐梦太空,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9ba83d934e4847d58f4b074472f8e694/1200.m3u8
+争就争第一,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/329d4e0e1d66458bbd88643a4de2cd97/1200.m3u8
+智创新材,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/004a580955a746ef9cf4534350a50d53/1200.m3u8
+废塑料变形记,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f115123ff0ec4aa89f799a2d4501c0ae/1200.m3u8
+废电池再生路,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ac55596ee00a433fa2895fd416d7af29/1200.m3u8
+矿渣里的惊喜,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/57a498db5eb04f1cbb99007f6b20ce78/1200.m3u8
+小甘蔗大变身,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f9d9467254b94fadabad071ff2e01a2d/1200.m3u8
+绿了沙漠,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/db610458a58b4cb7a397c539e98a3c3c/1200.m3u8
+中国之翼 启航,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a7dcb9d9d638418d9fe0ec0e8e03a5e0/1200.m3u8
+中国之翼 守护,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/667f82d71fa94e2ca220a256b9e16c57/1200.m3u8
+中国之翼 飞越,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/37c1354991934807b1367b8a1ae50b1d/1200.m3u8
+中国之翼 使命,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/43f4af7b6db44719affe24baabe8f264/1200.m3u8
+中国之翼 远航,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/31de50d94e534790bb86e67f81efde6f/1200.m3u8
+梦起航天,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/af5adedd3c974db38bdf9187dd860783/1200.m3u8
+通信基石,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/58004fb988f844e38824931a5964706f/1200.m3u8
+隐形战力,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d6a6e13b2de6460dac5a85eb7afb1685/1200.m3u8
+安全卫士,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f2ba2b6ccec94b5abb0017be8f90cbff/1200.m3u8
+探测未来,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c60dd6d8456f4b19a9904184cbd8507b/1200.m3u8
+走出困境,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c5a84a5d34324929be0b6d1b86a15b30/1200.m3u8
+绝技传承,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9e7759cf46d8457591dbe795dad9e976/1200.m3u8
+有测风云,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/dffe2165205745c4b6d8e001eacc6b67/1200.m3u8
+生命天书,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c3dd489748804fc5aca1d9edf1b0d984/1200.m3u8
+智享生活,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/21ee1d585bea4ecfaae6404eac1822a2/1200.m3u8
+煤海蛟龙,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/16b366df07a94b89af985c44e2f3ce6c/1200.m3u8
+非凡挑战,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8411b749e5f4cc18b457f846a7b21b9/1200.m3u8
+井下生命线,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/dd29734a51684d93b9f15f8db0c6b4d6/1200.m3u8
+矿区驯“虎”记,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d4f404f866344026880b0d4ebcb6a705/1200.m3u8
+面朝大海,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3c801e83f9644c4da34e5bbff8bd4eba/1200.m3u8
+海上利器,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c6a96fee64d94f1892054770ebee7370/1200.m3u8
+追风逐浪,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/fb6df49485244fd58758decb4cce672d/1200.m3u8
+风电奇兵,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6b65d4c925304423a28730ecc77457fc/1200.m3u8
+风生水起,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4d98c88682d3483f9bf9c3ec08027600/1200.m3u8
+动物疫苗大王,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f795d5bd0a63454895fdcc4e6be2818c/1200.m3u8
+千里跃进,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/36f3dcf10f20495a9469869d471d620e/1200.m3u8
+碧水千里,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4f6e037426ce4c5dbb147dea51eb128a/1200.m3u8
+清水有源,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a4b94a195539421096f96e42807115ea/1200.m3u8
+移民新生,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1ac8ef236a8b4478a2250c00d39f2645/1200.m3u8
+饮水思源,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/637cc0e939724fb3a766b2d5a8b3ba04/1200.m3u8
+巨轮出世,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bfb6425a8a82402198264b566b9435c1/1200.m3u8
+雄心瀚海,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/57f852654bd343d0b3bb94d0a308e509/1200.m3u8
+登极探底,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/db7004ed328848a5ba2699a26f2834ca/1200.m3u8
+开海先锋,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9c0ee40e6a894a8cb2be2ed424df3bd7/1200.m3u8
+花样田园,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7020f67f114c40b7a661a5045b530428/1200.m3u8
+黑土地循环曲,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6449a2bb80b5483b918dcf92c956d491/1200.m3u8
+走遍中国二,#genre#
+筑梦宜居,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/563b2cd7b45549539edb96c3b6026a81/1200.m3u8
+双奥助城,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/fe90fc5d769348f2bc27f8118728f0b3/1200.m3u8
+一都一城,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5ca67d07e7e549998a8ba95132c9166b/1200.m3u8
+古镇：点亮世界,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/98525aeefafa4b3cbed564c8e34de6de/1200.m3u8
+大瑶：雕塑夜空,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/85293532c9994badb0d5f4bc14a6120e/1200.m3u8
+陆家：“智”造童趣,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2381a9d8ca9246c0a919bc749292ee06/1200.m3u8
+大唐：因袜而名,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5ce9a7a4984b4ae08e77aeb61183f0f1/1200.m3u8
+仲权：华灯闪耀,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d97dbf7695454d7a853c023f46fb8a0d/1200.m3u8
+聪明的矿山,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ed6114e7f6a5458c90125ff33347eae0/1200.m3u8
+洁煤零污染,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6a7d6ff104b741f98380b5b38590e5a0/1200.m3u8
+复活的矿井,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/587155608bfb4e84a6398e7b6185d368/1200.m3u8
+废物不废,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/438b6b641031491dab1efe7fce4365f7/1200.m3u8
+点煤成金,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0e28f91ae4ec4833a6e4a29f6b59d8aa/1200.m3u8
+纵横天下,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/22fef9a023c542bb9e5f7181dda606b7/1200.m3u8
+驯服高压,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a1f35da7f79843f68b0682e9824efc4e/1200.m3u8
+千里跨越,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/00ce8d0cde174f828a61227d5041c984/1200.m3u8
+执掌利器,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/fc32122a705845ed9a4b76f49e37ca8c/1200.m3u8
+守护动脉,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/735bbe01892e45018a257f842760249b/1200.m3u8
+招来八方客,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/be55632e8ad1421e9b9c238bad72f496/1200.m3u8
+创富显神通,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/dca3a865e6b04a38ac6125471b8a45e1/1200.m3u8
+看见的未来,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/428ed451a9cc4dd4a5a18880f241d143/1200.m3u8
+姑苏城外造新城,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b51c8b8914f447f889c7a42fa4220ed7/1200.m3u8
+企业大管家,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e849a634c4f44e4a9b88ce3ed76e8bca/1200.m3u8
+转型探新路,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/49f777f41f3a4b66bd912327905bd218/1200.m3u8
+乐活园区,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8bc5de49be044cd79e32e84f826e96b7/1200.m3u8
+泥塘走出国际范,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/fa7176c3c5574328ae5f71408ea4dc39/1200.m3u8
+无人驾驶不是梦,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4ac69584a349466999ff9ef9d7afb421/1200.m3u8
+汽车 我们共享吧,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3c4ec873e6184701a66ed8a468e34686/1200.m3u8
+蛟龙探海,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/435de5cf8623453fa30416cd9abc3cd3/1200.m3u8
+深海宝藏,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/fd5052da07364488a1d7787bbe3141f1/1200.m3u8
+深海精灵,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4049d7341fe4477aaeec708ed5ca8f66/1200.m3u8
+吊装铁军,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/259eaf8206c24fd783dcf29af87cb67e/1200.m3u8
+名铺出列,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8059a2c0761a43fba021bba8023a94aa/1200.m3u8
+核岛侦探,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b2b8f14e926b4891a96512c98699d017/1200.m3u8
+焊将传承,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9ab53501d1a04aa5883abcc0249b560a/1200.m3u8
+核电特种兵,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3517688db1e245eb8e4966d6c016883b/1200.m3u8
+大漠起东风,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/956657c8c5ee4d2a9e56942d93075f24/1200.m3u8
+飞天起航点,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/36b9368ef8bb44dc86c3760ad5730c1a/1200.m3u8
+航天生命线,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2c24f378b02f4c95ba9c0142abc1c8a3/1200.m3u8
+创新出奇迹,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9b79b4bdeb7f4b2b81d7006d371445c1/1200.m3u8
+东风航天魂,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/36439c1fec754baaa90c8fe846e6fb15/1200.m3u8
+异军突起,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b926c152368840e09f4502b3e03781c7/1200.m3u8
+艰辛旅程,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d84a40af81334b29b58271c046f66845/1200.m3u8
+齐头并进,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b06a0ceeafeb4f189293a88c18ac2480/1200.m3u8
+腾飞之翼,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/84b6c42df7974cfbb7116215ecb55398/1200.m3u8
+互联互通,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4465dc5c09744b09bebfff5076efe10c/1200.m3u8
+极限挑战，http：//newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/230b92258f064595a32f029242b0b7ff/1200.m3u8
+绿色建筑，http：//newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/229121a252204e8ca9e03abf6222d46b/1200.m3u8
+超级工厂，http：//newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6b08e728c47940268f167ef9e997df2c/1200.m3u8
+智慧建造，http：//newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6347a2353b374a1bb6cd18b582e7a38a/1200.m3u8
+利刃出击，http：//newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/150b32fda3324b1987c22fb4cb9bf524/1200.m3u8
+走遍中国三,#genre#
+第一集 崛起之路,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/f34578ae3f564704b7b4bab8b2624e58/1200.m3u8
+第二集 焊将雄心,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/cb30d7cb63a041fe98370fe380cea42f/1200.m3u8
+第三集 海上大力士,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/5c53228f17844a2c8bd72c415c47272d/1200.m3u8
+第四集 魔鬼 码头,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/37cfef28b0ae4d5295cbe85266a9cab8/1200.m3u8
+煤城变绿城,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/bf063a57ada648bb93113b819e9f5889/1200.m3u8
+老矿变形记,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/1fc554385a604724bb1263e1ef820cba/1200.m3u8
+煤矿新天地,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/92fbe4af28e9439e92dbf776cb60d8f5/1200.m3u8
+决胜微米间,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/e112d75c1f164e6d9989372bebf4d389/1200.m3u8
+美丽经济,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/11849904381e4d8987f676b2234f2207/1200.m3u8
+云端的家园,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/4ce3ba435c754315b5114fc6f553d6b9/1200.m3u8
+雪域的大棚,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/2645743470db46e1ad1865d8dcf2f396/1200.m3u8
+顿珠的新居,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/cbbd389cec28438fa986e28620aa9143/1200.m3u8
+神奇的青草,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/67e48b0a49364a78ab8b03fbeb87c442/1200.m3u8
+神山牦牛队,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/26a94a64741d43a39f2b98cf1a58ed11/1200.m3u8
+横空出世,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/e22f1d65f7de440c94b8e6f91f55d0f2/1200.m3u8
+飞架南北,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/54b235d6d951424394cb36c6dc8dc6b8/1200.m3u8
+超级挑战,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/ec0fb4b7b16a40dfb3ca8752dca89331/1200.m3u8
+惊世神器,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/6024c3d479d144c1b7b9232bea0f66ef/1200.m3u8
+桥梁医生,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/d8581b3c3c8d4bd58d6a0cb73f35da1e/1200.m3u8
+创新中国,#genre#
+创新中国 第一集 信息,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/b729d80cc13d40c2a0c8abc48584c902/1200.m3u8
+创新中国 第二集 能源,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/c57e21095a314f5f99ab76f73df463f8/1200.m3u8
+创新中国 第三集 制造,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/9cdda8b27ae34befbca3b5791c13040c/1200.m3u8
+创新中国 第四集 生命,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/4649b34d0e1a4143adae1806a1d14869/1200.m3u8
+创新中国 第五集 空海,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/147a48b9f36a46879fb368410892b19d/1200.m3u8
+创新中国 第六集 潮起,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/2d6045595cf443fcbb3a03c6800fd836/1200.m3u8
+大国工匠,#genre#
+第一集 大勇不惧,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0ea148bc266f48a1921697febfa79e8b/1200.m3u8
+第二集 大术无极,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/18ca2c668b874cbaac3647dbc7d3964a/1200.m3u8
+第三集 大巧破难,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f0abf8fd85194bc894d5e3f7f566ae6e/1200.m3u8
+第四集 大艺法古,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3cb5fb629c154cb5b3a3511a6407c29f/1200.m3u8
+第五集 大工传世,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/206d96ab0438431a867eda5d8ce98f32/1200.m3u8
+第六集 大技贵精,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ef950d0f7ef44667a64583aa96f09e6d/1200.m3u8
+第七集 大道无疆,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bad822b9e74449cd80d4a28508dbf7a8/1200.m3u8
+第八集 大任担当,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ca20d6ab78664d7dabd4c12872e5ad14/1200.m3u8
+大数据时代,#genre#
+第一集 数据时代,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/8648b31019c4406aa53a9e2f8f13e3f8/1200.m3u8
+第二集 转型之路,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/659be3ee066347c88d91278cbccab5f0/1200.m3u8
+第三集 决策之智,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/ecc763a3ae04454eaadc8f94aa0113a9/1200.m3u8
+第四集 商业之变,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/7b48e19bc1154ba3a088598518a0e48d/1200.m3u8
+第五集 未来已来,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/4d08b53fae4541e8aea45c2f038cb4c8/1200.m3u8
 亮剑,#genre#
 第01集,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/8c5c8a1079bd45aea6e7d38f984e5ccb/850.m3u8
 第02集,https://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a452d5e8f9fa498f945ed6e3ae27a209/850.m3u8
