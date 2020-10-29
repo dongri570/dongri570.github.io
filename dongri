@@ -1861,6 +1861,30 @@ https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/570a1b7017554d66bb
 https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/580adb286a514679a45bd8f7e6821689/1200.m3u8
 #EXTINF:-1 group-title="最美是家乡",黑龙江 至味江鱼解乡愁
 https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/692e42b711174726a1fb06706e6233fc/1200.m3u8
+#EXTINF:-1 group-title="最美是家乡",江西 无限风光山水间
+https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/283ed79b86df4d93984d5f60f0a4bc5d/1200.m3u8?maxbr=2048
+#EXTINF:-1 group-title="最美是家乡",江西 美丽江西 绿色家园
+https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/1d457f553c30445fa3037f8a735f0f14/1200.m3u8?maxbr=2048
+#EXTINF:-1 group-title="最美是家乡",江西 品味江西地标美食
+https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/853c4116d62b4ef1a0ef4f9a3bdc95aa/1200.m3u8?maxbr=2048
+#EXTINF:-1 group-title="最美是家乡",江西 赣鄱大地 风情万种
+https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/e386effc029c40a9a493b2a06e0ce118/1200.m3u8?maxbr=2048
+#EXTINF:-1 group-title="最美是家乡",江西 青山绿水间的 精灵
+https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/499702b6349d4cd59f0a54e9587f2700/1200.m3u8?maxbr=2048
+#EXTINF:-1 group-title="最美是家乡",湖南 山水洲城 幸福长沙
+https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/b63034926c664b22bbf10915478ab81a/1200.m3u8?maxbr=2048
+#EXTINF:-1 group-title="最美是家乡",湖南 洞庭湖畔 湘北岳阳
+https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/a47bbc4d192749bb95afedfa3575c3b5/1200.m3u8?maxbr=2048
+#EXTINF:-1 group-title="最美是家乡",湖南 神秘之地 活力湘西
+https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/ec383019ccef4841b655e423b6dfbd58/1200.m3u8?maxbr=2048
+#EXTINF:-1 group-title="最美是家乡",湖南 酉山酉水有故事
+https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/5c08158a311c41b997ee919a19733d87/1200.m3u8?maxbr=2048
+#EXTINF:-1 group-title="最美是家乡",大运河（1）从宁波启航
+https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/0b7e762daa284813936c80be1ee41ac9/1200.m3u8?maxbr=2048
+#EXTINF:-1 group-title="最美是家乡",大运河（2） 航行在浙东运河上
+https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/2945ab041cb74aa087f4b32698e65cc8/1200.m3u8?maxbr=2048
+#EXTINF:-1 group-title="最美是家乡",大运河（3） 运河上的古城
+https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/870b1e2ed4da468db221cbe52ccda9b1/1200.m3u8?maxbr=2048
 
 #EXTINF:-1 group-title="长城内外一",[辽宁] 第01集 万里长城 东起虎山
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/fc2cb58ef3aa4bb4ab694d11adc48eba/850.m3u8
