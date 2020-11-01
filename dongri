@@ -672,6 +672,10 @@ http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b0d0be3818b144d69409
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/8dcfe7ae959a4deb9cef3b644cf9894b/850.m3u8
 #EXTINF:-1 group-title="北京纪实-档案",南海风云之毛泽东运筹帷幄挥师西沙
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/2512cf6050dd4c599935d10882c73ed8/850.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",苏联解体 八·一九事件内幕 上
+http://hls.cntv.baishancdnx.cn/asp/hls/1200/0303000a/3/default/f806f79293b2446b84d4d0ce6f9f5207/1200.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",苏联解体 八·一九事件内幕 中
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/7b46d77e22034830bad466f00e75ff9c/1200.m3u8
 #EXTINF:-1 group-title="北京纪实-档案",苏联解体 八·一九事件内幕 下
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/fbfbb17ade1d456aa7253c027ddfad20/850.m3u8
 #EXTINF:-1 group-title="北京纪实-档案",新中国反腐第一案始末
@@ -682,7 +686,8 @@ http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b0b3b8a20e2d46b79e56
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/e0d78a966bd74537a5c8ca704af4933e/850.m3u8
 #EXTINF:-1 group-title="北京纪实-档案",我为祖国献石油 “铁人”王进喜
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c2c47c4a40c0488482a485ba6c2e792f/850.m3u8
-
+#EXTINF:-1 group-title="北京纪实-档案",上海 犹太难民的 生命方舟
+http://hls.cntv.baishancdnx.cn/asp/hls/1200/0303000a/3/default/fcbbc2034a4f48b191cd41d9ef57b1d0/1200.m3u8
 #EXTINF:-1 group-title="红色特工秘档",熊向晖
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ad22e74265034f889c8d1cc70a11c20e/850.m3u8
 #EXTINF:-1 group-title="红色特工秘档",关露
