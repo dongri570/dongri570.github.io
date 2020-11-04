@@ -1890,6 +1890,16 @@ https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/0b7e762daa28481393
 https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/2945ab041cb74aa087f4b32698e65cc8/1200.m3u8?maxbr=2048
 #EXTINF:-1 group-title="最美是家乡",大运河（3） 运河上的古城
 https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/870b1e2ed4da468db221cbe52ccda9b1/1200.m3u8?maxbr=2048
+#EXTINF:-1 group-title="最美是家乡",大运河（4） 运河边的生活
+https://hls.cntv.baishancdnx.cn/asp/hls/1200/0303000a/3/default/653af6013dee4b17935f72e43e6abfcb/1200.m3u8?maxbr=2048
+#EXTINF:-1 group-title="最美是家乡",大运河（5） 运河往事 古镇酱香
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/639ab20b7cdb4a059288b1ce94290cf4/1200.m3u8?maxbr=2048
+#EXTINF:-1 group-title="最美是家乡",大运河（6） 山光水色 美在绍兴
+https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/088f34bd1fbb493a84f0a0d8a0e63c20/1200.m3u8?maxbr=2048
+#EXTINF:-1 group-title="最美是家乡",大运河（7） 古今辉映看杭州
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c9bece673d4248c88f8a6fe06dd2e4d5/1200.m3u8?maxbr=2048
+#EXTINF:-1 group-title="最美是家乡",大运河（8） 运河边 品杭州
+https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/397932da078b402986db8bffe77a92b3/1200.m3u8?maxbr=2048
 
 #EXTINF:-1 group-title="长城内外一",[辽宁] 第01集 万里长城 东起虎山
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/fc2cb58ef3aa4bb4ab694d11adc48eba/850.m3u8
