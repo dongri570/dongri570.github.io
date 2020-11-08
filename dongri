@@ -6231,6 +6231,13 @@ http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c32dc8d30fe3481bb527
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a626017bb3a641c3a6b442a84055092c/850.m3u8
 #EXTINF:-1 group-title="火蓝刀锋",第31集
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c68a8b1018e8472989ecb85138b233fb/850.m3u8
+#EXTINF:-1 group-title="最美的乡村",第01集
+https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/b64f33e48782485799e93bcdffeecb90/1200.m3u8?maxbr=2048
+#EXTINF:-1 group-title="最美的乡村",第02集
+https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/08f3a99e7ad44338907532961c214661/1200.m3u8?maxbr=2048
+#EXTINF:-1 group-title="最美的乡村",第03集
+https://hls.cntv.baishancdnx.cn/asp/hls/1200/0303000a/3/default/b2ac492be25c41aabf98d05e9aa3356f/1200.m3u8?maxbr=2048
+
 #EXTINF:-1 group-title="人间正道是沧桑",第1集
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/7aa3a21ff50b48334ecee3932424c055/850.m3u8
 #EXTINF:-1 group-title="人间正道是沧桑",第2集
