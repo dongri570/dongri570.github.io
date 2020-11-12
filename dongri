@@ -688,6 +688,14 @@ http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/e0d78a966bd74537a5c8
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c2c47c4a40c0488482a485ba6c2e792f/850.m3u8
 #EXTINF:-1 group-title="北京纪实-档案",上海 犹太难民的 生命方舟
 http://hls.cntv.baishancdnx.cn/asp/hls/1200/0303000a/3/default/fcbbc2034a4f48b191cd41d9ef57b1d0/1200.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",卡斯特罗和634次暗杀
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/3b3421e1d9864676b44c296a00123b8a/850.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",老布什VS萨达姆 对决背后的较量
+http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/27db6b17e2144d94802bf9c06c9334a6/850.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",民国风云人物 阎锡山
+http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/51432ab06e404e7280a962ec453f40c4/850.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",民国风云人物 冯玉祥
+http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/139dd2151f0349db9ae9a7b16f53b764/850.m3u8
 #EXTINF:-1 group-title="红色特工秘档",熊向晖
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ad22e74265034f889c8d1cc70a11c20e/850.m3u8
 #EXTINF:-1 group-title="红色特工秘档",关露
