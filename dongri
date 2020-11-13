@@ -1908,7 +1908,18 @@ https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/088f34bd1fbb493a84f0a
 https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c9bece673d4248c88f8a6fe06dd2e4d5/1200.m3u8?maxbr=2048
 #EXTINF:-1 group-title="最美是家乡",大运河（8） 运河边 品杭州
 https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/397932da078b402986db8bffe77a92b3/1200.m3u8?maxbr=2048
-
+#EXTINF:-1 group-title="最美是家乡",大运河（9） 六十里水路到塘栖
+https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/5cc731060f2141afb900eaa4017b33d6/1200.m3u8?maxbr=2048
+#EXTINF:-1 group-title="最美是家乡",大运河（10） 以水鉴史 于水观城
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9dc3ef69486f4aa3a234702ab8e350fe/1200.m3u8?maxbr=2048
+#EXTINF:-1 group-title="最美是家乡",大运河（11） 智慧城市 依水而生
+https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/aa8055dd4a6d451ab84cf94c14c36515/1200.m3u8?maxbr=2048
+#EXTINF:-1 group-title="最美是家乡",大运河（12） 嘉兴的运河故事
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1f450555667341b297f64ff27ece6774/1200.m3u8?maxbr=2048
+#EXTINF:-1 group-title="最美是家乡",大运河（13） 运河水乡—光阴的故事
+https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/42559d671e5f40599cf80b4b0bc678d0/1200.m3u8?maxbr=2048
+#EXTINF:-1 group-title="最美是家乡",大运河（14） 运河畔的山水家园
+https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/23072b1e8aa24fc7b766ca696f42b5ac/1200.m3u8?maxbr=2048
 #EXTINF:-1 group-title="长城内外一",[辽宁] 第01集 万里长城 东起虎山
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/fc2cb58ef3aa4bb4ab694d11adc48eba/850.m3u8
 #EXTINF:-1 group-title="长城内外一",第02集 徒步辽东边堡
