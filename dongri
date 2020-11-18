@@ -5028,6 +5028,36 @@ http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/8a35e5a6905b40028216
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/baad4632061148f59d5a03c76cf1311c/850.m3u8
 #EXTINF:-1 group-title="天河",第六集 大峡谷
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/e812cb10c92741af8b117262b9b45e54/850.m3u8
+#EXTINF:-1 group-title="美丽中国自然",江苏盐城系列 鹳舞东方
+https://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/63df8a4a254e46c0967822e9f769bb1a/4000.m3u8
+#EXTINF:-1 group-title="美丽中国自然",尖峰岭系列 林窗
+https://hls.cntv.baishancdnx.cn/asp/hls/4000/0303000a/3/default/19ce75d817bc4e68ae179f5b08e4e779/4000.m3u8
+#EXTINF:-1 group-title="美丽中国自然",梨花深处
+https://hls.cntv.baishancdnx.cn/asp/hls/4000/0303000a/3/default/db71576ba13a4aa581e6028662a4b9d9/4000.m3u8
+#EXTINF:-1 group-title="美丽中国自然",尖峰岭系列 植物活化石
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/73c73940e0364e8491a07961c6913974/4000.m3u8
+#EXTINF:-1 group-title="美丽中国自然",尖峰岭系列 绞杀榕
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/3f594b61c83c42449080e22213fc2514/4000.m3u8
+#EXTINF:-1 group-title="美丽中国自然",尖峰岭系列 海南坡鹿
+https://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/9891cea600df4e8a83851b1b1ce23194/4000.m3u8
+#EXTINF:-1 group-title="美丽中国自然",尖峰岭系列 海南猕猴
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/901f971dcee3462984e4496c2436fdc6/4000.m3u8
+#EXTINF:-1 group-title="美丽中国自然",尖峰岭系列 黄猄蚁
+https://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/cf71b1ab4f0d4dd8a9e8b9c1b35ba751/4000.m3u8
+#EXTINF:-1 group-title="美丽中国自然",尖峰岭系列 雨林沟谷
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/f7439ae9d80a4d9a97ece7069d9221a0/4000.m3u8
+#EXTINF:-1 group-title="美丽中国自然",三江并流系列 滇金丝猴
+https://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2f5adc53c1524781b3e5317ed1ecdde4/4000.m3u8
+#EXTINF:-1 group-title="美丽中国自然",高黎贡山系列 火山热海
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/5e5edfdb3b754dde84e469c3658459a7/4000.m3u8
+#EXTINF:-1 group-title="美丽中国自然",高黎贡山系列 北海湿地
+https://hls.cntv.myalicdn.com/asp/hls/4000/0303000a/3/default/2f365f5e37de402e92995a0e56ee7c83/4000.m3u8
+#EXTINF:-1 group-title="美丽中国自然",唐家河系列 遇见唐家河
+https://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/e3aa33881aae4c6ea710fef26b8ac7fd/4000.m3u8
+#EXTINF:-1 group-title="美丽中国自然", 桂西南系列 通灵瀑布
+https://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/eb493a3290454603902e94a7c833e453/4000.m3u8
+#EXTINF:-1 group-title="美丽中国自然",桂西南系列 石山植物
+https://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/3bc2644ddc2a47149c42ab4a822ebeb7/4000.m3u8
 #EXTINF:-1 group-title="长征",第01集
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/90804c1fa6744dce1c8fac8738d712fc/850.m3u8
 #EXTINF:-1 group-title="长征",第02集
