@@ -4959,11 +4959,11 @@ http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/95786f247f5e4ab28bfa
 #EXTINF:-1 group-title="一城一味",第七集 香港
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/e5d9798d08474098a140c91afb59dacb/850.m3u8
 #EXTINF:-1 group-title="寻味顺德",第一集 乡土之源
-http://hls.cntv.cdn20.com/asp/hls/850/0303000a/3/default/d54b29e1abeb4da29e336200cec3a8d4/850.m3u8
+http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/d54b29e1abeb4da29e336200cec3a8d4/850.m3u8?maxbr=2048
 #EXTINF:-1 group-title="寻味顺德",第二集 匠心独运
-http://hls.cntv.cdn20.com/asp/hls/850/0303000a/3/default/366785819a004123a8a404a6058e824a/850.m3u8
+https://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/366785819a004123a8a404a6058e824a/850.m3u8?maxbr=2048
 #EXTINF:-1 group-title="寻味顺德",第三集 美味相传
-http://hls.cntv.cdn20.com/asp/hls/850/0303000a/3/default/5717e7fdbdb3485da0f5b2b368b8422d/850.m3u8
+https://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/5717e7fdbdb3485da0f5b2b368b8422d/850.m3u8?maxbr=2048
 #EXTINF:-1 group-title="锦绣纪",第一集 穿梭
 http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/2aae90d9a1c248069ff1216077eeee30/1200.m3u8
 #EXTINF:-1 group-title="锦绣纪",第二集 引线
