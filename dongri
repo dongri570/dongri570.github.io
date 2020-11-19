@@ -5026,6 +5026,16 @@ https://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/e3aa33881aae4c6ea7
 https://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/eb493a3290454603902e94a7c833e453/4000.m3u8
 #EXTINF:-1 group-title="美丽中国自然",桂西南系列 石山植物
 https://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/3bc2644ddc2a47149c42ab4a822ebeb7/4000.m3u8
+#EXTINF:-1 group-title="美丽中国自然",黄河中游系列 壶口瀑布
+https://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/c7f0286afc9343aa9504e4e77140f865/4000.m3u8
+#EXTINF:-1 group-title="美丽中国自然",黄河中游系列 盐湖生态
+https://hls.cntv.kcdnvip.com/asp/hls/4000/0303000a/3/default/ce462fecfb4941c891cb9045dd0aa1b4/4000.m3u8
+#EXTINF:-1 group-title="美丽中国自然",黄河中游系列 黄河龙门
+https://hls.cntv.myalicdn.com/asp/hls/4000/0303000a/3/default/ad788ba86a6648aca79d403f472d6cb3/4000.m3u8
+#EXTINF:-1 group-title="美丽中国自然",黄河中游系列 鹳雀楼
+https://hls.cntv.kcdnvip.com/asp/hls/4000/0303000a/3/default/48bb3998ac97421ca8e229cde7477b9f/4000.m3u8
+#EXTINF:-1 group-title="美丽中国自然",黄河中游系列 伍姓湖
+https://hls.cntv.myalicdn.com/asp/hls/4000/0303000a/3/default/e1543b9af13f413391dd5d0d1e5e2e76/4000.m3u8
 #EXTINF:-1 group-title="长征",第01集
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/90804c1fa6744dce1c8fac8738d712fc/850.m3u8
 #EXTINF:-1 group-title="长征",第02集
