@@ -664,6 +664,20 @@ http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/139dd2151f0349db9ae9a
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1240ce8657fd486db835a44aaa1a8313/850.m3u8
 #EXTINF:-1 group-title="北京纪实-档案",反恐雷霆之2005 伦敦地铁爆炸案侦破纪实
 http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/24f006028cfa4da29639f8f833b44e4d/850.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",神奇狙击手张桃芳
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1f6525cd0c8d4216a99dece6ac96b10a/1200.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",英雄儿女之传奇上甘岭
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/5d89263d17e348b6a48d6f721ce3e4be/1200.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",断刀 代号543 飞弹射天狼
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/5a5048d636804812a11746ff99ae7b4b/1200.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",尼米兹复仇 目标山本五十六
+http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/8780f7bf619e47648b73e87c611e3a8f/1200.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",冰血长津湖 雪原追击
+http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/72b1d5acb0144a34bca10a7e8ad646bd/1200.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",冰血长津湖 隐蔽的对手
+http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f23813d371674f40bca66001b07b260a/1200.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",冰雪长津湖 吹响集结号
+http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/3f1353dd95fd40dfb83b654d8d82f819/1200.m3u8
 #EXTINF:-1 group-title="红色特工秘档",熊向晖
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ad22e74265034f889c8d1cc70a11c20e/850.m3u8
 #EXTINF:-1 group-title="红色特工秘档",关露
