@@ -36,22 +36,6 @@ http://39.134.66.66/PLTV/88888888/224/3221225513/index.m3u8
 http://39.134.66.66/PLTV/88888888/224/3221225515/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视节目",CCTV-17农业农村
 http://39.134.157.205/PLTV/88888888/224/3221225675/index.m3u8
-#EXTINF:-1 tvg-id="7240" tvg-name="IPTV3+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV3+.png" group-title="央视节目",IPTV3+
-http://39.134.39.39/PLTV/88888888/224/3221226265/index.m3u8
-#EXTINF:-1 tvg-id="94" tvg-name="IPTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV5+.png" group-title="央视节目",IPTV5+
-http://39.134.39.39/PLTV/88888888/224/3221226267/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视节目",IPTV6+
-http://39.134.39.39/PLTV/88888888/224/3221226269/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视节目",IPTV8+
-http://39.134.39.39/PLTV/88888888/224/3221226271/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视节目",IPTV法治
-http://39.134.39.39/PLTV/88888888/224/3221226258/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视节目",IPTV相声小品
-http://39.134.39.39/PLTV/88888888/224/3221226260/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视节目",IPTV谍战剧场
-http://39.134.39.39/PLTV/88888888/224/3221226256/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视节目",IPTV野外
-http://39.134.39.39/PLTV/88888888/224/3221226262/index.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视节目",北京卫视蓝光
 http://39.134.66.66/PLTV/88888888/224/3221225678/index.m3u8
 #EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" group-title="卫视节目",BTV文艺
