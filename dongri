@@ -1888,6 +1888,37 @@ https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/42559d671e5f40599cf80
 https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/23072b1e8aa24fc7b766ca696f42b5ac/1200.m3u8?maxbr=2048
 #EXTINF:-1 group-title="最美是家乡",大运河（15） 太湖之滨 古韵湖州
 https://hls.cntv.baishancdnx.cn/asp/hls/1200/0303000a/3/default/447f9c6db88f495d8342088d1cbb4238/1200.m3u8?maxbr=2048
+#EXTINF:-1 group-title="最美是家乡",大运河（16） 走进丝绸之源—潞村
+https://hls.cntv.baishancdnx.cn/asp/hls/1200/0303000a/3/default/5421951bc2704204b9f57dc13a7fcb18/1200.m3u8?maxbr=2048
+#EXTINF:-1 group-title="最美是家乡",大运河（17） 水运南浔
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0f83ead57df44e8d886ea7e23a43d729/1200.m3u8?maxbr=2048
+#EXTINF:-1 group-title="最美是家乡",大运河（18） 青山长久运河流
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/a360d272dc5f436d81aa022fb86e57fb/1200.m3u8?maxbr=2048
+#EXTINF:-1 group-title="最美是家乡",大运河（19） 航行在苏南运河
+https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/0ed1c1137ea849dd8c4a345090fc8814/1200.m3u8?maxbr=2048
+#EXTINF:-1 group-title="最美是家乡",大运河（20） 从枫桥到阊门
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/73e94f9b390c4b178a5b9f34275a28dc/1200.m3u8?maxbr=2048
+#EXTINF:-1 group-title="最美是家乡",大运河（21） 江南水乡 姑苏风情
+https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/f6958c08972b495886c6624f8827ccb1/1200.m3u8?maxbr=2048
+#EXTINF:-1 group-title="最美是家乡",大运河（22） 金鸡湖畔新苏州
+https://hls.cntv.baishancdnx.cn/asp/hls/1200/0303000a/3/default/5ca6791515344ec1a6042dbae3d3b1a0/1200.m3u8?maxbr=2048
+#EXTINF:-1 group-title="最美是家乡",大运河（23） 运河之城 太湖明珠
+https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/5b3b855677f34fd6b7b3fbe771f433dc/1200.m3u8?maxbr=2048
+#EXTINF:-1 group-title="最美是家乡",大运河（24） 家在运河之滨无锡城
+https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/240e4b59f99c4a9d9f000acb1bbceadc/1200.m3u8?maxbr=2048
+#EXTINF:-1 group-title="最美是家乡",大运河（25） 吴地文化在无锡
+https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/116a1e2a5e2d4870b25cb7ccfe226a43/1200.m3u8?maxbr=2048
+#EXTINF:-1 group-title="最美是家乡",大运河（26） 古韵常州 运河诗情
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/504ced4c67c04994b767a41c6f12fd61/1200.m3u8?maxbr=2048
+#EXTINF:-1 group-title="最美是家乡",大运河（27） 运河变迁 更美常州
+https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/2b93260429b64f0fb0af932089def3c0/1200.m3u8?maxbr=2048
+#EXTINF:-1 group-title="最美是家乡",大运河（28） 守护运河 筑梦常州
+https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/00890d28041f4f04ac62ff3e7211aa0e/1200.m3u8?maxbr=2048
+#EXTINF:-1 group-title="最美是家乡",大运河（29） 运河两岸 水润丹阳
+https://dh5.cntv.lxdns.com/asp/h5e/hls/1200/0303000a/3/default/df00b77aa6494caf84deaad6af8fc0aa/1200.m3u8?maxbr=2048
+#EXTINF:-1 group-title="最美是家乡",大运河（30） 江河交汇话镇江
+https://dh5.cntv.lxdns.com/asp/h5e/hls/1200/0303000a/3/default/4a94ce90183545b992938810b8decf47/1200.m3u8?maxbr=2048
+
 #EXTINF:-1 group-title="长城内外一",[辽宁] 第01集 万里长城 东起虎山
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/fc2cb58ef3aa4bb4ab694d11adc48eba/850.m3u8
 #EXTINF:-1 group-title="长城内外一",第02集 徒步辽东边堡
