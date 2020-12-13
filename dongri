@@ -1913,12 +1913,21 @@ https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/504ced4c67c04994b7
 #EXTINF:-1 group-title="最美是家乡",大运河（27） 运河变迁 更美常州
 https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/2b93260429b64f0fb0af932089def3c0/1200.m3u8?maxbr=2048
 #EXTINF:-1 group-title="最美是家乡",大运河（28） 守护运河 筑梦常州
-https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/00890d28041f4f04ac62ff3e7211aa0e/1200.m3u8?maxbr=2048
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/00890d28041f4f04ac62ff3e7211aa0e/1200.m3u8?maxbr=2048
 #EXTINF:-1 group-title="最美是家乡",大运河（29） 运河两岸 水润丹阳
-https://dh5.cntv.lxdns.com/asp/h5e/hls/1200/0303000a/3/default/df00b77aa6494caf84deaad6af8fc0aa/1200.m3u8?maxbr=2048
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/df00b77aa6494caf84deaad6af8fc0aa/2000.m3u8
 #EXTINF:-1 group-title="最美是家乡",大运河（30） 江河交汇话镇江
-https://dh5.cntv.lxdns.com/asp/h5e/hls/1200/0303000a/3/default/4a94ce90183545b992938810b8decf47/1200.m3u8?maxbr=2048
-
+https://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/4a94ce90183545b992938810b8decf47/2000.m3u8
+#EXTINF:-1 group-title="最美是家乡",大运河（31） 水岸叠翠草色青
+https://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/08bd11de362447f1b908afcbb5193261/2000.m3u8
+#EXTINF:-1 group-title="最美是家乡",大运河（32） 清丽水岸扬州城
+https://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/c3e9c6d52a684189946a93cb857a1026/2000.m3u8
+#EXTINF:-1 group-title="最美是家乡",大运河（33） 通江达淮 畅行水脉
+https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/de2a6256eb02458682d03d5e9de586a9/2000.m3u8
+#EXTINF:-1 group-title="最美是家乡",大运河（34） 水廓帆樯运河事
+https://hls.cntv.kcdnvip.com/asp/hls/2000/0303000a/3/default/b668709d548c4f6b95eef56793715804/2000.m3u8
+#EXTINF:-1 group-title="最美是家乡",大运河（35） 秦邮故地 运河人家
+https://hls.cntv.baishancdnx.cn/asp/hls/2000/0303000a/3/default/c6ce76d5977a486db0438a133cd41a1d/2000.m3u8
 #EXTINF:-1 group-title="长城内外一",[辽宁] 第01集 万里长城 东起虎山
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/fc2cb58ef3aa4bb4ab694d11adc48eba/850.m3u8
 #EXTINF:-1 group-title="长城内外一",第02集 徒步辽东边堡
