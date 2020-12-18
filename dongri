@@ -6366,28 +6366,6 @@ https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/c85eb3c57f4d448897d23
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5456b815c47a45f98d7a1d9993ab3c0e/1200.m3u8?maxbr=2048
 #EXTINF:-1 group-title="最美的乡村",第30集
 https://hls.cntv.baishancdnx.cn/asp/hls/1200/0303000a/3/default/ffa98530f5a24cde8718ddefd9ba0419/1200.m3u8?maxbr=2048
-#EXTINF:-1 group-title="装台",第01集
-https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/45e2653d396640a69258a75d1ad997c8/1200.m3u8?maxbr=2048
-#EXTINF:-1 group-title="装台",第02集
-https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/686572e8d0ed4fd999baf5a259121700/1200.m3u8?maxbr=2048
-#EXTINF:-1 group-title="装台",第03集
-https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/126fa4efcaca4bdb822a331cafe514be/1200.m3u8?maxbr=2048
-#EXTINF:-1 group-title="装台",第04集
-https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/866b1c9883b4438f9d6e9547d54c207e/1200.m3u8?maxbr=2048
-#EXTINF:-1 group-title="装台",第05集
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/14ea77185d774a58949bff1e4c4bad9f/1200.m3u8?maxbr=2048
-#EXTINF:-1 group-title="装台",第06集
-https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/5f906d69788f4ad2ad4206bbada47b88/1200.m3u8?maxbr=2048
-#EXTINF:-1 group-title="装台",第07集
-https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/d737ccca5b71447699f646151db052d8/1200.m3u8?maxbr=2048
-#EXTINF:-1 group-title="装台",第08集
-https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/8f84fd2fc56c4f71ab944bc700c60a52/1200.m3u8?maxbr=2048
-#EXTINF:-1 group-title="装台",第09集
-https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/0b30db89797b49ff940884ab30fcd674/1200.m3u8?maxbr=2048
-#EXTINF:-1 group-title="装台",第10集
-https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/67c40d48ed604684b80105dec988c34f/1200.m3u8?maxbr=2048
-#EXTINF:-1 group-title="装台",第11集
-https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/96bd9b236e2f4c95b8e002ca73eb25cf/1200.m3u8?maxbr=2048
 
 #EXTINF:-1 group-title="人间正道是沧桑",第1集
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/7aa3a21ff50b48334ecee3932424c055/850.m3u8
