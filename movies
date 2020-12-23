@@ -1,22 +1,26 @@
 央视节目,#genre#        
-CCTV-1综合,http://39.134.39.39/PLTV/88888888/224/3221226247/index.m3u8
-CCTV-2财经,http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
-CCTV-3综艺,http://39.134.66.66/PLTV/88888888/224/3221225490/index.m3u8
-CCTV-4中文国际,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8
-CCTV-5体育,http://39.134.66.66/PLTV/88888888/224/3221225606/index.m3u8
-CCTV-5+体育,http://39.134.39.39/PLTV/88888888/224/3221226253/index.m3u8
-CCTV-6电影,http://39.134.66.66/PLTV/88888888/224/3221225488/index.m3u8
-CCTV-7国防军事,http://39.134.66.66/PLTV/88888888/224/3221225671/index.m3u8
-CCTV-8电视剧,http://39.134.66.66/PLTV/88888888/224/3221225485/index.m3u8
-CCTV-9纪录,http://39.134.66.66/PLTV/88888888/224/3221225519/index.m3u8
-CCTV-10科教,http://39.134.66.66/PLTV/88888888/224/3221225520/index.m3u8
-CCTV-11戏曲,http://39.134.66.66/PLTV/88888888/224/3221225517/index.m3u8
-CCTV-12高清,http://39.134.66.66/PLTV/88888888/224/3221225518/index.m3u8
-CCTV-13新闻,http://39.134.66.66/PLTV/88888888/224/3221225515/index.m3u8
-CCTV-14少儿,http://39.134.157.205/PLTV/88888888/224/3221225638/index.m3u8
-CCTV-15音乐,http://39.134.66.66/PLTV/88888888/224/3221225513/index.m3u8
-CGTN,http://39.134.66.66/PLTV/88888888/224/3221225515/index.m3u8
-CCTV-17农业农村,http://39.134.157.205/PLTV/88888888/224/3221225675/index.m3u8
+CCTV-1综合,http://hdtv.haust.edu.cn/hls/hls74a2.m3u8
+CCTV-2财经,http://hdtv.haust.edu.cn/hls/hls74a3.m3u8
+CCTV-3综艺,http://hdtv.haust.edu.cn/hls/cctv3hd.m3u8
+CCTV-4中文国际,http://hdtv.haust.edu.cn/hls/cctv4hd.m3u8
+CCTV-5体育,http://hdtv.haust.edu.cn/hls/cctv5hd.m3u8
+CCTV-5+体育,http://hdtv.haust.edu.cn/hls/cctv5phd.m3u8
+CCTV-6电影,http://hdtv.haust.edu.cn/hls/cctv6hd.m3u8
+CCTV-7国防军事,http://hdtv.haust.edu.cn/hls/hls136.m3u8
+CCTV-8电视剧,http://hdtv.haust.edu.cn/hls/cctv9hd.m3u8
+CCTV-9纪录,http://hdtv.haust.edu.cn/hls/cctv9hd.m3u8
+CCTV-10科教,http://hdtv.haust.edu.cn/hls/cctv10hd.m3u8
+CCTV-11戏曲,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3u8
+CCTV-12高清,http://hdtv.haust.edu.cn/hls/cctv12hd.m3u8
+CCTV-13新闻,http://hdtv.haust.edu.cn/hls/cctv13hd.m3u8
+CCTV-14少儿,http://hdtv.haust.edu.cn/hls/cctv14.m3u8
+CCTV-15音乐,http://hdtv.haust.edu.cn/hls/jlu_cctv15hd.m3u8
+CGTN,http://hdtv.haust.edu.cn/hls/hls67a43.m3u8
+CCTV-17农业农村,http://hdtv.haust.edu.cn/hls/hls73a8.m3u8
+CCTV兵器科技 3M1080,http://hdtv.haust.edu.cn/hls/gfjstv.m3u8
+CCTV怀旧剧场 3M1080,http://hdtv.haust.edu.cn/hls/hjjctv.m3u8
+CCTV第一剧场 3M1080,http://hdtv.haust.edu.cn/hls/dyjctv.m3u8
+CCTV风云足球 3M1080,http://hdtv.haust.edu.cn/hls/hls20.m3u8
 IPTV3+,http://39.134.39.39/PLTV/88888888/224/3221226265/index.m3u8
 IPTV5+,http://39.134.39.39/PLTV/88888888/224/3221226267/index.m3u8
 IPTV6+,http://39.134.39.39/PLTV/88888888/224/3221226269/index.m3u8
