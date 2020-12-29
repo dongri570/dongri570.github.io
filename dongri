@@ -1948,7 +1948,8 @@ https://hls.cntv.kcdnvip.com/asp/hls/2000/0303000a/3/default/0e56c83bc5df4946b80
 https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/39d993c03e7a46aaa064f1d48d31f716/2000.m3u8
 #EXTINF:-1 group-title="最美是家乡",大运河（45） 大运河畔文化兴
 https://hls.cntv.kcdnvip.com/asp/hls/2000/0303000a/3/default/6803f314674c46b480132dbf322d75a4/2000.m3u8
-
+#EXTINF:-1 group-title="最美是家乡",大运河（46） 运河水脊 中枢之地
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/75320f87370a4ddbb1e291015ac18565/2000.m3u8
 #EXTINF:-1 group-title="长城内外一",[辽宁] 第01集 万里长城 东起虎山
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/fc2cb58ef3aa4bb4ab694d11adc48eba/850.m3u8
 #EXTINF:-1 group-title="长城内外一",第02集 徒步辽东边堡
