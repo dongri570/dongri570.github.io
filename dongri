@@ -1,39 +1,39 @@
 
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视节目",CCTV-1综合
-http://hdtv.haust.edu.cn/hls/hls74a2.m3u8
+http://39.134.176.253/PLTV/88888888/224/3221226527/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视节目",CCTV-2财经
-http://hdtv.haust.edu.cn/hls/hls74a3.m3u8
+http://39.134.176.253/PLTV/88888888/224/3221226468/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视节目",CCTV-3综艺
-http://hdtv.haust.edu.cn/hls/cctv3hd.m3u8
+http://39.134.176.253/PLTV/88888888/224/3221226431/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视节目",CCTV-4中文国际
-http://hdtv.haust.edu.cn/hls/cctv4hd.m3u8
+http://39.134.176.253/PLTV/88888888/224/3221226171/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视节目",CCTV-5体育
-http://hdtv.haust.edu.cn/hls/cctv5hd.m3u8
+http://39.134.176.253/PLTV/88888888/224/3221226400/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视节目",CCTV-5+体育
-http://hdtv.haust.edu.cn/hls/cctv5phd.m3u8
+http://39.134.176.253/PLTV/88888888/224/3221226166/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视节目",CCTV-6电影
-http://hdtv.haust.edu.cn/hls/cctv6hd.m3u8
+http://39.134.176.253/PLTV/88888888/224/3221226487/index.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视节目",CCTV-7国防军事
-http://hdtv.haust.edu.cn/hls/hls136.m3u8
+http://39.134.176.253/PLTV/88888888/224/3221226122/index.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视节目",CCTV-8电视剧
-http://hdtv.haust.edu.cn/hls/cctv9hd.m3u8
+http://39.134.176.253/PLTV/88888888/224/3221226330/index.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视节目",CCTV-9纪录
-http://hdtv.haust.edu.cn/hls/cctv9hd.m3u8
+http://39.134.176.253/PLTV/88888888/224/3221226561/index.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视节目",CCTV-10科教
-http://hdtv.haust.edu.cn/hls/cctv10hd.m3u8
+http://39.134.176.253/PLTV/88888888/224/3221226199/index.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视节目",CCTV-11戏曲
-http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3u8
+http://39.134.176.253/PLTV/88888888/224/3221226219/index.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视节目",CCTV-12高清
-http://hdtv.haust.edu.cn/hls/cctv12hd.m3u8
+http://39.134.176.253/PLTV/88888888/224/3221226167/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视节目",CCTV-13新闻
-http://hdtv.haust.edu.cn/hls/cctv13hd.m3u8
+http://39.134.176.253/PLTV/88888888/224/3221226193/index.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视节目",CCTV-14少儿
-http://hdtv.haust.edu.cn/hls/cctv14.m3u8
+http://39.134.176.253/PLTV/88888888/224/3221226126/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视节目",CCTV-15音乐
-http://hdtv.haust.edu.cn/hls/jlu_cctv15hd.m3u8
+http://39.134.176.253/PLTV/88888888/224/3221226112/index.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视节目",CGTN
-http://hdtv.haust.edu.cn/hls/hls67a43.m3u8
+http://39.134.176.253/PLTV/88888888/224/3221226314/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视节目",CCTV-17农业农村
 http://hdtv.haust.edu.cn/hls/hls73a8.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视节目",北京卫视蓝光
