@@ -534,6 +534,18 @@ http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/77143e5d3e30433988c
 http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/c214869c3f52494c948814d95cda369c/1200.m3u8
 #EXTINF:-1 group-title="解放战争",淮海战役 下
 http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/5abeeabe125043719bec7c77434acc0c/1200.m3u8
+#EXTINF:-1 group-title="刀  锋",第一集 卫国刀鸣
+https://hls.cntv.baishancdnx.cn/asp/hls/1200/0303000a/3/default/fbc9b9ea9af9459d86c4327b18b3b848/1200.m3u8?maxbr=2048
+#EXTINF:-1 group-title="刀  锋",第二集 跨海过江
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7a879d2c39a542de9f71c35208877609/1200.m3u8?maxbr=2048
+#EXTINF:-1 group-title="刀  锋",第三集 锋芒所向
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1b9bce796e5d4e8b88212a20d26b04c1/1200.m3u8?maxbr=2048
+#EXTINF:-1 group-title="刀  锋",第四集 冰天刀寒
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0a2940a56ff54537820ae9bb08bc2fce/1200.m3u8?maxbr=2048
+#EXTINF:-1 group-title="刀  锋",第五集 搏刃长津
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ff2fe83583e4d3999ee55ba917241f2/1200.m3u8?maxbr=2048
+#EXTINF:-1 group-title="刀  锋",第六集 雪白血花
+https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/318e5794493b47669a9bde696ac39059/1200.m3u8?maxbr=2048
 #EXTINF:-1 group-title="特别呈现",铁在烧 第一集 风起铁原
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/843660964e594db1bebe9b2231b1d3b3/850.m3u8
 #EXTINF:-1 group-title="特别呈现",铁在烧 第二集 临危受命
