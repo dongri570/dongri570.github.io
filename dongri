@@ -124,6 +124,24 @@ http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226544/1.m3u
 http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="卫视节目",香港凤凰卫视资讯台
 http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
+#EXTINF:-1 group-title="综合频道",爱军武
+http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230083/01.m3u8
+#EXTINF:-1 group-title="综合频道",爱解密
+http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230080/01.m3u8
+#EXTINF:-1 group-title="综合频道",爱历史
+http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230100/01.m3u8
+#EXTINF:-1 group-title="综合频道",爱美食
+http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230115/01.m3u8
+#EXTINF:-1 group-title="综合频道",爱探索
+http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230112/index.m3u8
+#EXTINF:-1 group-title="综合频道",爱科学
+http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230106/index.m3u8
+#EXTINF:-1 group-title="综合频道",爱旅行
+http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8
+#EXTINF:-1 group-title="综合频道",爱猎奇
+http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230097/index.m3u8
+#EXTINF:-1 group-title="综合频道",爱世界
+http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230046/01.m3u8
 #EXTINF:-1 group-title="2019阅兵盛典",阅兵盛典
 https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/90dafd99f514495d9e284002eb6b85db/1200.m3u8?maxbr=2048
 #EXTINF:-1 group-title="中国通史",第01集
