@@ -691,6 +691,10 @@ http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/72b1d5acb0144a34bca10a
 http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f23813d371674f40bca66001b07b260a/1200.m3u8
 #EXTINF:-1 group-title="北京纪实-档案",冰雪长津湖 吹响集结号
 http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/3f1353dd95fd40dfb83b654d8d82f819/1200.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",日本首相田中角荣决定访华秘闻
+http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/7c2579127f574f3c9f92c4b3aff8192f/1200.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",西柏坡密电 第一季 毛泽东巧施空城计退敌十万兵
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/cdc79838c00c48fd8d67b5973b121e80/850.m3u8
 #EXTINF:-1 group-title="红色特工秘档",熊向晖
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ad22e74265034f889c8d1cc70a11c20e/850.m3u8
 #EXTINF:-1 group-title="红色特工秘档",关露
