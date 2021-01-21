@@ -783,6 +783,11 @@ http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9b8095e5b9d741b4bfe2
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1d99b48c823342a0ab9669dc26316a6d/850.m3u8
 #EXTINF:-1 group-title="真实纪录",太空-美苏争霸 Ⅴ
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/27f7aba52e5e4d0d85e3d01bfbf7b4aa/850.m3u8
+#EXTINF:-1 group-title="国家记忆 新中国1949",第一集 和平解放前夜
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/a9ac55ff4d8141839cd59274814a0303/2000.m3u8
+#EXTINF:-1 group-title="国家记忆 新中国1949",第二集 中共中央进北平
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/de7a8148e75e4436ae188535851615c7/2000.m3u8
+
 #EXTINF:-1 group-title="中苏外交档案解密",第一集 斯大林的选择 上
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b200fa845ae64ed39a5424421f1204b2/850.m3u8
 #EXTINF:-1 group-title="中苏外交档案解密",第二集 斯大林的选择 下
