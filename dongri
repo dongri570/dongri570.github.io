@@ -154,25 +154,16 @@ http://hdtv.haust.edu.cn/hls/hls78a46.m3u8
 http://hdtv.haust.edu.cn/hls/hls78a48.m3u8
 #EXTINF:-1 group-title="NNM影院",NNM亚洲电影
 http://hdtv.haust.edu.cn/hls/hls30.m3u8
-#EXTINF:-1 group-title="NNM影院",NNM劲爆电影
-http://hdtv.haust.edu.cn/hls/hls155.m3u8
 #EXTINF:-1 group-title="NNM影院",NNM原声电影
 http://hdtv.haust.edu.cn/hls/hls33.m3u8
 #EXTINF:-1 group-title="NNM影院",NNM古装剧场
 http://hdtv.haust.edu.cn/hls/hls54.m3u8
-#EXTINF:-1 group-title="NNM影院",NNM喜剧电影
-http://hdtv.haust.edu.cn/hls/hls147.m3u8
 #EXTINF:-1 group-title="NNM影院",NNM家庭影院
 http://hdtv.haust.edu.cn/hls/hls39.m3u8
-#EXTINF:-1 group-title="NNM影院",NNM家庭理财
-http://hdtv.haust.edu.cn/hls/hls15.m3u8
-#EXTINF:-1 group-title="NNM影院",NNM家庭理财
-http://hdtv.haust.edu.cn/hls/hls19.m3u8
 #EXTINF:-1 group-title="NNM影院",NNM怀旧电影
 http://hdtv.haust.edu.cn/hls/hls48.m3u8
 #EXTINF:-1 group-title="NNM影院",NNM热播电影
 http://hdtv.haust.edu.cn/hls/hls32.m3u8
-
 #EXTINF:-1 group-title="2019阅兵盛典",阅兵盛典
 https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/90dafd99f514495d9e284002eb6b85db/1200.m3u8?maxbr=2048
 #EXTINF:-1 group-title="中国通史",第01集 中华道路
