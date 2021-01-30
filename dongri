@@ -142,6 +142,8 @@ http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/32212300
 http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230097/index.m3u8
 #EXTINF:-1 group-title="综合频道",爱世界
 http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230046/01.m3u8
+#EXTINF:-1 group-title="NNM影院",CHC高清电影
+http://hdtv.haust.edu.cn/hls/chchd.m3u8
 #EXTINF:-1 group-title="NNM影院",NNM大众影视
 http://hdtv.haust.edu.cn/hls/hls164.m3u8
 #EXTINF:-1 group-title="NNM影院",NNM家庭剧场
@@ -164,6 +166,10 @@ http://hdtv.haust.edu.cn/hls/hls39.m3u8
 http://hdtv.haust.edu.cn/hls/hls48.m3u8
 #EXTINF:-1 group-title="NNM影院",NNM热播电影
 http://hdtv.haust.edu.cn/hls/hls32.m3u8
+#EXTINF:-1 group-title="NNM影院",NNM经典剧场
+http://hdtv.haust.edu.cn/hls/hls89.m3u8
+#EXTINF:-1 group-title="NNM影院",NNM纪录片
+http://hdtv.haust.edu.cn/hls/hls66.m3u8
 #EXTINF:-1 group-title="2019阅兵盛典",阅兵盛典
 https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/90dafd99f514495d9e284002eb6b85db/1200.m3u8?maxbr=2048
 #EXTINF:-1 group-title="中国通史",第01集 中华道路
