@@ -120,10 +120,10 @@ http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u
 http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226428/1.m3u8
 #EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="卫视节目",三沙卫视高清
 http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226544/1.m3u8
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="卫视节目",凤凰卫视,
-http://hdtv.lzu6.edu.cn/hls/fhzw.m3u8
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="卫视节目",香港凤凰卫视资讯台
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="卫视节目",凤凰资讯
 http://hdtv.lzu6.edu.cn/hls/fhzx.m3u8
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="卫视节目",凤凰卫视
+http://hdtv.lzu6.edu.cn/hls/fhzw.m3u8
 #EXTINF:-1 group-title="综合频道",爱军武
 http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230083/01.m3u8
 #EXTINF:-1 group-title="综合频道",爱解密
