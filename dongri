@@ -504,6 +504,16 @@ https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/4b28009eac1f4c5e823c5
 https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/19fc3ed3ec4c499f975c4d3760a61869/2000.m3u8
 #EXTINF:-1 group-title="国家记忆",抗美援朝保家卫国 历史铭记
 https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/d632d76de6de46829cf44d86d7cce8ff/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",致敬抗美援朝英雄 杨根思
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/1719fca9364b44d0913fd1e454b7dd87/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",致敬抗美援朝英雄 孙占元
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/102a44ddd07c4a55a8a4651794b20eb4/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",致敬抗美援朝英雄 蔡正国
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/acc316238510433eafd0089e7de797be/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",致敬抗美援朝英雄 杨连第
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/beb13ca7753d471f89360580d7329edb/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",致敬抗美援朝英雄 张桃芳
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/b64b25c58ddd473a9520fe207448c670/2000.m3u8
 
 #EXTINF:-1 group-title="汉匈之战",汉匈之战 第一集
 http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/f321247ba9524eb1b4d8a8d8e77e6ba9/1200.m3u8
