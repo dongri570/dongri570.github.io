@@ -514,6 +514,16 @@ https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/acc316238510433eafd00
 https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/beb13ca7753d471f89360580d7329edb/2000.m3u8
 #EXTINF:-1 group-title="国家记忆",致敬抗美援朝英雄 张桃芳
 https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/b64b25c58ddd473a9520fe207448c670/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",中法建交纪实 密使来华
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/495dfd0a89594f8f890667b4ffa455f6/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",中法建交纪实 建交谈判
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/01153544751e4215b4f04c63e68e6e77/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",中法建交纪实 一波三折
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/e3a490d958cf40a5ae7b19299acdd388/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",中法建交纪实 冲破阻挠
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/1a0cc53de6ff499a97fc5a81e0ba4faf/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",中法建交纪实 行稳致远
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/008f1b6bc60e41d2870622e0fba6a3db/2000.m3u8
 
 #EXTINF:-1 group-title="汉匈之战",汉匈之战 第一集
 http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/f321247ba9524eb1b4d8a8d8e77e6ba9/1200.m3u8
