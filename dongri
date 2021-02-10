@@ -7413,3 +7413,24 @@ https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/d63dee9adf884702ae2cd
 https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/d505463400d6472d9fdba722841c17ba/2000.m3u8
 #EXTINF:-1 group-title="跨过鸭绿江",第40集
 https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/4a794e4005a944f694b0e15cf4de015e/2000.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="电影",炼狱1998CD1
+https://acfun.iqiyi-kuyun.com/ppvod/A7EDA55A0BFFEFC31D0A31C10AFB01E2.m3u8
+#EXTINF:-1 group-title="电影",炼狱1998CD2
+https://acfun.iqiyi-kuyun.com/ppvod/F841E825AAB542ED310A258EDD0F118B.m3u8
+#EXTINF:-1 group-title="电影",这个杀手不太冷
+https://videos.kkyun-iqiyi.com/ppvod/9BFD378E291B94F630CDB9FCA517BF31.m3u8
+#EXTINF:-1 group-title="电影",死亡飞车
+https://videos.kkyun-iqiyi.com/ppvod/ED220EC60DEC223389EDE3CC00A136F1.m3u8
+#EXTINF:-1 group-title="电影",红海行动
+https://video.kkyun-iqiyi.com/ppvod/2E32771548BCDE5D0C8A2AE843650B38.m3u8
+#EXTINF:-1 group-title="电影",狂暴巨兽
+https://video.kkyun-iqiyi.com/ppvod/D0054C96C0BAD6DD669251B079AA9921.m3u8
+#EXTINF:-1 group-title="电影",极恶非道
+https://acfun.iqiyi-kuyun.com/ppvod/14D42B44101599B120B05DD2C66AD98C.m3u8
+#EXTINF:-1 group-title="电影",极恶非道2
+https://acfun.iqiyi-kuyun.com/ppvod/7D03092A6350A55672ADFC0FAF3A6DBA.m3u8
+#EXTINF:-1 group-title="电影",锅盖头
+https://acfun.iqiyi-kuyun.com/ppvod/972B8E9C8D3C963DD8BB0B59D0E822B5.m3u8
+
+
