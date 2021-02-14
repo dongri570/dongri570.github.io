@@ -935,6 +935,15 @@ http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/3f1353dd95fd40dfb83b65
 http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/7c2579127f574f3c9f92c4b3aff8192f/1200.m3u8
 #EXTINF:-1 group-title="北京纪实-档案",西柏坡密电 第一季 毛泽东巧施空城计退敌十万兵
 http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/cdc79838c00c48fd8d67b5973b121e80/850.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",传奇间谍佐尔格
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/85eb913cf06a4e31b46a4e5d1a40ae19/2000.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",国际间谍网覆灭记
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/00ebc17e1ed6406e905ed4aac226f269/2000.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",美苏间谍 较量背后的交易
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/76bb5fbd5ece4459a1d7c8b5fe174088/2000.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",一九五三 美国间谍风云
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/eb822571f2a94ce5a336636fd770abbe/2000.m3u8
+
 #EXTINF:-1 group-title="红色特工秘档",熊向晖
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ad22e74265034f889c8d1cc70a11c20e/850.m3u8
 #EXTINF:-1 group-title="红色特工秘档",关露
@@ -1047,6 +1056,7 @@ http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/eb82ebf72c584f56839d
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c7c3a2cf735941d0a76fe6dc28c7177d/850.m3u8
 #EXTINF:-1 group-title="中苏外交档案解密",第十四集 兵戎相见
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/82ed6b891ffe498ab9e23ed87b3496a4/850.m3u8
+
 #EXTINF:-1 group-title="智慧中国",第一集 智慧前行
 http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/9bb5f3e507db44ceb1ba612c3aae4068/1200.m3u8
 #EXTINF:-1 group-title="智慧中国",第二集 智慧生活
