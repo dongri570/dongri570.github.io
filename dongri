@@ -70,7 +70,7 @@ http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226247/1.m3u
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视节目",江苏卫视蓝光
 http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226491/1.m3u8
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视节目",河南卫视蓝光
-http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225882/1.m3u8
+http://hdtv.lzu6.edu.cn/hls/hls80.m3u8
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视节目",山东卫视蓝光
 http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226487/1.m3u8
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视节目",湖北卫视蓝光
@@ -80,7 +80,7 @@ http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225873/1.m3u
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视节目",广东卫视蓝光
 http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226535/1.m3u8
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视节目",深圳卫视蓝光
-http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225897/1.m3u8
+http://hdtv.lzu6.edu.cn/hls/sztv.m3u8
 #EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视节目",辽宁卫视蓝光
 http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226500/1.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视节目",黑龙江卫视蓝光
@@ -92,11 +92,11 @@ http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226522/1.m3u
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视节目",四川卫视蓝光
 http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226407/1.m3u8
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视节目",重庆卫视蓝光
-http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225904/1.m3u8
+http://hdtv.lzu6.edu.cn/hls/cqtv.m3u8
 #EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="卫视节目",厦门卫视蓝光
 http://39.134.39.39/PLTV/88888888/224/3221226317/index.m3u8
 #EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视节目",海南卫视蓝光
-http://39.134.157.205/PLTV/88888888/224/3221225624/index.m3u8
+http://hdtv.lzu6.edu.cn/hls/lytv.m3u8
 #EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视节目",贵州卫视蓝光
 http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226527/1.m3u8
 #EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视节目",广西卫视高清
@@ -125,6 +125,7 @@ http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226544/1.m3u
 http://hdtv.lzu6.edu.cn/hls/fhzx.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="卫视节目",凤凰卫视
 http://hdtv.lzu6.edu.cn/hls/fhzw.m3u8
+
 #EXTINF:-1 group-title="综合频道",爱军武
 http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230083/01.m3u8
 #EXTINF:-1 group-title="综合频道",爱解密
