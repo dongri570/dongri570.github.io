@@ -96,6 +96,11 @@ NNM纪录片,http://hdtv.haust.edu.cn/hls/hls66.m3u8
 探索,http://hdtv.haust.edu.cn/hls/discovery.m3u8
 喜剧影院,http://hdtv.haust.edu.cn/hls/hls6.m3u8
 国学,http://hdtv.haust.edu.cn/hls/hls100.m3u8
+国家天空,#genre#
+国家天空 1 穹庐,https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/2e8bafe2831a4203f8a64b8f9315f132/850.m3u8
+国家天空 2 星群,https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/8ff61fcdaedf4e94a2c6709a32d95c0c/850.m3u8
+国家天空 3 锋刃,https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/8c1dd707211f4734e234b1afa52bec70/850.m3u8
+国家天空 4 惊雷,https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/a3553840d4ac4fe4d466dd8bb10f357e/850.m3u8
 国家记忆 新中国1949,#genre#
 第一集 和平解放前夜,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/a9ac55ff4d8141839cd59274814a0303/2000.m3u8
 第二集 中共中央进北平,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/de7a8148e75e4436ae188535851615c7/2000.m3u8
