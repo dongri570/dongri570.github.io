@@ -7576,18 +7576,19 @@ https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/d63dee9adf884702ae2cd
 https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/d505463400d6472d9fdba722841c17ba/2000.m3u8
 #EXTINF:-1 group-title="跨过鸭绿江",第40集
 https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/4a794e4005a944f694b0e15cf4de015e/2000.m3u8
+#EXTM3U
 #EXTINF:-1 group-title="觉醒年代",第01集
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/177675fc905d4b7a8cf82137e91f32ce/2000.m3u8
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/495785e45b31429cb4a26419972c9694/2000.m3u8
 #EXTINF:-1 group-title="觉醒年代",第02集
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/7246b1472a164ae08e15342b921c316b/2000.m3u8
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/91df9c7bdc67478aba19c7392d0a6dab/2000.m3u8
 #EXTINF:-1 group-title="觉醒年代",第03集
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/6993add8ac1744aca1f26054938961d0/2000.m3u8
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/9ac67bc2c5fa4a8f82b806868eccd78e/2000.m3u8
 #EXTINF:-1 group-title="觉醒年代",第04集
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/05c9ee130cfb428198001a8c26a3a778/2000.m3u8
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/ec4d0ebc609145448699e3463eabc845/2000.m3u8
 #EXTINF:-1 group-title="觉醒年代",第05集
 https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/d437ae6052aa4a49a9fd73738b5a42b4/2000.m3u8
 #EXTINF:-1 group-title="觉醒年代",第06集
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/1a1ea3006a6e4383ba009d213fb484da/2000.m3u8
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/ee4e87f584504f19a3ef325d653c99a9/2000.m3u8
 #EXTINF:-1 group-title="觉醒年代",第07集
 https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/ef2a01024f2e4250985e71182c509785/2000.m3u8
 #EXTINF:-1 group-title="觉醒年代",第08集
@@ -7597,55 +7598,68 @@ https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/35a0766417464f64ab309
 #EXTINF:-1 group-title="觉醒年代",第10集
 https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/0a15ac704d9f4825b9184494188c4635/2000.m3u8
 #EXTINF:-1 group-title="觉醒年代",第11集
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/e459aac885874c3d9197d30e322efe4a/2000.m3u8
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/e75481a6222b44b9a7fcd2b53203041d/2000.m3u8
 #EXTINF:-1 group-title="觉醒年代",第12集
 https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/d01e4d2ca3f44b5b8ebc0c65fae0ba60/2000.m3u8
 #EXTINF:-1 group-title="觉醒年代",第13集
 https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/c2f67ac890d84c3e9ef6190a111fa715/2000.m3u8
 #EXTINF:-1 group-title="觉醒年代",第14集
 https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/38ba2aecd3e444388ff91491c5586a63/2000.m3u8
-
-#EXTINF:-1 group-title="电影",炼狱1998CD1
-https://acfun.iqiyi-kuyun.com/ppvod/A7EDA55A0BFFEFC31D0A31C10AFB01E2.m3u8
-#EXTINF:-1 group-title="电影",炼狱1998CD2
-https://acfun.iqiyi-kuyun.com/ppvod/F841E825AAB542ED310A258EDD0F118B.m3u8
-#EXTINF:-1 group-title="电影",这个杀手不太冷
-https://videos.kkyun-iqiyi.com/ppvod/9BFD378E291B94F630CDB9FCA517BF31.m3u8
-#EXTINF:-1 group-title="电影",死亡飞车
-https://videos.kkyun-iqiyi.com/ppvod/ED220EC60DEC223389EDE3CC00A136F1.m3u8
-#EXTINF:-1 group-title="电影",红海行动
-https://video.kkyun-iqiyi.com/ppvod/2E32771548BCDE5D0C8A2AE843650B38.m3u8
-#EXTINF:-1 group-title="电影",狂暴巨兽
-https://video.kkyun-iqiyi.com/ppvod/D0054C96C0BAD6DD669251B079AA9921.m3u8
-#EXTINF:-1 group-title="电影",大佬
-https://v3.dious.cc/20210127/73QHw1cH/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="电影",极恶非道
-https://acfun.iqiyi-kuyun.com/ppvod/14D42B44101599B120B05DD2C66AD98C.m3u8
-#EXTINF:-1 group-title="电影",极恶非道2
-https://acfun.iqiyi-kuyun.com/ppvod/7D03092A6350A55672ADFC0FAF3A6DBA.m3u8
-#EXTINF:-1 group-title="电影",极恶非道3
-https://yushou.qitu-zuida.com/20180429/4262_db3a8548/800k/hls/index.m3u8
-#EXTINF:-1 group-title="电影",锅盖头
-https://acfun.iqiyi-kuyun.com/ppvod/972B8E9C8D3C963DD8BB0B59D0E822B5.m3u8
-#EXTINF:-1 group-title="电影",兵临城下
-https://vip.let-kuyun.com/ppvod/F5843BAACBBF55CDFEDC880F9BE9CEF3.m3u8
-#EXTINF:-1 group-title="电影",毒液 致命守护者
-https://video.kkyun-iqiyi.com/ppvod/0A894F1E36D897C6CA2FF92D247F25C7.m3u8
-#EXTINF:-1 group-title="电影",黑鹰坠落
-https://www.nmgxwhz.com:65/20200416/TicbqVTp/1200kb/hls/index.m3u8
-#EXTINF:-1 group-title="电影",特种兵之战狼
-https://video.kkyun-iqiyi.com/ppvod/D801420EC0EDD2BF63A5FDA387F23774.m3u8
-#EXTINF:-1 group-title="电影",战狼2
-https://videos.kkyun-iqiyi.com/ppvod/1E02F1DAE878ADC01C38901DBFF94EB4.m3u8
-#EXTINF:-1 group-title="电影",伸冤人
-https://video.kkyun-iqiyi.com/ppvod/766E1D0F3F3BDD129A287FD10A16C0EB.m3u8
-#EXTINF:-1 group-title="电影",铁甲钢拳
-https://v3.dious.cc/20201123/570ssJEd/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="电影",终结者6：黑暗命运
-https://you.tube-kuyun.com/20200312/4811_e7fccb86/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="电影",敢死队
-http://youku.cdn-56.com/20180126/sz99oUG9/800kb/hls/index.m3u8
-#EXTINF:-1 group-title="电影",敢死队2
-https://v3.dious.cc/20210112/nxANfnP6/index.m3u8
-#EXTINF:-1 group-title="电影",恐袭波士顿
-https://v2.dious.cc/20201102/T9YqNYsc/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="觉醒年代",第15集
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/a466a6f9d229481e9d25d5717d4cec34/2000.m3u8
+#EXTINF:-1 group-title="觉醒年代",第16集
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/78c9a8e3a86c4f6e81c56a5a03b10e0b/2000.m3u8
+#EXTINF:-1 group-title="觉醒年代",第17集
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/5b8d3849669a4c43892eb04e477de46a/2000.m3u8
+#EXTINF:-1 group-title="觉醒年代",第18集
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/77af277acb1b4a8f8cfac2f2edfc9851/2000.m3u8
+#EXTINF:-1 group-title="觉醒年代",第19集
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/fe855010f2b64a28b97c6c571c110201/2000.m3u8
+#EXTINF:-1 group-title="觉醒年代",第20集
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/0e249c017aed40478a4abd3efad05f3c/2000.m3u8
+#EXTINF:-1 group-title="觉醒年代",第21集
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/fd03c9ed8f894fc0bd84da59aa93fb10/2000.m3u8
+#EXTINF:-1 group-title="觉醒年代",第22集
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/022d0d5561d64b62aced2ec4f5af82b0/2000.m3u8
+#EXTINF:-1 group-title="觉醒年代",第23集
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/3a6a91f6a9b9445c854f2e97f17e652b/2000.m3u8
+#EXTINF:-1 group-title="觉醒年代",第24集
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/fd001a0406914a4dbed7cf65bba3469a/2000.m3u8
+#EXTINF:-1 group-title="觉醒年代",第25集
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/8e89efdf41304f728ae6eb38d0c87724/2000.m3u8
+#EXTINF:-1 group-title="觉醒年代",第26集
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/bd792cd8b84c4327afe9b8967e852273/2000.m3u8
+#EXTINF:-1 group-title="觉醒年代",第27集
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/becbbd35645b48b9b91c84e6abab8af8/2000.m3u8
+#EXTINF:-1 group-title="觉醒年代",第28集
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/437eb717bd41488eb60008830f7df68c/2000.m3u8
+#EXTINF:-1 group-title="觉醒年代",第29集
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/70706781783e49b78f6e1827c5782429/2000.m3u8
+#EXTINF:-1 group-title="觉醒年代",第30集
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/363df46ff3694c19a88ea88003e36a7f/2000.m3u8
+#EXTINF:-1 group-title="觉醒年代",第31集
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/1f8bdd75511e4dc5bf2e4152a4e1bd09/2000.m3u8
+#EXTINF:-1 group-title="觉醒年代",第32集
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/fb78f9c7c4804917bb38343b271fde8e/2000.m3u8
+#EXTINF:-1 group-title="觉醒年代",第33集
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/b0d216a0b54541098222e47f4b14948a/2000.m3u8
+#EXTINF:-1 group-title="觉醒年代",第34集
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/c2cefc43294f4822b1bf8ff383ac99de/2000.m3u8
+#EXTINF:-1 group-title="觉醒年代",第35集
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/4ee72c7e920d4f9a9e6c506aff466849/2000.m3u8
+#EXTINF:-1 group-title="觉醒年代",第36集
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/33f7e93eb26444999b232b8124577194/2000.m3u8
+#EXTINF:-1 group-title="觉醒年代",第37集
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/f105d30295184806a2d0d5474047fa4e/2000.m3u8
+#EXTINF:-1 group-title="觉醒年代",第38集
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/c4576e5dffbd43a1a66d8d0ad02b74ba/2000.m3u8
+#EXTINF:-1 group-title="觉醒年代",第39集
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/604f29de63c44acf90acc504a4634b02/2000.m3u8
+#EXTINF:-1 group-title="觉醒年代",第40集
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/dd0ccc7630064822aad491ad28612a3f/2000.m3u8
+#EXTINF:-1 group-title="觉醒年代",第41集
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/3a30038f16474688a6089daf0e122f24/2000.m3u8
+#EXTINF:-1 group-title="觉醒年代",第42集
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/b6f3ad4680184b78b430d87539f7d933/2000.m3u8
+#EXTINF:-1 group-title="觉醒年代",第43集
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/0d6ea8968b404f7c8d8aa7201073dc0b/2000.m3u8
