@@ -1,156 +1,145 @@
 #EXTM3U
-#EXTINF:-1 group-title="央视节目",CCTV-1综合
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视节目",CCTV-1综合
 http://hdtv.lzu6.edu.cn/hls/cctv1hd.m3u8
-#EXTINF:-1 group-title="央视节目",CCTV-2财经
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视节目",CCTV-2财经
 http://hdtv.lzu6.edu.cn/hls/cctv2hd.m3u8
-#EXTINF:-1 group-title="央视节目",CCTV-3综艺
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视节目",CCTV-3综艺
 http://hdtv.lzu6.edu.cn/hls/hls74a3.m3u8
-#EXTINF:-1 group-title="央视节目",CCTV-4中文国际
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视节目",CCTV-4中文国际
 http://hdtv.lzu6.edu.cn/hls/hls68a40.m3u8
-#EXTINF:-1 group-title="央视节目",CCTV-5体育
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视节目",CCTV-5体育
 http://hdtv.lzu6.edu.cn/hls/hls257.m3u8
-#EXTINF:-1 group-title="央视节目",CCTV-5+体育
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视节目",CCTV-5+体育
 http://hdtv.lzu6.edu.cn/hls/jlu_cctv5p.m3u8
-#EXTINF:-1 group-title="央视节目",CCTV-6电影
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视节目",CCTV-6电影
 http://hdtv.lzu6.edu.cn/hls/cctv6hd.m3u8
-#EXTINF:-1 group-title="央视节目",CCTV-7国防军事
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视节目",CCTV-7国防军事
 http://hdtv.lzu6.edu.cn/hls/cctv7hd.m3u8
-#EXTINF:-1 group-title="央视节目",CCTV-8电视剧
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视节目",CCTV-8电视剧
 http://hdtv.lzu6.edu.cn/hls/cctv8hd.m3u8
-#EXTINF:-1 group-title="央视节目",CCTV-9纪录
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视节目",CCTV-9纪录
 http://hdtv.lzu6.edu.cn/hls/cctv9hd.m3u8
-#EXTINF:-1 group-title="央视节目",CCTV-10科教
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视节目",CCTV-10科教
 http://hdtv.lzu6.edu.cn/hls/jlu_cctv10hd.m3u8
-#EXTINF:-1 group-title="央视节目",CCTV-11戏曲
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视节目",CCTV-11戏曲
 http://hdtv.lzu6.edu.cn/hls/hls186a11.m3u8
-#EXTINF:-1 group-title="央视节目",CCTV-12高清
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视节目",CCTV-12高清
 http://hdtv.lzu6.edu.cn/hls/jlu_cctv12hd.m3u8
-#EXTINF:-1 group-title="央视节目",CCTV-13新闻
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视节目",CCTV-13新闻
 http://hdtv.lzu6.edu.cn/hls/jlu_cctv13.m3u8
-#EXTINF:-1 group-title="央视节目",CCTV-14少儿
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视节目",CCTV-14少儿
 http://hdtv.lzu6.edu.cn/hls/cctv14hd.m3u8
-#EXTINF:-1 group-title="央视节目",CCTV-15音乐
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视节目",CCTV-15音乐
 http://hdtv.lzu6.edu.cn/hls/hls186a15.m3u8
-#EXTINF:-1 group-title="央视节目",CGTN
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视节目",CGTN
 http://hdtv.lzu6.edu.cn/hls/hls185a571.m3u8
-#EXTINF:-1 group-title="央视节目",CCTV-17农业农村
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视节目",CCTV-17农业农村
 http://hdtv.lzu6.edu.cn/hls/jlu_cctv17.m3u8
-#EXTINF:-1 group-title="卫视节目",北京卫视蓝光
+
+#EXTINF:-1 tvg-id="6594" tvg-name="老故事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png" group-title="央视节目",CCTV老故事
+http://hdtv.lzu6.edu.cn/hls/hls113.m3u8
+#EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="央视节目",CCTV风云足球
+http://hdtv.lzu6.edu.cn/hls/hls20.m3u8
+#EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="央视节目",CCTV兵器科技
+http://hdtv.lzu6.edu.cn/hls/hls23.m3u8
+#EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="央视节目",CCTV女性时尚
+http://hdtv.lzu6.edu.cn/hls/hls44.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视节目",CCTV央视文化
+http://hdtv.lzu6.edu.cn/hls/hls61.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视节目",北京卫视蓝光
 http://hdtv.lzu6.edu.cn/hls/btv1.m3u8
-#EXTINF:-1 group-title="卫视节目",BTV文艺
+#EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" group-title="卫视节目",BTV文艺
 http://hdtv.lzu6.edu.cn/hls/btv2.m3u8
-#EXTINF:-1 group-title="卫视节目",北京科教
+#EXTINF:-1 tvg-id="1874" tvg-name="BTV科教" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV科教.png" group-title="卫视节目",北京科教
 http://hdtv.lzu6.edu.cn/hls/btv3.m3u8
-#EXTINF:-1 group-title="卫视节目",北京影视
+#EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" group-title="卫视节目",北京影视
 http://hdtv.lzu6.edu.cn/hls/btv4.m3u8
-#EXTINF:-1 group-title="卫视节目",BTV财经
+#EXTINF:-1 tvg-id="1876" tvg-name="BTV财经" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV财经.png" group-title="卫视节目",BTV财经
 http://hdtv.lzu6.edu.cn/hls/btv5.m3u8
-#EXTINF:-1 group-title="卫视节目",北京生活
+#EXTINF:-1 tvg-id="1878" tvg-name="BTV生活" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV生活.png" group-title="卫视节目",北京生活
 http://hdtv.lzu6.edu.cn/hls/btv7.m3u8
-#EXTINF:-1 group-title="卫视节目",北京青年
+#EXTINF:-1 tvg-id="1879" tvg-name="BTV青年" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV青年.png" group-title="卫视节目",北京青年
 http://hdtv.lzu6.edu.cn/hls/btv8.m3u8
-#EXTINF:-1 group-title="卫视节目",北京新闻
+#EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="卫视节目",北京新闻
 http://hdtv.lzu6.edu.cn/hls/btv9hd.m3u8
-#EXTINF:-1 group-title="卫视节目",北京卡酷动画卫视
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="卫视节目",北京卡酷动画卫视
 http://hdtv.lzu6.edu.cn/hls/hls57.m3u8
-#EXTINF:-1 group-title="卫视节目",北京冬奥纪实
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="卫视节目",北京冬奥纪实
 http://hdtv.lzu6.edu.cn/hls/btv11.m3u8
-#EXTINF:-1 group-title="卫视节目",天津卫视蓝光
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视节目",天津卫视蓝光
 http://hdtv.lzu6.edu.cn/hls/hls69a22.m3u8
-#EXTINF:-1 group-title="卫视节目",河北卫视蓝光
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视节目",河北卫视蓝光
 http://hdtv.lzu6.edu.cn/hls/jlu_hbhd1.m3u8
-#EXTINF:-1 group-title="卫视节目",东方卫视蓝光
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视节目",东方卫视蓝光
 http://hdtv.lzu6.edu.cn/hls/dfhd.m3u8
-#EXTINF:-1 group-title="卫视节目",东南卫视蓝光
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视节目",东南卫视蓝光
 http://hdtv.lzu6.edu.cn/hls/dnhd.m3u8
-#EXTINF:-1 group-title="卫视节目",湖南卫视蓝光
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视节目",湖南卫视蓝光
 http://hdtv.lzu6.edu.cn/hls/hunanhd.m3u8
-#EXTINF:-1 group-title="卫视节目",浙江卫视蓝光
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视节目",浙江卫视蓝光
 http://hdtv.lzu6.edu.cn/hls/zjhd.m3u8
-#EXTINF:-1 group-title="卫视节目",江苏卫视蓝光
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视节目",江苏卫视蓝光
 http://hdtv.lzu6.edu.cn/hls/jshd.m3u8
-#EXTINF:-1 group-title="卫视节目",河南卫视蓝光
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视节目",河南卫视蓝光
 http://hdtv.lzu6.edu.cn/hls/hls80.m3u8
-#EXTINF:-1 group-title="卫视节目",山东卫视蓝光
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视节目",山东卫视蓝光
 http://hdtv.lzu6.edu.cn/hls/hls131.m3u8
-#EXTINF:-1 group-title="卫视节目",湖北卫视蓝光
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视节目",湖北卫视蓝光
 http://hdtv.lzu6.edu.cn/hls/hls124.m3u8
-#EXTINF:-1 group-title="卫视节目",安徽卫视高清
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视节目",安徽卫视高清
 http://hdtv.lzu6.edu.cn/hls/ahhd.m3u8
-#EXTINF:-1 group-title="卫视节目",广东卫视蓝光
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视节目",广东卫视蓝光
 http://hdtv.lzu6.edu.cn/hls/hls70a19.m3u8
-#EXTINF:-1 group-title="卫视节目",深圳卫视蓝光
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视节目",深圳卫视蓝光
 http://hdtv.lzu6.edu.cn/hls/sztv.m3u8
-#EXTINF:-1 group-title="卫视节目",辽宁卫视蓝光
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视节目",辽宁卫视蓝光
 http://hdtv.lzu6.edu.cn/hls/lnhd.m3u8
-#EXTINF:-1 group-title="卫视节目",黑龙江卫视蓝光
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视节目",黑龙江卫视蓝光
 http://hdtv.lzu6.edu.cn/hls/hljhd.m3u8
-#EXTINF:-1 group-title="卫视节目",吉林卫视蓝光
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视节目",吉林卫视蓝光
 http://hdtv.lzu6.edu.cn/hls/jlhd.m3u8
-#EXTINF:-1 group-title="卫视节目",江西卫视蓝光
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视节目",江西卫视蓝光
 http://hdtv.lzu6.edu.cn/hls/jxtv.m3u8
-#EXTINF:-1 group-title="卫视节目",四川卫视蓝光
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视节目",四川卫视蓝光
 http://hdtv.lzu6.edu.cn/hls/hls185.m3u8
-#EXTINF:-1 group-title="卫视节目",重庆卫视蓝光
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视节目",重庆卫视蓝光
 http://hdtv.lzu6.edu.cn/hls/cqtv.m3u8
-#EXTINF:-1 group-title="卫视节目",厦门卫视蓝光
+#EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="卫视节目",厦门卫视蓝光
 http://hdtv.lzu6.edu.cn/hls/hls186a454.m3u8
-#EXTINF:-1 group-title="卫视节目",海南卫视蓝光
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视节目",海南卫视蓝光
 http://hdtv.lzu6.edu.cn/hls/lytv.m3u8
-#EXTINF:-1 group-title="卫视节目",贵州卫视蓝光
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视节目",贵州卫视蓝光
 http://hdtv.lzu6.edu.cn/hls/hls186a71.m3u8
-#EXTINF:-1 group-title="卫视节目",广西卫视高清
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视节目",广西卫视高清
 http://hdtv.lzu6.edu.cn/hls/gxtv.m3u8
-#EXTINF:-1 group-title="卫视节目",甘肃卫视高清
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视节目",甘肃卫视高清
 http://hdtv.lzu6.edu.cn/hls/hls50.m3u8
-#EXTINF:-1 group-title="卫视节目",青海卫视高清
+#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视节目",青海卫视高清
 http://hdtv.lzu6.edu.cn/hls/hls101.m3u8
-#EXTINF:-1 group-title="卫视节目",山西卫视高清
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视节目",山西卫视高清
 http://hdtv.lzu6.edu.cn/hls/sxrtv.m3u8
-#EXTINF:-1 group-title="卫视节目",云南卫视高清
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视节目",云南卫视高清
 http://hdtv.lzu6.edu.cn/hls/hls40.m3u8
-#EXTINF:-1 group-title="卫视节目",陕西卫视高清
+#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视节目",陕西卫视高清
 http://hdtv.lzu6.edu.cn/hls/sxtv.m3u8
-#EXTINF:-1 group-title="卫视节目",宁夏卫视高清
+#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="卫视节目",宁夏卫视高清
 http://hdtv.lzu6.edu.cn/hls/nxtv.m3u8
-#EXTINF:-1 group-title="卫视节目",内蒙卫视高清
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视节目",内蒙卫视高清
 http://hdtv.lzu6.edu.cn/hls/nmtv.m3u8
-#EXTINF:-1 group-title="卫视节目",新疆卫视高清
+#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视节目",新疆卫视高清
 http://hdtv.lzu6.edu.cn/hls/xjtv.m3u8
-#EXTINF:-1 group-title="卫视节目",西藏卫视高清
+#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视节目",西藏卫视高清
 http://hdtv.lzu6.edu.cn/hls/hls186a481.m3u8
-#EXTINF:-1 group-title="卫视节目",三沙卫视高清
+#EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="卫视节目",三沙卫视高清
 http://hdtv.lzu6.edu.cn/hls/sstv.m3u8
-#EXTINF:-1 group-title="卫视节目",凤凰资讯
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="卫视节目",凤凰资讯
 http://hdtv.lzu6.edu.cn/hls/hls255.m3u8
-#EXTINF:-1 group-title="卫视节目",凤凰卫视
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="卫视节目",凤凰卫视
 http://hdtv.lzu6.edu.cn/hls/fhzw.m3u8
-#EXTINF:-1 group-title="卫视节目",凤凰电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视节目",凤凰电影
 http://hdtv.lzu6.edu.cn/hls/fhdy.m3u8
-#EXTINF:-1 group-title="综合频道",爱军武
-http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230083/01.m3u8
-#EXTINF:-1 group-title="综合频道",爱解密
-http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230080/01.m3u8
-#EXTINF:-1 group-title="综合频道",爱历史
-http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230100/01.m3u8
-#EXTINF:-1 group-title="综合频道",爱美食
-http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230115/01.m3u8
-#EXTINF:-1 group-title="综合频道",爱探索
-http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230112/index.m3u8
-#EXTINF:-1 group-title="综合频道",爱科学
-http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230106/index.m3u8
-#EXTINF:-1 group-title="综合频道",爱旅行
-http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8
-#EXTINF:-1 group-title="综合频道",爱猎奇
-http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230097/index.m3u8
-#EXTINF:-1 group-title="综合频道",爱世界
-http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230046/01.m3u8
-#EXTINF:-1 group-title="NNM影院",CCTV怀旧剧场
-http://hdtv.haust.edu.cn/hls/hjjctv.m3u8
-#EXTINF:-1 group-title="NNM影院",CHC动作电影
-http://hdtv.haust.edu.cn/hls/chcatv.m3u8
-#EXTINF:-1 group-title="NNM影院",CHC家庭影院
-http://hdtv.haust.edu.cn/hls/chctv.m3u8
 #EXTINF:-1 group-title="NNM影院",CHC高清电影
 http://hdtv.haust.edu.cn/hls/chchd.m3u8
 #EXTINF:-1 group-title="NNM影院",NNM大众影视
@@ -179,16 +168,478 @@ http://hdtv.haust.edu.cn/hls/hls32.m3u8
 http://hdtv.haust.edu.cn/hls/hls89.m3u8
 #EXTINF:-1 group-title="NNM影院",NNM纪录片
 http://hdtv.haust.edu.cn/hls/hls66.m3u8
-#EXTINF:-1 group-title="NNM影院",星影
-http://hdtv.haust.edu.cn/hls/hls59.m3u8
-#EXTINF:-1 group-title="NNM影院",上海纪实人文
-http://hdtv.haust.edu.cn/hls/docuchina.m3u8
-#EXTINF:-1 group-title="NNM影院",探索
-http://hdtv.haust.edu.cn/hls/discovery.m3u8
-#EXTINF:-1 group-title="NNM影院",喜剧影院
-http://hdtv.haust.edu.cn/hls/hls6.m3u8
-#EXTINF:-1 group-title="NNM影院",国学
-http://hdtv.haust.edu.cn/hls/hls100.m3u8
+#EXTINF:-1 group-title="2019阅兵盛典",阅兵盛典
+https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/90dafd99f514495d9e284002eb6b85db/1200.m3u8?maxbr=2048
+#EXTINF:-1 group-title="中国通史",第01集 中华道路
+https://mhqiyi.com/20200811/uxJ8IjxT/index.m3u8
+#EXTINF:-1 group-title="中国通史",第02集 中华先祖
+https://mhqiyi.com/20200811/bOshY1ii/index.m3u8
+#EXTINF:-1 group-title="中国通史",第03集 农业起源
+https://mhqiyi.com/20200811/vSW3obog/index.m3u8
+#EXTINF:-1 group-title="中国通史",第04集 文明起源
+https://mhqiyi.com/20200811/4r02H5cm/index.m3u8
+#EXTINF:-1 group-title="中国通史",第05集 邦国时代
+https://mhqiyi.com/20200811/BCmwP9GL/index.m3u8
+#EXTINF:-1 group-title="中国通史",第06集 夏王朝觅踪
+https://mhqiyi.com/20200811/DtMNnDtO/index.m3u8
+#EXTINF:-1 group-title="中国通史",第07集 殷商兴亡
+https://mhqiyi.com/20200811/MIs4DmcE/index.m3u8
+#EXTINF:-1 group-title="中国通史",第08集 商代文明
+https://mhqiyi.com/20200811/ow6Fzlxf/index.m3u8
+#EXTINF:-1 group-title="中国通史",第09集 武王克商
+https://mhqiyi.com/20200811/JGvrbFoZ/index.m3u8
+#EXTINF:-1 group-title="中国通史",第10集 周公摄政
+https://mhqiyi.com/20200811/3oJHx7Yg/index.m3u8
+#EXTINF:-1 group-title="中国通史",第11集 周王室的衰落
+https://mhqiyi.com/20200811/PWGt02en/index.m3u8
+#EXTINF:-1 group-title="中国通史",第12集 春秋争霸
+https://mhqiyi.com/20200811/TSikL1Cl/index.m3u8
+#EXTINF:-1 group-title="中国通史",第13集 孔子
+https://mhqiyi.com/20200811/uT26TKMD/index.m3u8
+#EXTINF:-1 group-title="中国通史",第14集 列国变法
+https://mhqiyi.com/20200811/H7Pj4rec/index.m3u8
+#EXTINF:-1 group-title="中国通史",第15集 战国七雄
+https://mhqiyi.com/20200811/R1ySRJXR/index.m3u8
+#EXTINF:-1 group-title="中国通史",第16集 诸子百家
+https://mhqiyi.com/20200811/87pW9sMQ/index.m3u8
+#EXTINF:-1 group-title="中国通史",第17集 秦国崛起
+https://mhqiyi.com/20200811/vMYJEz4u/index.m3u8
+#EXTINF:-1 group-title="中国通史",第18集 秦始皇统一中国
+https://mhqiyi.com/20200811/4GXhHr5p/index.m3u8
+#EXTINF:-1 group-title="中国通史",第19集 楚汉战争
+https://mhqiyi.com/20200811/ULr1Qlhl/index.m3u8
+#EXTINF:-1 group-title="中国通史",第20集 郡国并行
+https://mhqiyi.com/20200811/9izaVkFv/index.m3u8
+#EXTINF:-1 group-title="中国通史",第21集 文景之治
+https://mhqiyi.com/20200811/19b4rtah/index.m3u8
+#EXTINF:-1 group-title="中国通史",第22集 汉武帝
+https://mhqiyi.com/20200811/HHdjDAfQ/index.m3u8
+#EXTINF:-1 group-title="中国通史",第23集 两汉经学
+https://mhqiyi.com/20200811/W0FE9SMn/index.m3u8
+#EXTINF:-1 group-title="中国通史",第24集 昭宣政治
+https://mhqiyi.com/20200811/CeOvLucw/index.m3u8
+#EXTINF:-1 group-title="中国通史",第25集 王莽改制
+https://mhqiyi.com/20200811/DRwThdRy/index.m3u8
+#EXTINF:-1 group-title="中国通史",第26集 光武中兴
+https://mhqiyi.com/20200811/yJEANvIP/index.m3u8
+#EXTINF:-1 group-title="中国通史",第27集 丝绸之路
+https://mhqiyi.com/20200811/Nwd6LX9j/index.m3u8
+#EXTINF:-1 group-title="中国通史",第28集 清议与党锢
+https://mhqiyi.com/20200811/c1HMimu8/index.m3u8
+#EXTINF:-1 group-title="中国通史",第29集 黄巾起义
+https://mhqiyi.com/20200811/P57i5s1v/index.m3u8
+#EXTINF:-1 group-title="中国通史",第30集 三国鼎立
+https://mhqiyi.com/20200811/OTVfoAzl/index.m3u8
+#EXTINF:-1 group-title="中国通史",第31集 诸葛亮治蜀
+https://mhqiyi.com/20200811/xJBkeODN/index.m3u8
+#EXTINF:-1 group-title="中国通史",第32集 西晋统一
+https://mhqiyi.com/20200811/5GWsev7V/index.m3u8
+#EXTINF:-1 group-title="中国通史",第33集 魏晋风度
+https://mhqiyi.com/20200811/PXdG0pwC/index.m3u8
+#EXTINF:-1 group-title="中国通史",第34集 门阀政治
+https://mhqiyi.com/20200811/dV5GRv0G/index.m3u8
+#EXTINF:-1 group-title="中国通史",第35集 梁武帝治国
+https://mhqiyi.com/20200811/mCnZKeQz/index.m3u8
+#EXTINF:-1 group-title="中国通史",第36集 孝文帝改革
+https://mhqiyi.com/20200811/VhlAinF5/index.m3u8
+#EXTINF:-1 group-title="中国通史",第37集 北周武帝
+https://mhqiyi.com/20200811/YEDdZwQC/index.m3u8
+#EXTINF:-1 group-title="中国通史",第38集 陈朝兴亡
+https://mhqiyi.com/20200811/ILnAX36h/index.m3u8
+#EXTINF:-1 group-title="中国通史",第39集 魏晋佛教
+https://mhqiyi.com/20200811/22m9O31Z/index.m3u8
+#EXTINF:-1 group-title="中国通史",第40集 再造统一
+https://mhqiyi.com/20200811/ORt3S3py/index.m3u8
+#EXTINF:-1 group-title="中国通史",第41集 炀帝功过
+https://mhqiyi.com/20200811/ziAQ80qg/index.m3u8
+#EXTINF:-1 group-title="中国通史",第42集 贞观之治
+https://mhqiyi.com/20200811/pgu7stoZ/index.m3u8
+#EXTINF:-1 group-title="中国通史",第43集 武则天
+https://mhqiyi.com/20200811/0YZlb9aH/index.m3u8
+#EXTINF:-1 group-title="中国通史",第44集 开天盛世
+https://mhqiyi.com/20200811/MmptxhY2/index.m3u8
+#EXTINF:-1 group-title="中国通史",第45集 安史之乱
+https://mhqiyi.com/20200811/1SSRlN5K/index.m3u8
+#EXTINF:-1 group-title="中国通史",第46集 中晚唐的困局
+https://mhqiyi.com/20200811/ucGvuXWm/index.m3u8
+#EXTINF:-1 group-title="中国通史",第47集 世界都会长安
+https://mhqiyi.com/20200811/AVn5UkNC/index.m3u8
+#EXTINF:-1 group-title="中国通史",第48集 吐蕃兴衰
+https://mhqiyi.com/20200811/n1H6bilb/index.m3u8
+#EXTINF:-1 group-title="中国通史",第49集 敦煌
+https://mhqiyi.com/20200811/rx8nhMQQ/index.m3u8
+#EXTINF:-1 group-title="中国通史",第50集 唐朝的对外关系
+https://mhqiyi.com/20200811/2r3Q2Ly4/index.m3u8
+#EXTINF:-1 group-title="中国通史",第51集 唐代宗教
+https://mhqiyi.com/20200811/wta8Xrq6/index.m3u8
+#EXTINF:-1 group-title="中国通史",第52集 五代十国
+https://mhqiyi.com/20200811/UKcT7UMx/index.m3u8
+#EXTINF:-1 group-title="中国通史",第53集 宋太祖
+https://mhqiyi.com/20200811/9IW8TTw8/index.m3u8
+#EXTINF:-1 group-title="中国通史",第54集 澶渊之盟
+https://mhqiyi.com/20200811/0lhYP6uF/index.m3u8
+#EXTINF:-1 group-title="中国通史",第55集 与士大夫共治天下
+https://mhqiyi.com/20200811/03EMB7x8/index.m3u8
+#EXTINF:-1 group-title="中国通史",第56集 王安石变法
+https://mhqiyi.com/20200811/CUxRo2qE/index.m3u8
+#EXTINF:-1 group-title="中国通史",第57集 靖康之难
+https://mhqiyi.com/20200811/5aaIyheb/index.m3u8
+#EXTINF:-1 group-title="中国通史",第58集 宋金和战
+https://mhqiyi.com/20200811/63ko7wPE/index.m3u8
+#EXTINF:-1 group-title="中国通史",第59集 偏安东南
+https://mhqiyi.com/20200811/64x6SAQL/index.m3u8
+#EXTINF:-1 group-title="中国通史",第60集 东京梦华
+https://mhqiyi.com/20200811/MbFWxYqk/index.m3u8
+#EXTINF:-1 group-title="中国通史",第61集 宋代新儒学
+https://mhqiyi.com/20200811/sR3wapBB/index.m3u8
+#EXTINF:-1 group-title="中国通史",第62集 宋代文化
+https://mhqiyi.com/20200811/jU3z5ong/index.m3u8
+#EXTINF:-1 group-title="中国通史",第63集 契丹兴起
+https://mhqiyi.com/20200811/3ORiM98c/index.m3u8
+#EXTINF:-1 group-title="中国通史",第64集 西辽建国
+https://mhqiyi.com/20200811/hSWvzP0S/index.m3u8
+#EXTINF:-1 group-title="中国通史",第65集 完颜阿骨打
+https://mhqiyi.com/20200811/JD1DWIi2/index.m3u8
+#EXTINF:-1 group-title="中国通史",第66集 金朝兴亡
+https://mhqiyi.com/20200811/psQpsseZ/index.m3u8
+#EXTINF:-1 group-title="中国通史",第67集 辽金文化
+https://mhqiyi.com/20200811/YvDv8rAA/index.m3u8
+#EXTINF:-1 group-title="中国通史",第68集 西夏兴亡
+https://mhqiyi.com/20200811/65L5xZbj/index.m3u8
+#EXTINF:-1 group-title="中国通史",第69集 蒙古兴起
+https://mhqiyi.com/20200811/YobWXG5x/index.m3u8
+#EXTINF:-1 group-title="中国通史",第70集 忽必烈大帝
+https://mhqiyi.com/20200811/KO6EkZ7Q/index.m3u8
+#EXTINF:-1 group-title="中国通史",第71集 两都巡幸
+https://mhqiyi.com/20200811/kYIqmBsR/index.m3u8
+#EXTINF:-1 group-title="中国通史",第72集 大元帝师八思巴
+https://mhqiyi.com/20200811/MOBaEmNj/index.m3u8
+#EXTINF:-1 group-title="中国通史",第73集 海上丝绸之路
+https://mhqiyi.com/20200811/nxiRDBNu/index.m3u8
+#EXTINF:-1 group-title="中国通史",第74集 马可波罗与中国
+https://mhqiyi.com/20200811/6iRiJw8k/index.m3u8
+#EXTINF:-1 group-title="中国通史",第75集 元顺帝
+https://mhqiyi.com/20200811/tEsv5Qv4/index.m3u8
+#EXTINF:-1 group-title="中国通史",第76集 明太祖朱元璋
+https://mhqiyi.com/20200811/kvv5jmjT/index.m3u8
+#EXTINF:-1 group-title="中国通史",第77集 永乐迁都
+https://mhqiyi.com/20200811/sixhLzK7/index.m3u8
+#EXTINF:-1 group-title="中国通史",第78集 郑和下西洋
+https://mhqiyi.com/20200811/zNzkt5EO/index.m3u8
+#EXTINF:-1 group-title="中国通史",第79集 内阁制度
+https://mhqiyi.com/20200811/rKV1lycJ/index.m3u8
+#EXTINF:-1 group-title="中国通史",第80集 土木堡之变
+https://mhqiyi.com/20200811/vHV6EZf6/index.m3u8
+#EXTINF:-1 group-title="中国通史",第81集 王阳明心学
+https://mhqiyi.com/20200811/bmD2tnAj/index.m3u8
+#EXTINF:-1 group-title="中国通史",第82集 海疆与互市
+https://mhqiyi.com/20200811/8c5Lkp1V/index.m3u8
+#EXTINF:-1 group-title="中国通史",第83集 张居正改革
+https://mhqiyi.com/20200811/IxtxiKZn/index.m3u8
+#EXTINF:-1 group-title="中国通史",第84集 耶稣会士来华
+https://mhqiyi.com/20200811/eNj1Z4Y3/index.m3u8
+#EXTINF:-1 group-title="中国通史",第85集 江南市镇
+https://mhqiyi.com/20200811/mjjIICVC/index.m3u8
+#EXTINF:-1 group-title="中国通史",第86集 白银资本
+https://mhqiyi.com/20200811/qDt5IBFm/index.m3u8
+#EXTINF:-1 group-title="中国通史",第87集 崇祯帝
+https://mhqiyi.com/20200811/1XyOeiot/index.m3u8
+#EXTINF:-1 group-title="中国通史",第88集 入主中原
+https://mhqiyi.com/20200811/V64iJHn5/index.m3u8
+#EXTINF:-1 group-title="中国通史",第89集 王朝的稳固
+https://mhqiyi.com/20200811/d4nFb951/index.m3u8
+#EXTINF:-1 group-title="中国通史",第90集 收复台湾
+https://mhqiyi.com/20200811/ZdAjjAWf/index.m3u8
+#EXTINF:-1 group-title="中国通史",第91集 统一大业
+https://mhqiyi.com/20200811/ndhzI6EB/index.m3u8
+#EXTINF:-1 group-title="中国通史",第92集 军机处
+https://mhqiyi.com/20200811/2ekEkJNf/index.m3u8
+#EXTINF:-1 group-title="中国通史",第93集 摊丁入亩
+https://mhqiyi.com/20200811/tqrKPoF2/index.m3u8
+#EXTINF:-1 group-title="中国通史",第94集 文治与文字狱
+https://mhqiyi.com/20200811/00dufe7F/index.m3u8
+#EXTINF:-1 group-title="中国通史",第95集 被动的自强
+https://mhqiyi.com/20200811/JLFxiY19/index.m3u8
+#EXTINF:-1 group-title="中国通史",第96集 鸦片战争
+https://mhqiyi.com/20200811/KVlXXxho/index.m3u8
+#EXTINF:-1 group-title="中国通史",第97集 太平天国
+https://mhqiyi.com/20200811/LBL7hfJK/index.m3u8
+#EXTINF:-1 group-title="中国通史",第98集 甲午战争
+https://mhqiyi.com/20200811/hN8oRxoO/index.m3u8
+#EXTINF:-1 group-title="中国通史",第99集 维新与革命
+https://mhqiyi.com/20200811/ipKjQlmX/index.m3u8
+#EXTINF:-1 group-title="中国通史",第100集 帝制的终结
+https://mhqiyi.com/20200811/I0S7d36n/index.m3u8
+#EXTINF:-1 group-title="国家记忆",第一集 和平解放前夜
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/a9ac55ff4d8141839cd59274814a0303/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",第二集 中共中央进北平
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/de7a8148e75e4436ae188535851615c7/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",第三集 从香山到中南海
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/0c5b5f17bdfd4610a2c67f0a0b946486/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",第四集 定都北平
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/292acec64bb148c5bd4cb448383e6d61/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",第五集 揭秘开国大典
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/ef08fba6076d4519b116bd318a6f3280/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",第一集 艰难归国路
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/6398879cce2b4fec82aeb4353094acf1/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",第二集 命运的抉择
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/d5f627cfb03f4335b8946ec689f9762f/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",第三集 长箭乘东风·上
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/25557fbc45ff4d2bb7ef398511565924/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",第四集 长箭乘东风·下
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/c06af4003a2b485480f294dd86ecad52/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",第五集 巡天第一星
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/6398879cce2b4fec82aeb4353094acf1/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",第六集 曙光照苍穹
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/49d5f923347f491cb52cb862c86eb756/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",第七集 神舟飞天路
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/80edb076f4d54489ba5c5e31f879e1e3/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",第一集 世界需要中国
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/5e4ad92cc08a419d81dcd1c79723ea97/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",第二集 两种力量的博弈
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/07111ebf54cb4f77b6059f7c73a1b3a2/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",第三集 历史的笑声
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/8235d2ed7b634d37b5d7ec8519f7826a/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",第一集 潜伏英雄吴石
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/0456ab3dd5f34d30919d3e4db82f7bb0/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",第二集 秘密赴台
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/2c5ec4d593fc43db88a60fc29886b7bd/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",第三集 绝地撤离
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/899256dfed4e4f2d8f5de3a2929ced04/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",第一集 高空阻击战
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/49112837266947fea73e00e6f37bd5f6/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",第二集 黑猫 来袭
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/c906ce994b2145629ad5e05058bec71e/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",第三集 猎杀 黑猫
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/e43b889cef58482c9210dd471279553c/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",第四集 黑猫 克星
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/f7a75f9b2acb4711866fa7aba5686afd/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",第五集 黑猫 覆灭
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/187d7738a1eb4a5da43fb4487328ca1a/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",第一集 太平洋彼岸的信号
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/60a13e09d45945f090c75716cf99769b/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",第二集 乒乓外交
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/d81efd9815bf4d80a6a03991a1350f5a/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",第三集 代号 波罗行动
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/a72b843bf9f34d3fa0a081cbdf6a7dea/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",第四集 谈判桌上的较量
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/c9dcd10a9096421486b85e601616596f/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",第五集 改变世界的一周
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/cfcbf108b8d54dd5a21e6e404042db12/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",第一集 临行之前
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/fb89230d73a244db806b791980433a44/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",第二集 蓄势待发
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/3a35d6c2321342b0a7440aa9dfff2593/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",第三集 锋芒初露
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/ceead714a7c346c9b71788ef5d22b5d2/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",第四集 会场内外
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/582cfc35c6d94ad1a0e97369d396cb38/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",第五集 和平之声
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/9a565364099a453093118986e2c76b19/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",第一集 智擒座山雕
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/09c1de82183345db8b3c29f20074d549/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",第二集 女匪首覆灭记
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/457d7313e17c436e9328708ef5e867a3/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",第三集 活捉谢文东
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/3e8fabec4a16497091c03063770a9cb9/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",第四集 剿灭土皇帝杨永清
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/827aae7caaa3446299534d4d52c2feaa/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",第五集 围歼巨匪姚大榜
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/e45211a49d664bf8a2c7dd8976e8241d/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",第一集 来自斯大林的邀请
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/b3b3a1c9739c4ffc822a5199dff44af8/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",第二集 莫斯科的博弈
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/a100e4fead69476587f08104ab9fbc2a/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",黄克功案件揭秘
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/412c17e6853d42398b4e22d041ae50ee/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",1959特赦 被俘
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/be870c4eb1304176936019c546a0ce52/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",1959特赦 顽抗
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/e7240d2b779d4a1192460234aa818eab/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",1959特赦 改造
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/121785209efa44bda75cb8258db71e97/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",1959特赦 释放
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/4692e84ee05e471abc9d00146eb07417/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",1959特赦 新生
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/49a608d35535461c9a2851e950fdc53b/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",抗美援朝保家卫国 不期而至
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/701ccfc6a6654e1e810b38e56256b7d2/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",抗美援朝保家卫国 艰难决策
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/83693ccea17a460dad354723f163412b/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",抗美援朝保家卫国 秘密入朝
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/1ca40c9ad51848069d7b9c1c8ec52751/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",抗美援朝保家卫国 首战告捷
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/993bfd74da984f79b19a2b8c7c6a3cd6/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",抗美援朝保家卫国 西线扬威
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/7268c85395874c2f88f161cb8d43ba75/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",抗美援朝保家卫国 冰湖血战
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/45e82668c87f4edd8ba14da9af51ba6d/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",抗美援朝保家卫国 攻克汉城
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/75bbe2c31526475489cde08a8ee5e598/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",抗美援朝保家卫国 迎敌反扑
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/df4c7ca9f6c944deb6be0b5bebe27f65/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",抗美援朝保家卫国 勇挫敌锋
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/d89af6ef1d194153aea99cef5b86a11f/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",抗美援朝保家卫国 边谈边打
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/98698f4d51d646b5bf8bbe88ff0cf773/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",抗美援朝保家卫国 铁血动脉
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/dd93f55cd59440148b98e4d07adc3a10/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",抗美援朝保家卫国 碧血长空
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/8b376108ea4b48c6983e5526625a05bb/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",抗美援朝保家卫国 抵御细菌战
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/ba805913920540afb7ed97711ab6ba9e/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",抗美援朝保家卫国 地下长城
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/f57546341cdc466c90e3190215bbd41c/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",抗美援朝保家卫国 坚守上甘岭
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/c43f5fd2eff44ea0b9225b045d6266ac/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",抗美援朝保家卫国 以打促谈
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/df788be77b2a4ecdaf73e25bcf26c8e2/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",抗美援朝保家卫国 两重天地
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/7976d3a3167c43fbb42e74d597fe1a3e/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",抗美援朝保家卫国 举国同心
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/4b28009eac1f4c5e823c59753f7a23ec/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",抗美援朝保家卫国 胜利凯旋
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/19fc3ed3ec4c499f975c4d3760a61869/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",抗美援朝保家卫国 历史铭记
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/d632d76de6de46829cf44d86d7cce8ff/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",致敬抗美援朝英雄 杨根思
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/1719fca9364b44d0913fd1e454b7dd87/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",致敬抗美援朝英雄 孙占元
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/102a44ddd07c4a55a8a4651794b20eb4/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",致敬抗美援朝英雄 蔡正国
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/acc316238510433eafd0089e7de797be/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",致敬抗美援朝英雄 杨连第
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/beb13ca7753d471f89360580d7329edb/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",致敬抗美援朝英雄 张桃芳
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/b64b25c58ddd473a9520fe207448c670/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",中法建交纪实 密使来华
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/495dfd0a89594f8f890667b4ffa455f6/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",中法建交纪实 建交谈判
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/01153544751e4215b4f04c63e68e6e77/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",中法建交纪实 一波三折
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/e3a490d958cf40a5ae7b19299acdd388/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",中法建交纪实 冲破阻挠
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/1a0cc53de6ff499a97fc5a81e0ba4faf/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",中法建交纪实 行稳致远
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/008f1b6bc60e41d2870622e0fba6a3db/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",遵义会议 冲破封锁
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/fba987e5bbaf4577a8ef34c0c86f11b7/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",遵义会议 转战贵州
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/e4bd7940c5114c0d8c39ed287e7b7c3f/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",遵义会议 遵义破晓
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/5854afca3ef747f69111665033220865/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",遵义会议 赤水奇兵
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/c4fe9e1e3fac41109d69dd9986e4274b/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",遵义会议 长缨在手
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/4ad48fae8a4c4683a236b044dcf570d4/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",风雨大陈岛 对峙
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/aa6a00115f4446ec891caaa6f45350ab/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",风雨大陈岛 收复
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/387cb75072ef43b3bfc33e3044567a0a/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",风雨大陈岛 重建
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/fe29048a79b54c06862ad25ea7e8e258/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",第一集 锁定一江山
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/11fe0f81b2a34d41b4744976bddb32e7/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",第二集 备战一江山
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/3c5258cd3fa94050bb2f5c4869a2bea4/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",第三集 解放一江山
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/7cccc89e587f45fc9cdc273ff8fdca63/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",水上抗日奇兵 雁翎展翅
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/baaed16e33b0445db5c4af029764d62c/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",水上抗日奇兵 荡寇芦花
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/976da0aa496c41c091a9760dc56c45f1/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",地道战传奇 烽火冀中
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/33b91329c2494334bec61feef6820f80/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",地道战传奇 地下长城
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/b1371ef3123b414796a6ee96e4249970/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",闪亮的坐标 劳模马恒昌
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/0b072cb00b3c44e09ae3eef62c56c655/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",闪亮的坐标 劳模吕玉兰
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/e1b8ea52ac2e479e865d4df51c55d362/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",闪亮的坐标 劳模吴运铎
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/c679b075948844faa9ec08fc7156fdcf/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",闪亮的坐标 劳模王崇伦
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/1b4f6cd3a9fb45cb9f4519402f30dcf4/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",闪亮的坐标 劳模王进喜
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/095d1ae9620e4e9eb41c7d651653619f/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",闪亮的坐标 劳模申纪兰
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/a8954506336a4ddca3b0fe3338887367/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",揭秘新中国首座核电站 从零开始
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/0fe4b5b5ea6b46928e1c49d387411249/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",揭秘新中国首座核电站 举步维艰
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/b2bd3b4b784d47129b50c0c45bad6abc/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",揭秘新中国首座核电站 会战秦山
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/9155da618e3b4fb38bfb5c9ff8b27183/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",揭秘新中国首座核电站 国之光荣
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/28e4dd0cc6f64bd7ad2e20c3f37c9bdf/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",揭秘新中国首座核电站 国家名片
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/08b6bd4bc8344704945a3bfaab7de137/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",第一集 锁定一江山
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/11fe0f81b2a34d41b4744976bddb32e7/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",第二集 备战一江山
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/3c5258cd3fa94050bb2f5c4869a2bea4/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",第三集 解放一江山
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/7cccc89e587f45fc9cdc273ff8fdca63/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",西安风云
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/b9c3cc48e06949b5b9d967a3bf613411/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",兰州血战
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/efcde1940ef34a3f85193d1ba34c2d5f/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",呼市玉帛
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/32aad2f4d96a4b04af12817f007b6314/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",太原围歼
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/c622bf2093d44457bc12fe10ee050da9/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",新疆义旗
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/59eeb207a3294366aa6e4c21ddf72639/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",衡阳交锋
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/194e4ce693d64fc89d0c40553971e72b/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",广州迎新
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/448d82c87dba4f7483e80231ce594b08/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",重庆雾开
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/2fe67760332b425b999996b42398ab7e/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",厦门兵锋
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/1ee95208c7aa4251a3ac725bedbeec36/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",南宁追歼
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/a98a471b1bd541a0b0bef44813b6c5fb/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",昆明筹谋
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/95eccbd720d14907a6fe1798cf137232/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",成都合围
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/23179c630ec149a380c24ed3d1f56430/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",琼州跨海
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/a68acb3a80a24507a0d367a6ad6489a0/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",昌都凯歌
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/0958324fe6ea4229a39b824eed255bac/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",第一集 韩丁
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/dc3a73245d96463a9b411653d4718fe1/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",第二集 马海德
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/0e3f79c5a8564ec99e0ed7b60efb0e50/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",第三集 阳早 寒春
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/f4c45017a2d1474faef5fa6205c40003/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",第四集 汉斯·米勒
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/eaede592082a4b469bd450352dc05a31/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",第五集 路易·艾黎
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/686d1b0f068f48afa4548cd3214d81d0/2000.m3u8
+
+#EXTINF:-1 group-title="汉匈之战",汉匈之战 第一集
+http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/f321247ba9524eb1b4d8a8d8e77e6ba9/1200.m3u8
+#EXTINF:-1 group-title="汉匈之战",汉匈之战 第二集
+http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/fbcaebcdd44a467a86bd1d8022eea693/1200.m3u8
+#EXTINF:-1 group-title="汉匈之战",汉匈之战 第三集
+http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/d1fb1de49d9a4e9f81a5e6c7fd7b40e9/1200.m3u8
+#EXTINF:-1 group-title="南宋",第一集遥望中原
+http://hw-v.cztv.com/cztv/vod/2015/12/08/7145E9F9A36449788C53F2876C396236/h264_1500k_mp4.mp4_playlist.m3u8
+#EXTINF:-1 group-title="南宋",第二集 南宋240道美食
+http://yf.v.cztv.com/cztv/vod/2015/12/15/5E813777FA0A4a4aA52DA4B92D1BC91F/h264_1500k_mp4.mp4_playlist.m3u8
+#EXTINF:-1 group-title="南宋",第三集 诗词流域
+http://hw-v.cztv.com/cztv/vod/2015/12/22/269816A5F09E4978A34A2A0C3522B118/h264_1500k_mp4.mp4_playlist.m3u8
+#EXTINF:-1 group-title="南宋",第四集 宋画江山
+http://hw-v.cztv.com/cztv/vod/2015/12/29/119FF580AFD0445aA4AA89B68BC3C324/h264_1500k_mp4.mp4_playlist.m3u8
+#EXTINF:-1 group-title="南宋",第五集 戏文南北
+http://hw-v.cztv.com/cztv/vod/2016/01/05/5F90172AB60A4f8f8CBC09DB65ED3F21/h264_1500k_mp4.mp4_playlist.m3u8
+#EXTINF:-1 group-title="南宋",第六集 发明时代
+http://hw-v.cztv.com/cztv/vod/2016/01/12/1937049D29104779B97536121D571159/h264_1500k_mp4.mp4_playlist.m3u8
+#EXTINF:-1 group-title="南宋",第七集 回望未来
+http://yd-v.cztv.com/cztv/vod/2016/01/19/7092FE015C874387A91A76FD590998CC/h264_1500k_mp4.mp4_playlist.m3u8
+#EXTM3U
 #EXTINF:-1 group-title="国家天空",国家天空 1 穹庐
 https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/2e8bafe2831a4203f8a64b8f9315f132/850.m3u8
 #EXTINF:-1 group-title="国家天空",国家天空 2 星群
@@ -197,352 +648,7 @@ https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/8ff61fcdaedf4e94a2c670
 https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/8c1dd707211f4734e234b1afa52bec70/850.m3u8
 #EXTINF:-1 group-title="国家天空",国家天空 4 惊雷
 https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/a3553840d4ac4fe4d466dd8bb10f357e/850.m3u8
-#EXTINF:-1 group-title="国家记忆 新中国1949",第一集 和平解放前夜
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/a9ac55ff4d8141839cd59274814a0303/2000.m3u8
-#EXTINF:-1 group-title="国家记忆 新中国1949",第二集 中共中央进北平
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/de7a8148e75e4436ae188535851615c7/2000.m3u8
-#EXTINF:-1 group-title="国家记忆 新中国1949",第三集 从香山到中南海
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/0c5b5f17bdfd4610a2c67f0a0b946486/2000.m3u8
-#EXTINF:-1 group-title="国家记忆 新中国1949",第四集 定都北平
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/292acec64bb148c5bd4cb448383e6d61/2000.m3u8
-#EXTINF:-1 group-title="国家记忆 新中国1949",第五集 揭秘开国大典
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/ef08fba6076d4519b116bd318a6f3280/2000.m3u8
-#EXTINF:-1 group-title="钱学森与中国航天60年",第一集 艰难归国路
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/6398879cce2b4fec82aeb4353094acf1/2000.m3u8
-#EXTINF:-1 group-title="钱学森与中国航天60年",第二集 命运的抉择
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/d5f627cfb03f4335b8946ec689f9762f/2000.m3u8
-#EXTINF:-1 group-title="钱学森与中国航天60年",第三集 长箭乘东风·上
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/25557fbc45ff4d2bb7ef398511565924/2000.m3u8
-#EXTINF:-1 group-title="钱学森与中国航天60年",第四集 长箭乘东风·下
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/c06af4003a2b485480f294dd86ecad52/2000.m3u8
-#EXTINF:-1 group-title="钱学森与中国航天60年",第五集 巡天第一星
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/6398879cce2b4fec82aeb4353094acf1/2000.m3u8
-#EXTINF:-1 group-title="钱学森与中国航天60年",第六集 曙光照苍穹
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/49d5f923347f491cb52cb862c86eb756/2000.m3u8
-#EXTINF:-1 group-title="钱学森与中国航天60年",第七集 神舟飞天路
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/80edb076f4d54489ba5c5e31f879e1e3/2000.m3u8
-#EXTINF:-1 group-title="1971重返联合国",第一集 世界需要中国
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/5e4ad92cc08a419d81dcd1c79723ea97/2000.m3u8
-#EXTINF:-1 group-title="1971重返联合国",第二集 两种力量的博弈
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/07111ebf54cb4f77b6059f7c73a1b3a2/2000.m3u8
-#EXTINF:-1 group-title="1971重返联合国",第三集 历史的笑声
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/8235d2ed7b634d37b5d7ec8519f7826a/2000.m3u8
-#EXTINF:-1 group-title="隐蔽战线的英烈",第一集 潜伏英雄吴石
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/0456ab3dd5f34d30919d3e4db82f7bb0/2000.m3u8
-#EXTINF:-1 group-title="隐蔽战线的英烈",第二集 秘密赴台
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/2c5ec4d593fc43db88a60fc29886b7bd/2000.m3u8
-#EXTINF:-1 group-title="隐蔽战线的英烈",第三集 绝地撤离
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/899256dfed4e4f2d8f5de3a2929ced04/2000.m3u8
-#EXTINF:-1 group-title="掠过台海的谍影",第一集 高空阻击战
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/49112837266947fea73e00e6f37bd5f6/2000.m3u8
-#EXTINF:-1 group-title="掠过台海的谍影",第二集 黑猫 来袭
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/c906ce994b2145629ad5e05058bec71e/2000.m3u8
-#EXTINF:-1 group-title="掠过台海的谍影",第三集 猎杀 黑猫
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/e43b889cef58482c9210dd471279553c/2000.m3u8
-#EXTINF:-1 group-title="掠过台海的谍影",第四集 黑猫 克星
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/f7a75f9b2acb4711866fa7aba5686afd/2000.m3u8
-#EXTINF:-1 group-title="掠过台海的谍影",第五集 黑猫 覆灭
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/187d7738a1eb4a5da43fb4487328ca1a/2000.m3u8
-#EXTINF:-1 group-title="中美1972",第一集 太平洋彼岸的信号
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/60a13e09d45945f090c75716cf99769b/2000.m3u8
-#EXTINF:-1 group-title="中美1972",第二集 乒乓外交
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/d81efd9815bf4d80a6a03991a1350f5a/2000.m3u8
-#EXTINF:-1 group-title="中美1972",第三集 代号 波罗行动
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/a72b843bf9f34d3fa0a081cbdf6a7dea/2000.m3u8
-#EXTINF:-1 group-title="中美1972",第四集 谈判桌上的较量
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/c9dcd10a9096421486b85e601616596f/2000.m3u8
-#EXTINF:-1 group-title="中美1972",第五集 改变世界的一周
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/cfcbf108b8d54dd5a21e6e404042db12/2000.m3u8
-#EXTINF:-1 group-title="1954日内瓦风云",第一集 临行之前
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/fb89230d73a244db806b791980433a44/2000.m3u8
-#EXTINF:-1 group-title="1954日内瓦风云",第二集 蓄势待发
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/3a35d6c2321342b0a7440aa9dfff2593/2000.m3u8
-#EXTINF:-1 group-title="1954日内瓦风云",第三集 锋芒初露
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/ceead714a7c346c9b71788ef5d22b5d2/2000.m3u8
-#EXTINF:-1 group-title="1954日内瓦风云",第四集 会场内外
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/582cfc35c6d94ad1a0e97369d396cb38/2000.m3u8
-#EXTINF:-1 group-title="1954日内瓦风云",第五集 和平之声
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/9a565364099a453093118986e2c76b19/2000.m3u8
-#EXTINF:-1 group-title="剿匪记",第一集 智擒座山雕
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/09c1de82183345db8b3c29f20074d549/2000.m3u8
-#EXTINF:-1 group-title="剿匪记",第二集 女匪首覆灭记
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/457d7313e17c436e9328708ef5e867a3/2000.m3u8
-#EXTINF:-1 group-title="剿匪记",第三集 活捉谢文东
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/3e8fabec4a16497091c03063770a9cb9/2000.m3u8
-#EXTINF:-1 group-title="剿匪记",第四集 剿灭土皇帝杨永清
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/827aae7caaa3446299534d4d52c2feaa/2000.m3u8
-#EXTINF:-1 group-title="1959特赦",1959特赦 被俘
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/be870c4eb1304176936019c546a0ce52/2000.m3u8
-#EXTINF:-1 group-title="1959特赦",1959特赦 顽抗
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/e7240d2b779d4a1192460234aa818eab/2000.m3u8
-#EXTINF:-1 group-title="1959特赦",1959特赦 改造
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/121785209efa44bda75cb8258db71e97/2000.m3u8
-#EXTINF:-1 group-title="1959特赦",1959特赦 释放
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/4692e84ee05e471abc9d00146eb07417/2000.m3u8
-#EXTINF:-1 group-title="1959特赦",1959特赦 新生
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/49a608d35535461c9a2851e950fdc53b/2000.m3u8
-#EXTINF:-1 group-title="抗美援朝保家卫国",抗美援朝保家卫国 不期而至
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/701ccfc6a6654e1e810b38e56256b7d2/2000.m3u8
-#EXTINF:-1 group-title="抗美援朝保家卫国",抗美援朝保家卫国 艰难决策
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/83693ccea17a460dad354723f163412b/2000.m3u8
-#EXTINF:-1 group-title="抗美援朝保家卫国",抗美援朝保家卫国 秘密入朝
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/1ca40c9ad51848069d7b9c1c8ec52751/2000.m3u8
-#EXTINF:-1 group-title="抗美援朝保家卫国",抗美援朝保家卫国 首战告捷
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/993bfd74da984f79b19a2b8c7c6a3cd6/2000.m3u8
-#EXTINF:-1 group-title="抗美援朝保家卫国",抗美援朝保家卫国 西线扬威
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/7268c85395874c2f88f161cb8d43ba75/2000.m3u8
-#EXTINF:-1 group-title="抗美援朝保家卫国",抗美援朝保家卫国 冰湖血战
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/45e82668c87f4edd8ba14da9af51ba6d/2000.m3u8
-#EXTINF:-1 group-title="抗美援朝保家卫国",抗美援朝保家卫国 攻克汉城
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/75bbe2c31526475489cde08a8ee5e598/2000.m3u8
-#EXTINF:-1 group-title="抗美援朝保家卫国",抗美援朝保家卫国 迎敌反扑
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/df4c7ca9f6c944deb6be0b5bebe27f65/2000.m3u8
-#EXTINF:-1 group-title="抗美援朝保家卫国",抗美援朝保家卫国 勇挫敌锋
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/d89af6ef1d194153aea99cef5b86a11f/2000.m3u8
-#EXTINF:-1 group-title="抗美援朝保家卫国",抗美援朝保家卫国 边谈边打
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/98698f4d51d646b5bf8bbe88ff0cf773/2000.m3u8
-#EXTINF:-1 group-title="抗美援朝保家卫国",抗美援朝保家卫国 铁血动脉
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/dd93f55cd59440148b98e4d07adc3a10/2000.m3u8
-#EXTINF:-1 group-title="抗美援朝保家卫国",抗美援朝保家卫国 碧血长空
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/8b376108ea4b48c6983e5526625a05bb/2000.m3u8
-#EXTINF:-1 group-title="抗美援朝保家卫国",抗美援朝保家卫国 抵御细菌战
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/ba805913920540afb7ed97711ab6ba9e/2000.m3u8
-#EXTINF:-1 group-title="抗美援朝保家卫国",抗美援朝保家卫国 地下长城
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/f57546341cdc466c90e3190215bbd41c/2000.m3u8
-#EXTINF:-1 group-title="抗美援朝保家卫国",抗美援朝保家卫国 坚守上甘岭
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/c43f5fd2eff44ea0b9225b045d6266ac/2000.m3u8
-#EXTINF:-1 group-title="抗美援朝保家卫国",抗美援朝保家卫国 以打促谈
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/df788be77b2a4ecdaf73e25bcf26c8e2/2000.m3u8
-#EXTINF:-1 group-title="抗美援朝保家卫国",抗美援朝保家卫国 两重天地
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/7976d3a3167c43fbb42e74d597fe1a3e/2000.m3u8
-#EXTINF:-1 group-title="抗美援朝保家卫国",抗美援朝保家卫国 举国同心
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/4b28009eac1f4c5e823c59753f7a23ec/2000.m3u8
-#EXTINF:-1 group-title="抗美援朝保家卫国",抗美援朝保家卫国 胜利凯旋
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/19fc3ed3ec4c499f975c4d3760a61869/2000.m3u8
-#EXTINF:-1 group-title="抗美援朝保家卫国",抗美援朝保家卫国 历史铭记
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/d632d76de6de46829cf44d86d7cce8ff/2000.m3u8
-#EXTINF:-1 group-title="抗美援朝保家卫国",致敬抗美援朝英雄 杨根思
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/1719fca9364b44d0913fd1e454b7dd87/2000.m3u8
-#EXTINF:-1 group-title="抗美援朝保家卫国",致敬抗美援朝英雄 孙占元
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/102a44ddd07c4a55a8a4651794b20eb4/2000.m3u8
-#EXTINF:-1 group-title="抗美援朝保家卫国",致敬抗美援朝英雄 蔡正国
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/acc316238510433eafd0089e7de797be/2000.m3u8
-#EXTINF:-1 group-title="抗美援朝保家卫国",致敬抗美援朝英雄 杨连第
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/beb13ca7753d471f89360580d7329edb/2000.m3u8
-#EXTINF:-1 group-title="抗美援朝保家卫国",致敬抗美援朝英雄 张桃芳
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/b64b25c58ddd473a9520fe207448c670/2000.m3u8
-#EXTINF:-1 group-title="中法建交纪实",中法建交纪实 密使来华
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/495dfd0a89594f8f890667b4ffa455f6/2000.m3u8
-#EXTINF:-1 group-title="中法建交纪实",中法建交纪实 建交谈判
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/01153544751e4215b4f04c63e68e6e77/2000.m3u8
-#EXTINF:-1 group-title="中法建交纪实",中法建交纪实 一波三折
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/e3a490d958cf40a5ae7b19299acdd388/2000.m3u8
-#EXTINF:-1 group-title="中法建交纪实",中法建交纪实 冲破阻挠
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/1a0cc53de6ff499a97fc5a81e0ba4faf/2000.m3u8
-#EXTINF:-1 group-title="中法建交纪实",中法建交纪实 行稳致远
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/008f1b6bc60e41d2870622e0fba6a3db/2000.m3u8
-#EXTINF:-1 group-title="中法建交纪实",遵义会议 冲破封锁
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/fba987e5bbaf4577a8ef34c0c86f11b7/2000.m3u8
-#EXTINF:-1 group-title="中法建交纪实",遵义会议 转战贵州
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/e4bd7940c5114c0d8c39ed287e7b7c3f/2000.m3u8
-#EXTINF:-1 group-title="中法建交纪实",遵义会议 遵义破晓
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/5854afca3ef747f69111665033220865/2000.m3u8
-#EXTINF:-1 group-title="中法建交纪实",遵义会议 赤水奇兵
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/c4fe9e1e3fac41109d69dd9986e4274b/2000.m3u8
-#EXTINF:-1 group-title="中法建交纪实",遵义会议 长缨在手
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/4ad48fae8a4c4683a236b044dcf570d4/2000.m3u8
-#EXTINF:-1 group-title="中法建交纪实",风雨大陈岛 对峙
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/aa6a00115f4446ec891caaa6f45350ab/2000.m3u8
-#EXTINF:-1 group-title="中法建交纪实",风雨大陈岛 收复
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/387cb75072ef43b3bfc33e3044567a0a/2000.m3u8
-#EXTINF:-1 group-title="中法建交纪实",风雨大陈岛 重建
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/fe29048a79b54c06862ad25ea7e8e258/2000.m3u8
-#EXTINF:-1 group-title="中法建交纪实",第一集 锁定一江山
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/11fe0f81b2a34d41b4744976bddb32e7/2000.m3u8
-#EXTINF:-1 group-title="中法建交纪实",第二集 备战一江山
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/3c5258cd3fa94050bb2f5c4869a2bea4/2000.m3u8
-#EXTINF:-1 group-title="中法建交纪实",第三集 解放一江山
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/7cccc89e587f45fc9cdc273ff8fdca63/2000.m3u8
-#EXTINF:-1 group-title="中法建交纪实",水上抗日奇兵 雁翎展翅
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/baaed16e33b0445db5c4af029764d62c/2000.m3u8
-#EXTINF:-1 group-title="中法建交纪实",水上抗日奇兵 荡寇芦花
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/976da0aa496c41c091a9760dc56c45f1/2000.m3u8
-#EXTINF:-1 group-title="中法建交纪实",地道战传奇 烽火冀中
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/33b91329c2494334bec61feef6820f80/2000.m3u8
-#EXTINF:-1 group-title="中法建交纪实",地道战传奇 地下长城
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/b1371ef3123b414796a6ee96e4249970/2000.m3u8
-#EXTINF:-1 group-title="中法建交纪实",闪亮的坐标 劳模马恒昌
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/0b072cb00b3c44e09ae3eef62c56c655/2000.m3u8
-#EXTINF:-1 group-title="中法建交纪实",闪亮的坐标 劳模吕玉兰
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/e1b8ea52ac2e479e865d4df51c55d362/2000.m3u8
-#EXTINF:-1 group-title="中法建交纪实",闪亮的坐标 劳模吴运铎
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/c679b075948844faa9ec08fc7156fdcf/2000.m3u8
-#EXTINF:-1 group-title="中法建交纪实",闪亮的坐标 劳模王崇伦
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/1b4f6cd3a9fb45cb9f4519402f30dcf4/2000.m3u8
-#EXTINF:-1 group-title="中法建交纪实",闪亮的坐标 劳模王进喜
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/095d1ae9620e4e9eb41c7d651653619f/2000.m3u8
-#EXTINF:-1 group-title="中法建交纪实",闪亮的坐标 劳模申纪兰
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/a8954506336a4ddca3b0fe3338887367/2000.m3u8
-#EXTINF:-1 group-title="揭秘新中国首座核电站",揭秘新中国首座核电站 从零开始
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/0fe4b5b5ea6b46928e1c49d387411249/2000.m3u8
-#EXTINF:-1 group-title="揭秘新中国首座核电站",揭秘新中国首座核电站 举步维艰
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/b2bd3b4b784d47129b50c0c45bad6abc/2000.m3u8
-#EXTINF:-1 group-title="揭秘新中国首座核电站",揭秘新中国首座核电站 会战秦山
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/9155da618e3b4fb38bfb5c9ff8b27183/2000.m3u8
-#EXTINF:-1 group-title="揭秘新中国首座核电站",揭秘新中国首座核电站 国之光荣
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/28e4dd0cc6f64bd7ad2e20c3f37c9bdf/2000.m3u8
-#EXTINF:-1 group-title="揭秘新中国首座核电站",揭秘新中国首座核电站 国家名片
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/08b6bd4bc8344704945a3bfaab7de137/2000.m3u8
-#EXTINF:-1 group-title="解放之战",西安风云
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/b9c3cc48e06949b5b9d967a3bf613411/2000.m3u8
-#EXTINF:-1 group-title="解放之战",兰州血战
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/efcde1940ef34a3f85193d1ba34c2d5f/2000.m3u8
-#EXTINF:-1 group-title="解放之战",呼市玉帛
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/32aad2f4d96a4b04af12817f007b6314/2000.m3u8
-#EXTINF:-1 group-title="解放之战",太原围歼
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/c622bf2093d44457bc12fe10ee050da9/2000.m3u8
-#EXTINF:-1 group-title="解放之战",新疆义旗
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/59eeb207a3294366aa6e4c21ddf72639/2000.m3u8
-#EXTINF:-1 group-title="解放之战",衡阳交锋
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/194e4ce693d64fc89d0c40553971e72b/2000.m3u8
-#EXTINF:-1 group-title="解放之战",广州迎新
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/448d82c87dba4f7483e80231ce594b08/2000.m3u8
-#EXTINF:-1 group-title="解放之战",重庆雾开
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/2fe67760332b425b999996b42398ab7e/2000.m3u8
-#EXTINF:-1 group-title="解放之战",厦门兵锋
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/1ee95208c7aa4251a3ac725bedbeec36/2000.m3u8
-#EXTINF:-1 group-title="解放之战",南宁追歼
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/a98a471b1bd541a0b0bef44813b6c5fb/2000.m3u8
-#EXTINF:-1 group-title="解放之战",昆明筹谋
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/95eccbd720d14907a6fe1798cf137232/2000.m3u8
-#EXTINF:-1 group-title="解放之战",成都合围
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/23179c630ec149a380c24ed3d1f56430/2000.m3u8
-#EXTINF:-1 group-title="解放之战",琼州跨海
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/a68acb3a80a24507a0d367a6ad6489a0/2000.m3u8
-#EXTINF:-1 group-title="解放之战",昌都凯歌
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/0958324fe6ea4229a39b824eed255bac/2000.m3u8
-#EXTINF:-1 group-title="扁都口",第一集 大斗拔谷
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/a998e478a3fe4d81add3ac2430c7eaed/2000.m3u8
-#EXTINF:-1 group-title="扁都口",第二集 国道227
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/20244d8aec0e45e4941b7f47fbd3a4b4/2000.m3u8
-#EXTINF:-1 group-title="扁都口",第三集 焉支山下
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/74f6fca78ad8415bb2dec3255fc52942/2000.m3u8
-#EXTINF:-1 group-title="伊犁河",第一集 以梦为马
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/949240ccb11d4dce9d18912b1852e946/2000.m3u8
-#EXTINF:-1 group-title="伊犁河",第二集 物阜民安
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/f3e9ddf5ce3046a4a95457c9d2d4dd3d/2000.m3u8
-#EXTINF:-1 group-title="伊犁河",第三集 山河动力
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/d5c31c26edac41d2a3ffdc708b6907ea/2000.m3u8
-#EXTINF:-1 group-title="伊犁河",第四集 城里村外
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/7883797e069a41459eeffa2cd100ba7f/2000.m3u8
-#EXTINF:-1 group-title="伊犁河",第五集 大河之恋
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/17f1a6d5fcbc45be83734ad64e1b7da7/2000.m3u8
-#EXTINF:-1 group-title="伊犁河",第六集 不问西东
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/778864daf5e24ed7b7195998896dc4e2/2000.m3u8
-#EXTINF:-1 group-title="布朗山",布朗山 上集
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/19980e6cf9ce43e3b570c5fc7bd7e270/2000.m3u8
-#EXTINF:-1 group-title="布朗山",布朗山 下集
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/4ba0d9bd2512484e8fba28f384efe0e8/2000.m3u8
-#EXTINF:-1 group-title="同饮一江水,",第一集 山高水长
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/3287f649858c4af8b0ec6ddbf2a896f5/2000.m3u8
-#EXTINF:-1 group-title="同饮一江水,",第二集 咬定青山
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/7b6ca6552d174289a94adcf82c6a44db/2000.m3u8
-#EXTINF:-1 group-title="同饮一江水,",第三集 江水润物
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/78a49e0d7ac740eea200bb8190f9aef4/2000.m3u8
-#EXTINF:-1 group-title="航拍中国第一季",第一集 新疆
-https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/3ebb32c9a2474758b86d8a98f433c3b3/1200.m3u8
-#EXTINF:-1 group-title="航拍中国第一季",第二集 海南
-https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/393cdd3b16254d32950dd652dd603129/1200.m3u8
-#EXTINF:-1 group-title="航拍中国第一季",第三集 黑龙江
-https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/50eb00bbc2e445a18082378a302e93a7/1200.m3u8
-#EXTINF:-1 group-title="航拍中国第一季",第四集 陕西
-https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/947280ca50144f0c94763ea3d1ec51cc/1200.m3u8
-#EXTINF:-1 group-title="航拍中国第一季",第五集 江西
-https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/d53b2a618894453a9144fac9b3a1cd2a/1200.m3u8
-#EXTINF:-1 group-title="航拍中国第一季",第六集 上海
-https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/03395aaae70348a2a80554464bad67f3/1200.m3u8
-#EXTINF:-1 group-title="航拍中国第一季",第二季第一集 四川
-https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/f22f133aab0b40129360c0c6d6ff0d2d/1200.m3u8
-#EXTINF:-1 group-title="航拍中国第一季",第二季第二集 浙江
-https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/c40caee6399e45daa7676b9a5e4116d5/1200.m3u8
-#EXTINF:-1 group-title="航拍中国第一季",第二季第三集 甘肃
-https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/4b79a3079e6f41fe98735763fa200101/1200.m3u8
-#EXTINF:-1 group-title="航拍中国第一季",第二季第四集 广东
-https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/32074e14c72f449f9c77e247cc886ecc/1200.m3u8
-#EXTINF:-1 group-title="航拍中国第一季",第二季第五集 内蒙古
-https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/4c76529c9c434b38a9047daa000a7b90/1200.m3u8
-#EXTINF:-1 group-title="航拍中国第一季",第二季第六集 福建
-https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/be153a817c2e4b1181183d7fd8879e92/1200.m3u8
-#EXTINF:-1 group-title="航拍中国第一季",第二季第七集 江苏
-https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/64c2db4bb8fc4e0d9b41506556a718cd/1200.m3u8
-#EXTINF:-1 group-title="航拍中国第一季",第三季第一集 云南
-https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/dc534f3d3730442a8b50334424ec2c78/1200.m3u8
-#EXTINF:-1 group-title="航拍中国第一季",第三季第二集 安徽
-https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/67c4d1c8265b45898a455f4dbaf17680/1200.m3u8
-#EXTINF:-1 group-title="航拍中国第一季",第三季第三集 贵州
-https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/73c437874a0c447dbfe6d7467d4a6e64/1200.m3u8
-#EXTINF:-1 group-title="航拍中国第一季",第三季第四集 山东
-https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/0263fc1d530d4b25bbc9e0ede600c7e4/1200.m3u8
-#EXTINF:-1 group-title="航拍中国第一季",第三季第五集 天津
-https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/5f03d9f1684241f696b25a19ffc44145/1200.m3u8
-#EXTINF:-1 group-title="航拍中国第一季",第三季第六集 山西
-https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/4c0d9387b7514640bc9fceee79257be4/1200.m3u8
-#EXTINF:-1 group-title="航拍中国第一季",第三季第七集 吉林
-https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/ad1e94a68cb440fd98317cc3aa7f4f31/1200.m3u8
-#EXTINF:-1 group-title="航拍中国第一季",第三季第八集 湖南
-https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/18a8a559464448dbaf60d33913e09aea/1200.m3u8
-#EXTINF:-1 group-title="航拍中国第一季",第三季第九集 河北
-https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/2f1976058d334d3b9e432de9e0ddc8e0/1200.m3u8
-#EXTINF:-1 group-title="航拍中国第一季",第三季第十集 宁夏
-https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/163c971a8ec44f0ba5dd1dc3ddffb8d7/1200.m3u8
-#EXTINF:-1 group-title="中国港口",第一集 长河帆影
-https://hls.cntv.lxdns/asp/hls/1200/0303000a/3/default/1fe8013eafc44453aebb3eaea1a2a494/1200.m3u8
-#EXTINF:-1 group-title="中国港口",第二集 疾风浩荡
-https://hls.cntv.lxdns/asp/hls/1200/0303000a/3/default/46ee86ec06c142569a4723cbdfa4355c/1200.m3u8
-#EXTINF:-1 group-title="中国港口",第三集 秣马厉兵
-https://hls.cntv.lxdns/asp/hls/1200/0303000a/3/default/7cf64643c7234e05a807e8546db28440/1200.m3u8
-#EXTINF:-1 group-title="中国港口",第四集 远航之望
-https://hls.cntv.lxdns/asp/hls/1200/0303000a/3/default/5371d71c8dd549158832b0270fcd6ac0/1200.m3u8
-#EXTINF:-1 group-title="中国高铁",第一集 时代脉动
-https://hls.cntv.lxdns/asp/hls/1200/0303000a/3/default/043503a679a34538871fc77579931a69/1200.m3u8
-#EXTINF:-1 group-title="中国高铁",第二集 创新之路
-https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/7b145cbf2f264d988506da1b77cc0cc8/1200.m3u8
-#EXTINF:-1 group-title="中国高铁",第三集 经世通途
-https://hls.cntv.lxdns/asp/hls/1200/0303000a/3/default/ad39360a6d6e4f818d12f5225fc4fe3f/1200.m3u8
-#EXTINF:-1 group-title="[中国城轨],",第一集 改变 与时代竞速
-https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/8f55b36c867d441791c844a23d5f703a/1200.m3u8
-#EXTINF:-1 group-title="[中国城轨],",第二集 穿越 与科技共进
-https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/bdf20edf3d054f31a55f789787099c62/1200.m3u8
-#EXTINF:-1 group-title="[中国城轨],",第三集 魅力 与文化同轨
-https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/64c6aece3a054a21b68bff03d6df9cf6/1200.m3u8
-#EXTINF:-1 group-title="[中国城轨],",第四集 开拓 与世界同享
-https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/c40247ebe03b4bbf9ec7c8178dba7364/1200.m3u8
-#EXTINF:-1 group-title="[中国城轨],",第五集 创新 与梦想同行
-https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/13bc565174244a12a150ef95f9123a63/1200.m3u8
-#EXTINF:-1 group-title="一带一路",一带一路 第一集 共同命运
-https://pptv.yongjiu-pptv.com/ppvod/2179B17AB3F4311CB761BC52C94CBA2B.m3u8
-#EXTINF:-1 group-title="一带一路",一带一路 第二集 互通之路
-http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/756429ed109442d29d7bb93dc1a2f646/1200.m3u8
-#EXTINF:-1 group-title="一带一路",一带一路 第三集 光明纽带
-http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9f81e9ae50dc41119645aef2211f1c6c/1200.m3u8
-#EXTINF:-1 group-title="一带一路",一带一路 第四集 财富通途
-http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/88bc317e7ded44dfb204ab082cc5befd/1200.m3u8
-#EXTINF:-1 group-title="一带一路",一带一路 第五集 金融互联
-https://pptv.yongjiu-pptv.com/ppvod/A17E7106BC76CF23D7DDE8714F71A02C.m3u8
-#EXTINF:-1 group-title="一带一路",一带一路 第六集 筑梦丝路
-http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6262de3ad3524cc0883db2d94383c455/1200.m3u8
-#EXTINF:-1 group-title="刀 锋",第一集 卫国刀鸣
-https://hls.cntv.baishancdnx.cn/asp/hls/1200/0303000a/3/default/fbc9b9ea9af9459d86c4327b18b3b848/1200.m3u8?maxbr=2048
-#EXTINF:-1 group-title="刀 锋",第二集 跨海过江
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7a879d2c39a542de9f71c35208877609/1200.m3u8?maxbr=2048
-#EXTINF:-1 group-title="刀 锋",第三集 锋芒所向
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1b9bce796e5d4e8b88212a20d26b04c1/1200.m3u8?maxbr=2048
-#EXTINF:-1 group-title="刀 锋",第四集 冰天刀寒
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0a2940a56ff54537820ae9bb08bc2fce/1200.m3u8?maxbr=2048
-#EXTINF:-1 group-title="刀 锋",第五集 搏刃长津
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ff2fe83583e4d3999ee55ba917241f2/1200.m3u8?maxbr=2048
-#EXTINF:-1 group-title="刀 锋",第六集 雪白血花
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/318e5794493b47669a9bde696ac39059/1200.m3u8?maxbr=2048
+
 #EXTINF:-1 group-title="我们走在大路上",第一集 新中国诞生
 http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/3768ae9421ed427881d1261e7e82aa19/1200.m3u8
 #EXTINF:-1 group-title="我们走在大路上",第二集 敢教日月换新天
@@ -570,7 +676,7 @@ http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/45e6305b07724808ade582
 #EXTINF:-1 group-title="我们走在大路上",第十三集 神州腾飞
 http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/f2f8459cb562432c8224583a75a44916/1200.m3u8
 #EXTINF:-1 group-title="我们走在大路上",第十四集 民为邦本
-http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/34c9ac4c109447daa0b0432addc0f228/1200.m3u8
+http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/34c9ac4c109447daa0b0432addc0f228/1200.m3u8
 #EXTINF:-1 group-title="我们走在大路上",第十五集 我们都是追梦人
 http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/2696fa72bfdf4f769428127ca8689524/1200.m3u8
 #EXTINF:-1 group-title="我们走在大路上",第十六集 打铁必须自身硬
@@ -591,6 +697,32 @@ http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/c24fb3ca2a5941d18bc2e5
 http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/c7c42950a4b443928a4ba347617fe68e/1200.m3u8
 #EXTINF:-1 group-title="我们走在大路上",第二十四集 领航中国
 http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/d798769e15bc4b308cc01ec03e7061b5/1200.m3u8
+#EXTINF:-1 group-title="古兵器大揭秘",第一集 战车 戈
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/6de0b3463e3f496e8237e440d30d0856/850.m3u8
+#EXTINF:-1 group-title="古兵器大揭秘",第二集 弩
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/0b2bec9809404c32ad0498fef3a97196/850.m3u8
+#EXTINF:-1 group-title="古兵器大揭秘",第三集 陌刀
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/aa2b827117b944c0be1e9d923a3f4e2c/850.m3u8
+#EXTINF:-1 group-title="古兵器大揭秘",第四集 铁骑锋芒
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/b77d67b856b648f4ba2c563cc914822c/850.m3u8
+#EXTINF:-1 group-title="古兵器大揭秘",第五集 神机枪炮
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/1fffbd22233448f0a637aaa5d5c1407e/850.m3u8
+#EXTINF:-1 group-title="古兵器大揭秘",第六集 铁戟·钩镶
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/776f42bce5d24afc8bc884fc82297881/850.m3u8
+#EXTINF:-1 group-title="古兵器大揭秘",第七集 槊·明光铠
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/35437e10b098445fb57194a9067a863b/850.m3u8
+#EXTINF:-1 group-title="古兵器大揭秘",第八集 神臂弓·铁浮屠
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/2576dbf6adb24670a5e8fa01e27b7670/850.m3u8
+#EXTINF:-1 group-title="古兵器大揭秘",第九集 打击兵器·冷锻甲
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/493e401d68084b5aa8c3bee76f67a676/850.m3u8
+#EXTINF:-1 group-title="古兵器大揭秘",第十集 狼筅·倭刀
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/1ce808c9e54840e598532864a1657b14/850.m3u8
+#EXTINF:-1 group-title="新疆反恐",中国新疆反恐记忆
+https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/83acc9834d974b4faad6bce02dd71264/1200.m3u8
+#EXTINF:-1 group-title="新疆反恐",新疆的反恐 去极端化斗争
+http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/02957c0f88774f7a9c9b50164a481a61/1200.m3u8
+#EXTINF:-1 group-title="新疆反恐",中国新疆 反恐前沿
+http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/2c477b82d0ee43e29734723b4e9fe8af/1200.m3u8
 #EXTINF:-1 group-title="不能忘却的伟大胜利",第01集
 http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/d1fe283b14c54199a2b2b1a7c30b5485/850.m3u8
 #EXTINF:-1 group-title="不能忘却的伟大胜利",第02集
@@ -615,106 +747,30 @@ http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/77db2551607547e9bb2bca9
 http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/ad4b3594f5d04b30b3c71a9a21d15020/850.m3u8
 #EXTINF:-1 group-title="不能忘却的伟大胜利",第12集
 http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/d28bfbe9401e47f781286ac9f4cfe80d/850.m3u8
-#EXTINF:-1 group-title="速度的力量",第一集 致命一击
-http://hls.lxdns.cdn20.com/asp/hls/1200/0303000a/3/default/8ff858932f9b4115baa7680541c24e6d/1200.m3u8
-#EXTINF:-1 group-title="速度的力量",第二集 秒杀利器
-https://hls.cntv.cdn20.com/asp/hls/1200/0303000a/3/default/9ef386f24ae44a34862aef01b451ed93/1200.m3u8
-#EXTINF:-1 group-title="速度的力量",第三集 生死时速
-http://hls.cntv.cdn20.com/asp/hls/1200/0303000a/3/default/369059ada7b846ffa5515377103a1f86/1200.m3u8
-#EXTINF:-1 group-title="强军",第一集 逐梦
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/2c9bf2ce636048a5a7350afa4e22129e/1200.m3u8
-#EXTINF:-1 group-title="强军",第二集 铸魂
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/68d2c12c418f499bb1873f784bfbce6e/1200.m3u8
-#EXTINF:-1 group-title="强军",第三集 制胜
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/b3417baf33754eb4a4000b87cfd10c3f/1200.m3u8
-#EXTINF:-1 group-title="强军",第四集 重塑
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/9e9c64dbb5d345f0b1f7f25ae49f8ce4/1200.m3u8
-#EXTINF:-1 group-title="强军",第五集 浴火
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/9645f6d4e0104bf59d3a66f37bb02243/1200.m3u8
-#EXTINF:-1 group-title="强军",第六集 跨越
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/a4f2259180ce44dca9f9344c76a83e3e/1200.m3u8
-#EXTINF:-1 group-title="强军",第七集 铁律
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/24a1017851b24b1c8052826408a24975/1200.m3u8
-#EXTINF:-1 group-title="强军",第八集 伟力
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/1f4a1b52cbad466895e24bf0be9e1ead/1200.m3u8
-#EXTINF:-1 group-title="苏联解体,#genre#",红场阅兵 勃列日涅夫时代 上
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/69a96d4b544f4dca9d568a25873e0834/850.m3u8
-#EXTINF:-1 group-title="苏联解体,#genre#",红场阅兵 勃列日涅夫时代 下
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/55f2d8291624438dad05461353ce7e77/850.m3u8
-#EXTINF:-1 group-title="苏联解体,#genre#",红场阅兵 戈尔巴乔夫时代 上
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/bbffa6cd05fa401c870f4e21816142a8/850.m3u8
-#EXTINF:-1 group-title="苏联解体,#genre#",红场阅兵 戈尔巴乔夫时代 下
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/bf288f16ff6e470193245c65de9f7da8/850.m3u8
-#EXTINF:-1 group-title="新疆反恐,#genre#",中国新疆反恐记忆
-https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/83acc9834d974b4faad6bce02dd71264/1200.m3u8
-#EXTINF:-1 group-title="新疆反恐,#genre#",新疆的反恐 去极端化斗争
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/02957c0f88774f7a9c9b50164a481a61/1200.m3u8
-#EXTINF:-1 group-title="新疆反恐,#genre#",中国新疆 反恐前沿
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/2c477b82d0ee43e29734723b4e9fe8af/1200.m3u8
-#EXTINF:-1 group-title="南宋",第一集 遥望中原
-http://hw-v.cztv.com/cztv/vod/2015/12/08/7145E9F9A36449788C53F2876C396236/h264_1500k_mp4.mp4_playlist.m3u8
-#EXTINF:-1 group-title="南宋",第二集 240道美食
-http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/5bb85ec6d26b41bc93fdede975e489b9/850.m3u8
-#EXTINF:-1 group-title="南宋",第三集 诗词流域
-http://hw-v.cztv.com/cztv/vod/2015/12/22/269816A5F09E4978A34A2A0C3522B118/h264_1500k_mp4.mp4_playlist.m3u8
-#EXTINF:-1 group-title="南宋",第四集 宋画江山
-http://hw-v.cztv.com/cztv/vod/2015/12/29/119FF580AFD0445aA4AA89B68BC3C324/h264_1500k_mp4.mp4_playlist.m3u8
-#EXTINF:-1 group-title="南宋",第五集 戏文南北
-http://hw-v.cztv.com/cztv/vod/2016/01/05/5F90172AB60A4f8f8CBC09DB65ED3F21/h264_1500k_mp4.mp4_playlist.m3u8
-#EXTINF:-1 group-title="南宋",第六集 发明时代
-http://hw-v.cztv.com/cztv/vod/2016/01/12/1937049D29104779B97536121D571159/h264_1500k_mp4.mp4_playlist.m3u8
-#EXTINF:-1 group-title="南宋",第七集 回望未来
-http://hw-v.cztv.com/cztv/vod/2016/01/19/7092FE015C874387A91A76FD590998CC/h264_1500k_mp4.mp4_playlist.m3u8
-#EXTINF:-1 group-title="汉匈之战,#genre#",汉匈之战 第一集
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/f321247ba9524eb1b4d8a8d8e77e6ba9/1200.m3u8
-#EXTINF:-1 group-title="汉匈之战,#genre#",汉匈之战 第二集
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/fbcaebcdd44a467a86bd1d8022eea693/1200.m3u8
-#EXTINF:-1 group-title="汉匈之战,#genre#",汉匈之战 第三集
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/d1fb1de49d9a4e9f81a5e6c7fd7b40e9/1200.m3u8
-#EXTINF:-1 group-title="古兵器大揭秘",第一集 战车 戈
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/6de0b3463e3f496e8237e440d30d0856/850.m3u8
-#EXTINF:-1 group-title="古兵器大揭秘",第二集 弩
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/0b2bec9809404c32ad0498fef3a97196/850.m3u8
-#EXTINF:-1 group-title="古兵器大揭秘",第三集 陌刀
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/aa2b827117b944c0be1e9d923a3f4e2c/850.m3u8
-#EXTINF:-1 group-title="古兵器大揭秘",第四集 铁骑锋芒
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/b77d67b856b648f4ba2c563cc914822c/850.m3u8
-#EXTINF:-1 group-title="古兵器大揭秘",第五集 神机枪炮
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/1fffbd22233448f0a637aaa5d5c1407e/850.m3u8
-#EXTINF:-1 group-title="古兵器大揭秘",第六集 铁戟·钩镶
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/776f42bce5d24afc8bc884fc82297881/850.m3u8
-#EXTINF:-1 group-title="古兵器大揭秘",第七集 槊·明光铠
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/35437e10b098445fb57194a9067a863b/850.m3u8
-#EXTINF:-1 group-title="古兵器大揭秘",第八集 神臂弓·铁浮屠
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/2576dbf6adb24670a5e8fa01e27b7670/850.m3u8
-#EXTINF:-1 group-title="古兵器大揭秘",第九集 打击兵器·冷锻甲
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/493e401d68084b5aa8c3bee76f67a676/850.m3u8
-#EXTINF:-1 group-title="古兵器大揭秘",第十集 狼筅·倭刀
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/1ce808c9e54840e598532864a1657b14/850.m3u8
-#EXTINF:-1 group-title="解放战争启示录",第一集 抉择
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/14a914984a604beda8cd0e6089b6cdd7/1200.m3u8
-#EXTINF:-1 group-title="解放战争启示录",第二集 同心
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/deb4e337288c45c4a5fe743c5d21e515/1200.m3u8
-#EXTINF:-1 group-title="解放战争启示录",第三集 制胜
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/5a8e078ae3ca4cb9bcf8388f2802a5f5/1200.m3u8
-#EXTINF:-1 group-title="解放战争启示录",第四集 血性
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/cfa78824777b46c18b4bd07443946fcd/1200.m3u8
-#EXTINF:-1 group-title="解放战争启示录",第五集 民心
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/5891f3f1907c46f48a5497a14cd3d8ab/1200.m3u8
-#EXTINF:-1 group-title="解放战争启示录",平津战役 上
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/a8a4e2fb8e1147259a6d0175a222058a/1200.m3u8
-#EXTINF:-1 group-title="解放战争启示录",平津战役 下
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/76ff6f9af53b4fc5a6f723288567b0ef/1200.m3u8
-#EXTINF:-1 group-title="解放战争启示录",辽沈战役 上
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/21b9735e96dc4c438e9cd24ef74ae2df/1200.m3u8
-#EXTINF:-1 group-title="解放战争启示录",辽沈战役 下
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/33bb6f8e5e044ee6a49c9e6e18ebac34/1200.m3u8
-#EXTINF:-1 group-title="解放战争启示录",淮海战役 上
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/77143e5d3e30433988c039e6544bd936/1200.m3u8
-#EXTINF:-1 group-title="解放战争启示录",淮海战役 中
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/c214869c3f52494c948814d95cda369c/1200.m3u8
-#EXTINF:-1 group-title="解放战争启示录",淮海战役 下
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/5abeeabe125043719bec7c77434acc0c/1200.m3u8
+#EXTINF:-1 group-title="苦难辉煌",第一集
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/0fd2c9672b944299b7db36a4e1d0afef/850.m3u8
+#EXTINF:-1 group-title="苦难辉煌",第二集
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/f9125d43219d439cbae272b4d6c732ce/850.m3u8
+#EXTINF:-1 group-title="苦难辉煌",第三集
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/993bc2f16c574e92a832c52bd6a895de/850.m3u8
+#EXTINF:-1 group-title="苦难辉煌",第四集
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/00c911a5ae454858a7d8cb18882a7ebd/850.m3u8
+#EXTINF:-1 group-title="苦难辉煌",第五集
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/879f79dc341143daa82a479c996887e0/850.m3u8
+#EXTINF:-1 group-title="苦难辉煌",第六集
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/bc3c8e453b714d3e8134f3331f273dac/850.m3u8
+#EXTINF:-1 group-title="苦难辉煌",第七集
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/b307ef322491425caabecbb2f7cd9c38/850.m3u8
+#EXTINF:-1 group-title="苦难辉煌",第八集
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/2e557a724c134a4487eaa0027cd497d7/850.m3u8
+#EXTINF:-1 group-title="苦难辉煌",第九集
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/fc95611b11ba4feda5dbdc9014e4a595/850.m3u8
+#EXTINF:-1 group-title="苦难辉煌",第十集
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/9a2b789ddda44b11863d46b9ff0d5827/850.m3u8
+#EXTINF:-1 group-title="苦难辉煌",第十一集
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/1e5c2959911446ccb9b4e0bcf591c0a6/850.m3u8
+#EXTINF:-1 group-title="苦难辉煌",第十二集
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/0507c4f4828f412085fd653f61d0c8de/850.m3u8
 #EXTINF:-1 group-title="大揭秘",中苏关系解密之 较量
 http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/b34d6e7fdbf64b00bde2df1d4afb1452/850.m3u8
 #EXTINF:-1 group-title="大揭秘",中苏关系解密之 斯大林的选择
@@ -737,170 +793,6 @@ http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/1f88d4b2a76744c5aac1586
 http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/8e037acba27c4d93b563000cc8f2f76b/850.m3u8
 #EXTINF:-1 group-title="东方全纪录",中美外交档案解密 破冰之旅
 http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/1ab4198f49144a6d8b5ab98c26617c05/850.m3u8
-#EXTINF:-1 group-title="东方全纪录",致命武器 B-2隐身轰炸机
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/7938d6d2a6534eb7b8d77e0d5584b1cd/850.m3u8
-#EXTINF:-1 group-title="东方全纪录",致命武器 神风特攻队（上）
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/98d525b5fa91428fab7ed1b77afb111c/850.m3u8
-#EXTINF:-1 group-title="东方全纪录",致命武器 神风特攻队（下）
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/a4098fc0f40f485c93126090ba1c19de/850.m3u8
-#EXTINF:-1 group-title="东方全纪录",第一集 乌苏里江上的枪声
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/66a0eff95001402babf08aab2cdb4a04/850.m3u8
-#EXTINF:-1 group-title="东方全纪录",第二集 坦克争夺战
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/89fc3a984a7b4e4f95710acb7e34ffc2/850.m3u8
-#EXTINF:-1 group-title="东方全纪录",第三集 坦克谍战
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/aacc905f1d50464bb11aa65aaf8d7cfa/850.m3u8
-#EXTINF:-1 group-title="东方全纪录",美苏核威胁-朝鲜战争
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/49e314a6ef5444398ddfb7197382fd70/850.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",毛泽东4A急电林彪打锦州上
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/03fe7ac45e9449d481759b189bf09ee6/850.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",毛泽东4A急电林彪打锦州下
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/df837beeebf64fb192cd07b54aa08eb3/850.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",西柏坡密电 毛泽东巧施空城计退敌十万兵
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/cdc79838c00c48fd8d67b5973b121e80/850.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",西柏坡密电 粟裕挥师千里围歼黄百韬
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/6d227d243fa44c72b3c02e8efcee2638/1200.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",罪恶魔女川岛芳子
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/6ace5623c2274abb9b00f201d045061c/1200.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",东北大帅 张作霖
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/d0fd90c203694bed81d0980737eb668c/1200.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",民国风云人物 阎锡山
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/ec9d6fe9ded940e6943217a3537c4652/1200.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",反恐雷霆之2012 俄罗斯莫斯科剧院人质危机一
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/18f9650a11144a25a3a508e805a1252c/850.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",反恐雷霆之2012 俄罗斯莫斯科剧院人质危机二
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/3703f78f85504c3eaf9f15b8389f290d/850.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",美军历史上最丢脸的海外军事行动
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/f2c0d9e5ae0b427db6321f3330f4ea4e/850.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",揭秘日本开拓团向东北移民计划
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/587bd3a0545c438d8b443a59a046df83/850.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",侵华日军的化学武器 抹不去的战争梦魇
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/0c93f5bbb0974cf7bbcd2a95e6f26fee/850.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",剑桥 谍中谍
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/6af52b3785794194b32a8b0be5d0985d/850.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",一九五三 美国间谍风云
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/e547f94ad39c45c78973d8f30759f936/850.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",跨世天劫 洛克比炸机惊魂
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/51fa3e48d4a84a75be9b625a2f3e8665/850.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",达拉斯的枪声和36种可能
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/b0d0be3818b144d69409377cbd2ce986/850.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",日本关东大地震后的阴谋
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/8dcfe7ae959a4deb9cef3b644cf9894b/850.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",南海风云之毛泽东运筹帷幄挥师西沙
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/2512cf6050dd4c599935d10882c73ed8/850.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",苏联解体 八·一九事件内幕 上
-http://hls.cntv.baishancdnx.cn/asp/hls/1200/0303000a/3/default/f806f79293b2446b84d4d0ce6f9f5207/1200.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",苏联解体 八·一九事件内幕 中
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/7b46d77e22034830bad466f00e75ff9c/1200.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",苏联解体 八·一九事件内幕 下
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/fbfbb17ade1d456aa7253c027ddfad20/850.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",新中国反腐第一案始末
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/6b49d5a57633479a99acef1e4af0f07e/850.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",焦裕禄在兰考的475天
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/b0b3b8a20e2d46b79e56d564894500dd/850.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",做百姓的儿子 焦裕禄
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/e0d78a966bd74537a5c8ca704af4933e/850.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",我为祖国献石油 “铁人”王进喜
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/c2c47c4a40c0488482a485ba6c2e792f/850.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",上海 犹太难民的 生命方舟
-http://hls.cntv.baishancdnx.cn/asp/hls/1200/0303000a/3/default/fcbbc2034a4f48b191cd41d9ef57b1d0/1200.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",卡斯特罗和634次暗杀
-http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/3b3421e1d9864676b44c296a00123b8a/850.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",老布什VS萨达姆 对决背后的较量
-http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/27db6b17e2144d94802bf9c06c9334a6/850.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",民国风云人物 阎锡山
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/51432ab06e404e7280a962ec453f40c4/850.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",民国风云人物 冯玉祥
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/139dd2151f0349db9ae9a7b16f53b764/850.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",现代“神农” 袁隆平的田园梦
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/1240ce8657fd486db835a44aaa1a8313/850.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",反恐雷霆之2005 伦敦地铁爆炸案侦破纪实
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/24f006028cfa4da29639f8f833b44e4d/850.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",神奇狙击手张桃芳
-http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1f6525cd0c8d4216a99dece6ac96b10a/1200.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",英雄儿女之传奇上甘岭
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/5d89263d17e348b6a48d6f721ce3e4be/1200.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",断刀 代号543 飞弹射天狼
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/5a5048d636804812a11746ff99ae7b4b/1200.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",尼米兹复仇 目标山本五十六
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/8780f7bf619e47648b73e87c611e3a8f/1200.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",冰血长津湖 雪原追击
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/72b1d5acb0144a34bca10a7e8ad646bd/1200.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",冰血长津湖 隐蔽的对手
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/f23813d371674f40bca66001b07b260a/1200.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",冰雪长津湖 吹响集结号
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/3f1353dd95fd40dfb83b654d8d82f819/1200.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",日本首相田中角荣决定访华秘闻
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/7c2579127f574f3c9f92c4b3aff8192f/1200.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",西柏坡密电 第一季 毛泽东巧施空城计退敌十万兵
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/cdc79838c00c48fd8d67b5973b121e80/850.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",传奇间谍佐尔格
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/85eb913cf06a4e31b46a4e5d1a40ae19/2000.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",国际间谍网覆灭记
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/00ebc17e1ed6406e905ed4aac226f269/2000.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",美苏间谍 较量背后的交易
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/76bb5fbd5ece4459a1d7c8b5fe174088/2000.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",一九五三 美国间谍风云
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/eb822571f2a94ce5a336636fd770abbe/2000.m3u8
-#EXTINF:-1 group-title="一九五八炮击金门",风云突变
-https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/bdfa8f3f31b049dd83ba973cf44a99a1/1200.m3u8
-#EXTINF:-1 group-title="一九五八炮击金门",调兵遣将
-https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/54d60cbf1ea340239a0c38aa60c190ca/1200.m3u8
-#EXTINF:-1 group-title="一九五八炮击金门",于无声处
-https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/8790782149ab485b897e1365ec9a4e9f/1200.m3u8
-#EXTINF:-1 group-title="一九五八炮击金门",台风暴雨
-https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/7c5eb0093e05435bb9f55f5a1153edd0/1200.m3u8
-#EXTINF:-1 group-title="一九五八炮击金门",捍卫领海
-https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/5a93c255b8794342b5bc61ad0c63e00e/1200.m3u8
-#EXTINF:-1 group-title="一九五八炮击金门",封锁金门
-https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/ea527deec8cc4f5da7078615dad53368/1200.m3u8
-#EXTINF:-1 group-title="一九五八炮击金门",蓝天防线
-https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/2a3d793cf07a42eaa9ce87ae4fd96a16/1200.m3u8
-#EXTINF:-1 group-title="一九五八炮击金门",攻心为上
-https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/4e9c617ec9a24f818681ad5ea0a0059b/1200.m3u8
-#EXTINF:-1 group-title="一九五八炮击金门",英雄民兵
-https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/d3ec74e7539a4a04818ba076f579acf3/1200.m3u8
-#EXTINF:-1 group-title="一九五八炮击金门",炮声犹在
-https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/b64b212a6594488d98328442a04beb1d/1200.m3u8
-#EXTINF:-1 group-title="世界各国特种部队大揭秘",法国海外军团-死亡军团
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/11c9a92ef5224a40a33376f92240f698/850.m3u8
-#EXTINF:-1 group-title="世界各国特种部队大揭秘",绿色贝雷帽
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/9d9b278e5b29468cad21e6fcc52d10d8/850.m3u8
-#EXTINF:-1 group-title="世界各国特种部队大揭秘",海军海豹部队
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/683007d643074343ab1243e3c77ef4c6/850.m3u8
-#EXTINF:-1 group-title="世界各国特种部队大揭秘",皇家海军陆战队
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/d1282da523534cc38a1a32c45fc3c5e1/850.m3u8
-#EXTINF:-1 group-title="世界各国特种部队大揭秘",廓尔喀兵
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/091208bad8894ffc83170ec302bc02d5/850.m3u8
-#EXTINF:-1 group-title="世界各国特种部队大揭秘",英国秘密特种部队
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/666d9962523448549b8a232bbdbaea0e/850.m3u8
-#EXTINF:-1 group-title="世界各国特种部队大揭秘",英国空军特种部队
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/7bd1723cb125477cb9d6193305aca4d4/850.m3u8
-#EXTINF:-1 group-title="世界各国特种部队大揭秘",南非特种部队
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/583af9a937c64190aef3dd619bd8f6c0/850.m3u8
-#EXTINF:-1 group-title="世界各国特种部队大揭秘",美国特种部队
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/1498c4a6f84245e18dd8aba47cc013f9/850.m3u8
-#EXTINF:-1 group-title="世界各国特种部队大揭秘",前苏联特种部队
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/deef70564da048b2b048639b70557786/850.m3u8
-#EXTINF:-1 group-title="特战奇兵",象牙海岸行动
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/174b1a401ebb445bbe7967b010ed8d31/850.m3u8
-#EXTINF:-1 group-title="特战奇兵",神行飞燕
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/24a2f78edf424b38b866649451ce011d/850.m3u8
-#EXTINF:-1 group-title="特战奇兵",折戟大漠
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/3d8fad147d6649a994cfbfcc8955df06/850.m3u8
-#EXTINF:-1 group-title="特战奇兵",黑鹰坠落
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/bcb8858891ce4282a01ddb4e33a0c907/850.m3u8
-#EXTINF:-1 group-title="特战奇兵",电闪乌干达
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/716c6c3923e64a508b4fbeea04a95735/850.m3u8
-#EXTINF:-1 group-title="特战奇兵",绝地救魔
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/524faf186b7244968c9066355af654ff/850.m3u8
-#EXTINF:-1 group-title="特战奇兵",夜袭马岛
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/fbbda3f733124aaba8b8c7bd66bffb66/850.m3u8
-#EXTINF:-1 group-title="特战奇兵",艰难一日
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/6528e3c2b22c4093a10490b149c038e6/850.m3u8
-#EXTINF:-1 group-title="特战奇兵",飞夺密支那
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/581c545e9a144ac38984719cdc6e9021/850.m3u8
-#EXTINF:-1 group-title="特战奇兵",奇袭武陵桥
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/83fe900a9b644aef87f2c01896465b58/850.m3u8
 #EXTINF:-1 group-title="毛泽东的科学预见",第一集 独立寒秋
 http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/02523b57701545ac9f61e8196ea4e62c/850.m3u8
 #EXTINF:-1 group-title="毛泽东的科学预见",第二集 打破宿命
@@ -918,200 +810,48 @@ http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/6603c066f006462f8f1ab61
 #EXTINF:-1 group-title="毛泽东的科学预见",第八集 破冰之旅
 http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/c64092dae5434f469d6e2923625f7f1f/850.m3u8
 #EXTINF:-1 group-title="毛泽东的科学预见",走近毛泽东 上
-http://hls.cntv.lxdnsn.com/asp/hls/850/0303000a/3/default/a6814e59f74b44cf837fb1b2f2e04ad3/850.m3u8
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/a6814e59f74b44cf837fb1b2f2e04ad3/850.m3u8
 #EXTINF:-1 group-title="毛泽东的科学预见",走近毛泽东 下
 http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/d6604f4f829a4ebb804e27a029c75fc8/850.m3u8
-#EXTINF:-1 group-title="毛主席用兵真如神",第一集
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/73aa303f5b1f460e941c459b647fc027/850.m3u8
-#EXTINF:-1 group-title="毛主席用兵真如神",第二集
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/e51b359738bb492c7dbb5692dd59713d/850.m3u8
-#EXTINF:-1 group-title="毛主席用兵真如神",第三集
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/f8d2dba40a3c4ea37610ef8bd8e79ad7/850.m3u8
-#EXTINF:-1 group-title="毛主席用兵真如神",第四集
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/d846063c2db9475c9280a783c35df564/850.m3u8
-#EXTINF:-1 group-title="毛主席用兵真如神",第五集
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/109ceb90bb2a4e72ba297480621be23a/850.m3u8
-#EXTINF:-1 group-title="毛主席用兵真如神",第六集
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/8c6bda58edc84957ad9b10901b5d6286/850.m3u8
-#EXTINF:-1 group-title="毛主席用兵真如神",第七集
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/c92aadf8fd8046ccb8a700a40afbe25e/850.m3u8
-#EXTINF:-1 group-title="毛主席用兵真如神",第八集
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/ea620a38bab8480551220a8ce8ad9763/850.m3u8
-#EXTINF:-1 group-title="毛主席用兵真如神",第九集
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/73d31cdb97794e9cd3e99596d90594be/850.m3u8
-#EXTINF:-1 group-title="毛主席用兵真如神",第十集
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/375147b712f644eed4098d8b8a20575c/850.m3u8
-#EXTINF:-1 group-title="毛主席用兵真如神",第十一集
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/a0324263a84f40897cf03684c739ced7/850.m3u8
-#EXTINF:-1 group-title="毛主席用兵真如神",第十二集
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/99221465d6f44090f2aeefb0670b1677/850.m3u8
-#EXTINF:-1 group-title="毛主席用兵真如神",第十三集
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/f1ed6f3b831f45a8df0ceaaf6739669a/850.m3u8
-#EXTINF:-1 group-title="毛主席用兵真如神",第十四集
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/dab6a8d1ded6413308c1f79702c14aeb/850.m3u8
-#EXTINF:-1 group-title="毛主席用兵真如神",第十五集
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/d6c63d9702ed4c6c43e6b0aaa323a597/850.m3u8
-#EXTINF:-1 group-title="毛主席用兵真如神",第十六集
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/565db25c8b814d89f72298866c7c8019/850.m3u8
-#EXTINF:-1 group-title="毛主席用兵真如神",第十七集
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/af670bf7e3e9436022caaebd77133aa5/850.m3u8
-#EXTINF:-1 group-title="毛主席用兵真如神",第十八集
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/b7dc44e8c536479c6c406dafd6c5818e/850.m3u8
-#EXTINF:-1 group-title="时代",习仲勋 第一集 烽火陕甘
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/34539ad762ae464bb59a0e208041c9c4/850.m3u8
-#EXTINF:-1 group-title="时代",习仲勋 第二集 纵横西北
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/8138d71042954fc7960e088c5379fd3d/850.m3u8
-#EXTINF:-1 group-title="时代",习仲勋 第三集 国事春秋
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/ff8f6f820d4f482880707825fa5e7039/850.m3u8
-#EXTINF:-1 group-title="时代",习仲勋 第四集 主政南粤
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/25b36ec54a474c10932b39583505c098/850.m3u8
-#EXTINF:-1 group-title="时代",习仲勋 第五集 勤政岁月
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/f04511cd8d1945c6be409b3cc39e843b/850.m3u8
-#EXTINF:-1 group-title="时代",习仲勋 第六集 海纳百川
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/a5e22570f4a742e8b2c1876f4ecd4cb1/850.m3u8
-#EXTINF:-1 group-title="人文历史",伟大的抗美援朝 第一集 抉择
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/b7c050d48aff40de9521b7b07fc347f2/1200.m3u8
-#EXTINF:-1 group-title="人文历史",伟大的抗美援朝 第二集 较量
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/9b6e84b6fdff4fddba66e269cf15aafc/1200.m3u8
-#EXTINF:-1 group-title="人文历史",伟大的抗美援朝 第三集 英雄
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/b3e2e57114d041538a78d7e88d8c2da2/1200.m3u8
-#EXTINF:-1 group-title="人文历史",伟大的抗美援朝 第四集 后盾
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/e3df181e328e47feab29126cb0d5717d/1200.m3u8
-#EXTINF:-1 group-title="人文历史",伟大的抗美援朝 第五集 和平
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/a1cb37f6524d414c878697ed6bcad714/1200.m3u8
-#EXTINF:-1 group-title="中苏外交档案解密",第一集 斯大林的选择 上
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/b200fa845ae64ed39a5424421f1204b2/850.m3u8
-#EXTINF:-1 group-title="中苏外交档案解密",第二集 斯大林的选择 下
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/64fc3d20b79c42888996bca736d1fefb/850.m3u8
-#EXTINF:-1 group-title="中苏外交档案解密",第三集 交锋莫斯科 上
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/1769902929f54e5798b0235a92bb7b26/850.m3u8
-#EXTINF:-1 group-title="中苏外交档案解密",第四集 交锋莫斯科 下
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/69a26c0f20d5454294d2bc8d940b53b9/850.m3u8
-#EXTINF:-1 group-title="中苏外交档案解密",第五集 歃血为盟 上
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/54063a9dacc54ae19d738b3e028cb323/850.m3u8
-#EXTINF:-1 group-title="中苏外交档案解密",第六集 歃血为盟 下
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/4b1fdbd7dc1240179aacc6fad2405f98/850.m3u8
-#EXTINF:-1 group-title="中苏外交档案解密",第七集 亲密同志 上
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/9f2bc8614375442497cb51bc7c2f3550/850.m3u8
-#EXTINF:-1 group-title="中苏外交档案解密",第八集 亲密同志 下
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/2cf6a362ae1348559f90135b7e11ffbc/850.m3u8
-#EXTINF:-1 group-title="中苏外交档案解密",第九集 独领风骚
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/142949054485452aa96e08a6645be040/850.m3u8
-#EXTINF:-1 group-title="中苏外交档案解密",第十集 山雨欲来 上
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/6938e34fdf9d434b81c8e49fc38821ac/850.m3u8
-#EXTINF:-1 group-title="中苏外交档案解密",第十一集 山雨欲来 下
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/cb61d6a9c2ce4168ae1459bb966714ca/850.m3u8
-#EXTINF:-1 group-title="中苏外交档案解密",第十二集 分庭抗礼
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/eb82ebf72c584f56839dcc306f08b3df/850.m3u8
-#EXTINF:-1 group-title="中苏外交档案解密",第十三集 蘑菇云下
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/c7c3a2cf735941d0a76fe6dc28c7177d/850.m3u8
-#EXTINF:-1 group-title="中苏外交档案解密",第十四集 兵戎相见
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/82ed6b891ffe498ab9e23ed87b3496a4/850.m3u8
-#EXTINF:-1 group-title="特别呈现",铁在烧 第一集 风起铁原
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/843660964e594db1bebe9b2231b1d3b3/850.m3u8
-#EXTINF:-1 group-title="特别呈现",铁在烧 第二集 临危受命
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/ba59c4b1c7c449319f1f1d55634ffd4d/850.m3u8
-#EXTINF:-1 group-title="特别呈现",铁在烧 第三集 生死抉择
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/504a57cf7e1f4e56aad6ad1abcca43fb/850.m3u8
-#EXTINF:-1 group-title="特别呈现",铁在烧 第四集 最后防线
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/ef2a0e22ffc248f48ba7e1082c116d27/850.m3u8
-#EXTINF:-1 group-title="特别呈现",铁在烧 第五集 东方精神
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/fb2557e5770b4b98b92da7421f81c9e6/850.m3u8
-#EXTINF:-1 group-title="特别呈现",最长的43天 第一集 摊牌三八线
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/0cdbfabd0c9145d8b4500d5dedeb65ec/850.m3u8
-#EXTINF:-1 group-title="特别呈现",最长的43天 第二集 高地集结令
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/f4529f2195a9436bba17f778f6074977/850.m3u8
-#EXTINF:-1 group-title="特别呈现",最长的43天 第三集 火线危机战
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/4b8fd37efc7a423ebbae7049a8695b93/850.m3u8
-#EXTINF:-1 group-title="特别呈现",最长的43天 第四集 战地土行孙
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/9ad306614e6f4f57b07a8040db7eb728/850.m3u8
-#EXTINF:-1 group-title="特别呈现",最长的43天 第五集 你好喀秋莎
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/1d59983275ae45ddbac3961b776709bc/850.m3u8
-#EXTINF:-1 group-title="特别呈现",最长的43天 第六集 突破封锁线
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/74f1ed1815b14653838fa2e5e2d01932/850.m3u8
-#EXTINF:-1 group-title="特别呈现",最长的43天 第七集 异国英雄塚
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/e40fe28729284aa18ac2da1a547dfe9f/850.m3u8
-#EXTINF:-1 group-title="特别呈现",最长的43天 第八集 最美战地花
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/4332121bc3b74711b1303fa9520eaf88/850.m3u8
-#EXTINF:-1 group-title="特别呈现",最长的43天 第九集 摧毁心理战
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/4e41ddd15f3c4eff96ad556354294055/850.m3u8
-#EXTINF:-1 group-title="特别呈现",最长的43天 第十集 凝固三八线
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/225c8e34c43749ffa1aeaa8336ed921b/850.m3u8
-#EXTINF:-1 group-title="红色特工秘档",熊向晖
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/ad22e74265034f889c8d1cc70a11c20e/850.m3u8
-#EXTINF:-1 group-title="红色特工秘档",关露
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/7bbe63081d634508a22439b270a2c9be/850.m3u8
-#EXTINF:-1 group-title="红色特工秘档",李茂堂
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/a26f60e078594923a2a76a211d750a72/850.m3u8
-#EXTINF:-1 group-title="红色特工秘档",阎宝航
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/f39f4713e1ed41579b178a0ab0a4ec4d/850.m3u8
-#EXTINF:-1 group-title="红色特工秘档",郭汝瑰
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/ddeba17ff049469ab9709ced009d92c1/850.m3u8
-#EXTINF:-1 group-title="大棋局,#genre#",第一集 入局
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/e7eaabf8032e47a796dfbd4ab6f4997d/850.m3u8
-#EXTINF:-1 group-title="大棋局,#genre#",第二集 落子
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/da935583389143deae6fa350ffc4621d/850.m3u8
-#EXTINF:-1 group-title="大棋局,#genre#",第三集 争劫
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/b7b67fddeadf45feaa20084b1bf3ced3/850.m3u8
-#EXTINF:-1 group-title="大棋局,#genre#",第四集 气合
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/23ea1fa37dab41bab74e2b95ef610171/850.m3u8
-#EXTINF:-1 group-title="大棋局,#genre#",第五集 收官
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/ac0aecedf6a544848452fa62a91fa5bf/850.m3u8
-#EXTINF:-1 group-title="隐蔽战线",第一季第一集 龙潭三杰 上
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/359b2ac12acc438985636e8788c32a1d/1200.m3u8
-#EXTINF:-1 group-title="隐蔽战线",第一季第二集 龙潭三杰 下
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/db36b52cac6d416d9bfee0aeb4efbbc5/1200.m3u8
-#EXTINF:-1 group-title="隐蔽战线",第一季第三集 消失在1945 上
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/2ec45400d0de48bf8bd53738cc89086b/1200.m3u8
-#EXTINF:-1 group-title="隐蔽战线",第一季第四集 消失在1945 下
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/0e698dfa39814fcf8e5058df96697842/1200.m3u8
-#EXTINF:-1 group-title="隐蔽战线",第一季第五集 马背谍影 一
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/b83f4d51cd144bf6a2fc368ea266b4e7/1200.m3u8
-#EXTINF:-1 group-title="隐蔽战线",第一季第六集 马背谍影 二
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/032a2703f9214526b0ef079c0620fefd/1200.m3u8
-#EXTINF:-1 group-title="隐蔽战线",第一季第七集 马背谍影 三
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/5e54890dd35f4d5ea07ab5251d117bea/1200.m3u8
-#EXTINF:-1 group-title="隐蔽战线",第二季第一集
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/d0a4a3cf4ba64c2e9edc1f4047f6af74/850.m3u8
-#EXTINF:-1 group-title="隐蔽战线",第二季第二集
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/d6c585749ec94d63abacbeec9118dcfb/850.m3u8
-#EXTINF:-1 group-title="隐蔽战线",第二季第三集
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/9587f51675734f0fb7652612f2a0d22e/850.m3u8
-#EXTINF:-1 group-title="隐蔽战线",第二季第四集
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/d235cfe3a5f941d28ebf1c410c69cfcb/850.m3u8
-#EXTINF:-1 group-title="隐蔽战线",第二季第五集
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/cc0ec39a906f4548b37783a00d9867f3/850.m3u8
-#EXTINF:-1 group-title="隐蔽战线",第三季第一集
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/f6a71f04a117427db18de4b428f009fb/850.m3u8
-#EXTINF:-1 group-title="隐蔽战线",第三季第二集
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/09d418d7eab14cea31d86aa234760d04/850.m3u8
-#EXTINF:-1 group-title="隐蔽战线",第三季第三集
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/d5aa5c8f3ba44dd281ea059e40f52819/850.m3u8
-#EXTINF:-1 group-title="隐蔽战线",第三季第四集 张露萍上
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/b8786fefaaba483a1bbbf2a08df2f948/850.m3u8
-#EXTINF:-1 group-title="隐蔽战线",第三季第五集 张露萍下
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/3855fa7a71194d0c18bcb8a655493c53/850.m3u8
+#EXTINF:-1 group-title="解放战争",第一集 抉择
+http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/14a914984a604beda8cd0e6089b6cdd7/1200.m3u8
+#EXTINF:-1 group-title="解放战争",第二集 同心
+http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/deb4e337288c45c4a5fe743c5d21e515/1200.m3u8
+#EXTINF:-1 group-title="解放战争",第三集 制胜
+http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/5a8e078ae3ca4cb9bcf8388f2802a5f5/1200.m3u8
+#EXTINF:-1 group-title="解放战争",第四集 血性
+http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/cfa78824777b46c18b4bd07443946fcd/1200.m3u8
+#EXTINF:-1 group-title="解放战争",第五集 民心
+http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/5891f3f1907c46f48a5497a14cd3d8ab/1200.m3u8
+#EXTINF:-1 group-title="解放战争",平津战役 上
+http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/a8a4e2fb8e1147259a6d0175a222058a/1200.m3u8
+#EXTINF:-1 group-title="解放战争",平津战役 下
+http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/76ff6f9af53b4fc5a6f723288567b0ef/1200.m3u8
+#EXTINF:-1 group-title="解放战争",辽沈战役 上
+http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/21b9735e96dc4c438e9cd24ef74ae2df/1200.m3u8
+#EXTINF:-1 group-title="解放战争",辽沈战役 下
+http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/33bb6f8e5e044ee6a49c9e6e18ebac34/1200.m3u8
+#EXTINF:-1 group-title="解放战争",淮海战役 上
+http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/77143e5d3e30433988c039e6544bd936/1200.m3u8
+#EXTINF:-1 group-title="解放战争",淮海战役 中
+http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/c214869c3f52494c948814d95cda369c/1200.m3u8
+#EXTINF:-1 group-title="解放战争",淮海战役 下
+http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/5abeeabe125043719bec7c77434acc0c/1200.m3u8
 
-#EXTINF:-1 group-title="断刀 朝鲜战场大逆转",第一集
-https://sina.com-h-sina.com/20180801/4723_6620a060/index.m3u8
-#EXTINF:-1 group-title="断刀 朝鲜战场大逆转",第二集
-https://sina.com-h-sina.com/20180801/4724_7d68a575/index.m3u8
-#EXTINF:-1 group-title="断刀 朝鲜战场大逆转",第三集
-https://sina.com-h-sina.com/20180801/4725_778148c2/index.m3u8
-#EXTINF:-1 group-title="断刀 朝鲜战场大逆转",第四集
-https://sina.com-h-sina.com/20180801/4726_b42b26de/index.m3u8
-#EXTINF:-1 group-title="断刀 朝鲜战场大逆转",第五集
-https://sina.com-h-sina.com/20180801/4727_4006e1f5/index.m3u8
-#EXTINF:-1 group-title="断刀 朝鲜战场大逆转",第六集
-https://sina.com-h-sina.com/20180801/4728_8c01257a/index.m3u8
-#EXTINF:-1 group-title="断刀 朝鲜战场大逆转",第七集
-https://sina.com-h-sina.com/20180801/4729_b3d89d73/index.m3u8
-#EXTINF:-1 group-title="断刀 朝鲜战场大逆转",第八集
-https://sina.com-h-sina.com/20180801/4730_9a7986ff/index.m3u8
-#EXTINF:-1 group-title="断刀 朝鲜战场大逆转",第九集
-https://sina.com-h-sina.com/20180801/4731_547746b4/index.m3u8
-#EXTINF:-1 group-title="断刀 朝鲜战场大逆转",第十集
-https://sina.com-h-sina.com/20180801/4732_1f18275d/index.m3u8
+#EXTINF:-1 group-title="刀  锋",第一集 卫国刀鸣
+https://hls.cntv.baishancdnx.cn/asp/hls/1200/0303000a/3/default/fbc9b9ea9af9459d86c4327b18b3b848/1200.m3u8?maxbr=2048
+#EXTINF:-1 group-title="刀  锋",第二集 跨海过江
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7a879d2c39a542de9f71c35208877609/1200.m3u8?maxbr=2048
+#EXTINF:-1 group-title="刀  锋",第三集 锋芒所向
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1b9bce796e5d4e8b88212a20d26b04c1/1200.m3u8?maxbr=2048
+#EXTINF:-1 group-title="刀  锋",第四集 冰天刀寒
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0a2940a56ff54537820ae9bb08bc2fce/1200.m3u8?maxbr=2048
+#EXTINF:-1 group-title="刀  锋",第五集 搏刃长津
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ff2fe83583e4d3999ee55ba917241f2/1200.m3u8?maxbr=2048
+#EXTINF:-1 group-title="刀  锋",第六集 雪白血花
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/318e5794493b47669a9bde696ac39059/1200.m3u8?maxbr=2048
+
+
 #EXTINF:-1 group-title="北京纪实-档案",毛泽东4A急电林彪打锦州上
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/03fe7ac45e9449d481759b189bf09ee6/850.m3u8
 #EXTINF:-1 group-title="北京纪实-档案",毛泽东4A急电林彪打锦州下
