@@ -619,6 +619,12 @@ https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/f4c45017a2d1474faef5f
 https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/eaede592082a4b469bd450352dc05a31/2000.m3u8
 #EXTINF:-1 group-title="国家记忆",第五集 路易·艾黎
 https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/686d1b0f068f48afa4548cd3214d81d0/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",陈嘉庚与百年厦大 办校风云
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/fd85ee79c5a5420883aa6aab6171df48/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",陈嘉庚与百年厦大 自强不息
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/14ac34faaa1948da86f2f9f45683cd7f/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",陈嘉庚与百年厦大 凤凰花开
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/33f79a12c61c45cf964bff02b63141f6/2000.m3u8
 
 #EXTINF:-1 group-title="汉匈之战",汉匈之战 第一集
 http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/f321247ba9524eb1b4d8a8d8e77e6ba9/1200.m3u8
