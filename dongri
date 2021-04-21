@@ -672,14 +672,44 @@ https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/fd85ee79c5a5420883aa6
 https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/14ac34faaa1948da86f2f9f45683cd7f/2000.m3u8
 #EXTINF:-1 group-title="国家记忆",陈嘉庚与百年厦大 凤凰花开
 https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/33f79a12c61c45cf964bff02b63141f6/2000.m3u8
-#EXTINF:-1 group-title="上海纪实 档案",血战四平1
+
+#EXTINF:-1 group-title="上海纪实《档案》",血战四平1
 https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/6a597a379d414d93889c71a5c0dc78c1/2000.m3u8
-#EXTINF:-1 group-title="上海纪实 档案",血战四平2
+#EXTINF:-1 group-title="上海纪实《档案》",血战四平2
 https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/8d417c663b614acd9e1bf2703140264e/2000.m3u8
-#EXTINF:-1 group-title="上海纪实 档案",血战四平3
+#EXTINF:-1 group-title="上海纪实《档案》",血战四平3
 https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/9c7fe2546998446f956493e8b9e2df0a/2000.m3u8
-#EXTINF:-1 group-title="上海纪实 档案",血战四平4
+#EXTINF:-1 group-title="上海纪实《档案》",血战四平4
 https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/deb916e17d4e43188bb01838c24237e9/2000.m3u8
+#EXTINF:-1 group-title="上海纪实《档案》",新中国反腐第一案 第一集 东窗事发
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/55915383f4224ee594464bcc1aa7c833/2000.m3u8
+#EXTINF:-1 group-title="上海纪实《档案》",新中国反腐第一案 第二集 糖衣炮弹
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/5860d89889ca430499fa35fdfe69e7cd/2000.m3u8
+#EXTINF:-1 group-title="上海纪实《档案》",新中国反腐第一案 第三集 机关生产
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/9e72e7b25e2e407aa23d93527e431746/2000.m3u8
+#EXTINF:-1 group-title="上海纪实《档案》",新中国反腐第一案 第四集 两个典型
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/5004345a457f44c9bbf5d572e775f516/2000.m3u8
+#EXTINF:-1 group-title="上海纪实《档案》",日本战犯忏悔备忘录①上集
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/5f212a40bb514bce8dd15f60f68f2e66/2000.m3u8
+#EXTINF:-1 group-title="上海纪实《档案》",日本战犯忏悔备忘录①下集
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/dd959fa58a894f1a947a1929805db917/2000.m3u8
+#EXTINF:-1 group-title="上海纪实《档案》",日本战犯忏悔备忘录②上集
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/bcbbf4bd1b47487599bdb647a8fa2200/2000.m3u8
+#EXTINF:-1 group-title="上海纪实《档案》",日本战犯忏悔备忘录②下集
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/fee076d0981c4b9a824d04304886f392/2000.m3u8
+#EXTINF:-1 group-title="上海纪实《档案》",日本战犯忏悔备忘录③上集
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/3e7aa41d77044b67a4d153fcdb2aa37d/2000.m3u8
+#EXTINF:-1 group-title="上海纪实《档案》",日本战犯忏悔备忘录③下集
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/f167cfae12aa4704bec7b43aa7b8b541/2000.m3u8
+#EXTINF:-1 group-title="上海纪实《档案》",日本战犯忏悔备忘录④上集
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/65a50dff80374f3eb8fe39312880651e/2000.m3u8
+#EXTINF:-1 group-title="上海纪实《档案》",日本战犯忏悔备忘录④下集
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/175ac188feb247c6934cc29e4afe7dcf/2000.m3u8
+#EXTINF:-1 group-title="上海纪实《档案》",日本战犯忏悔备忘录⑤上集
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/7cd76bc378654d1781616b8567033a5d/2000.m3u8
+#EXTINF:-1 group-title="上海纪实《档案》",日本战犯忏悔备忘录⑤下集
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/f39c2c35840f48c58b426dbf0992b8f9/2000.m3u8
+
 #EXTINF:-1 group-title="汉匈之战",汉匈之战 第一集
 http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/f321247ba9524eb1b4d8a8d8e77e6ba9/1200.m3u8
 #EXTINF:-1 group-title="汉匈之战",汉匈之战 第二集
