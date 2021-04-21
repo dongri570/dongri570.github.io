@@ -672,7 +672,14 @@ https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/fd85ee79c5a5420883aa6
 https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/14ac34faaa1948da86f2f9f45683cd7f/2000.m3u8
 #EXTINF:-1 group-title="国家记忆",陈嘉庚与百年厦大 凤凰花开
 https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/33f79a12c61c45cf964bff02b63141f6/2000.m3u8
-
+#EXTINF:-1 group-title="上海纪实《档案》",血战四平1
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/6a597a379d414d93889c71a5c0dc78c1/2000.m3u8
+#EXTINF:-1 group-title="上海纪实《档案》",血战四平2
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/8d417c663b614acd9e1bf2703140264e/2000.m3u8
+#EXTINF:-1 group-title="上海纪实《档案》",血战四平3
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/9c7fe2546998446f956493e8b9e2df0a/2000.m3u8
+#EXTINF:-1 group-title="上海纪实《档案》",血战四平4
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/deb916e17d4e43188bb01838c24237e9/2000.m3u8
 #EXTINF:-1 group-title="汉匈之战",汉匈之战 第一集
 http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/f321247ba9524eb1b4d8a8d8e77e6ba9/1200.m3u8
 #EXTINF:-1 group-title="汉匈之战",汉匈之战 第二集
@@ -693,7 +700,6 @@ http://hw-v.cztv.com/cztv/vod/2016/01/05/5F90172AB60A4f8f8CBC09DB65ED3F21/h264_1
 http://hw-v.cztv.com/cztv/vod/2016/01/12/1937049D29104779B97536121D571159/h264_1500k_mp4.mp4_playlist.m3u8
 #EXTINF:-1 group-title="南宋",第七集 回望未来
 http://yd-v.cztv.com/cztv/vod/2016/01/19/7092FE015C874387A91A76FD590998CC/h264_1500k_mp4.mp4_playlist.m3u8
-#EXTM3U
 #EXTINF:-1 group-title="国家天空",国家天空 1 穹庐
 https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/2e8bafe2831a4203f8a64b8f9315f132/850.m3u8
 #EXTINF:-1 group-title="国家天空",国家天空 2 星群
@@ -702,7 +708,6 @@ https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/8ff61fcdaedf4e94a2c670
 https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/8c1dd707211f4734e234b1afa52bec70/850.m3u8
 #EXTINF:-1 group-title="国家天空",国家天空 4 惊雷
 https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/a3553840d4ac4fe4d466dd8bb10f357e/850.m3u8
-
 #EXTINF:-1 group-title="我们走在大路上",第一集 新中国诞生
 http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/3768ae9421ed427881d1261e7e82aa19/1200.m3u8
 #EXTINF:-1 group-title="我们走在大路上",第二集 敢教日月换新天
