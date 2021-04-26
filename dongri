@@ -172,41 +172,6 @@ http://hdtv.haust.edu.cn/hls/hls66.m3u8
 #EXTINF:-1 group-title="2019阅兵盛典",阅兵盛典
 https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/90dafd99f514495d9e284002eb6b85db/1200.m3u8?maxbr=2048
 #EXTM3U
-#EXTINF:-1 group-title="中国诗词大会",第01集
-https://dh5.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/94d040228587461b9746dcc148b9f786/2000.m3u8
-#EXTINF:-1 group-title="中国诗词大会",第02集
-https://dh5.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/de149c1ece43437a943aba3e0f45f147/2000.m3u8
-#EXTINF:-1 group-title="中国诗词大会",第03集
-https://dh5.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/e502ae178bb44cc680395904801658d3/2000.m3u8
-#EXTINF:-1 group-title="中国诗词大会",第04集
-https://dh5.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/8411007bcb6e43e6b7ba55241644dbf4/2000.m3u8
-#EXTINF:-1 group-title="中国诗词大会",第05集
-https://dh5.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/3f1b9681f55e48938a7601dd31c56104/2000.m3u8
-#EXTINF:-1 group-title="中国诗词大会",第06集
-https://dh5.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/c1c9245c792244c49fe87ee07c94d74c/2000.m3u8
-#EXTINF:-1 group-title="中国诗词大会",第07集
-https://dh5.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/9df9f60660b64e089082e7ae23c3ce98/2000.m3u8
-#EXTINF:-1 group-title="中国诗词大会",第08集
-https://dh5.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/5a6f57e7d5314f15a885e12a88d56d42/2000.m3u8
-#EXTINF:-1 group-title="中国诗词大会",第09集
-https://dh5.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/7aa9b6c150cd496182db6d36549223df/2000.m3u8
-#EXTINF:-1 group-title="中国诗词大会",第10集
-https://dh5.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/59c5ba5c897441df91434cbd0ce7629c/2000.m3u8
-#EXTINF:-1 group-title="中国诗词大会",第11集
-https://dh5.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/c34c7e00dd89409ab7322c11ade1843f/2000.m3u8
-#EXTINF:-1 group-title="中国诗词大会",第12集
-https://dh5.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/ab475b400bc44b41bbfd42cda7f43ed1/2000.m3u8
-#EXTINF:-1 group-title="中国诗词大会",第13集
-https://dh5.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/ab1a4426171a4815b94b45723f684dca/2000.m3u8
-#EXTINF:-1 group-title="中国诗词大会",第14集
-https://dh5.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/70151515e30b4311aed7ee0322d3ecb8/2000.m3u8
-#EXTINF:-1 group-title="中国诗词大会",第15集
-https://dh5.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/14433ef3389045ee88a254fed9ec09d4/2000.m3u8
-#EXTINF:-1 group-title="中国诗词大会",第16集
-https://dh5.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/c58db26def1d44e1b92169afbeff7b9d/2000.m3u8
-#EXTINF:-1 group-title="中国诗词大会",第17集
-https://dh5.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/43a3156968184d32af5c0d88c256abeb/2000.m3u8
-#EXTM3U
 #EXTINF:-1 group-title="中华好诗词 精编版",第01集
 https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/8a15d944e93d451185a15a97c06044c0/2000.m3u8
 #EXTINF:-1 group-title="中华好诗词 精编版",第02集
