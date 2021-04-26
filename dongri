@@ -206,18 +206,19 @@ https://dh5.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/14433ef3389045ee88a25
 https://dh5.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/c58db26def1d44e1b92169afbeff7b9d/2000.m3u8
 #EXTINF:-1 group-title="中国诗词大会",第17集
 https://dh5.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/43a3156968184d32af5c0d88c256abeb/2000.m3u8
+#EXTM3U
 #EXTINF:-1 group-title="中华好诗词 精编版",第01集
-https://dh5.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/8a15d944e93d451185a15a97c06044c0/2000.m3u8
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/8a15d944e93d451185a15a97c06044c0/2000.m3u8
 #EXTINF:-1 group-title="中华好诗词 精编版",第02集
-https://dh5.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/0b7f105ccd0140c5b05cdbd60cbbb950/2000.m3u8
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/0b7f105ccd0140c5b05cdbd60cbbb950/2000.m3u8
 #EXTINF:-1 group-title="中华好诗词 精编版",第03集
-https://dh5.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/2bcb5b1fccf44665b9d5503fb7a6fbfa/2000.m3u8
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/2bcb5b1fccf44665b9d5503fb7a6fbfa/2000.m3u8
 #EXTINF:-1 group-title="中华好诗词 精编版",第04集
-https://dh5.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/d46e4841389d4a62a177ae1842dcdef9/2000.m3u8
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/d46e4841389d4a62a177ae1842dcdef9/2000.m3u8
 #EXTINF:-1 group-title="中华好诗词 精编版",第05集
-https://dh5.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/8798a550ead145ab8e062222ca69bf7e/2000.m3u8
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/8798a550ead145ab8e062222ca69bf7e/2000.m3u8
 #EXTINF:-1 group-title="中华好诗词 精编版",第06集
-https://dh5.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/786199b4692f3de1d490706a0a4e5c44/2000.m3u8
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/786199b4692f3de1d490706a0a4e5c44/2000.m3u8
 #EXTINF:-1 group-title="中国通史",第01集 中华道路
 https://mhqiyi.com/20200811/uxJ8IjxT/index.m3u8
 #EXTINF:-1 group-title="中国通史",第02集 中华先祖
