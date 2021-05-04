@@ -729,6 +729,15 @@ https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/00b66a68e6ce4b918136e
 https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/a516116321d744e39ee7312b4e7f1b4e/2000.m3u8
 #EXTINF:-1 group-title="上海纪实《档案》",上甘岭·最长的43天⑧凝固三八线
 https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/c82219ff9b2a4a0cb9f4723a4cccd0c7/2000.m3u8
+#EXTINF:-1 group-title="上海纪实《档案》",西方视角下的中共敌后抗战①
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/b94f0d2fd5b1484c8727935a8d0f64ec/2000.m3u8
+#EXTINF:-1 group-title="上海纪实《档案》",西方视角下的中共敌后抗战②
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/d28cce5404334195b0fa4a139ced6e45/2000.m3u8
+#EXTINF:-1 group-title="上海纪实《档案》",西方视角下的中共敌后抗战③
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/a8f65a6c31624cf4a0ea90a60b5520c8/2000.m3u8
+#EXTINF:-1 group-title="上海纪实《档案》",西方视角下的中共敌后抗战④
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/3651955c2a364358bcc5f1c9cc0b996f/2000.m3u8
+
 #EXTINF:-1 group-title="汉匈之战",汉匈之战 第一集
 http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/f321247ba9524eb1b4d8a8d8e77e6ba9/1200.m3u8
 #EXTINF:-1 group-title="汉匈之战",汉匈之战 第二集
