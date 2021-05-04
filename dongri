@@ -689,7 +689,20 @@ https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/2e93b8b403224521bbf2f
 https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/056ed2eecb154ef68f04febc82c8d718/2000.m3u8
 #EXTINF:-1 group-title="上海纪实《档案》",血战长津湖 第四集 严寒大出击
 https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/a12ee8a1f90848de959569deb1f0994a/2000.m3u8
-
+#EXTINF:-1 group-title="上海纪实《档案》",中日恢复邦交秘闻
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/7800072bcf2641b499a582b022b52b37/2000.m3u8
+#EXTINF:-1 group-title="上海纪实《档案》",中日恢复邦交秘闻 有终之美
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/e733d8a4c558488eb1766bec854683c9/2000.m3u8
+#EXTINF:-1 group-title="上海纪实《档案》",中日恢复邦交秘闻 意外来客
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/4b26de717a4d4e1680f0999b90ed85e7/2000.m3u8
+#EXTINF:-1 group-title="上海纪实《档案》",中日恢复邦交秘闻 水到渠成
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/8b165b28787c4945abe388a5feb34a90/2000.m3u8
+#EXTINF:-1 group-title="上海纪实《档案》",击落U-2飞机秘闻 上
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/c619d978245f40379395b7d5f0e666b1/2000.m3u8
+#EXTINF:-1 group-title="上海纪实《档案》",击落U-2飞机秘闻 中
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/750a10a37a454a1fbffeb07bd2d147a0/2000.m3u8
+#EXTINF:-1 group-title="上海纪实《档案》",击落U-2飞机秘闻 下
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/81168b6e0e1d447aa5dfae268c602c3e/2000.m3u8
 #EXTINF:-1 group-title="汉匈之战",汉匈之战 第一集
 http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/f321247ba9524eb1b4d8a8d8e77e6ba9/1200.m3u8
 #EXTINF:-1 group-title="汉匈之战",汉匈之战 第二集
@@ -1253,11 +1266,6 @@ http://hls.cntv.lxdns.com/asp/hls/450/0303000a/3/default/bd898a335bd046dbe821f7a
 http://hls.cntv.lxdns.com/asp/hls/450/0303000a/3/default/6c5e8165c39e4f0f0e95ce80f7d922b5/450.m3u8
 #EXTINF:-1 group-title="贸易战争",多级化的时代变局
 http://hls.cntv.lxdns.com/asp/hls/450/0303000a/3/default/555310f0e85c4d66dfa8af8fd58042db/450.m3u8
-
-
-
-
-
 #EXTINF:-1 group-title="见证 交锋",第一集 危机时刻
 http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/91b6a6e6c58943b39b46e14bc7f414d7/850.m3u8
 #EXTINF:-1 group-title="见证 交锋",第二集 开放之门
