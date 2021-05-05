@@ -638,6 +638,10 @@ https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/fd85ee79c5a5420883aa6
 https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/14ac34faaa1948da86f2f9f45683cd7f/2000.m3u8
 #EXTINF:-1 group-title="国家记忆",陈嘉庚与百年厦大 凤凰花开
 https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/33f79a12c61c45cf964bff02b63141f6/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",大国粮仓 中国饭碗
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/44d46d688822485090a9f0613597369b/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",大国粮仓 粗粮双王
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/4f3a4516dc6446c7a9ff988ea0823949/2000.m3u8
 
 #EXTINF:-1 group-title="上海纪实《档案》",血战四平1
 https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/6a597a379d414d93889c71a5c0dc78c1/2000.m3u8
