@@ -902,6 +902,17 @@ http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/e4724f1a7fd94cc7978a50f
 http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/42803df3edf74c2097cc8acbeac9d3d7/850.m3u8
 #EXTINF:-1 group-title="大揭秘",中苏关系解密之 一再错过的会面
 http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/898b0a9862364106a77bf8398bcba185/850.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="与德国智造同行",第一集 源发动力
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/d5c44f08a2df48f0b6399a49c71b0dc0/2000.m3u8
+#EXTINF:-1 group-title="与德国智造同行",第二集 品质致胜
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/8905dfebd3624446b92bf9a391c737e7/2000.m3u8
+#EXTINF:-1 group-title="与德国智造同行",第三集 创新机遇
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/7d568a869ae7423388886b088e597408/2000.m3u8
+#EXTINF:-1 group-title="与德国智造同行",第四集 磨砺成器
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/ff2be44f0b974ed8b475ecadcec762df/2000.m3u8
+#EXTINF:-1 group-title="与德国智造同行",第五集 4.0有多远
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/f4db54a518cc44068892ffd89b82f8de/2000.m3u8
 #EXTINF:-1 group-title="东方全纪录",希特勒与纳粹德国的将帅们 1
 http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/fcf1b994fdcc4caa8a82e6f73ba2f38a/850.m3u8
 #EXTINF:-1 group-title="东方全纪录",希特勒与纳粹德国的将帅们 2
