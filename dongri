@@ -5657,23 +5657,23 @@ http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/98d5c93f9a674953bd4e225
 http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/a5e6b699a9ca4be99ec0910c2185149b/850.m3u8
 #EXTINF:-1 group-title="亮剑",第26集
 http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/e065f30d9f5d4aad94243eba8655a958/850.m3u8
-#EXTINF:-1 group-title="特赦1959",第1集
+#EXTINF:-1 group-title="特赦1959",第01集
 http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/3dc972c4a0b74a6bb535ddd71e3eff94/1200.m3u8
-#EXTINF:-1 group-title="特赦1959",第2集
+#EXTINF:-1 group-title="特赦1959",第02集
 http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/cda07d68c119485b88f4589ceb73e23f/1200.m3u8
-#EXTINF:-1 group-title="特赦1959",第3集
+#EXTINF:-1 group-title="特赦1959",第03集
 http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/cbd48f72d80941e3be51685da620cafe/1200.m3u8
-#EXTINF:-1 group-title="特赦1959",第4集
+#EXTINF:-1 group-title="特赦1959",第04集
 http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/60e4b6d734cc4b7a83bde6168be4a598/1200.m3u8
-#EXTINF:-1 group-title="特赦1959",第5集
+#EXTINF:-1 group-title="特赦1959",第05集
 http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/0a43318709f04cb595ffbca73e86882c/1200.m3u8
-#EXTINF:-1 group-title="特赦1959",第6集
+#EXTINF:-1 group-title="特赦1959",第06集
 http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/5ec0acb9ba3f476c9aa0f0182ee0fb9f/1200.m3u8
-#EXTINF:-1 group-title="特赦1959",第7集
+#EXTINF:-1 group-title="特赦1959",第07集
 http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/179320a83481480b94453668454795cb/1200.m3u8
-#EXTINF:-1 group-title="特赦1959",第8集
+#EXTINF:-1 group-title="特赦1959",第08集
 http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/9cdc1de2781948c19c0b6dc3f75aeb8d/1200.m3u8
-#EXTINF:-1 group-title="特赦1959",第9集
+#EXTINF:-1 group-title="特赦1959",第09集
 http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/85e64ba78db84aa2b0fda0d158dd64a7/1200.m3u8
 #EXTINF:-1 group-title="特赦1959",第10集
 http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/9f5efc6ec0ee4c9a8fcdb1cf625281e6/1200.m3u8
