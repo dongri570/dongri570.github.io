@@ -642,6 +642,117 @@ https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/33f79a12c61c45cf964bf
 https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/44d46d688822485090a9f0613597369b/2000.m3u8
 #EXTINF:-1 group-title="国家记忆",大国粮仓 粗粮双王
 https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/4f3a4516dc6446c7a9ff988ea0823949/2000.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="北京纪实-档案",毛泽东4A急电林彪打锦州上
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/03fe7ac45e9449d481759b189bf09ee6/850.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",毛泽东4A急电林彪打锦州下
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/df837beeebf64fb192cd07b54aa08eb3/850.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",西柏坡密电 毛泽东巧施空城计退敌十万兵
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/cdc79838c00c48fd8d67b5973b121e80/850.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",西柏坡密电 粟裕挥师千里围歼黄百韬
+http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/6d227d243fa44c72b3c02e8efcee2638/1200.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",红军不怕远征难 第一集 远征
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/071ed6adfef14cc28e320ed8d6c0fcf3/2000.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",红军不怕远征难 第二集 热血
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/ad909f64e64d4d9ab1a4fcce009303c9/2000.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",红军不怕远征难 第三集 转战
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/be0de382b5204c70acb8ccf3c38b2c0c/2000.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",红军不怕远征难 第四集 星火
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/6c73c518484642629e89c695e776ac51/2000.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",红军不怕远征难 第五集 奇兵
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/41e4f4cd798b4074ae63daeeb2fe6cea/2000.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",红军不怕远征难 第六集 飞渡
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/435f3e56978249bd8fe5a478f9b0282e/2000.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",红军不怕远征难 第七集 冰锋
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/85ed2907ccf84f8d961ea8599de5dfb4/2000.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",红军不怕远征难 第八集 绝地
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/90e7f507121e41adb05ca82f85662e81/2000.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",红军不怕远征难 第九集 铁流
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/a2bb4229005c4e26a2316660238ef53b/2000.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",罪恶魔女川岛芳子
+http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/6ace5623c2274abb9b00f201d045061c/1200.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",东北大帅 张作霖
+http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/d0fd90c203694bed81d0980737eb668c/1200.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",民国风云人物 阎锡山
+http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/ec9d6fe9ded940e6943217a3537c4652/1200.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",反恐雷霆之2012 俄罗斯莫斯科剧院人质危机一
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/18f9650a11144a25a3a508e805a1252c/850.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",反恐雷霆之2012 俄罗斯莫斯科剧院人质危机二
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/3703f78f85504c3eaf9f15b8389f290d/850.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",美军历史上最丢脸的海外军事行动
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/f2c0d9e5ae0b427db6321f3330f4ea4e/850.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",揭秘日本开拓团向东北移民计划
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/587bd3a0545c438d8b443a59a046df83/850.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",侵华日军的化学武器 抹不去的战争梦魇
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/0c93f5bbb0974cf7bbcd2a95e6f26fee/850.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",剑桥 谍中谍
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/6af52b3785794194b32a8b0be5d0985d/850.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",一九五三 美国间谍风云
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/e547f94ad39c45c78973d8f30759f936/850.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",跨世天劫 洛克比炸机惊魂
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/51fa3e48d4a84a75be9b625a2f3e8665/850.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",达拉斯的枪声和36种可能
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/b0d0be3818b144d69409377cbd2ce986/850.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",日本关东大地震后的阴谋
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/8dcfe7ae959a4deb9cef3b644cf9894b/850.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",南海风云之毛泽东运筹帷幄挥师西沙
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/2512cf6050dd4c599935d10882c73ed8/850.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",苏联解体 八·一九事件内幕 上
+http://hls.cntv.baishancdnx.cn/asp/hls/1200/0303000a/3/default/f806f79293b2446b84d4d0ce6f9f5207/1200.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",苏联解体 八·一九事件内幕 中
+http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/7b46d77e22034830bad466f00e75ff9c/1200.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",苏联解体 八·一九事件内幕 下
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/fbfbb17ade1d456aa7253c027ddfad20/850.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",新中国反腐第一案始末
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/6b49d5a57633479a99acef1e4af0f07e/850.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",焦裕禄在兰考的475天
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/b0b3b8a20e2d46b79e56d564894500dd/850.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",做百姓的儿子 焦裕禄
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/e0d78a966bd74537a5c8ca704af4933e/850.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",我为祖国献石油 “铁人”王进喜
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/c2c47c4a40c0488482a485ba6c2e792f/850.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",上海 犹太难民的 生命方舟
+http://hls.cntv.baishancdnx.cn/asp/hls/1200/0303000a/3/default/fcbbc2034a4f48b191cd41d9ef57b1d0/1200.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",卡斯特罗和634次暗杀
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/3b3421e1d9864676b44c296a00123b8a/850.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",老布什VS萨达姆 对决背后的较量
+http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/27db6b17e2144d94802bf9c06c9334a6/850.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",民国风云人物 阎锡山
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/51432ab06e404e7280a962ec453f40c4/850.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",民国风云人物 冯玉祥
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/139dd2151f0349db9ae9a7b16f53b764/850.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",现代“神农” 袁隆平的田园梦
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/1240ce8657fd486db835a44aaa1a8313/850.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",反恐雷霆之2005 伦敦地铁爆炸案侦破纪实
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/24f006028cfa4da29639f8f833b44e4d/850.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",神奇狙击手张桃芳
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1f6525cd0c8d4216a99dece6ac96b10a/1200.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",英雄儿女之传奇上甘岭
+http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/5d89263d17e348b6a48d6f721ce3e4be/1200.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",断刀 代号543 飞弹射天狼
+http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/5a5048d636804812a11746ff99ae7b4b/1200.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",尼米兹复仇 目标山本五十六
+http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/8780f7bf619e47648b73e87c611e3a8f/1200.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",冰血长津湖 雪原追击
+http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/72b1d5acb0144a34bca10a7e8ad646bd/1200.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",冰血长津湖 隐蔽的对手
+http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/f23813d371674f40bca66001b07b260a/1200.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",冰雪长津湖 吹响集结号
+http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/3f1353dd95fd40dfb83b654d8d82f819/1200.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",日本首相田中角荣决定访华秘闻
+http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/7c2579127f574f3c9f92c4b3aff8192f/1200.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",西柏坡密电 第一季 毛泽东巧施空城计退敌十万兵
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/cdc79838c00c48fd8d67b5973b121e80/850.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",传奇间谍佐尔格
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/85eb913cf06a4e31b46a4e5d1a40ae19/2000.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",国际间谍网覆灭记
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/00ebc17e1ed6406e905ed4aac226f269/2000.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",美苏间谍 较量背后的交易
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/76bb5fbd5ece4459a1d7c8b5fe174088/2000.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",一九五三 美国间谍风云
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/eb822571f2a94ce5a336636fd770abbe/2000.m3u8
+#EXTINF:-1 group-title="北京纪实-档案",日本首相田中角荣决定访华秘闻
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/7c2579127f574f3c9f92c4b3aff8192f/2000.m3u8
 
 #EXTINF:-1 group-title="上海纪实《档案》",血战四平1
 https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/6a597a379d414d93889c71a5c0dc78c1/2000.m3u8
@@ -1005,117 +1116,7 @@ https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0a2940a56ff54537820
 https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ff2fe83583e4d3999ee55ba917241f2/1200.m3u8?maxbr=2048
 #EXTINF:-1 group-title="刀  锋",第六集 雪白血花
 https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/318e5794493b47669a9bde696ac39059/1200.m3u8?maxbr=2048
-#EXTM3U
-#EXTINF:-1 group-title="北京纪实-档案",毛泽东4A急电林彪打锦州上
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/03fe7ac45e9449d481759b189bf09ee6/850.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",毛泽东4A急电林彪打锦州下
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/df837beeebf64fb192cd07b54aa08eb3/850.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",西柏坡密电 毛泽东巧施空城计退敌十万兵
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/cdc79838c00c48fd8d67b5973b121e80/850.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",西柏坡密电 粟裕挥师千里围歼黄百韬
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/6d227d243fa44c72b3c02e8efcee2638/1200.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",红军不怕远征难 第一集 远征
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/071ed6adfef14cc28e320ed8d6c0fcf3/2000.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",红军不怕远征难 第二集 热血
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/ad909f64e64d4d9ab1a4fcce009303c9/2000.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",红军不怕远征难 第三集 转战
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/be0de382b5204c70acb8ccf3c38b2c0c/2000.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",红军不怕远征难 第四集 星火
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/6c73c518484642629e89c695e776ac51/2000.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",红军不怕远征难 第五集 奇兵
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/41e4f4cd798b4074ae63daeeb2fe6cea/2000.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",红军不怕远征难 第六集 飞渡
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/435f3e56978249bd8fe5a478f9b0282e/2000.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",红军不怕远征难 第七集 冰锋
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/85ed2907ccf84f8d961ea8599de5dfb4/2000.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",红军不怕远征难 第八集 绝地
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/90e7f507121e41adb05ca82f85662e81/2000.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",红军不怕远征难 第九集 铁流
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/a2bb4229005c4e26a2316660238ef53b/2000.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",罪恶魔女川岛芳子
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/6ace5623c2274abb9b00f201d045061c/1200.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",东北大帅 张作霖
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/d0fd90c203694bed81d0980737eb668c/1200.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",民国风云人物 阎锡山
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/ec9d6fe9ded940e6943217a3537c4652/1200.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",反恐雷霆之2012 俄罗斯莫斯科剧院人质危机一
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/18f9650a11144a25a3a508e805a1252c/850.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",反恐雷霆之2012 俄罗斯莫斯科剧院人质危机二
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/3703f78f85504c3eaf9f15b8389f290d/850.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",美军历史上最丢脸的海外军事行动
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/f2c0d9e5ae0b427db6321f3330f4ea4e/850.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",揭秘日本开拓团向东北移民计划
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/587bd3a0545c438d8b443a59a046df83/850.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",侵华日军的化学武器 抹不去的战争梦魇
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/0c93f5bbb0974cf7bbcd2a95e6f26fee/850.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",剑桥 谍中谍
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/6af52b3785794194b32a8b0be5d0985d/850.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",一九五三 美国间谍风云
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/e547f94ad39c45c78973d8f30759f936/850.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",跨世天劫 洛克比炸机惊魂
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/51fa3e48d4a84a75be9b625a2f3e8665/850.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",达拉斯的枪声和36种可能
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/b0d0be3818b144d69409377cbd2ce986/850.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",日本关东大地震后的阴谋
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/8dcfe7ae959a4deb9cef3b644cf9894b/850.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",南海风云之毛泽东运筹帷幄挥师西沙
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/2512cf6050dd4c599935d10882c73ed8/850.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",苏联解体 八·一九事件内幕 上
-http://hls.cntv.baishancdnx.cn/asp/hls/1200/0303000a/3/default/f806f79293b2446b84d4d0ce6f9f5207/1200.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",苏联解体 八·一九事件内幕 中
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/7b46d77e22034830bad466f00e75ff9c/1200.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",苏联解体 八·一九事件内幕 下
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/fbfbb17ade1d456aa7253c027ddfad20/850.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",新中国反腐第一案始末
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/6b49d5a57633479a99acef1e4af0f07e/850.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",焦裕禄在兰考的475天
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/b0b3b8a20e2d46b79e56d564894500dd/850.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",做百姓的儿子 焦裕禄
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/e0d78a966bd74537a5c8ca704af4933e/850.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",我为祖国献石油 “铁人”王进喜
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/c2c47c4a40c0488482a485ba6c2e792f/850.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",上海 犹太难民的 生命方舟
-http://hls.cntv.baishancdnx.cn/asp/hls/1200/0303000a/3/default/fcbbc2034a4f48b191cd41d9ef57b1d0/1200.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",卡斯特罗和634次暗杀
-http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/3b3421e1d9864676b44c296a00123b8a/850.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",老布什VS萨达姆 对决背后的较量
-http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/27db6b17e2144d94802bf9c06c9334a6/850.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",民国风云人物 阎锡山
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/51432ab06e404e7280a962ec453f40c4/850.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",民国风云人物 冯玉祥
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/139dd2151f0349db9ae9a7b16f53b764/850.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",现代“神农” 袁隆平的田园梦
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/1240ce8657fd486db835a44aaa1a8313/850.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",反恐雷霆之2005 伦敦地铁爆炸案侦破纪实
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/24f006028cfa4da29639f8f833b44e4d/850.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",神奇狙击手张桃芳
-http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1f6525cd0c8d4216a99dece6ac96b10a/1200.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",英雄儿女之传奇上甘岭
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/5d89263d17e348b6a48d6f721ce3e4be/1200.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",断刀 代号543 飞弹射天狼
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/5a5048d636804812a11746ff99ae7b4b/1200.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",尼米兹复仇 目标山本五十六
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/8780f7bf619e47648b73e87c611e3a8f/1200.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",冰血长津湖 雪原追击
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/72b1d5acb0144a34bca10a7e8ad646bd/1200.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",冰血长津湖 隐蔽的对手
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/f23813d371674f40bca66001b07b260a/1200.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",冰雪长津湖 吹响集结号
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/3f1353dd95fd40dfb83b654d8d82f819/1200.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",日本首相田中角荣决定访华秘闻
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/7c2579127f574f3c9f92c4b3aff8192f/1200.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",西柏坡密电 第一季 毛泽东巧施空城计退敌十万兵
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/cdc79838c00c48fd8d67b5973b121e80/850.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",传奇间谍佐尔格
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/85eb913cf06a4e31b46a4e5d1a40ae19/2000.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",国际间谍网覆灭记
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/00ebc17e1ed6406e905ed4aac226f269/2000.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",美苏间谍 较量背后的交易
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/76bb5fbd5ece4459a1d7c8b5fe174088/2000.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",一九五三 美国间谍风云
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/eb822571f2a94ce5a336636fd770abbe/2000.m3u8
-#EXTINF:-1 group-title="北京纪实-档案",日本首相田中角荣决定访华秘闻
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/7c2579127f574f3c9f92c4b3aff8192f/2000.m3u8
+
 #EXTINF:-1 group-title="红色特工秘档",熊向晖
 http://hls.cntv.cntv.lxdns.com/asp/hls/850/0303000a/3/default/ad22e74265034f889c8d1cc70a11c20e/850.m3u8
 #EXTINF:-1 group-title="红色特工秘档",关露
