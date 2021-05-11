@@ -1,7 +1,8 @@
 #EXTM3U
-#EXTINF：-1 group-title =“ NNM影院”，CHC高清电影
+#EXTINF:-1 group-title="NNM影院",CHC高清电影
 http://hdtv.haust.edu.cn/hls/chchd.m3u8
-#EXTINF：-1 group-title =“ NNM影院”，NNM大众影视
+#EXTINF:-1 group-title="NNM影院",NNM大众影视
+http://hdtv.haust.edu.cn/hls/hls164.m3u8
 http://hdtv.haust.edu.cn/hls/hls164.m3u8
 #EXTINF：-1 group-title =“ NNM影院”，NNM家庭剧场
 http://hdtv.haust.edu.cn/hls/hls165.m3u8
