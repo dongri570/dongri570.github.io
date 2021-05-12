@@ -866,6 +866,7 @@ https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/5abeeabe125043719bec7
 https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/a8a4e2fb8e1147259a6d0175a222058a/2000.m3u8
 #EXTINF:-1 group-title="上海纪实《档案》",解放战争 平津战役 下
 https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/76ff6f9af53b4fc5a6f723288567b0ef/2000.m3u8
+
 #EXTM3U
 #EXTINF:-1 group-title="档案秘闻",本·拉登最后的日子
 https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/b17231ea51e24084ae2cd3b612b9b32e/850.m3u8
@@ -1003,6 +1004,34 @@ http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/77db2551607547e9bb2bca9
 http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/ad4b3594f5d04b30b3c71a9a21d15020/850.m3u8
 #EXTINF:-1 group-title="不能忘却的伟大胜利",第12集
 http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/d28bfbe9401e47f781286ac9f4cfe80d/850.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="李德生",第一集 红色信仰
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/a9d0e53dd5db464d8fd93c3f015ee2b6/2000.m3u8
+#EXTINF:-1 group-title="李德生",第二集 战火淬炼
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/a7e79b58f2d8419eb4e8fc2d126ac5cd/2000.m3u8
+#EXTINF:-1 group-title="李德生",第三集 鏖战上甘岭
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/d192c14d96fc4e8ea8fbfb2ad6408140/2000.m3u8
+#EXTINF:-1 group-title="李德生",第四集 练兵之道
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/718c110953bc4e4ab5a58e346ea54d25/2000.m3u8
+#EXTINF:-1 group-title="李德生",第五集 永葆本色
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/7960cefd2d664d2f98844c727e7b724c/2000.m3u8
+#EXTINF:-1 group-title="萧华",第一集 兴国赤子 少年英才
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/05c48f7ad1c64747a70cff0f9844b777/2000.m3u8
+#EXTINF:-1 group-title="萧华",第二集 战火锤炼 掌兵少共
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/3c64ce2f28a0469a90d33e10979e58e9/2000.m3u8
+#EXTINF:-1 group-title="萧华",第三集 万里征途 开路先锋
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/e8f3cc083ecb440cb71686a10cc2901c/2000.m3u8
+#EXTINF:-1 group-title="萧华",第四集 驰骋陕甘 挥师抗日
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/1d7322456c0b47a08d7992f770fbc13b/2000.m3u8
+#EXTINF:-1 group-title="萧华",第五集 娃娃司令 威震冀鲁
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/6ccab0f52fed48299cce5d37afeadb74/2000.m3u8
+#EXTINF:-1 group-title="萧华",第六集 齐鲁抗战 尽显风采
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/4faa7fd4b8284746b0e66c3ff8fbf5b2/2000.m3u8
+#EXTINF:-1 group-title="萧华",第七集 开创辽东 决战决胜
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/3c7c89ff748148ceae4e7181e7dfa334/2000.m3u8
+#EXTINF:-1 group-title="萧华",第八集 卫国强军 鞠躬尽瘁
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/fee4c592072a4b4d89eb8721bb1d2a42/2000.m3u8
+
 #EXTINF:-1 group-title="苦难辉煌",第一集
 http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/0fd2c9672b944299b7db36a4e1d0afef/850.m3u8
 #EXTINF:-1 group-title="苦难辉煌",第二集
