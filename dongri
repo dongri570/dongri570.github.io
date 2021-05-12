@@ -1147,15 +1147,15 @@ https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ff2fe83583e4d3999
 https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/318e5794493b47669a9bde696ac39059/1200.m3u8?maxbr=2048
 
 #EXTINF:-1 group-title="红色特工秘档",熊向晖
-http://hls.cntv.cntv.lxdns.com/asp/hls/850/0303000a/3/default/ad22e74265034f889c8d1cc70a11c20e/850.m3u8
+https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/28a8b308bc154fa6b4ee30f750d629ed/2000.m3u8
 #EXTINF:-1 group-title="红色特工秘档",关露
-http://hls.cntv.cntv.lxdns.com/asp/hls/850/0303000a/3/default/7bbe63081d634508a22439b270a2c9be/850.m3u8
+https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/a79f794b908945258c0ac7ce61058043/2000.m3u8
 #EXTINF:-1 group-title="红色特工秘档",李茂堂
-http://hls.cntv.cntv.lxdns.com/asp/hls/850/0303000a/3/default/a26f60e078594923a2a76a211d750a72/850.m3u8
+https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/d792166a7f964b20a8f941a8e4a73994/850.m3u8
 #EXTINF:-1 group-title="红色特工秘档",阎宝航
-http://hls.cntv.cntv.lxdns.com/asp/hls/850/0303000a/3/default/f39f4713e1ed41579b178a0ab0a4ec4d/850.m3u8
+https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/134c63bfac854e1abd2b7653e2260cc4/2000.m3u8
 #EXTINF:-1 group-title="红色特工秘档",郭汝瑰
-http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ddeba17ff049469ab9709ced009d92c1/850.m3u8
+https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/c7b70df113d84b248368af143980c2af/2000.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="一九五八炮击金门",风云突变
 https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/bdfa8f3f31b049dd83ba973cf44a99a1/1200.m3u8
