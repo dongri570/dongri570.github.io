@@ -1027,30 +1027,54 @@ http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/02957c0f88774f7a9c9b50
 http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/2c477b82d0ee43e29734723b4e9fe8af/1200.m3u8
 #EXTINF:-1 group-title="新疆反恐",全球反恐 并肩同行
 https://dh5.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/fafbeef4f31640529a2b31496d348585/2000.m3u8
-#EXTINF:-1 group-title="不能忘却的伟大胜利",第01集
+#EXTM3U
+#EXTINF:-1 group-title="《探索·发现》",能忘却的伟大胜利 第01集
 http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/d1fe283b14c54199a2b2b1a7c30b5485/850.m3u8
-#EXTINF:-1 group-title="不能忘却的伟大胜利",第02集
+#EXTINF:-1 group-title="《探索·发现》",能忘却的伟大胜利 第02集
 http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/b9a2b44dd51e488fb8eeedacae538e07/850.m3u8
-#EXTINF:-1 group-title="不能忘却的伟大胜利",第03集
+#EXTINF:-1 group-title="《探索·发现》",能忘却的伟大胜利 第03集
 http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/6fc616d7caf743ec80b42808819d794f/850.m3u8
-#EXTINF:-1 group-title="不能忘却的伟大胜利",第04集
+#EXTINF:-1 group-title="《探索·发现》",能忘却的伟大胜利 第04集
 http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/b731269ed0ca421bab2bd576124edb74/850.m3u8
-#EXTINF:-1 group-title="不能忘却的伟大胜利",第05集
+#EXTINF:-1 group-title="《探索·发现》",能忘却的伟大胜利 第05集
 http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/1f0342b56dba49e18335886fc10cc50b/850.m3u8
-#EXTINF:-1 group-title="不能忘却的伟大胜利",第06集
+#EXTINF:-1 group-title="《探索·发现》",能忘却的伟大胜利 第06集
 http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/c300fbac07cb445b9569d3034c5a0118/850.m3u8
-#EXTINF:-1 group-title="不能忘却的伟大胜利",第07集
+#EXTINF:-1 group-title="《探索·发现》",能忘却的伟大胜利 第07集
 http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/403e4c9331ff4e05961e6582f9df02aa/850.m3u8
-#EXTINF:-1 group-title="不能忘却的伟大胜利",第08集
+#EXTINF:-1 group-title="《探索·发现》",能忘却的伟大胜利 第08集
 http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/cb4e417302024da29b76e37dc27909af/850.m3u8
-#EXTINF:-1 group-title="不能忘却的伟大胜利",第09集
+#EXTINF:-1 group-title="《探索·发现》",能忘却的伟大胜利 第09集
 http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/61048658ec3e468aa1a13a035945b445/850.m3u8
-#EXTINF:-1 group-title="不能忘却的伟大胜利",第10集
+#EXTINF:-1 group-title="《探索·发现》",能忘却的伟大胜利 第10集
 http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/77db2551607547e9bb2bca9037408ecc/850.m3u8
-#EXTINF:-1 group-title="不能忘却的伟大胜利",第11集
+#EXTINF:-1 group-title="《探索·发现》",能忘却的伟大胜利 第11集
 http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/ad4b3594f5d04b30b3c71a9a21d15020/850.m3u8
-#EXTINF:-1 group-title="不能忘却的伟大胜利",第12集
+#EXTINF:-1 group-title="《探索·发现》",能忘却的伟大胜利 第12集
 http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/d28bfbe9401e47f781286ac9f4cfe80d/850.m3u8
+#EXTINF:-1 group-title="《探索·发现》",隐蔽战线的英杰 第一集 力挽狂澜
+https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/9509fb31f0214d27b0f6d95f7fda7154/850.m3u8
+#EXTINF:-1 group-title="《探索·发现》",隐蔽战线的英杰 第二集 红色桥梁
+https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/8ffa8538a46c4e6aaff39623fa4aaf9d/850.m3u8
+#EXTINF:-1 group-title="《探索·发现》",隐蔽战线的英杰 第三集 无声较量
+https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/7336a3067c8d4fae8e45b2f697f446d8/850.m3u8
+#EXTINF:-1 group-title="《探索·发现》",隋炀帝墓 争论与真相 上
+https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/5c624589bc624f09985bab7fbe2a393b/850.m3u8
+#EXTINF:-1 group-title="《探索·发现》",隋炀帝墓 争论与真相 下
+https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/47ff10405ce24b66a0333b41276a8068/850.m3u8
+#EXTINF:-1 group-title="《探索·发现》",首钢大搬迁 第一集 英雄无泪
+http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/42ab55bed01441eda11046ad79053f38/2000.m3u8
+#EXTINF:-1 group-title="《探索·发现》",首钢大搬迁 第二集 突出重围
+http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/aa304c12c64f41249c9c8acb946facef/2000.m3u8
+#EXTINF:-1 group-title="《探索·发现》",首钢大搬迁 第三集 沧海桑田
+http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d9593ba2530f49fe8ee0f8cbca60cfcf/2000.m3u8
+#EXTINF:-1 group-title="《探索·发现》",首钢大搬迁 第四集 巨人之梦
+http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/1f0b8cb909144f18b80b835224cdefbc/2000.m3u8
+#EXTINF:-1 group-title="《探索·发现》",首钢大搬迁 第五集 十年洗礼
+http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/9e20d033e5454bebb15c8219e0a353c9/2000.m3u8
+#EXTINF:-1 group-title="《探索·发现》",首钢大搬迁 第六集 飞越未来
+http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/23a26774378943d28aa8c4fdc8427e01/2000.m3u8
+
 #EXTM3U
 #EXTINF:-1 group-title="李德生",第一集 红色信仰
 https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/a9d0e53dd5db464d8fd93c3f015ee2b6/2000.m3u8
