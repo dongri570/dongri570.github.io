@@ -1074,6 +1074,27 @@ http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/1f0b8cb909144f18
 http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/9e20d033e5454bebb15c8219e0a353c9/2000.m3u8
 #EXTINF:-1 group-title="《探索·发现》",首钢大搬迁 第六集 飞越未来
 http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/23a26774378943d28aa8c4fdc8427e01/2000.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="[经典人文地理]",是谁杀死了山本五十六
+http://hwhls.cntv.qcloudcdn.com/asp/hls/450/0303000a/3/default/d7a6590db6d74ad7b1483982d36b35a4/450.m3u8
+#EXTINF:-1 group-title="[经典人文地理]",山本五十六之死
+http://hwhls.cntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/9c0b4a651f0c4c5e4c4463bacd71be0f/850.m3u8
+#EXTINF:-1 group-title="[经典人文地理]",谍变
+http://hwhls.cntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/fd8cca22048b4a95cfcbf78847bed388/850.m3u8
+#EXTINF:-1 group-title="[经典人文地理]",恶魔的女仆
+http://hwhls.cntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/3f9a56eb06aa432ba2bfbdb8d387bd00/850.m3u8
+#EXTINF:-1 group-title="[经典人文地理]",川岛芳子的生死谜
+http://hwhls.cntv.qcloudcdn.com/asp/hls/450/0303000a/3/default/86595f9f2a7442ecca931bbb0066e116/450.m3u8
+#EXTINF:-1 group-title="[经典人文地理]",中东战火 倾斜的疆界
+hhttp://hwhls.cntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/A4B46BEA3B534ea0B1FBEF25E8B15B7B/850.m3u8
+#EXTINF:-1 group-title="[经典人文地理]",中东战火 暗流交纵
+http://hwhls.cntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/2a386290a5fd45d944ab7f951f822db6/850.m3u8
+#EXTINF:-1 group-title="[经典人文地理]",中东战火 抗争之路
+http://hwhls.cntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/2087b4f6542d45a38b64c2bf75454092/850.m3u8
+#EXTINF:-1 group-title="[经典人文地理]",中东战火 水火不容
+http://hwhls.cntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/ad96b4a6d1664cf5922b9d8a21570d0d/850.m3u8
+#EXTINF:-1 group-title="[经典人文地理]",中东战火 探求命运
+http://hwhls.cntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/3EF2DBC28FA24285B131EA80205CF39A/850.m3u8
 
 #EXTM3U
 #EXTINF:-1 group-title="李德生",第一集 红色信仰
