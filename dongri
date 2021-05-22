@@ -1095,8 +1095,6 @@ http://hwhls.cntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/2087b4f6542d45a38
 http://hwhls.cntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/ad96b4a6d1664cf5922b9d8a21570d0d/850.m3u8
 #EXTINF:-1 group-title="[经典人文地理]",中东战火 探求命运
 http://hwhls.cntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/3EF2DBC28FA24285B131EA80205CF39A/850.m3u8
-
-
 #EXTM3U
 #EXTINF:-1 group-title="李德生",第一集 红色信仰
 https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/a9d0e53dd5db464d8fd93c3f015ee2b6/2000.m3u8
@@ -1124,7 +1122,6 @@ https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/4faa7fd4b8284746b0e66
 https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/3c7c89ff748148ceae4e7181e7dfa334/2000.m3u8
 #EXTINF:-1 group-title="萧华",第八集 卫国强军 鞠躬尽瘁
 https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/fee4c592072a4b4d89eb8721bb1d2a42/2000.m3u8
-
 #EXTINF:-1 group-title="苦难辉煌",第一集
 http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/0fd2c9672b944299b7db36a4e1d0afef/850.m3u8
 #EXTINF:-1 group-title="苦难辉煌",第二集
@@ -1172,7 +1169,6 @@ http://hwhls.cntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/7b073d571091474ca
 http://hwhls.cntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/1a062f4b82c34a7b9183bd25e1be8177/850.m3u8
 #EXTINF:-1 group-title="大揭秘",青帮系列之三大亨分道扬镳
 http://hwhls.cntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c309b76508ba4f9fbdd48245911748dc/850.m3u8
-
 #EXTM3U
 #EXTINF:-1 group-title="与德国智造同行",第一集 源发动力
 https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/d5c44f08a2df48f0b6399a49c71b0dc0/2000.m3u8
@@ -1254,7 +1250,6 @@ https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0a2940a56ff54537820
 https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ff2fe83583e4d3999ee55ba917241f2/1200.m3u8?maxbr=2048
 #EXTINF:-1 group-title="刀  锋",第六集 雪白血花
 https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/318e5794493b47669a9bde696ac39059/1200.m3u8?maxbr=2048
-
 #EXTINF:-1 group-title="红色特工秘档",熊向晖
 https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/28a8b308bc154fa6b4ee30f750d629ed/2000.m3u8
 #EXTINF:-1 group-title="红色特工秘档",关露
