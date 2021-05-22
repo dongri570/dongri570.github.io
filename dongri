@@ -36,7 +36,6 @@ http://hdtv.lzu6.edu.cn/hls/hls186a15.m3u8
 http://hdtv.lzu6.edu.cn/hls/hls185a571.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视节目",CCTV-17农业农村
 http://hdtv.lzu6.edu.cn/hls/jlu_cctv17.m3u8
-
 #EXTINF:-1 tvg-id="6594" tvg-name="老故事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png" group-title="央视节目",CCTV老故事
 http://hdtv.lzu6.edu.cn/hls/hls113.m3u8
 #EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="央视节目",CCTV风云足球
@@ -47,8 +46,6 @@ http://hdtv.lzu6.edu.cn/hls/hls23.m3u8
 http://hdtv.lzu6.edu.cn/hls/hls44.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视节目",CCTV央视文化
 http://hdtv.lzu6.edu.cn/hls/hls61.m3u8
-
-#EXTM3U
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视节目",北京卫视蓝光
 http://hdtv.lzu6.edu.cn/hls/btv1.m3u8
 #EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" group-title="卫视节目",BTV文艺
@@ -217,7 +214,6 @@ http://121.12.115.15/tx.hls.huya.com/src/1394565204-1394565204-59896119433195683
 http://121.12.115.15/tx.hls.huya.com/src/1423787855-1423787855-6115122273666990080-2847699166-10057-A-0-1.m3u8
 #EXTINF:-1 group-title="2019阅兵盛典",阅兵盛典
 https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/90dafd99f514495d9e284002eb6b85db/1200.m3u8?maxbr=2048
-#EXTM3U
 #EXTINF:-1 group-title="中华好诗词 精编版",第01集
 https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/8a15d944e93d451185a15a97c06044c0/2000.m3u8
 #EXTINF:-1 group-title="中华好诗词 精编版",第02集
@@ -688,7 +684,6 @@ https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/33f79a12c61c45cf964bf
 https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/44d46d688822485090a9f0613597369b/2000.m3u8
 #EXTINF:-1 group-title="国家记忆",大国粮仓 粗粮双王
 https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/4f3a4516dc6446c7a9ff988ea0823949/2000.m3u8
-#EXTM3U
 #EXTINF:-1 group-title="北京纪实-档案",毛泽东4A急电林彪打锦州上
 http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/03fe7ac45e9449d481759b189bf09ee6/850.m3u8
 #EXTINF:-1 group-title="北京纪实-档案",毛泽东4A急电林彪打锦州下
