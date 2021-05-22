@@ -4301,13 +4301,13 @@ http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/fdc39c85e5ee4e43a9
 #EXTINF:-1 group-title="沿海行",沿海行第108集
 http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/c6c5964af7184438ac8cca01b8d14000/850.m3u8
 #EXTINF:-1 group-title="沿海行",沿海行第109集
-http://cntv.vod.cdn.myqcloud.com/flash/mp4video21/TMS/2012/05/04/303eb12ef0fc4cff884be21ac8f1e99d_h264418000nero_aac32-1.mp4
+http://hwhls.cntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/303eb12ef0fc4cff884be21ac8f1e99d/850.m3u8 
 #EXTINF:-1 group-title="沿海行",沿海行第110集
-http://cntv.vod.cdn.myqcloud.com/flash/mp4video21/TMS/2012/05/07/b7d0555275df4e17a2fbdde326720423_h264418000nero_aac32-1.mp4
+http://hwhls.cntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/b7d0555275df4e17a2fbdde326720423/850.m3u8
 #EXTINF:-1 group-title="沿海行",沿海行第111集
-http://cntv.vod.cdn.myqcloud.com/flash/mp4video21/TMS/2012/05/08/88385ccbffde4428845f5901fc300e20_h264418000nero_aac32-1.mp4
+http://hwhls.cntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/88385ccbffde4428845f5901fc300e20/850.m3u8
 #EXTINF:-1 group-title="沿海行",沿海行第112集
-http://cntv.vod.cdn.myqcloud.com/flash/mp4video21/TMS/2012/05/09/4f9d60fdcc3145028be6c6b7f20ebe8f_h264418000nero_aac32-1.mp4
+http://hwhls.cntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/4f9d60fdcc3145028be6c6b7f20ebe8f/850.m3u8
 #EXTINF:-1 group-title="远方的家一",第01集 千年古港焕新颜
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d2a4fe04ee2445ca96b35dc22d88a2c5/1200.m3u8
 #EXTINF:-1 group-title="远方的家一",第02集 海定波宁 水韵宁波
