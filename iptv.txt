@@ -806,5 +806,6 @@ NNM纪录片,http://hdtv.haust.edu.cn/hls/hls66.m3u8
 这个杀手不太冷,https://vod2.buycar5.cn/20201002/1dBXjAux/1000kb/hls/index.m3u8
 冷血悍将,https://vod3.buycar5.cn/20210530/0clmyq8x/1000kb/hls/index.m3u8
 人之怒,https://vod4.buycar5.cn/20210525/H5rN8zb9/1000kb/hls/index.m3u8
+兵临城下,https://vod3.buycar5.cn/20201112/WHxUHgHx/1000kb/hls/index.m3u8
 
 
