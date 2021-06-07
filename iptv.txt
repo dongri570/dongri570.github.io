@@ -801,11 +801,4 @@ NNM纪录片,http://hdtv.haust.edu.cn/hls/hls66.m3u8
 第47集,https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/a09f11c4ef1e4c0da4dc9be9be3ff459/850.m3u8
 第48集,https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/fa255bff21e645cb8ea451c9f4625ce9/850.m3u8
 第49集,https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/940a57fd9ab746b1b009c8a33f98cba0/850.m3u8
-电影,#genre#
-犯罪城市,https://video.buycar5.cn/20200825/VIObkZ5Z/1000kb/hls/index.m3u8
-这个杀手不太冷,https://vod2.buycar5.cn/20201002/1dBXjAux/1000kb/hls/index.m3u8
-冷血悍将,https://vod3.buycar5.cn/20210530/0clmyq8x/1000kb/hls/index.m3u8
-人之怒,https://vod4.buycar5.cn/20210525/H5rN8zb9/1000kb/hls/index.m3u8
-兵临城下,https://vod3.buycar5.cn/20201112/WHxUHgHx/1000kb/hls/index.m3u8
-
 
