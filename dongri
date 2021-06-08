@@ -1200,6 +1200,26 @@ https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/4e9c617ec9a24f818681a
 https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/d3ec74e7539a4a04818ba076f579acf3/1200.m3u8
 #EXTINF:-1 group-title="一九五八炮击金门",炮声犹在
 https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/b64b212a6594488d98328442a04beb1d/1200.m3u8
+#EXTINF:-1 group-title="激战一江山",第一集 岛屿危机
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/4fe28044f6ae49ecb4086200517302a9/850.m3u8
+#EXTINF:-1 group-title="激战一江山",第二集 大陈
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/7fd924504e784a4685456232a57f972f/850.m3u8
+#EXTINF:-1 group-title="激战一江山",第三集 战长空
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/19c2b780dba4475086f687a2abdffb91/850.m3u8
+#EXTINF:-1 group-title="激战一江山",第四集 战海疆
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/8bddc399f7ab4dc4a00db42715be97ff/850.m3u8
+#EXTINF:-1 group-title="激战一江山",第五集 攻与守
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/e14bec738d3143ea8d7f2d8539da7980/850.m3u8
+#EXTINF:-1 group-title="激战一江山",第六集 岛屿迷雾
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/a1f42ebb60f2458fa7b9086619e34af8/850.m3u8
+#EXTINF:-1 group-title="激战一江山",第七集 D日
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/2046e3f8e2b3465c8284d3a5d0dd29ee/850.m3u8
+#EXTINF:-1 group-title="激战一江山",第八集 目标一江山
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/9d0003d9538c42eaa15f071cddf80810/850.m3u8
+#EXTINF:-1 group-title="激战一江山",第九集 血战
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/cc8fff5e75fe4b958069e3b6a704f646/850.m3u8
+#EXTINF:-1 group-title="激战一江山",第十集 海峡
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/42a40b78dd5e4893918520853eb4aebe/850.m3u8
 #EXTINF:-1 group-title="本·拉登",追杀本·拉登
 https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/d84984d499c64743446977af30efe058/850.m3u8
 #EXTINF:-1 group-title="本·拉登",揭秘拉登之死
@@ -1412,6 +1432,22 @@ http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/4649b34d0e1a4143adae18
 http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/147a48b9f36a46879fb368410892b19d/1200.m3u8
 #EXTINF:-1 group-title="创新中国",创新中国 第六集 潮起
 http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/2d6045595cf443fcbb3a03c6800fd836/1200.m3u8
+#EXTINF:-1 group-title="创新中国",第一集 第一动力
+http://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/23ac7872bd4e49e5b7c333751f183ab1/2000.m3u8
+#EXTINF:-1 group-title="创新中国",第二集 拥抱春天
+http://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/eeb6313c90e64b528f8c7b9fb4d6462b/2000.m3u8
+#EXTINF:-1 group-title="创新中国",第三集 夯实基础
+http://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/6742992e520f4e2994875d15bdc1937f/2000.m3u8
+#EXTINF:-1 group-title="创新中国",第四集 战略支撑
+http://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/570207779f49494dad00f8e25f2f2edd/2000.m3u8
+#EXTINF:-1 group-title="创新中国",第五集 创新为民
+http://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/c577e1f009b945c1956fd91eae3950b5/2000.m3u8
+#EXTINF:-1 group-title="创新中国",第六集 点燃引擎
+http://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/7904ce91910741a992b8f5e21ea141f5/2000.m3u8
+#EXTINF:-1 group-title="创新中国",第七集 第一资源
+http://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/71cd7eb67b6e48379f21fe2f7154d6d8/2000.m3u8
+#EXTINF:-1 group-title="创新中国",第八集 面向未来
+http://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/f14520f8b6ff43c39f62cf8f34026434/2000.m3u8
 #EXTINF:-1 group-title="一带一路",一带一路 第一集 共同命运
 https://pptv.yongjiu-pptv.com/ppvod/2179B17AB3F4311CB761BC52C94CBA2B.m3u8
 #EXTINF:-1 group-title="一带一路",一带一路 第二集 互通之路
