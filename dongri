@@ -1018,6 +1018,12 @@ http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/1f0b8cb909144f18
 http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/9e20d033e5454bebb15c8219e0a353c9/2000.m3u8
 #EXTINF:-1 group-title="《探索·发现》",首钢大搬迁 第六集 飞越未来
 http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/23a26774378943d28aa8c4fdc8427e01/2000.m3u8
+#EXTINF:-1 group-title="《探索·发现》",夺命追逃 一
+https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/f8c61a4b54774cc907dd939153ec4b9a/850.m3u8
+#EXTINF:-1 group-title="《探索·发现》",夺命追逃 二
+https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/cf05501ddef1443dfa4538a34e6ea6f6/850.m3u8
+#EXTINF:-1 group-title="《探索·发现》",夺命追逃 三
+https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/82716520482d4f70b68c0eb0d9a01efd/850.m3u8
 #EXTINF:-1 group-title="[经典人文地理]",是谁杀死了山本五十六
 http://hwhls.cntv.qcloudcdn.com/asp/hls/450/0303000a/3/default/d7a6590db6d74ad7b1483982d36b35a4/450.m3u8
 #EXTINF:-1 group-title="[经典人文地理]",山本五十六之死
