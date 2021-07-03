@@ -1256,6 +1256,32 @@ http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/9d0003d9538c42eaa15f071
 http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/cc8fff5e75fe4b958069e3b6a704f646/850.m3u8
 #EXTINF:-1 group-title="激战一江山",第十集 海峡
 http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/42a40b78dd5e4893918520853eb4aebe/850.m3u8
+#EXTINF:-1 group-title="东方主战场",第一集 东方危急
+http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/746ab4b55d4a48e58db1e19f6b33f59e/2000.m3u8
+#EXTINF:-1 group-title="东方主战场",第二集 共赴国难
+http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d39842171ef6404e9ea452908ed17245/2000.m3u8
+#EXTINF:-1 group-title="东方主战场",第三集 浴血坚持
+http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/eb61fc242846438e92e8e97a79d2a8a0/2000.m3u8
+#EXTINF:-1 group-title="东方主战场",第四集 艰苦卓绝
+http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/fe43a01af2814427a2cf965cea11e56e/2000.m3u8
+#EXTINF:-1 group-title="东方主战场",第五集 同盟抗敌
+http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/edb95afa56d44358a8bd55b72288013e/2000.m3u8
+#EXTINF:-1 group-title="东方主战场",第六集 民族血脉
+http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/b44986a42256484587ed2c3310b816a6/2000.m3u8
+#EXTINF:-1 group-title="东方主战场",第七集 大地坚韧
+http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/a48b8ccf1ca849d7bd100e759461c3c0/2000.m3u8
+#EXTINF:-1 group-title="东方主战场",第八集 正义必胜
+http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/484fd0f0c37a4bc997e3bc622295701a/2000.m3u8
+#EXTINF:-1 group-title="百战经典",英雄无名
+https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/c304d79be6ab4146b8b67d5d437eced1/850.m3u8
+#EXTINF:-1 group-title="百战经典",潜伏传奇
+https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/5ef3f13d4fb64952a647c17094cb0cc2/850.m3u8
+#EXTINF:-1 group-title="百战经典",超级卧底
+https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/2247deb30b6341d1878e2006c0aac571/850.m3u8
+#EXTINF:-1 group-title="百战经典",危机边缘
+https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/b14d847644e548aab0f0e1fe1bed1eae/850.m3u8
+#EXTINF:-1 group-title="百战经典",乱世红颜
+https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/374d048c7b4041eea209d91ae4143f42/850.m3u8
 #EXTINF:-1 group-title="本·拉登",追杀本·拉登
 https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/d84984d499c64743446977af30efe058/850.m3u8
 #EXTINF:-1 group-title="本·拉登",揭秘拉登之死
