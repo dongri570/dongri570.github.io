@@ -5935,7 +5935,6 @@ http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/807bbe45e18146859ba923
 http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/dc0fc556362644989b282dc0f1b9ac88/1200.m3u8
 #EXTINF:-1 group-title="特赦1959",第39集
 http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/4468f7821ace4dda998f721b23627a05/1200.m3u8
-#EXTM3U
 #EXTINF:-1 group-title="神医喜来乐",第01集
 https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/fa01a9175db5458cb6f37470febd6c51/850.m3u8
 #EXTINF:-1 group-title="神医喜来乐",第02集
@@ -5998,7 +5997,6 @@ https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/3e314e779fe24b5ab017ff
 https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/2cc0da8d0a98450faed83fa1bcce3d68/850.m3u8
 #EXTINF:-1 group-title="神医喜来乐",第31集
 https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/77753621486147988cde36bf2b53a0d0/850.m3u8
-#EXTM3U
 #EXTINF:-1 group-title="父母爱情",第01集
 http://hwhls.cntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/cca52149a15e4e6db923f3ca8db21e79/850.m3u8
 #EXTINF:-1 group-title="父母爱情",第02集
