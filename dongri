@@ -1330,6 +1330,16 @@ https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/374d048c7b4041eea209d9
 https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/d84984d499c64743446977af30efe058/850.m3u8
 #EXTINF:-1 group-title="本·拉登",揭秘拉登之死
 https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/c1c7f75ecebd415467cdf9b7107a0a44/850.m3u8
+#EXTINF:-1 group-title="战争风云",库尔斯克会战
+https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/f53f3f77263e46ef8fecc418665eb803/850.m3u8
+#EXTINF:-1 group-title="",突出部战役
+https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/bf11035dde8f4c6d90c090b3f0a520df/850.m3u8
+#EXTINF:-1 group-title="",斯大林格勒战役
+https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/b9e7a1e83adc4d22ab0e715e7596b263/850.m3u8
+#EXTINF:-1 group-title="",中途岛之战
+https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/5e0e40e6265f4102bcbde4df593121b9/850.m3u8
+#EXTINF:-1 group-title="",阿拉曼战役
+https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/83b171d628ff4637988577668a64b05d/850.m3u8
 #EXTINF:-1 group-title="世界各国特种部队大揭秘",法国海外军团-死亡军团
 http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/11c9a92ef5224a40a33376f92240f698/850.m3u8
 #EXTINF:-1 group-title="世界各国特种部队大揭秘",绿色贝雷帽
