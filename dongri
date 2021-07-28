@@ -951,17 +951,17 @@ http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/d1fb1de49d9a4e9f81a5e6
 #EXTINF:-1 group-title="南宋",第一集遥望中原
 http://hw-v.cztv.com/cztv/vod/2015/12/08/7145E9F9A36449788C53F2876C396236/h264_1500k_mp4.mp4_playlist.m3u8
 #EXTINF:-1 group-title="南宋",第二集 南宋240道美食
-http://yf.v.cztv.com/cztv/vod/2015/12/15/5E813777FA0A4a4aA52DA4B92D1BC91F/h264_1500k_mp4.mp4_playlist.m3u8
+http://hw-v.cztv.com/cztv/vod/2021/02/08/ebacdef039214c95aad231806c42e1e4/h264_1500k_mp4.mp4_playlist.m3u8
 #EXTINF:-1 group-title="南宋",第三集 诗词流域
-http://hw-v.cztv.com/cztv/vod/2015/12/22/269816A5F09E4978A34A2A0C3522B118/h264_1500k_mp4.mp4_playlist.m3u8
+http://yd-v.cztv.com/cztv/vod/2015/12/22/269816A5F09E4978A34A2A0C3522B118/h264_1500k_mp4.mp4_playlist.m3u8
 #EXTINF:-1 group-title="南宋",第四集 宋画江山
 http://hw-v.cztv.com/cztv/vod/2015/12/29/119FF580AFD0445aA4AA89B68BC3C324/h264_1500k_mp4.mp4_playlist.m3u8
 #EXTINF:-1 group-title="南宋",第五集 戏文南北
-http://hw-v.cztv.com/cztv/vod/2016/01/05/5F90172AB60A4f8f8CBC09DB65ED3F21/h264_1500k_mp4.mp4_playlist.m3u8
+http://yd-v.cztv.com/cztv/vod/2016/01/05/5F90172AB60A4f8f8CBC09DB65ED3F21/h264_450k_mp4.mp4_playlist.m3u8
 #EXTINF:-1 group-title="南宋",第六集 发明时代
-http://hw-v.cztv.com/cztv/vod/2016/01/12/1937049D29104779B97536121D571159/h264_1500k_mp4.mp4_playlist.m3u8
+http://yd-v.cztv.com/cztv/vod/2016/01/12/1937049D29104779B97536121D571159/h264_1500k_mp4.mp4_playlist.m3u8
 #EXTINF:-1 group-title="南宋",第七集 回望未来
-http://yd-v.cztv.com/cztv/vod/2016/01/19/7092FE015C874387A91A76FD590998CC/h264_1500k_mp4.mp4_playlist.m3u8
+http://yd-v.cztv.com/cztv/vod/2016/01/19/7092FE015C874387A91A76FD590998CC/h264_450k_mp4.mp4_playlist.m3u8
 #EXTINF:-1 group-title="国家天空",国家天空 1 穹庐
 https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/2e8bafe2831a4203f8a64b8f9315f132/850.m3u8
 #EXTINF:-1 group-title="国家天空",国家天空 2 星群
