@@ -640,6 +640,10 @@ https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/5b139b388363478aa2c10
 https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/967b0c5205b64824987c55598f35c32f/2000.m3u8
 #EXTINF:-1 group-title="国家记忆",绝笔切切在心夏明翰 拳拳在念高君宇
 https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/9144d43c238b4420ab10f6c922ccf5a5/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",中国印度-1962 上
+https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/b1d8e5e4712b3ddd9a91f6da0a4e5c44/850.m3u8
+#EXTINF:-1 group-title="国家记忆",中国印度-1962 下
+https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/b854719471ef3ddd9a91f6da0a4e5c44/850.m3u8
 #EXTINF:-1 group-title="北京纪实-档案",毛泽东4A急电林彪打锦州上
 http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/03fe7ac45e9449d481759b189bf09ee6/850.m3u8
 #EXTINF:-1 group-title="北京纪实-档案",毛泽东4A急电林彪打锦州下
