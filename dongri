@@ -1208,12 +1208,6 @@ http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/77143e5d3e30433988c039
 http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/c214869c3f52494c948814d95cda369c/1200.m3u8
 #EXTINF:-1 group-title="解放战争",淮海战役 下
 http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/5abeeabe125043719bec7c77434acc0c/1200.m3u8
-#EXTINF:-1 group-title="解放战争",粟裕大将 上
-https://hls.cntv.lxdns.com/asp/hls/450/0303000a/3/default/3ed6485c2fe946941bb65fa037fbd6bd/450.m3u8
-#EXTINF:-1 group-title="解放战争",粟裕大将 中
-https://hls.cntv.lxdns.com/asp/hls/450/0303000a/3/default/8f44147069e541943d5650a89eb444ea/450.m3u8
-#EXTINF:-1 group-title="解放战争",粟裕大将 下
-https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/8d03e92abbf94b0a9d90bc927e9a80f7/850.m3u8
 #EXTINF:-1 group-title="千年包公",第一集 清心直道
 http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/45414cd32c354a9bb86a6d4bcda3aab3/2000.m3u8
 #EXTINF:-1 group-title="千年包公",第二集 铁面无私
@@ -1324,19 +1318,25 @@ https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/2247deb30b6341d1878e20
 https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/b14d847644e548aab0f0e1fe1bed1eae/850.m3u8
 #EXTINF:-1 group-title="百战经典",乱世红颜
 https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/374d048c7b4041eea209d91ae4143f42/850.m3u8
+#EXTINF:-1 group-title="百战经典",粟裕大将 上
+https://hls.cntv.lxdns.com/asp/hls/450/0303000a/3/default/3ed6485c2fe946941bb65fa037fbd6bd/450.m3u8
+#EXTINF:-1 group-title="百战经典",粟裕大将 中
+https://hls.cntv.lxdns.com/asp/hls/450/0303000a/3/default/8f44147069e541943d5650a89eb444ea/450.m3u8
+#EXTINF:-1 group-title="百战经典",粟裕大将 下
+https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/8d03e92abbf94b0a9d90bc927e9a80f7/850.m3u8
 #EXTINF:-1 group-title="本·拉登",追杀本·拉登
 https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/d84984d499c64743446977af30efe058/850.m3u8
 #EXTINF:-1 group-title="本·拉登",揭秘拉登之死
 https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/c1c7f75ecebd415467cdf9b7107a0a44/850.m3u8
 #EXTINF:-1 group-title="战争风云",库尔斯克会战
 https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/f53f3f77263e46ef8fecc418665eb803/850.m3u8
-#EXTINF:-1 group-title="",突出部战役
+#EXTINF:-1 group-title="战争风云",突出部战役
 https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/bf11035dde8f4c6d90c090b3f0a520df/850.m3u8
-#EXTINF:-1 group-title="",斯大林格勒战役
+#EXTINF:-1 group-title="战争风云",斯大林格勒战役
 https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/b9e7a1e83adc4d22ab0e715e7596b263/850.m3u8
-#EXTINF:-1 group-title="",中途岛之战
+#EXTINF:-1 group-title="战争风云",中途岛之战
 https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/5e0e40e6265f4102bcbde4df593121b9/850.m3u8
-#EXTINF:-1 group-title="",阿拉曼战役
+#EXTINF:-1 group-title="战争风云",阿拉曼战役
 https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/83b171d628ff4637988577668a64b05d/850.m3u8
 #EXTINF:-1 group-title="世界各国特种部队大揭秘",法国海外军团-死亡军团
 http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/11c9a92ef5224a40a33376f92240f698/850.m3u8
