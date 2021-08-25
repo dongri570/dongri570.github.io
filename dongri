@@ -1208,6 +1208,12 @@ http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/77143e5d3e30433988c039
 http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/c214869c3f52494c948814d95cda369c/1200.m3u8
 #EXTINF:-1 group-title="解放战争",淮海战役 下
 http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/5abeeabe125043719bec7c77434acc0c/1200.m3u8
+#EXTINF:-1 group-title="解放战争",粟裕大将 上
+https://hls.cntv.lxdns.com/asp/hls/450/0303000a/3/default/3ed6485c2fe946941bb65fa037fbd6bd/450.m3u8
+#EXTINF:-1 group-title="解放战争",粟裕大将 中
+https://hls.cntv.lxdns.com/asp/hls/450/0303000a/3/default/8f44147069e541943d5650a89eb444ea/450.m3u8
+#EXTINF:-1 group-title="解放战争",粟裕大将 下
+https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/8d03e92abbf94b0a9d90bc927e9a80f7/850.m3u8
 #EXTINF:-1 group-title="千年包公",第一集 清心直道
 http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/45414cd32c354a9bb86a6d4bcda3aab3/2000.m3u8
 #EXTINF:-1 group-title="千年包公",第二集 铁面无私
