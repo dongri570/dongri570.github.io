@@ -18,6 +18,8 @@ CCTV-15HD,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/cctvyy/
 CCTV-17HD,http://hdtv.haust.edu.cn/hls/cctv17hd.m3u8
 卫视节目,#genre#
 北京卫视HD,http://hdtv.haust.edu.cn/hls/btv1hd.m3u8
+北京文艺,http://hdtv.haust.edu.cn/hls/btv2hd.m3u8
+北京影视,http://hdtv.haust.edu.cn/hls/btv4hd.m3u8
 湖南卫视HD,http://hdtv.haust.edu.cn/hls/hunanhd.m3u8
 深圳卫视HD,http://hdtv.haust.edu.cn/hls/szhd.m3u8
 东方卫视HD,http://hdtv.haust.edu.cn/hls/dfhd.m3u8
@@ -34,11 +36,11 @@ CCTV-17HD,http://hdtv.haust.edu.cn/hls/cctv17hd.m3u8
 辽宁卫视,http://hdtv.haust.edu.cn/hls/lnhd.m3u8
 河北卫视,http://live2.plus.hebtv.com/hbwsx/hd/live.m3u8
 重庆卫视,http://hdtv.haust.edu.cn/hls/cqhd.m3u8?time=1630650283772
-东南卫视,http://223.82.250.72/live/dongnanstv/1.m3u8
-甘肃卫视,http://223.82.250.72/live/gansustv/1.m3u8
+东南卫视,http://hdtv.haust.edu.cn/hls/dnhd.m3u8
+甘肃卫视,http://39.134.65.66/wh7f454c46tw1795052499_2123886623/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8?icpid=88888888&RTS=1554599567&from=1&hms_devid=126&time=1630658986667
 吉林卫视,http://223.82.250.72/live/jilinstv/1.m3u8
-山西卫视,http://223.82.250.72/live/shanxistv/1.m3u8
-陕西卫视,http://223.82.250.72/live/shanxi1stv/1.m3u8
+山西卫视,http://39.134.65.6/wh7f454c46tw1764443977_-1037536554/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8?icpid=88888888&RTS=1554599536&from=1&hms_devid=29
+陕西卫视,http://stream.snrtv.com/sxbc-star-efouN3.m3u8
 广西卫视,http://live-cdn.gxxw.com/tv/gxtv/index.m3u8
 贵州卫视,http://hdtv.haust.edu.cn/hls/gzhd.m3u8
 河南卫视,http://223.82.250.72/live/henanstv/1.m3u8
