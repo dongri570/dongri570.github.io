@@ -54,6 +54,29 @@ CCTV-17HD,http://hdtv.haust.edu.cn/hls/cctv17hd.m3u8
 兵团卫视台,http://39.134.66.8/PLTV/88888888/224/3221225856/index.m3u8
 凤凰卫视中文台,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 凤凰卫视资讯台,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
+澳门Ⅰ澳视1台,http://61.244.22.4/ch1/ch1.live/playelist.m3u8
+澳门Ⅰ澳视卫星,http://61.244.22.4/ch3/ch3.live/playelist.m3u8
+地方影视台,#genre#
+浙江影视台,http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8
+福州影视台,http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
+绍兴影视台,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+安徽影视台,http://zbbf2.ahtv.cn/live/756.m3u8
+黄骅影视台,http://hbhh.chinashadt.com:2111/live/hhys.stream/playlist.m3u8
+东至影视台,http://223.247.33.124:1935/live/yingshi/playlist.m3u8
+西安影视台,http://stream2.xiancity.cn/xatv4/sd/live.m3u8
+河东影视台,http://jsylivealone302.iqilu.com/live/hedong_tv01.m3u8
+海西TV台,http://stream.haixitv.cn/1/sd/live.m3u8
+淮安影视台,http://stream.habctv.com/ysyl/sd/live.m3u8
+安微影视台,http://zbbf2.ahtv.cn/live/756.m3u8
+经典影视,http://tx.liveplay.live.kugou.com/live/fx_hifi_251702616_avc.m3u8
+海外电视,#genre#
+彭博财经 TV,http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+美国法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+朝鲜中央台,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+越南ANTVHD,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+越南PTP HD,http://113.161.4.48:8080/phuyen/tv.m3u8
+越南和平HBTV,http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
+新加坡Acna,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 中国通史,#genre# 
 第01集 中华道路,https://vod6.wenshibaowenbei.com/20210422/uSsbeYGB/1000kb/hls/index.m3u8
 第02集 中华先祖,https://vod6.wenshibaowenbei.com/20210422/ZW9HBUUm/1000kb/hls/index.m3u8
@@ -3898,33 +3921,4 @@ CCTV-17HD,http://hdtv.haust.edu.cn/hls/cctv17hd.m3u8
 第38集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/c9f1ec086c3744b69ba61f7796598959/2000.m3u8
 第39集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/3978f39af6534591b8ce6384adc68e9b/2000.m3u8
 第40集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/0c73acd2cb5f4b2782b863154eaa2d43/2000.m3u8
-扫黑风暴,#genre# 
-第01集,https://sod.bunediy.com/20210809/4pi3B6CB/index.m3u8
-第02集,https://sod.bunediy.com/20210809/3QKOol5M/index.m3u8
-第03集,https://sod.bunediy.com/20210809/pwHFzPjU/index.m3u8
-第04集,https://sod.bunediy.com/20210809/eQgptdOz/index.m3u8
-第05集,https://sod.bunediy.com/20210809/dnfz5ri1/index.m3u8
-第06集,https://sod.bunediy.com/20210810/RZezu92U/index.m3u8
-第07集,https://sod.bunediy.com/20210811/CuPCig9D/index.m3u8
-第08集,https://sod.bunediy.com/20210812/VFwvNvrp/index.m3u8
-第09集,https://sod.bunediy.com/20210813/hoC1JklJ/index.m3u8
-第10集,https://sod.bunediy.com/20210814/UQ3buKFm/index.m3u8
-第11集,https://sod.bunediy.com/20210816/KnwFq5SE/index.m3u8
-第12集,https://sod.bunediy.com/20210817/4EsX5NEa/index.m3u8
-第13集,https://sod.bunediy.com/20210818/FlreeTfQ/index.m3u8
-第14集,https://sod.bunediy.com/20210819/2r8loGyJ/index.m3u8
-第15集,https://sod.bunediy.com/20210819/up8E6hZB/index.m3u8
-第16集,https://sod.bunediy.com/20210819/IBQl5K5u/index.m3u8
-第17集,https://sod.bunediy.com/20210819/v18dDPHo/index.m3u8
-第18集,https://sod.bunediy.com/20210819/XcAzQQth/index.m3u8
-第19集,https://sod.bunediy.com/20210820/BZS9Qy0u/index.m3u8
-第20集,https://sod.bunediy.com/20210822/5fSbr8fB/index.m3u8
-第21集,https://sod.bunediy.com/20210823/Q3HzLzoK/index.m3u8
-第22集,https://sod.bunediy.com/20210824/7Uj6ICGq/index.m3u8
-第23集,https://sod.bunediy.com/20210825/89FIqjzZ/index.m3u8
-第24集,https://v10.dious.cc/20210826/W67LtvqH/index.m3u8
-第25集,https://v10.dious.cc/20210827/FyvChUU5/index.m3u8
-第26集,https://v10.dious.cc/20210828/s5bzwYLN/index.m3u8
-第27集,https://v10.dious.cc/20210830/2Xc2xrnZ/index.m3u8
-第28集,https://v10.dious.cc/20210831/AeT7aUwM/index.m3u8
 
