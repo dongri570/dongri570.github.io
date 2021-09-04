@@ -18,6 +18,14 @@ CCTV-15HD,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/cctvyy/
 CCTV-17HD,http://hdtv.haust.edu.cn/hls/cctv17hd.m3u8
 卫视节目,#genre#
 北京卫视台,http://39.134.24.202/PLTV/88888888/224/3221225724/index.m3u8
+北京体育,http://live4.itouchtv.cn/gehua/btvjishi.m3u8?auth_key=1630716617-0-0-8dbb271702dd0092d0ad7efafbd7c739&auth_key=1630758340-0-0-96f5c6a31904fb51234225bafae398aa
+北京影视,http://live4.itouchtv.cn/gehua/btv4.m3u8?auth_key=1630716914-0-0-a2b29045c0fc52abfbf8cb59ba159267&auth_key=1630758400-0-0-396643b8372a3f5e89e2f26304ffe05e
+北京文艺,http://live4.itouchtv.cn/gehua/btvwenyi.m3u8?auth_key=1630716914-0-0-51cc3bdc8816f3900c42ef9d8039aef1&auth_key=1630758423-0-0-82fac1aa9011c5314711f371f3016661
+北京科教,http://live4.itouchtv.cn/gehua/btv3.m3u8?auth_key=1630716914-0-0-a5f31d174e8361ed141bf573dddefc77&auth_key=1630758352-0-0-54b8c3dfd4d8a6af41a12e360cb16b79
+北京生活,http://live4.itouchtv.cn/gehua/btv7.m3u8?auth_key=1630717218-0-0-db352ecc221f042a3ab99654e8340c1b&auth_key=1630758765-0-0-4bc5ab527de4a85f9f8b28b5ec8356b4 
+北京青年,http://live4.itouchtv.cn/gehua/btv8.m3u8?auth_key=1630717218-0-0-825756906c26eafb834471c8f0500449&auth_key=1630758808-0-0-9545c1232f3c4772d9b1da2d66035898
+北京新闻,http://live4.itouchtv.cn/gehua/btv9.m3u8?auth_key=1630717218-0-0-d8a54241878ccb46b4eb6672483c4c62&auth_key=1630758845-0-0-53837ef44b2c9489392bf21895f90d43
+卡酷动画,http://live4.itouchtv.cn/gehua/btv10.m3u8?auth_key=1630717218-0-0-9bf60d69b51042a9e73c9bd195a538b3&auth_key=1630758882-0-0-7bf5d404c25fbf89316a3af929aeab96
 东方卫视台,http://39.134.66.66/PLTV/88888888/224/3221225672/index.m3u8
 天津卫视台,http://39.134.66.66/PLTV/88888888/224/3221225665/index.m3u8
 安徽卫视台,http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221225634/index.m3u8
