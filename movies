@@ -18,14 +18,6 @@ CCTV-15HD,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/cctvyy/
 CCTV-17HD,http://hdtv.haust.edu.cn/hls/cctv17hd.m3u8
 卫视节目,#genre#
 北京卫视台,http://39.134.24.202/PLTV/88888888/224/3221225724/index.m3u8
-北京体育,http://live4.itouchtv.cn/gehua/btvjishi.m3u8?auth_key=1630716617-0-0-8dbb271702dd0092d0ad7efafbd7c739&auth_key=1630758340-0-0-96f5c6a31904fb51234225bafae398aa
-北京影视,http://live4.itouchtv.cn/gehua/btv4.m3u8?auth_key=1630716914-0-0-a2b29045c0fc52abfbf8cb59ba159267&auth_key=1630758400-0-0-396643b8372a3f5e89e2f26304ffe05e
-北京文艺,http://live4.itouchtv.cn/gehua/btvwenyi.m3u8?auth_key=1630716914-0-0-51cc3bdc8816f3900c42ef9d8039aef1&auth_key=1630758423-0-0-82fac1aa9011c5314711f371f3016661
-北京科教,http://live4.itouchtv.cn/gehua/btv3.m3u8?auth_key=1630716914-0-0-a5f31d174e8361ed141bf573dddefc77&auth_key=1630758352-0-0-54b8c3dfd4d8a6af41a12e360cb16b79
-北京生活,http://live4.itouchtv.cn/gehua/btv7.m3u8?auth_key=1630717218-0-0-db352ecc221f042a3ab99654e8340c1b&auth_key=1630758765-0-0-4bc5ab527de4a85f9f8b28b5ec8356b4 
-北京青年,http://live4.itouchtv.cn/gehua/btv8.m3u8?auth_key=1630717218-0-0-825756906c26eafb834471c8f0500449&auth_key=1630758808-0-0-9545c1232f3c4772d9b1da2d66035898
-北京新闻,http://live4.itouchtv.cn/gehua/btv9.m3u8?auth_key=1630717218-0-0-d8a54241878ccb46b4eb6672483c4c62&auth_key=1630758845-0-0-53837ef44b2c9489392bf21895f90d43
-卡酷动画,http://live4.itouchtv.cn/gehua/btv10.m3u8?auth_key=1630717218-0-0-9bf60d69b51042a9e73c9bd195a538b3&auth_key=1630758882-0-0-7bf5d404c25fbf89316a3af929aeab96
 东方卫视台,http://39.134.66.66/PLTV/88888888/224/3221225672/index.m3u8
 天津卫视台,http://39.134.66.66/PLTV/88888888/224/3221225665/index.m3u8
 安徽卫视台,http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221225634/index.m3u8
@@ -64,27 +56,6 @@ CCTV-17HD,http://hdtv.haust.edu.cn/hls/cctv17hd.m3u8
 凤凰卫视资讯台,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 澳门Ⅰ澳视1台,http://61.244.22.4/ch1/ch1.live/playelist.m3u8
 澳门Ⅰ澳视卫星,http://61.244.22.4/ch3/ch3.live/playelist.m3u8
-地方影视台,#genre#
-浙江影视台,http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8
-福州影视台,http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
-绍兴影视台,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
-安徽影视台,http://zbbf2.ahtv.cn/live/756.m3u8
-黄骅影视台,http://hbhh.chinashadt.com:2111/live/hhys.stream/playlist.m3u8
-东至影视台,http://223.247.33.124:1935/live/yingshi/playlist.m3u8
-西安影视台,http://stream2.xiancity.cn/xatv4/sd/live.m3u8
-河东影视台,http://jsylivealone302.iqilu.com/live/hedong_tv01.m3u8
-海西TV台,http://stream.haixitv.cn/1/sd/live.m3u8
-淮安影视台,http://stream.habctv.com/ysyl/sd/live.m3u8
-安微影视台,http://zbbf2.ahtv.cn/live/756.m3u8
-经典影视,http://tx.liveplay.live.kugou.com/live/fx_hifi_251702616_avc.m3u8
-海外电视,#genre#
-彭博财经 TV,http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-美国法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
-朝鲜中央台,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-越南ANTVHD,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
-越南PTP HD,http://113.161.4.48:8080/phuyen/tv.m3u8
-越南和平HBTV,http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
-新加坡Acna,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 中国通史,#genre# 
 第01集 中华道路,https://vod6.wenshibaowenbei.com/20210422/uSsbeYGB/1000kb/hls/index.m3u8
 第02集 中华先祖,https://vod6.wenshibaowenbei.com/20210422/ZW9HBUUm/1000kb/hls/index.m3u8
