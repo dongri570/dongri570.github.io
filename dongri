@@ -111,6 +111,24 @@ http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 http://61.244.22.4/ch1/ch1.live/playelist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视节目",澳门I澳视卫星
 http://61.244.22.4/ch3/ch3.live/playelist.m3u8
+#EXTINF:-1 group-title="NEWTV",NEWtv金牌综艺
+http://39.134.66.66/PLTV/88888888/224/3221225525/index.m3u8
+#EXTINF:-1 group-title="NEWTV",NEWtv家庭剧场
+http://39.134.66.66/PLTV/88888888/224/3221225538/index.m3u8
+#EXTINF:-1 group-title="NEWTV",NEWtv古装剧场
+http://39.134.66.66/PLTV/88888888/224/3221225524/index.m3u8
+#EXTINF:-1 group-title="NEWTV",NEWtv爱情喜剧
+http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
+#EXTINF:-1 group-title="NEWTV",NEWtv精品大剧
+http://39.134.66.66/PLTV/88888888/224/3221225536/index.m3u8
+#EXTINF:-1 group-title="NEWTV",NEWtv潮妈辣婆
+http://39.134.66.66/PLTV/88888888/224/3221225542/index.m3u8
+#EXTINF:-1 group-title="NEWTV",NEWtv超级电视剧
+http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8
+#EXTINF:-1 group-title="NEWTV",NEWtv超级电影
+http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
+#EXTINF:-1 group-title="NEWTV",NEWtv军旅剧场
+http://39.134.66.66/PLTV/88888888/224/3221225560/index.m3u8
 #EXTINF:-1 group-title="大国质量",第一集 质量时代
 http://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/5898e4eca19843ea9694a2b695dcf323/2000.m3u8
 #EXTINF:-1 group-title="大国质量",第二集 强国之基
