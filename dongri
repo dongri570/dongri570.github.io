@@ -161,6 +161,38 @@ http://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/16db5b6616c84bc288bfaf
 http://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/a8950e04e9014e8e8a8fd08258938262/2000.m3u8
 #EXTINF:-1 group-title="红色经典",柳堡的故事
 http://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/68f7a9af33bd487a81ab44f84403a425/2000.m3u8
+#EXTINF:-1 group-title="红色经典",51号兵站
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/fa6557276d644b5ea399956a6bf94e59/850.m3u8
+#EXTINF:-1 group-title="红色经典",羊城暗哨
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/215e7a6713884bcab8cc461e245531af/850.m3u8
+#EXTINF:-1 group-title="红色经典",小兵张嘎
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/18ba93cccb73429e98c01fe03c48f6b1/850.m3u8
+#EXTINF:-1 group-title="红色经典",跟踪追击
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/3a8a39080de94ad89a7bfc669df6f109/850.m3u8
+#EXTINF:-1 group-title="红色经典",祖国的花朵
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/efe3ebd76ed849dea8710f997a361cc6/850.m3u8
+#EXTINF:-1 group-title="红色经典",战火中的青春
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/be0d797e3b494f5fa1cb6d48d29643f3/850.m3u8
+#EXTINF:-1 group-title="红色经典",海鹰
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/412ae4c1c5fe4150a14197c437391fe2/850.m3u8
+#EXTINF:-1 group-title="红色经典",董存瑞
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/c16c63b6415b485e899ec3f2970571e7/850.m3u8
+#EXTINF:-1 group-title="红色经典",铁道游击队
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/fe6541daab994ea3b4c174c2a4847eba/850.m3u8
+#EXTINF:-1 group-title="红色经典",突破乌江
+http://hls.cntv.lxdns.com/asp/hls/0303000a/3/default/bf8ccfff8bc949a6a2ed6bcda45eb4e2/850.m3u8
+#EXTINF:-1 group-title="红色经典",英雄虎胆
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/b7fcd0d4ebb045fe8e653ee71b4ef8fc/850.m3u8
+#EXTINF:-1 group-title="红色经典",红日
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/f2ee6e22cd894be1bc8c90b19f47ae2e/850.m3u8
+#EXTINF:-1 group-title="红色经典",泉水叮咚
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/8b039f6988a04ca8b086d35031a77204/850.m3u8
+#EXTINF:-1 group-title="红色经典",战上海
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/e84b188d1bf7484fb4907d99827cbd45/850.m3u8
+#EXTINF:-1 group-title="红色经典",跟踪追击
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/059096230b4e46c0b5d4929ff98435d0/850.m3u8
+#EXTINF:-1 group-title="红色经典",上甘岭
+http://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/8552e4ce17984ddbb1617bc31753aea7/2000.m3u8
 #EXTINF:-1 group-title="大国质量",第一集 质量时代
 http://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/5898e4eca19843ea9694a2b695dcf323/2000.m3u8
 #EXTINF:-1 group-title="大国质量",第二集 强国之基
