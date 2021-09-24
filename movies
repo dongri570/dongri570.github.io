@@ -37,8 +37,8 @@ CCTV-17HD,http://hdtv.haust.edu.cn/hls/cctv17hd.m3u8
 吉林卫视台,http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/jlws/1300000/mnf.m3u8
 天津卫视台,http://39.134.66.66/PLTV/88888888/224/3221225665/index.m3u8
 山西卫视台,http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/shanxiws/1300000/mnf.m3u8
-广西卫视台,https://mobilelive.gxtv.cn/live/nn_live1004/playlist.m3u8
-黑龙江卫视台,http://idclive.hljtv.com:8080/live/weishi_hd.m3u8
+广西卫视台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=121&Fsv_rate_id=2&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+黑龙江卫视台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=027&Fsv_rate_id=1&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 宁夏卫视台,http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225842/index.m3u8
 内蒙古卫视台,http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225836/index.m3u8
 西藏卫视台,http://117.136.154.86/PLTV/88888888/224/3221225543/index.m3u8
