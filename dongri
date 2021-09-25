@@ -1269,17 +1269,27 @@ http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/45414cd32c354a9b
 http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/3cd4890d8ce642f7808055584482898b/2000.m3u8
 #EXTINF:-1 group-title="千年包公",第三集 以民为本
 http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/3cd4890d8ce642f7808055584482898b/2000.m3u8
-#EXTINF:-1 group-title="刀  锋",第一集 卫国刀鸣
-https://hls.cntv.baishancdnx.cn/asp/hls/1200/0303000a/3/default/fbc9b9ea9af9459d86c4327b18b3b848/1200.m3u8?maxbr=2048
-#EXTINF:-1 group-title="刀  锋",第二集 跨海过江
+#EXTINF:-1 group-title="断刀-朝鲜战争大逆转,",第01集刀声震荡
+https://mov.bn.netease.com/open-movie/nos/mp4/2020/08/17/ZFJ2AS9AT_shd.mp4
+#EXTINF:-1 group-title="断刀-朝鲜战争大逆转,",第02集绝地反击
+https://mov.bn.netease.com/open-movie/nos/mp4/2020/08/19/ZFJ2FU6BK_shd.mp4
+#EXTINF:-1 group-title="断刀-朝鲜战争大逆转,",第03集刀声震荡
+https://mov.bn.netease.com/open-movie/nos/mp4/2020/08/16/ZFJ6ON8M7_shd.mp4
+#EXTINF:-1 group-title="断刀-朝鲜战争大逆转,",第04集生死冲撞
+https://mov.bn.netease.com/open-movie/nos/mp4/2020/08/16/ZFJ6OLFC2_shd.mp4
+#EXTINF:-1 group-title="断刀-朝鲜战争大逆转,",第05集惊天逆转
+https://mov.bn.netease.com/open-movie/nos/mp4/2020/08/16/ZFJ6R4ME3_shd.mp4
+#EXTINF:-1 group-title="刀 锋",第一集 卫国刀鸣
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/fbc9b9ea9af9459d86c4327b18b3b848/1200.m3u8
+#EXTINF:-1 group-title="刀 锋",第二集 跨海过江
 https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7a879d2c39a542de9f71c35208877609/1200.m3u8?maxbr=2048
-#EXTINF:-1 group-title="刀  锋",第三集 锋芒所向
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1b9bce796e5d4e8b88212a20d26b04c1/1200.m3u8?maxbr=2048
-#EXTINF:-1 group-title="刀  锋",第四集 冰天刀寒
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0a2940a56ff54537820ae9bb08bc2fce/1200.m3u8?maxbr=2048
-#EXTINF:-1 group-title="刀  锋",第五集 搏刃长津
+#EXTINF:-1 group-title="刀 锋",第三集 锋芒所向
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1b9bce796e5d4e8b88212a20d26b04c1/1200.m3u8?maxbr=2048
+#EXTINF:-1 group-title="刀 锋",第四集 冰天刀寒
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0a2940a56ff54537820ae9bb08bc2fce/1200.m3u8?maxbr=2048
+#EXTINF:-1 group-title="刀 锋",第五集 搏刃长津
 https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ff2fe83583e4d3999ee55ba917241f2/1200.m3u8?maxbr=2048
-#EXTINF:-1 group-title="刀  锋",第六集 雪白血花
+#EXTINF:-1 group-title="刀 锋",第六集 雪白血花
 https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/318e5794493b47669a9bde696ac39059/1200.m3u8?maxbr=2048
 #EXTINF:-1 group-title="英雄不朽",第一集
 http://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/ab8f645a653c42e79dc1e2c8e8f9c69b/2000.m3u8
@@ -1618,7 +1628,7 @@ http://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/71cd7eb67b6e48379f21fe
 #EXTINF:-1 group-title="创新中国",第八集 面向未来
 http://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/f14520f8b6ff43c39f62cf8f34026434/2000.m3u8
 #EXTINF:-1 group-title="一带一路",一带一路 第一集 共同命运
-https://pptv.yongjiu-pptv.com/ppvod/2179B17AB3F4311CB761BC52C94CBA2B.m3u8
+https://1253159997.vod2.myqcloud.com/db436c3avodtransgzp1253159997/a95744675285890811047836502/v.f20.mp4
 #EXTINF:-1 group-title="一带一路",一带一路 第二集 互通之路
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/756429ed109442d29d7bb93dc1a2f646/1200.m3u8
 #EXTINF:-1 group-title="一带一路",一带一路 第三集 光明纽带
@@ -1626,7 +1636,7 @@ http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9f81e9ae50dc4111964
 #EXTINF:-1 group-title="一带一路",一带一路 第四集 财富通途
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/88bc317e7ded44dfb204ab082cc5befd/1200.m3u8
 #EXTINF:-1 group-title="一带一路",一带一路 第五集 金融互联
-https://pptv.yongjiu-pptv.com/ppvod/A17E7106BC76CF23D7DDE8714F71A02C.m3u8
+https://1253159997.vod2.myqcloud.com/db436c3avodtransgzp1253159997/96ce7c2b5285890810736638421/v.f20.mp4
 #EXTINF:-1 group-title="一带一路",一带一路 第六集 筑梦丝路
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6262de3ad3524cc0883db2d94383c455/1200.m3u8
 #EXTINF:-1 group-title="一带一路",中国建设者 深坑酒店
