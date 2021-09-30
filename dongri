@@ -5885,9 +5885,9 @@ http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/a452d5e8f9fa498f945ed6e
 #EXTINF:-1 group-title="亮剑",第03集
 http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/a6b8f5e28b764cc5b3ccdca165b42d61/850.m3u8
 #EXTINF:-1 group-title="亮剑",第04集
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/cd76c630a2ed4311b268e15b8a2002a3/850.m3u8
+http://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/eafe85e853404e48b1a7c9a28e9cecb8/2000.m3u8
 #EXTINF:-1 group-title="亮剑",第05集
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/938228b905db4285b9b1aac2417ab2c1/850.m3u8
+http://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/95d8dc80655540b691d9a014d7231b2d/2000.m3u8
 #EXTINF:-1 group-title="亮剑",第06集
 http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/0071e063ad1f44f5a1150203784f7c1a/850.m3u8
 #EXTINF:-1 group-title="亮剑",第07集
@@ -5915,7 +5915,7 @@ http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/16b36be5d7e34411a9615fc
 #EXTINF:-1 group-title="亮剑",第18集
 http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/5e08dcc96c364b138e5a61fca67f0c2b/850.m3u8
 #EXTINF:-1 group-title="亮剑",第19集
-http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/434eb081483b45aca5f4917b57e56144/850.m3u8
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/8213e3b866d04cfeb4a03db14c742ca5/850.m3u8
 #EXTINF:-1 group-title="亮剑",第20集
 http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/c1bdb8451b0b420aace9e993705884cd/850.m3u8
 #EXTINF:-1 group-title="亮剑",第21集
@@ -6220,7 +6220,6 @@ https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/c32dc8d30fe3481bb527a2
 https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/a626017bb3a641c3a6b442a84055092c/850.m3u8
 #EXTINF:-1 group-title="火蓝刀锋",第31集
 https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/c68a8b1018e8472989ecb85138b233fb/850.m3u8
-
 #EXTINF:-1 group-title="最美的乡村",第01集
 http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/b64f33e48782485799e93bcdffeecb90/1200.m3u8?maxbr=2048
 #EXTINF:-1 group-title="最美的乡村",第02集
@@ -6230,7 +6229,7 @@ http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/b2ac492be25c41aabf98d0
 #EXTINF:-1 group-title="最美的乡村",第04集
 http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/c5f9396b5df74f5e950dd9dd5f176f8c/1200.m3u8?maxbr=2048
 #EXTINF:-1 group-title="最美的乡村",第05集
-https://hls.cntv.baishancdnx.cn/asp/hls/1200/0303000a/3/default/54a708da9255498290e4b93d2c5a8262/1200.m3u8?maxbr=2048
+http://hls.cntv.lxdns.com/asp/hls//2000/0303000a/3/default/54a708da9255498290e4b93d2c5a8262/2000.m3u8
 #EXTINF:-1 group-title="最美的乡村",第06集
 http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/44168305863b4013b5c6b6e7a32552ba/1200.m3u8?maxbr=2048
 #EXTINF:-1 group-title="最美的乡村",第07集
@@ -6246,9 +6245,9 @@ https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/a77837c73b72456994aa0
 #EXTINF:-1 group-title="最美的乡村",第12集
 https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bf269463edf94304a0b01ced317351d6/1200.m3u8?maxbr=2048
 #EXTINF:-1 group-title="最美的乡村",第13集
-https://hls.cntv.baishancdnx.cn/asp/hls/1200/0303000a/3/default/f3c3875363cc4a0ca7986cb1c78660b8/1200.m3u8?maxbr=2048
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/f3c3875363cc4a0ca7986cb1c78660b8/2000.m3u8
 #EXTINF:-1 group-title="最美的乡村",第14集
-https://hls.cntv.baishancdnx.cn/asp/hls/1200/0303000a/3/default/40512c694f5e42589550cad7eb5c7377/1200.m3u8?maxbr=2048
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/40512c694f5e42589550cad7eb5c7377/2000.m3u8
 #EXTINF:-1 group-title="最美的乡村",第15集
 http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/9ae9f7d200f04b6cae85b050a86ddb3d/1200.m3u8?maxbr=2048
 #EXTINF:-1 group-title="最美的乡村",第16集
@@ -6256,11 +6255,11 @@ http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/65e3bab529aa474badc448
 #EXTINF:-1 group-title="最美的乡村",第17集
 https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/410aa73e2f684f46a190cdca64aeacff/1200.m3u8?maxbr=2048
 #EXTINF:-1 group-title="最美的乡村",第18集
-https://hls.cntv.baishancdnx.cn/asp/hls/1200/0303000a/3/default/d9b795f822a640358729b20d67318a05/1200.m3u8?maxbr=2048
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/d9b795f822a640358729b20d67318a05/2000.m3u8
 #EXTINF:-1 group-title="最美的乡村",第19集
-https://hls.cntv.baishancdnx.cn/asp/hls/1200/0303000a/3/default/5ee310fc57d245a7974d01e4ccb12350/1200.m3u8?maxbr=2048
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/5ee310fc57d245a7974d01e4ccb12350/2000.m3u8
 #EXTINF:-1 group-title="最美的乡村",第20集
-https://hls.cntv.xdns.com/asp/hls/1200/0303000a/3/default/3a46f162b2334c8da9ceef18ed81c300/1200.m3u8?maxbr=2048
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/3a46f162b2334c8da9ceef18ed81c300/2000.m3u8
 #EXTINF:-1 group-title="最美的乡村",第21集
 https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/304e3702c3004ba5870a0b7e000922ae/1200.m3u8?maxbr=2048
 #EXTINF:-1 group-title="最美的乡村",第22集
@@ -6272,15 +6271,15 @@ http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/223884f64110400b8c4adc
 #EXTINF:-1 group-title="最美的乡村",第25集
 http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/4278c2140fa040b191409a5c3505998c/1200.m3u8?maxbr=2048
 #EXTINF:-1 group-title="最美的乡村",第26集
-https://hls.cntv.baishancdnx.cn/asp/hls/1200/0303000a/3/default/fc2127a12aba473ab8194c158718c870/1200.m3u8?maxbr=2048
+http://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/fc2127a12aba473ab8194c158718c870/2000.m3u8
 #EXTINF:-1 group-title="最美的乡村",第27集
-https://hls.cntv.baishancdnx.cn/asp/hls/1200/0303000a/3/default/e90b27a025e8424c9bb4fe0d389d8951/1200.m3u8?maxbr=2048
+http://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/e90b27a025e8424c9bb4fe0d389d8951/2000.m3u8
 #EXTINF:-1 group-title="最美的乡村",第28集
 https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/c85eb3c57f4d448897d230ad5f9781ae/1200.m3u8?maxbr=2048
 #EXTINF:-1 group-title="最美的乡村",第29集
 https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/5456b815c47a45f98d7a1d9993ab3c0e/1200.m3u8?maxbr=2048
 #EXTINF:-1 group-title="最美的乡村",第30集
-https://hls.cntv.baishancdnx.cn/asp/hls/1200/0303000a/3/default/ffa98530f5a24cde8718ddefd9ba0419/1200.m3u8?maxbr=2048
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/ffa98530f5a24cde8718ddefd9ba0419/2000.m3u8
 #EXTINF:-1 group-title="俺爹是卧底",第01集
 http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/e65506174b3d4c3c80387c342e19128e/2000.m3u8
 #EXTINF:-1 group-title="俺爹是卧底",第02集
