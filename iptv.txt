@@ -1,385 +1,9 @@
-
-央视节目,#genre#          
-CCTV-1综合,http://hdtv.lzu6.edu.cn/hls/hls74a1.m3u8
-CCTV-2财经,http://hdtv.lzu6.edu.cn/hls/cctv2hd.m3u8
-CCTV-3综艺,http://hdtv.lzu6.edu.cn/hls/hls74a2.m3u8
-CCTV-4中文国际,http://hdtv.lzu6.edu.cn/hls/hls4.m3u8
-CCTV-5体育,http://hdtv.lzu6.edu.cn/hls/cctv5hd.m3u8
-CCTV-5+体育,http://hdtv.lzu6.edu.cn/hls/jlu_cctv5p.m3u8
-CCTV-6电影,http://hdtv.lzu6.edu.cn/hls/cctv6hd.m3u8
-CCTV-7国防军事,http://hdtv.lzu6.edu.cn/hls/cctv7hd.m3u8
-CCTV-8电视剧,http://hdtv.lzu6.edu.cn/hls/hls72a9.m3u8
-CCTV-9纪录,http://hdtv.lzu6.edu.cn/hls/cctv9hd.m3u8
-CCTV-10科教,http://hdtv.lzu6.edu.cn/hls/cctv10hd.m3u8
-CCTV-11戏曲,http://hdtv.lzu6.edu.cn/hls/jlu_cctv11hd.m3u8
-CCTV-12高清,http://hdtv.lzu6.edu.cn/hls/hls72a12.m3u8
-CCTV-13新闻,http://hdtv.lzu6.edu.cn/hls/jlu_cctv13.m3u8
-CCTV-14少儿,http://hdtv.lzu6.edu.cn/hls/jlu_cctv14hd.m3u8
-CCTV-15音乐,http://hdtv.lzu6.edu.cn/hls/hls186a15.m3u8
-CGTN,http://hdtv.lzu6.edu.cn/hls/hls67a43.m3u8
-CCTV-17农业农村,http://hdtv.lzu6.edu.cn/hls/cctv17hd.m3u8
-卫视节目,#genre#
-北京卫视蓝光,http://hdtv.lzu6.edu.cn/hls/btv1.m3u8
-BTV文艺,http://hdtv.lzu6.edu.cn/hls/btv2.m3u8
-北京科教,http://hdtv.lzu6.edu.cn/hls/btv3.m3u8
-北京影视,http://hdtv.lzu6.edu.cn/hls/btv4.m3u8
-BTV财经,http://hdtv.lzu6.edu.cn/hls/btv5.m3u8
-北京生活,http://hdtv.lzu6.edu.cn/hls/btv7.m3u8
-北京青年,http://hdtv.lzu6.edu.cn/hls/btv8.m3u8
-北京新闻,http://hdtv.lzu6.edu.cn/hls/btv9.m3u8
-北京卡酷动画卫视,http://hdtv.lzu6.edu.cn/hls/jlu_bjkk.m3u8
-北京冬奥纪实,http://hdtv.lzu6.edu.cn/hls/btv11.m3u8
-天津卫视蓝光,http://hdtv.lzu6.edu.cn/hls/hls81.m3u8
-河北卫视蓝光,http://hdtv.lzu6.edu.cn/hls/jlu_hbhd1.m3u8
-东方卫视蓝光,http://hdtv.lzu6.edu.cn/hls/dfhd.m3u8
-东南卫视蓝光,http://hdtv.lzu6.edu.cn/hls/dnhd.m3u8
-湖南卫视蓝光,http://hdtv.lzu6.edu.cn/hls/hunanhd.m3u8
-浙江卫视蓝光,http://hdtv.lzu6.edu.cn/hls/zjhd.m3u8
-江苏卫视蓝光,http://hdtv.lzu6.edu.cn/hls/jshd.m3u8
-河南卫视蓝光,http://hdtv.lzu6.edu.cn/hls/hls80.m3u8
-山东卫视蓝光,http://hdtv.lzu6.edu.cn/hls/hls131.m3u8
-湖北卫视蓝光,http://hdtv.lzu6.edu.cn/hls/hls124.m3u8
-安徽卫视高清,http://hdtv.lzu6.edu.cn/hls/ahhd.m3u8
-广东卫视蓝光,http://hdtv.lzu6.edu.cn/hls/hls70a19.m3u8
-深圳卫视蓝光,http://hdtv.lzu6.edu.cn/hls/sztv.m3u8
-辽宁卫视蓝光,http://hdtv.lzu6.edu.cn/hls/lnhd.m3u8
-黑龙江卫视蓝光,http://hdtv.lzu6.edu.cn/hls/hljhd.m3u8
-吉林卫视蓝光,http://hdtv.lzu6.edu.cn/hls/jlhd.m3u8
-江西卫视蓝光,http://hdtv.lzu6.edu.cn/hls/jxtv.m3u8
-四川卫视蓝光,http://hdtv.lzu6.edu.cn/hls/hls185.m3u8
-重庆卫视蓝光,http://hdtv.lzu6.edu.cn/hls/cqtv.m3u8
-厦门卫视蓝光,http://hdtv.lzu6.edu.cn/hls/hls186a454.m3u8
-海南卫视蓝光,http://hdtv.lzu6.edu.cn/hls/lytv.m3u8
-贵州卫视蓝光,http://hdtv.lzu6.edu.cn/hls/hls186a71.m3u8
-广西卫视高清,http://hdtv.lzu6.edu.cn/hls/gxtv.m3u8
-甘肃卫视高清,http://hdtv.lzu6.edu.cn/hls/hls50.m3u8
-青海卫视高清,http://hdtv.lzu6.edu.cn/hls/hls101.m3u8
-山西卫视高清,http://hdtv.lzu6.edu.cn/hls/sxrtv.m3u8
-云南卫视高清,http://hdtv.lzu6.edu.cn/hls/hls40.m3u8
-陕西卫视高清,http://hdtv.lzu6.edu.cn/hls/sxtv.m3u8
-宁夏卫视高清,http://hdtv.lzu6.edu.cn/hls/nxtv.m3u8
-内蒙卫视高清,http://hdtv.lzu6.edu.cn/hls/nmtv.m3u8
-新疆卫视高清,http://hdtv.lzu6.edu.cn/hls/xjtv.m3u8
-西藏卫视高清,http://hdtv.lzu6.edu.cn/hls/hls186a481.m3u8
-三沙卫视高清,http://hdtv.lzu6.edu.cn/hls/sstv.m3u8
-凤凰资讯,http://hdtv.lzu6.edu.cn/hls/hls255.m3u8
-凤凰卫视,http://hdtv.lzu6.edu.cn/hls/fhzw.m3u8
-凤凰电影,http://hdtv.lzu6.edu.cn/hls/fhdy.m3u8
-NNM影院,#genre#
-CCTV怀旧剧场,http://hdtv.haust.edu.cn/hls/hjjctv.m3u8
-CHC动作电影,http://hdtv.haust.edu.cn/hls/chcatv.m3u8
-CHC家庭影院,http://hdtv.haust.edu.cn/hls/chctv.m3u8
-CHC高清电影,http://hdtv.haust.edu.cn/hls/chchd.m3u8
-NNM大众影视,http://hdtv.haust.edu.cn/hls/hls164.m3u8
-NNM家庭剧场,http://hdtv.haust.edu.cn/hls/hls165.m3u8
-NNM家庭影院,http://hdtv.haust.edu.cn/hls/hls75a29.m3u8
-NNM爱映画,http://hdtv.haust.edu.cn/hls/hls78a46.m3u8
-NM时光剧场,http://hdtv.haust.edu.cn/hls/hls78a48.m3u8
-NNM亚洲电影,http://hdtv.haust.edu.cn/hls/hls30.m3u8
-NNM原声电影,http://hdtv.haust.edu.cn/hls/hls33.m3u8
-NNM古装剧场,http://hdtv.haust.edu.cn/hls/hls54.m3u8
-NNM家庭影院,http://hdtv.haust.edu.cn/hls/hls39.m3u8
-NNM怀旧电影,http://hdtv.haust.edu.cn/hls/hls48.m3u8
-NNM热播电影,http://hdtv.haust.edu.cn/hls/hls32.m3u8
-NNM经典剧场,http://hdtv.haust.edu.cn/hls/hls89.m3u8
-NNM纪录片,http://hdtv.haust.edu.cn/hls/hls66.m3u8
-星影,http://hdtv.haust.edu.cn/hls/hls59.m3u8
-上海纪实人文,http://hdtv.haust.edu.cn/hls/docuchina.m3u8
-探索,http://hdtv.haust.edu.cn/hls/discovery.m3u8
-喜剧影院,http://hdtv.haust.edu.cn/hls/hls6.m3u8
-国学,http://hdtv.haust.edu.cn/hls/hls100.m3u8
-北京纪实-档案,#genre#
-毛泽东4A急电林彪打锦州上,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/03fe7ac45e9449d481759b189bf09ee6/850.m3u8
-毛泽东4A急电林彪打锦州下,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/df837beeebf64fb192cd07b54aa08eb3/850.m3u8
-西柏坡密电 毛泽东巧施空城计退敌十万兵,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/cdc79838c00c48fd8d67b5973b121e80/850.m3u8
-西柏坡密电 粟裕挥师千里围歼黄百韬,http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/6d227d243fa44c72b3c02e8efcee2638/1200.m3u8
-红军不怕远征难 第一集 远征,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/071ed6adfef14cc28e320ed8d6c0fcf3/2000.m3u8
-红军不怕远征难 第二集 热血,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/ad909f64e64d4d9ab1a4fcce009303c9/2000.m3u8
-红军不怕远征难 第三集 转战,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/be0de382b5204c70acb8ccf3c38b2c0c/2000.m3u8
-红军不怕远征难 第四集 星火,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/6c73c518484642629e89c695e776ac51/2000.m3u8
-红军不怕远征难 第五集 奇兵,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/41e4f4cd798b4074ae63daeeb2fe6cea/2000.m3u8
-红军不怕远征难 第六集 飞渡,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/435f3e56978249bd8fe5a478f9b0282e/2000.m3u8
-红军不怕远征难 第七集 冰锋,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/85ed2907ccf84f8d961ea8599de5dfb4/2000.m3u8
-红军不怕远征难 第八集 绝地,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/90e7f507121e41adb05ca82f85662e81/2000.m3u8
-红军不怕远征难 第九集 铁流,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/a2bb4229005c4e26a2316660238ef53b/2000.m3u8
-罪恶魔女川岛芳子,http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/6ace5623c2274abb9b00f201d045061c/1200.m3u8
-东北大帅 张作霖,http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/d0fd90c203694bed81d0980737eb668c/1200.m3u8
-民国风云人物 阎锡山,http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/ec9d6fe9ded940e6943217a3537c4652/1200.m3u8
-反恐雷霆之2012 俄罗斯莫斯科剧院人质危机一,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/18f9650a11144a25a3a508e805a1252c/850.m3u8
-反恐雷霆之2012 俄罗斯莫斯科剧院人质危机二,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/3703f78f85504c3eaf9f15b8389f290d/850.m3u8
-美军历史上最丢脸的海外军事行动,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/f2c0d9e5ae0b427db6321f3330f4ea4e/850.m3u8
-揭秘日本开拓团向东北移民计划,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/587bd3a0545c438d8b443a59a046df83/850.m3u8
-侵华日军的化学武器 抹不去的战争梦魇,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/0c93f5bbb0974cf7bbcd2a95e6f26fee/850.m3u8
-剑桥 谍中谍,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/6af52b3785794194b32a8b0be5d0985d/850.m3u8
-一九五三 美国间谍风云,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/e547f94ad39c45c78973d8f30759f936/850.m3u8
-跨世天劫 洛克比炸机惊魂,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/51fa3e48d4a84a75be9b625a2f3e8665/850.m3u8
-达拉斯的枪声和36种可能,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/b0d0be3818b144d69409377cbd2ce986/850.m3u8
-日本关东大地震后的阴谋,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/8dcfe7ae959a4deb9cef3b644cf9894b/850.m3u8
-南海风云之毛泽东运筹帷幄挥师西沙,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/2512cf6050dd4c599935d10882c73ed8/850.m3u8
-苏联解体 八·一九事件内幕 上,http://hls.cntv.baishancdnx.cn/asp/hls/1200/0303000a/3/default/f806f79293b2446b84d4d0ce6f9f5207/1200.m3u8
-苏联解体 八·一九事件内幕 中,http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/7b46d77e22034830bad466f00e75ff9c/1200.m3u8
-苏联解体 八·一九事件内幕 下,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/fbfbb17ade1d456aa7253c027ddfad20/850.m3u8
-新中国反腐第一案始末,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/6b49d5a57633479a99acef1e4af0f07e/850.m3u8
-焦裕禄在兰考的475天,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/b0b3b8a20e2d46b79e56d564894500dd/850.m3u8
-做百姓的儿子 焦裕禄,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/e0d78a966bd74537a5c8ca704af4933e/850.m3u8
-我为祖国献石油 “铁人”王进喜,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/c2c47c4a40c0488482a485ba6c2e792f/850.m3u8
-上海 犹太难民的 生命方舟,http://hls.cntv.baishancdnx.cn/asp/hls/1200/0303000a/3/default/fcbbc2034a4f48b191cd41d9ef57b1d0/1200.m3u8
-卡斯特罗和634次暗杀,http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/3b3421e1d9864676b44c296a00123b8a/850.m3u8
-老布什VS萨达姆 对决背后的较量,http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/27db6b17e2144d94802bf9c06c9334a6/850.m3u8
-民国风云人物 阎锡山,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/51432ab06e404e7280a962ec453f40c4/850.m3u8
-民国风云人物 冯玉祥,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/139dd2151f0349db9ae9a7b16f53b764/850.m3u8
-现代“神农” 袁隆平的田园梦,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/1240ce8657fd486db835a44aaa1a8313/850.m3u8
-反恐雷霆之2005 伦敦地铁爆炸案侦破纪实,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/24f006028cfa4da29639f8f833b44e4d/850.m3u8
-神奇狙击手张桃芳,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1f6525cd0c8d4216a99dece6ac96b10a/1200.m3u8
-英雄儿女之传奇上甘岭,http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/5d89263d17e348b6a48d6f721ce3e4be/1200.m3u8
-断刀 代号543 飞弹射天狼,http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/5a5048d636804812a11746ff99ae7b4b/1200.m3u8
-尼米兹复仇 目标山本五十六,http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/8780f7bf619e47648b73e87c611e3a8f/1200.m3u8
-冰血长津湖 雪原追击,http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/72b1d5acb0144a34bca10a7e8ad646bd/1200.m3u8
-冰血长津湖 隐蔽的对手,http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/f23813d371674f40bca66001b07b260a/1200.m3u8
-冰雪长津湖 吹响集结号,http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/3f1353dd95fd40dfb83b654d8d82f819/1200.m3u8
-日本首相田中角荣决定访华秘闻,http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/7c2579127f574f3c9f92c4b3aff8192f/1200.m3u8
-西柏坡密电 第一季 毛泽东巧施空城计退敌十万兵,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/cdc79838c00c48fd8d67b5973b121e80/850.m3u8
-传奇间谍佐尔格,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/85eb913cf06a4e31b46a4e5d1a40ae19/2000.m3u8
-国际间谍网覆灭记,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/00ebc17e1ed6406e905ed4aac226f269/2000.m3u8
-美苏间谍 较量背后的交易,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/76bb5fbd5ece4459a1d7c8b5fe174088/2000.m3u8
-上海纪实《档案》,#genre#
-血战四平1,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/6a597a379d414d93889c71a5c0dc78c1/2000.m3u8
-血战四平2,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/8d417c663b614acd9e1bf2703140264e/2000.m3u8
-血战四平3,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/9c7fe2546998446f956493e8b9e2df0a/2000.m3u8
-血战四平4,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/deb916e17d4e43188bb01838c24237e9/2000.m3u8
-新中国反腐第一案 第一集 东窗事发,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/55915383f4224ee594464bcc1aa7c833/2000.m3u8
-新中国反腐第一案 第二集 糖衣炮弹,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/5860d89889ca430499fa35fdfe69e7cd/2000.m3u8
-新中国反腐第一案 第三集 机关生产,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/9e72e7b25e2e407aa23d93527e431746/2000.m3u8
-新中国反腐第一案 第四集 两个典型,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/5004345a457f44c9bbf5d572e775f516/2000.m3u8
-日本战犯忏悔备忘录①上集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/5f212a40bb514bce8dd15f60f68f2e66/2000.m3u8
-日本战犯忏悔备忘录①下集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/dd959fa58a894f1a947a1929805db917/2000.m3u8
-日本战犯忏悔备忘录②上集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/bcbbf4bd1b47487599bdb647a8fa2200/2000.m3u8
-日本战犯忏悔备忘录②下集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/fee076d0981c4b9a824d04304886f392/2000.m3u8
-日本战犯忏悔备忘录③上集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/3e7aa41d77044b67a4d153fcdb2aa37d/2000.m3u8
-日本战犯忏悔备忘录③下集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/f167cfae12aa4704bec7b43aa7b8b541/2000.m3u8
-日本战犯忏悔备忘录④上集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/65a50dff80374f3eb8fe39312880651e/2000.m3u8
-日本战犯忏悔备忘录④下集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/175ac188feb247c6934cc29e4afe7dcf/2000.m3u8
-日本战犯忏悔备忘录⑤上集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/7cd76bc378654d1781616b8567033a5d/2000.m3u8
-日本战犯忏悔备忘录⑤下集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/f39c2c35840f48c58b426dbf0992b8f9/2000.m3u8
-中央特科在上海 不是我 是风,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/c2b80a92b4ce49578f85a44790c1f16b/2000.m3u8
-中央特科在上海 龙潭三杰上,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/1da1d30fbeda4afb80daa861fea97f2d/2000.m3u8
-中央特科在上海 龙潭三杰下,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/ffc882c3b5b74b01a8d1eb1b0eea6d0d/2000.m3u8
-血战长津湖 第一集 严寒下的王牌军,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/3f0545c3a236413fa1fac207c7577ef4/2000.m3u8
-血战长津湖 第二集 冰封下的英雄,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/2e93b8b403224521bbf2f28812499d24/2000.m3u8
-血战长津湖 第三集 殊死的围堵,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/056ed2eecb154ef68f04febc82c8d718/2000.m3u8
-血战长津湖 第四集 严寒大出击,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/a12ee8a1f90848de959569deb1f0994a/2000.m3u8
-中日恢复邦交秘闻,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/7800072bcf2641b499a582b022b52b37/2000.m3u8
-中日恢复邦交秘闻 有终之美,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/e733d8a4c558488eb1766bec854683c9/2000.m3u8
-中日恢复邦交秘闻 意外来客,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/4b26de717a4d4e1680f0999b90ed85e7/2000.m3u8
-中日恢复邦交秘闻 水到渠成,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/8b165b28787c4945abe388a5feb34a90/2000.m3u8
-击落U-2飞机秘闻 上,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/c619d978245f40379395b7d5f0e666b1/2000.m3u8
-击落U-2飞机秘闻 中,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/750a10a37a454a1fbffeb07bd2d147a0/2000.m3u8
-击落U-2飞机秘闻 下,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/81168b6e0e1d447aa5dfae268c602c3e/2000.m3u8
-铁在烧 第一集 风起铁原,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/843660964e594db1bebe9b2231b1d3b3/850.m3u8
-铁在烧 第二集 临危受命,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/ba59c4b1c7c449319f1f1d55634ffd4d/850.m3u8
-铁在烧 第三集 生死抉择,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/504a57cf7e1f4e56aad6ad1abcca43fb/850.m3u8
-铁在烧 第四集 最后防线,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/ef2a0e22ffc248f48ba7e1082c116d27/850.m3u8
-铁在烧 第五集 东方精神,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/fb2557e5770b4b98b92da7421f81c9e6/850.m3u8
-上甘岭·最长的43天①摊牌三八线,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/975165fca351449cb950d358a7a9ebe7/2000.m3u8
-上甘岭·最长的43天②高地集结令,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/ba4d3ede7c0e44beb5d8cb156d5ecd1a/2000.m3u8
-上甘岭·最长的43天③火线危机,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/155567dbda47454484ca0f58e9203e57/2000.m3u8
-上甘岭·最长的43天④战地土行孙,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/ac7a490402a646b3a8a76350e52686ca/2000.m3u8
-上甘岭·最长的43天⑤你好喀秋莎,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/c85661964af04475916bea28598463f4/2000.m3u8
-上甘岭·最长的43天⑥突破封锁线,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/00b66a68e6ce4b918136ed4ae2d5c1f2/2000.m3u8
-上甘岭·最长的43天⑦异国英雄冢,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/a516116321d744e39ee7312b4e7f1b4e/2000.m3u8
-上甘岭·最长的43天⑧凝固三八线,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/c82219ff9b2a4a0cb9f4723a4cccd0c7/2000.m3u8
-西方视角下的中共敌后抗战①,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/b94f0d2fd5b1484c8727935a8d0f64ec/2000.m3u8
-西方视角下的中共敌后抗战②,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/d28cce5404334195b0fa4a139ced6e45/2000.m3u8
-西方视角下的中共敌后抗战③,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/a8f65a6c31624cf4a0ea90a60b5520c8/2000.m3u8
-西方视角下的中共敌后抗战④,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/3651955c2a364358bcc5f1c9cc0b996f/2000.m3u8
-解放战争 辽沈战役 上,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/21b9735e96dc4c438e9cd24ef74ae2df/2000.m3u8
-解放战争 辽沈战役 下,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/33bb6f8e5e044ee6a49c9e6e18ebac34/2000.m3u8
-解放战争 淮海战役 上,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/77143e5d3e30433988c039e6544bd936/2000.m3u8
-解放战争 淮海战役 中,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/c214869c3f52494c948814d95cda369c/2000.m3u8
-解放战争 淮海战役 下,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/5abeeabe125043719bec7c77434acc0c/2000.m3u8 
-解放战争 平津战役 上,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/a8a4e2fb8e1147259a6d0175a222058a/2000.m3u8
-解放战争 平津战役 下,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/76ff6f9af53b4fc5a6f723288567b0ef/2000.m3u8
-东方主战场,#genre#
-第一集 东方危急,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/746ab4b55d4a48e58db1e19f6b33f59e/2000.m3u8
-第二集 共赴国难,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d39842171ef6404e9ea452908ed17245/2000.m3u8
-第三集 浴血坚持,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/eb61fc242846438e92e8e97a79d2a8a0/2000.m3u8
-第四集 艰苦卓绝,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/fe43a01af2814427a2cf965cea11e56e/2000.m3u8
-第五集 同盟抗敌,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/edb95afa56d44358a8bd55b72288013e/2000.m3u8
-第六集 民族血脉,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/b44986a42256484587ed2c3310b816a6/2000.m3u8
-第七集 大地坚韧,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/a48b8ccf1ca849d7bd100e759461c3c0/2000.m3u8
-第八集 正义必胜,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/484fd0f0c37a4bc997e3bc622295701a/2000.m3u8
-百战经典,#genre#
-英雄无名,https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/c304d79be6ab4146b8b67d5d437eced1/850.m3u8
-潜伏传奇,https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/5ef3f13d4fb64952a647c17094cb0cc2/850.m3u8
-超级卧底,https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/2247deb30b6341d1878e2006c0aac571/850.m3u8
-危机边缘,https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/b14d847644e548aab0f0e1fe1bed1eae/850.m3u8
-乱世红颜,https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/374d048c7b4041eea209d91ae4143f42/850.m3u8
-档案秘闻,#genre#
-本·拉登最后的日子,https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/b17231ea51e24084ae2cd3b612b9b32e/850.m3u8
-谍战珍珠港,https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/b1932a81a17d483d727713b82e84bf53/850.m3u8
-刺杀宋子文,https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/1eded1b046bf4e9e01fb4fb78fc43c59/850.m3u8
-刺杀蒋介石,https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/5f9442e00ad1470ec97f42a7eacfc24a/850.m3u8
-国家天空,#genre#
-国家天空 1 穹庐,https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/2e8bafe2831a4203f8a64b8f9315f132/850.m3u8
-国家天空 2 星群,https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/8ff61fcdaedf4e94a2c6709a32d95c0c/850.m3u8
-国家天空 3 锋刃,https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/8c1dd707211f4734e234b1afa52bec70/850.m3u8
-国家天空 4 惊雷,https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/a3553840d4ac4fe4d466dd8bb10f357e/850.m3u8
-国家记忆 新中国1949,#genre#
-第一集 和平解放前夜,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/a9ac55ff4d8141839cd59274814a0303/2000.m3u8
-第二集 中共中央进北平,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/de7a8148e75e4436ae188535851615c7/2000.m3u8
-第三集 从香山到中南海,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/0c5b5f17bdfd4610a2c67f0a0b946486/2000.m3u8
-第四集 定都北平,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/292acec64bb148c5bd4cb448383e6d61/2000.m3u8
-第五集 揭秘开国大典,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/ef08fba6076d4519b116bd318a6f3280/2000.m3u8
-钱学森与中国航天60年,
-第一集 艰难归国路,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/6398879cce2b4fec82aeb4353094acf1/2000.m3u8
-第二集 命运的抉择,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/d5f627cfb03f4335b8946ec689f9762f/2000.m3u8
-第三集 长箭乘东风·上,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/25557fbc45ff4d2bb7ef398511565924/2000.m3u8
-第四集 长箭乘东风·下,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/c06af4003a2b485480f294dd86ecad52/2000.m3u8
-第五集 巡天第一星,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/6398879cce2b4fec82aeb4353094acf1/2000.m3u8
-第六集 曙光照苍穹,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/49d5f923347f491cb52cb862c86eb756/2000.m3u8
-第七集 神舟飞天路,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/80edb076f4d54489ba5c5e31f879e1e3/2000.m3u8
-1971重返联合国,
-第一集 世界需要中国,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/5e4ad92cc08a419d81dcd1c79723ea97/2000.m3u8
-第二集 两种力量的博弈,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/07111ebf54cb4f77b6059f7c73a1b3a2/2000.m3u8
-第三集 历史的笑声,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/8235d2ed7b634d37b5d7ec8519f7826a/2000.m3u8
-隐蔽战线的英烈,
-第一集 潜伏英雄吴石,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/0456ab3dd5f34d30919d3e4db82f7bb0/2000.m3u8
-第二集 秘密赴台,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/2c5ec4d593fc43db88a60fc29886b7bd/2000.m3u8
-第三集 绝地撤离,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/899256dfed4e4f2d8f5de3a2929ced04/2000.m3u8
-掠过台海的谍影，
-第一集 高空阻击战,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/49112837266947fea73e00e6f37bd5f6/2000.m3u8
-第二集 黑猫 来袭,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/c906ce994b2145629ad5e05058bec71e/2000.m3u8
-第三集 猎杀 黑猫,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/e43b889cef58482c9210dd471279553c/2000.m3u8
-第四集 黑猫 克星,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/f7a75f9b2acb4711866fa7aba5686afd/2000.m3u8
-第五集 黑猫 覆灭,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/187d7738a1eb4a5da43fb4487328ca1a/2000.m3u8
-中美1972，
-第一集 太平洋彼岸的信号,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/60a13e09d45945f090c75716cf99769b/2000.m3u8
-第二集 乒乓外交,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/d81efd9815bf4d80a6a03991a1350f5a/2000.m3u8
-第三集 代号 波罗行动,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/a72b843bf9f34d3fa0a081cbdf6a7dea/2000.m3u8
-第四集 谈判桌上的较量,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/c9dcd10a9096421486b85e601616596f/2000.m3u8
-第五集 改变世界的一周,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/cfcbf108b8d54dd5a21e6e404042db12/2000.m3u8
-1954日内瓦风云,
-第一集 临行之前,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/fb89230d73a244db806b791980433a44/2000.m3u8
-第二集 蓄势待发,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/3a35d6c2321342b0a7440aa9dfff2593/2000.m3u8
-第三集 锋芒初露,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/ceead714a7c346c9b71788ef5d22b5d2/2000.m3u8
-第四集 会场内外,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/582cfc35c6d94ad1a0e97369d396cb38/2000.m3u8
-第五集 和平之声,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/9a565364099a453093118986e2c76b19/2000.m3u8
-剿匪记，
-第一集 智擒座山雕,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/09c1de82183345db8b3c29f20074d549/2000.m3u8
-第二集 女匪首覆灭记,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/457d7313e17c436e9328708ef5e867a3/2000.m3u8
-第三集 活捉谢文东,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/3e8fabec4a16497091c03063770a9cb9/2000.m3u8
-第四集 剿灭土皇帝杨永清,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/827aae7caaa3446299534d4d52c2feaa/2000.m3u8
-1959特赦,
-1959特赦 被俘,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/be870c4eb1304176936019c546a0ce52/2000.m3u8
-1959特赦 顽抗,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/e7240d2b779d4a1192460234aa818eab/2000.m3u8
-1959特赦 改造,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/121785209efa44bda75cb8258db71e97/2000.m3u8
-1959特赦 释放,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/4692e84ee05e471abc9d00146eb07417/2000.m3u8
-1959特赦 新生,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/49a608d35535461c9a2851e950fdc53b/2000.m3u8
-抗美援朝保家卫国，
-抗美援朝保家卫国 不期而至,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/701ccfc6a6654e1e810b38e56256b7d2/2000.m3u8
-抗美援朝保家卫国 艰难决策,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/83693ccea17a460dad354723f163412b/2000.m3u8
-抗美援朝保家卫国 秘密入朝,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/1ca40c9ad51848069d7b9c1c8ec52751/2000.m3u8
-抗美援朝保家卫国 首战告捷,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/993bfd74da984f79b19a2b8c7c6a3cd6/2000.m3u8
-抗美援朝保家卫国 西线扬威,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/7268c85395874c2f88f161cb8d43ba75/2000.m3u8
-抗美援朝保家卫国 冰湖血战,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/45e82668c87f4edd8ba14da9af51ba6d/2000.m3u8
-抗美援朝保家卫国 攻克汉城,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/75bbe2c31526475489cde08a8ee5e598/2000.m3u8
-抗美援朝保家卫国 迎敌反扑,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/df4c7ca9f6c944deb6be0b5bebe27f65/2000.m3u8
-抗美援朝保家卫国 勇挫敌锋,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/d89af6ef1d194153aea99cef5b86a11f/2000.m3u8
-抗美援朝保家卫国 边谈边打,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/98698f4d51d646b5bf8bbe88ff0cf773/2000.m3u8
-抗美援朝保家卫国 铁血动脉,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/dd93f55cd59440148b98e4d07adc3a10/2000.m3u8
-抗美援朝保家卫国 碧血长空,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/8b376108ea4b48c6983e5526625a05bb/2000.m3u8
-抗美援朝保家卫国 抵御细菌战,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/ba805913920540afb7ed97711ab6ba9e/2000.m3u8
-抗美援朝保家卫国 地下长城,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/f57546341cdc466c90e3190215bbd41c/2000.m3u8
-抗美援朝保家卫国 坚守上甘岭,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/c43f5fd2eff44ea0b9225b045d6266ac/2000.m3u8
-抗美援朝保家卫国 以打促谈,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/df788be77b2a4ecdaf73e25bcf26c8e2/2000.m3u8
-抗美援朝保家卫国 两重天地,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/7976d3a3167c43fbb42e74d597fe1a3e/2000.m3u8
-抗美援朝保家卫国 举国同心,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/4b28009eac1f4c5e823c59753f7a23ec/2000.m3u8
-抗美援朝保家卫国 胜利凯旋,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/19fc3ed3ec4c499f975c4d3760a61869/2000.m3u8
-抗美援朝保家卫国 历史铭记,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/d632d76de6de46829cf44d86d7cce8ff/2000.m3u8
-致敬抗美援朝英雄 杨根思,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/1719fca9364b44d0913fd1e454b7dd87/2000.m3u8
-致敬抗美援朝英雄 孙占元,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/102a44ddd07c4a55a8a4651794b20eb4/2000.m3u8
-致敬抗美援朝英雄 蔡正国,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/acc316238510433eafd0089e7de797be/2000.m3u8
-致敬抗美援朝英雄 杨连第,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/beb13ca7753d471f89360580d7329edb/2000.m3u8
-致敬抗美援朝英雄 张桃芳,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/b64b25c58ddd473a9520fe207448c670/2000.m3u8
-国家记忆,
-大国粮仓 中国饭碗,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/44d46d688822485090a9f0613597369b/2000.m3u8
-大国粮仓 粗粮双王,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/4f3a4516dc6446c7a9ff988ea0823949/2000.m3u8
-中法建交纪实,
-中法建交纪实 密使来华,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/495dfd0a89594f8f890667b4ffa455f6/2000.m3u8
-中法建交纪实 建交谈判,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/01153544751e4215b4f04c63e68e6e77/2000.m3u8
-中法建交纪实 一波三折,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/e3a490d958cf40a5ae7b19299acdd388/2000.m3u8
-中法建交纪实 冲破阻挠,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/1a0cc53de6ff499a97fc5a81e0ba4faf/2000.m3u8
-中法建交纪实 行稳致远,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/008f1b6bc60e41d2870622e0fba6a3db/2000.m3u8
-遵义会议 冲破封锁,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/fba987e5bbaf4577a8ef34c0c86f11b7/2000.m3u8
-遵义会议 转战贵州,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/e4bd7940c5114c0d8c39ed287e7b7c3f/2000.m3u8
-遵义会议 遵义破晓,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/5854afca3ef747f69111665033220865/2000.m3u8
-遵义会议 赤水奇兵,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/c4fe9e1e3fac41109d69dd9986e4274b/2000.m3u8
-遵义会议 长缨在手,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/4ad48fae8a4c4683a236b044dcf570d4/2000.m3u8
-风雨大陈岛 对峙,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/aa6a00115f4446ec891caaa6f45350ab/2000.m3u8
-风雨大陈岛 收复,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/387cb75072ef43b3bfc33e3044567a0a/2000.m3u8
-风雨大陈岛 重建,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/fe29048a79b54c06862ad25ea7e8e258/2000.m3u8
-第一集 锁定一江山,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/11fe0f81b2a34d41b4744976bddb32e7/2000.m3u8
-第二集 备战一江山,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/3c5258cd3fa94050bb2f5c4869a2bea4/2000.m3u8
-第三集 解放一江山,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/7cccc89e587f45fc9cdc273ff8fdca63/2000.m3u8
-水上抗日奇兵 雁翎展翅,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/baaed16e33b0445db5c4af029764d62c/2000.m3u8
-水上抗日奇兵 荡寇芦花,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/976da0aa496c41c091a9760dc56c45f1/2000.m3u8
-地道战传奇 烽火冀中,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/33b91329c2494334bec61feef6820f80/2000.m3u8
-地道战传奇 地下长城,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/b1371ef3123b414796a6ee96e4249970/2000.m3u8
-闪亮的坐标 劳模马恒昌,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/0b072cb00b3c44e09ae3eef62c56c655/2000.m3u8
-闪亮的坐标 劳模吕玉兰,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/e1b8ea52ac2e479e865d4df51c55d362/2000.m3u8
-闪亮的坐标 劳模吴运铎,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/c679b075948844faa9ec08fc7156fdcf/2000.m3u8
-闪亮的坐标 劳模王崇伦,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/1b4f6cd3a9fb45cb9f4519402f30dcf4/2000.m3u8
-闪亮的坐标 劳模王进喜,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/095d1ae9620e4e9eb41c7d651653619f/2000.m3u8
-闪亮的坐标 劳模申纪兰,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/a8954506336a4ddca3b0fe3338887367/2000.m3u8
-绝笔,
-绝笔忠魂丹心蓝蒂裕 血荐轩辕陈然,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/995bae9e7df24dc18e60ea8a74050b50/2000.m3u8
-绝笔红色恋人陈觉赵云霄 纸浅情深陈毅安李志强,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/e54bc306af014f88bd13a9044b4f955b/2000.m3u8
-绝笔初心明志叶挺 英魂永存黄显声,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/1086a73c90654306b9496b484e74259e/2000.m3u8
-绝笔忠魂丹心蓝蒂裕 血荐轩辕陈然,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/995bae9e7df24dc18e60ea8a74050b50/2000.m3u8
-绝笔淬火砺剑吉鸿昌 信仰弥坚续范亭,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/5b139b388363478aa2c10ce4daa6dae3/2000.m3u8
-绝笔慷慨明志钟奇 大义赴死车耀先,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/967b0c5205b64824987c55598f35c32f/2000.m3u8
-绝笔切切在心夏明翰 拳拳在念高君宇,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/9144d43c238b4420ab10f6c922ccf5a5/2000.m3u8
-揭秘新中国首座核电站,
-揭秘新中国首座核电站 从零开始,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/0fe4b5b5ea6b46928e1c49d387411249/2000.m3u8
-揭秘新中国首座核电站 举步维艰,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/b2bd3b4b784d47129b50c0c45bad6abc/2000.m3u8
-揭秘新中国首座核电站 会战秦山,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/9155da618e3b4fb38bfb5c9ff8b27183/2000.m3u8
-揭秘新中国首座核电站 国之光荣,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/28e4dd0cc6f64bd7ad2e20c3f37c9bdf/2000.m3u8
-揭秘新中国首座核电站 国家名片,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/08b6bd4bc8344704945a3bfaab7de137/2000.m3u8
-解放之战, 
-西安风云,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/b9c3cc48e06949b5b9d967a3bf613411/2000.m3u8
-兰州血战,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/efcde1940ef34a3f85193d1ba34c2d5f/2000.m3u8
-呼市玉帛,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/32aad2f4d96a4b04af12817f007b6314/2000.m3u8
-太原围歼,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/c622bf2093d44457bc12fe10ee050da9/2000.m3u8
-新疆义旗,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/59eeb207a3294366aa6e4c21ddf72639/2000.m3u8
-衡阳交锋,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/194e4ce693d64fc89d0c40553971e72b/2000.m3u8
-广州迎新,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/448d82c87dba4f7483e80231ce594b08/2000.m3u8
-重庆雾开,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/2fe67760332b425b999996b42398ab7e/2000.m3u8
-厦门兵锋,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/1ee95208c7aa4251a3ac725bedbeec36/2000.m3u8
-南宁追歼,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/a98a471b1bd541a0b0bef44813b6c5fb/2000.m3u8
-昆明筹谋,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/95eccbd720d14907a6fe1798cf137232/2000.m3u8
-成都合围,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/23179c630ec149a380c24ed3d1f56430/2000.m3u8
-琼州跨海,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/a68acb3a80a24507a0d367a6ad6489a0/2000.m3u8
-昌都凯歌,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/0958324fe6ea4229a39b824eed255bac/2000.m3u8
-陈嘉庚与百年厦大 办校风云,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/fd85ee79c5a5420883aa6aab6171df48/2000.m3u8
-陈嘉庚与百年厦大 自强不息,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/14ac34faaa1948da86f2f9f45683cd7f/2000.m3u8
-陈嘉庚与百年厦大 凤凰花开,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/33f79a12c61c45cf964bff02b63141f6/2000.m3u8
-[经典人文地理],#genre# 
-是谁杀死了山本五十六,http://hwhls.cntv.qcloudcdn.com/asp/hls/450/0303000a/3/default/d7a6590db6d74ad7b1483982d36b35a4/450.m3u8
-山本五十六之死,http://hwhls.cntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/9c0b4a651f0c4c5e4c4463bacd71be0f/850.m3u8
-谍变,http://hwhls.cntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/fd8cca22048b4a95cfcbf78847bed388/850.m3u8
-恶魔的女仆,http://hwhls.cntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/3f9a56eb06aa432ba2bfbdb8d387bd00/850.m3u8
-川岛芳子的生死谜,http://hwhls.cntv.qcloudcdn.com/asp/hls/450/0303000a/3/default/86595f9f2a7442ecca931bbb0066e116/450.m3u8
-中东战火 倾斜的疆界,http://hwhls.cntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/A4B46BEA3B534ea0B1FBEF25E8B15B7B/850.m3u8
-中东战火 暗流交纵,http://hwhls.cntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/2a386290a5fd45d944ab7f951f822db6/850.m3u8
-中东战火 抗争之路,http://hwhls.cntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/2087b4f6542d45a38b64c2bf75454092/850.m3u8
-中东战火 水火不容,http://hwhls.cntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/ad96b4a6d1664cf5922b9d8a21570d0d/850.m3u8
-中东战火 探求命运,http://hwhls.cntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/3EF2DBC28FA24285B131EA80205CF39A/850.m3u8
 亮剑,#genre#
 第01集,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/8c5c8a1079bd45aea6e7d38f984e5ccb/850.m3u8
 第02集,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/a452d5e8f9fa498f945ed6e3ae27a209/850.m3u8
 第03集,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/a6b8f5e28b764cc5b3ccdca165b42d61/850.m3u8
-第04集,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/cd76c630a2ed4311b268e15b8a2002a3/850.m3u8
-第05集,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/938228b905db4285b9b1aac2417ab2c1/850.m3u8
+第04集,http://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/eafe85e853404e48b1a7c9a28e9cecb8/2000.m3u8
+第05集,http://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/95d8dc80655540b691d9a014d7231b2d/2000.m3u8
 第06集,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/0071e063ad1f44f5a1150203784f7c1a/850.m3u8
 第07集,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/1e3605a3648045988138c5cb629b4fc0/850.m3u8
 第08集,http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/de822fe04fdf4ce28c0f485187cd1d19/1200.m3u8
@@ -393,7 +17,7 @@ NNM纪录片,http://hdtv.haust.edu.cn/hls/hls66.m3u8
 第16集,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/630601d6e9334dcf91ea9a268033eb28/850.m3u8
 第17集,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/16b36be5d7e34411a9615fcf8aa7784f/850.m3u8
 第18集,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/5e08dcc96c364b138e5a61fca67f0c2b/850.m3u8
-第19集,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/434eb081483b45aca5f4917b57e56144/850.m3u8
+第19集,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/8213e3b866d04cfeb4a03db14c742ca5/850.m3u8
 第20集,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/c1bdb8451b0b420aace9e993705884cd/850.m3u8
 第21集,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/1e218c8430ee46a68e2ddfeff36bb994/850.m3u8
 第22集,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/abf89668c44f43eb8525af7194104553/850.m3u8
@@ -555,7 +179,7 @@ NNM纪录片,http://hdtv.haust.edu.cn/hls/hls66.m3u8
 第02集,http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/08f3a99e7ad44338907532961c214661/1200.m3u8?maxbr=2048
 第03集,http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/b2ac492be25c41aabf98d05e9aa3356f/1200.m3u8?maxbr=2048
 第04集,http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/c5f9396b5df74f5e950dd9dd5f176f8c/1200.m3u8?maxbr=2048
-第05集,https://hls.cntv.baishancdnx.cn/asp/hls/1200/0303000a/3/default/54a708da9255498290e4b93d2c5a8262/1200.m3u8?maxbr=2048
+第05集,http://hls.cntv.lxdns.com/asp/hls//2000/0303000a/3/default/54a708da9255498290e4b93d2c5a8262/2000.m3u8
 第06集,http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/44168305863b4013b5c6b6e7a32552ba/1200.m3u8?maxbr=2048
 第07集,https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/198cb27b4d534bfa8519d5410da0e893/1200.m3u8?maxbr=2048
 第08集,https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/345bbc1e72f04430ba6144c2e2ff22b2/1200.m3u8?maxbr=2048
@@ -563,24 +187,24 @@ NNM纪录片,http://hdtv.haust.edu.cn/hls/hls66.m3u8
 第10集,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ed3c4dc5ead94bf0977b13dd53094194/1200.m3u8?maxbr=2048
 第11集,https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/a77837c73b72456994aa0e258550289c/1200.m3u8?maxbr=2048
 第12集,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bf269463edf94304a0b01ced317351d6/1200.m3u8?maxbr=2048
-第13集,https://hls.cntv.baishancdnx.cn/asp/hls/1200/0303000a/3/default/f3c3875363cc4a0ca7986cb1c78660b8/1200.m3u8?maxbr=2048
-第14集,https://hls.cntv.baishancdnx.cn/asp/hls/1200/0303000a/3/default/40512c694f5e42589550cad7eb5c7377/1200.m3u8?maxbr=2048
+第13集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/f3c3875363cc4a0ca7986cb1c78660b8/2000.m3u8
+第14集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/40512c694f5e42589550cad7eb5c7377/2000.m3u8
 第15集,http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/9ae9f7d200f04b6cae85b050a86ddb3d/1200.m3u8?maxbr=2048
 第16集,http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/65e3bab529aa474badc4483c588781d6/1200.m3u8?maxbr=2048
 第17集,https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/410aa73e2f684f46a190cdca64aeacff/1200.m3u8?maxbr=2048
-第18集,https://hls.cntv.baishancdnx.cn/asp/hls/1200/0303000a/3/default/d9b795f822a640358729b20d67318a05/1200.m3u8?maxbr=2048
-第19集,https://hls.cntv.baishancdnx.cn/asp/hls/1200/0303000a/3/default/5ee310fc57d245a7974d01e4ccb12350/1200.m3u8?maxbr=2048
-第20集,https://hls.cntv.xdns.com/asp/hls/1200/0303000a/3/default/3a46f162b2334c8da9ceef18ed81c300/1200.m3u8?maxbr=2048
+第18集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/d9b795f822a640358729b20d67318a05/2000.m3u8
+第19集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/5ee310fc57d245a7974d01e4ccb12350/2000.m3u8
+第20集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/3a46f162b2334c8da9ceef18ed81c300/2000.m3u8
 第21集,https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/304e3702c3004ba5870a0b7e000922ae/1200.m3u8?maxbr=2048
 第22集,https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/dc4d979799a9473293c84f5764e5185b/1200.m3u8?maxbr=2048
 第23集,http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/4eacf5dbb9504ffdb1e055a9caaaedda/1200.m3u8?maxbr=2048
 第24集,http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/223884f64110400b8c4adc6729187f7b/1200.m3u8?maxbr=2048
 第25集,http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/4278c2140fa040b191409a5c3505998c/1200.m3u8?maxbr=2048
-第26集,https://hls.cntv.baishancdnx.cn/asp/hls/1200/0303000a/3/default/fc2127a12aba473ab8194c158718c870/1200.m3u8?maxbr=2048
-第27集,https://hls.cntv.baishancdnx.cn/asp/hls/1200/0303000a/3/default/e90b27a025e8424c9bb4fe0d389d8951/1200.m3u8?maxbr=2048
+第26集,http://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/fc2127a12aba473ab8194c158718c870/2000.m3u8
+第27集,http://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/e90b27a025e8424c9bb4fe0d389d8951/2000.m3u8
 第28集,https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/c85eb3c57f4d448897d230ad5f9781ae/1200.m3u8?maxbr=2048
 第29集,https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/5456b815c47a45f98d7a1d9993ab3c0e/1200.m3u8?maxbr=2048
-第30集,https://hls.cntv.baishancdnx.cn/asp/hls/1200/0303000a/3/default/ffa98530f5a24cde8718ddefd9ba0419/1200.m3u8?maxbr=2048
+第30集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/ffa98530f5a24cde8718ddefd9ba0419/2000.m3u8
 人间正道是沧桑,#genre#
 第01集,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/7aa3a21ff50b48334ecee3932424c055/850.m3u8
 第02集,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/baef700182014260a81b74b0ffcd6f3b/850.m3u8
@@ -866,9 +490,38 @@ NNM纪录片,http://hdtv.haust.edu.cn/hls/hls66.m3u8
 第45集,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/739e92d7913d476e77716f86bbc4e279/850.m3u8
 第46集,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/af678c2a94c24582bdd35fa043a4ea95/850.m3u8
 第47集,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/ba280bb50d9248ab98e2fdb19c7df8e1/850.m3u8
-第48集,https://haitang.kankan-kuyunzy.com/20200407/20615_0f202831/1000k/hls/index.m3u8
+第48集,http://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/b49ebce442cb4c94ad53423abb433bc7/2000.m3u8
 第49集,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/8f943c96de914553cb44d29ab618e715/850.m3u8
 第50集,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/50235b6c44eb405f582215afeaca82ec/850.m3u8
+保卫延安,#genre#
+第01集,http://hwhls.cntv.qcloudcdn.com/asp/hls/450/0303000a/3/default/0ace628c32774ef8f1052fa094e5501e/450.m3u8
+第02集,http://hwhls.cntv.qcloudcdn.com/asp/hls/450/0303000a/3/default/0cf848520e3145fc797f40803312e210/450.m3u8
+第03集,http://hwhls.cntv.qcloudcdn.com/asp/hls/450/0303000a/3/default/3105eb0cb93f4a818edd26879ca9bae9/450.m3u8
+第04集,http://hwhls.cntv.qcloudcdn.com/asp/hls/450/0303000a/3/default/0b8fde81b3b34037cf4764a82041b55a/450.m3u8
+第05集,http://hwhls.cntv.qcloudcdn.com/asp/hls/450/0303000a/3/default/6b7a894cc6f34e9c957ee496c7ec5271/450.m3u8
+第06集,http://hwhls.cntv.qcloudcdn.com/asp/hls/450/0303000a/3/default/b66ec7c30a0942c1deac00ac0955ff76/450.m3u8
+第07集,http://hwhls.cntv.qcloudcdn.com/asp/hls/450/0303000a/3/default/fa6053798f1b4c2139d37eae9915e913/450.m3u8
+第08集,http://hwhls.cntv.qcloudcdn.com/asp/hls/450/0303000a/3/default/e77026db6c344d310d1969826e24aea7/450.m3u8
+第09集,http://hwhls.cntv.qcloudcdn.com/asp/hls/450/0303000a/3/default/dce12094b4344d6f8faa2daa88e01309/450.m3u8
+第10集,http://hwhls.cntv.qcloudcdn.com/asp/hls/450/0303000a/3/default/94fb9a94794849817c4b22ba9d133d64/450.m3u8
+第11集,http://hwhls.cntv.qcloudcdn.com/asp/hls/450/0303000a/3/default/3660bf5aaa70453840009ab2d2767f4e/450.m3u8
+第12集,http://hwhls.cntv.qcloudcdn.com/asp/hls/450/0303000a/3/default/fd57b7b8f9b8457746f5b8b68abb7dae/450.m3u8
+第13集,http://hwhls.cntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/32ea21c8f851495991f1a89430834cfb/850.m3u8
+第14集,http://hwhls.cntv.qcloudcdn.com/asp/hls/450/0303000a/3/default/59fcd060329f42a9d9089ba17767f8be/450.m3u8
+第15集,http://hwhls.cntv.qcloudcdn.com/asp/hls/450/0303000a/3/default/f258f085943d4a59b4d426b5f632ba03/450.m3u8
+第16集,http://hwhls.cntv.qcloudcdn.com/asp/hls/450/0303000a/3/default/919ec73993bf4c5315fd4b8d699eae6b/450.m3u8
+第17集,http://hwhls.cntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/a8939a938d4c4818761fd89562a9f69a/850.m3u8
+第18集,http://hwhls.cntv.qcloudcdn.com/asp/hls/450/0303000a/3/default/4114050595d84c4f3e8d47a32d8f4dd5/450.m3u8
+第19集,http://hwhls.cntv.qcloudcdn.com/asp/hls/450/0303000a/3/default/896d1df01de64d8e045b7f8a704d348c/450.m3u8
+第20集,http://hwhls.cntv.qcloudcdn.com/asp/hls/450/0303000a/3/default/2ccd2e1e2a9b40f600132fa413f6bdaa/450.m3u8
+第21集,http://hwhls.cntv.qcloudcdn.com/asp/hls/450/0303000a/3/default/8580cd51e0d44c28d28b94b6b64487ed/450.m3u8
+第22集,http://hwhls.cntv.qcloudcdn.com/asp/hls/450/0303000a/3/default/97ee6a4ef64d4279983678b6efbff64b/450.m3u8
+第23集,http://hwhls.cntv.qcloudcdn.com/asp/hls/450/0303000a/3/default/457f78cd051949b00563fd8c4c0501f1/450.m3u8
+第24集,http://hwhls.cntv.qcloudcdn.com/asp/hls/450/0303000a/3/default/51090f3d1d3c4697b9c77688235cefcf/450.m3u8
+第25集,http://hwhls.cntv.qcloudcdn.com/asp/hls/450/0303000a/3/default/d39ab1eee6754ecb3b27629b716c6fc6/450.m3u8
+第26集,http://hwhls.cntv.qcloudcdn.com/asp/hls/450/0303000a/3/default/d2a3561366034f8459f1eb824c47948c/450.m3u8
+第27集,http://hwhls.cntv.qcloudcdn.com/asp/hls/450/0303000a/3/default/8abcb5443a304180cf613ea1af3ab8e7/450.m3u8
+第28集,http://hwhls.cntv.qcloudcdn.com/asp/hls/450/0303000a/3/default/20ae5686d62c4bf909f42ea9e6229c96/450.m3u8
 换了人间,#genre#
 第01集,http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/a075698c7257468093184bfbe2d90649/1200.m3u8
 第02集,https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/1b2ff2bd76c24c248270b7b825a10999/1200.m3u8
@@ -1085,12 +738,30 @@ NNM纪录片,http://hdtv.haust.edu.cn/hls/hls66.m3u8
 第47集,https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/a09f11c4ef1e4c0da4dc9be9be3ff459/850.m3u8
 第48集,https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/fa255bff21e645cb8ea451c9f4625ce9/850.m3u8
 第49集,https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/940a57fd9ab746b1b009c8a33f98cba0/850.m3u8
-大决战,#genre#
-第1集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/c6ceb54b494c49cb8516cb2a8cc3c72c/2000.m3u8
-第2集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/58812990eaad49d79a1a8869fe348551/2000.m3u8
-第3集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/943ea062f9f94e6f8dc3142d6afef96b/2000.m3u8
-第4集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/19b2624d5df848a6a0fd0b1879233157/2000.m3u8
-第5集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/fb2c8f5325524164813fea69199e8eac/2000.m3u8
+恰同学少年,#genre# 
+第1集,http://hwhls.cntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/ca73a80e68a74ce86f1f8c993fea74a8/850.m3u8
+第2集,http://hwhls.cntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/8e4f7ae3622d4d7ee90cf28ba773dc4a/850.m3u8
+第3集,http://hwhls.cntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/e99ce0fda8844ebdff5846ab6453e362/850.m3u8
+第4集,http://hwhls.cntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/a67ed19f2296452fc3a96da3c638bfbd/850.m3u8
+第5集,http://hwhls.cntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/890d9711d26343d61d10dda227ea8701/850.m3u8
+第6集,http://hwhls.cntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/7190841156dc4e113e4347ad55e0f38f/850.m3u8
+第7集,http://hwhls.cntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/5f4aa09ae9184db4c73115b9432c4ec1/850.m3u8
+第8集,http://hwhls.cntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/cbfce0f8c5c54e7fa4a37d848141bde3/850.m3u8
+第9集,http://hwhls.cntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/97062a34b49544efb9dea19d960e71d8/850.m3u8
+第10集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/4825751d020743f6b0e6b297243de8c7/2000.m3u8
+第11集,http://hwhls.cntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/92f41d46f3fe4fec3b695288f20ad373/850.m3u8
+第12集,http://hwhls.cntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/86a53bd6297442a1a76f6bb078dc25c7/850.m3u8
+第13集,http://hwhls.cntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/e8d1b8348fad45365f0af69de1c4c45a/850.m3u8
+第14集,http://hwhls.cntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/f443c0996bfc477c546347b2be7e4a0a/850.m3u8
+第15集,http://hwhls.cntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/b5b7eece1cba4c496b87a1a254d47749/850.m3u8
+第16集,http://hwhls.cntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/b4ff946c2c184b65dba9fa9673d09157/850.m3u8
+第17集,http://hwhls.cntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/4a010c9954aa4a82f586ee9cdb54a1f6/850.m3u8
+第18集,http://hwhls.cntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/b474bee7367f49e80a74e18f11e52362/850.m3u8
+第19集,http://hwhls.cntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/a71368ccf2084f9e72ed5a9555ccd33f/850.m3u8
+第20集,http://hwhls.cntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/9dc2b0799f0d4208ff9222b800d63314/850.m3u8
+第21集,http://hwhls.cntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/497f71a346054ca3dc6d45b03db98e44/850.m3u8
+第22集,http://hwhls.cntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/407984eb5577489da5ca559d4674c47e/850.m3u8
+第23集,http://hwhls.cntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/426f4b6308bc49fee24d2aaf73869f57/850.m3u8
 绝密使命,#genre#              
 第01集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/3253fb77792d46868844c978be5ee09c/2000.m3u8
 第02集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/a3cf960f5dde486488ae4989012d8d4a/2000.m3u8
@@ -1124,3 +795,298 @@ NNM纪录片,http://hdtv.haust.edu.cn/hls/hls66.m3u8
 第30集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/c415077d61344e70b0e2fd047482ef15/2000.m3u8
 第31集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/da26bf2e02de4e12b55aa5dbf1161bdb/2000.m3u8
 第32集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/2ba795aaf9494daeac57145a7a57b939/2000.m3u8
+铁血武工队传奇,#genre#   
+第01集,http://hwhls.cntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/98b71aeb7149443eb3ea108ada272086/1200.m3u8
+第02集,http://hwhls.cntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b506bba5e2434f94abcc0197af169f69/1200.m3u8
+第03集,http://hwhls.cntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2df9332bae034a368736298572bcb8f4/1200.m3u8
+第04集,http://hwhls.cntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/66ed23cf1fcd4032973f584ce58cc2d2/1200.m3u8
+第05集,http://hwhls.cntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bd8843942b8b4f59954b41bdc8364be3/1200.m3u8
+第06集,http://hwhls.cntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0939f97891d349b7a25b812a958efce6/1200.m3u8
+第07集,http://hwhls.cntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/304be679df0743dd8e55090deb8e31ed/1200.m3u8
+第08集,http://hwhls.cntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/547a3f409392458faa4163098ef11ecc/1200.m3u8
+第09集,http://hwhls.cntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c640bd6e70394e95937fec5e4ef15109/1200.m3u8
+第10集,http://hwhls.cntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/afa13e8a57b348dab5b6b14afe27750b/1200.m3u8
+第11集,http://hwhls.cntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5a9a1fe6fa9c40419b19aac44b89c223/1200.m3u8
+第12集,http://hwhls.cntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/82a646d253114d8eb487d5aa0cf89ca4/1200.m3u8
+第13集,http://hwhls.cntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d673f8be7b3c47f3a78fb76b6df4a96c/1200.m3u8
+第14集,http://hwhls.cntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/fe34c67d19524b36bc024d133651812c/1200.m3u8
+第15集,http://hwhls.cntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8c5dbcbdcb4f4a8b9172f95f069ced3a/1200.m3u8
+第16集,http://hwhls.cntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0bec7107edc9470ea2a8b01feefc9c19/1200.m3u8
+第17集,http://hwhls.cntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9b563f86b07a43f6970247680ce9ab39/1200.m3u8
+第18集,http://hwhls.cntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/33ad490e8e834a9fba935a15fd12a0d9/1200.m3u8
+第19集,http://hwhls.cntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6c71410fbc024e36a704b4c9ff64b3cf/1200.m3u8
+第20集,http://hwhls.cntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9ac7152fe3be4bffb511ef521627f67e/1200.m3u8
+第21集,http://hwhls.cntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7a3fbf5a8f8a4866a11b18358851b33d/1200.m3u8
+第22集,http://hwhls.cntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/aa6da3c0312b480a9bfce296d43e1f40/1200.m3u8
+第23集,http://hwhls.cntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f19f4ccee02341aba52b675f74234035/1200.m3u8
+第24集,http://hwhls.cntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/cac3f0fecb474a77a7a5eae129a142a2/1200.m3u8
+第25集,http://hwhls.cntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/dd79e9c7ad8948fe85dec94c7517e5ba/1200.m3u8
+第26集,http://hwhls.cntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a08952816acd487e9b17d8e88e583645/1200.m3u8
+第27集,http://hwhls.cntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e0eddc44ab914a7180a25a1ee582ecb8/1200.m3u8
+第28集,http://hwhls.cntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bd9936624b6147fc986b524a6fed71ff/1200.m3u8
+第29集,http://hwhls.cntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c97e2da8002f47619f4842b1b1a7c6ca/1200.m3u8
+第30集,http://hwhls.cntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f2494969cf554984b54286fae92d4bb4/1200.m3u8
+第31集,http://hwhls.cntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b73cb2d2b0b54f55804688386641cdd4/1200.m3u8
+天涯浴血,#genre# 
+第01集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/573a110458e64dbe82695d475ecb93a4/2000.m3u8
+第02集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/b5496ebfa1604d229da62009c61dffea/2000.m3u8
+第03集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/70ef1c41ae28430f93d0387255a71500/2000.m3u8
+第04集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/ea01047ba29f43b9be22e6041e7f9f00/2000.m3u8
+第05集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/a0f32fd9e74d4a37a4aec225ea774ebd/2000.m3u8
+第06集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/c8a0246ddf214ced96f1da59046007ac/2000.m3u8
+第07集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/6c2e507188be4676a6ec485d58b6dee7/2000.m3u8
+第08集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/1c12fddbf6d14ed6948ecb299816fafc/2000.m3u8
+第09集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d1341d1ad0bf41709cfef547ede1598f/2000.m3u8
+第10集,https://dh5.cntv.myhwcdn.cn/asp/h5e/hls/2000/0303000a/3/default/ce80eee48a9d477f9e9a7de50a77a5d4/2000.m3u8
+第11集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/4e9434dd2c1c4b02af92f59aa33341ff/2000.m3u8
+第12集,https://dh5.cntv.myhwcdn.cn/asp/h5e/hls/2000/0303000a/3/default/7bbb0b83abb0425cac193e14f4a78d26/2000.m3u8
+第13集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/6233d92b5e934167911d8876ae8b31a9/2000.m3u8
+第14集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/b9ee407d53d9409a885facc7c734ef2d/2000.m3u8
+第15集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/48070630362b433fa5264bc1066cdefd/2000.m3u8
+第16集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/f83cacb0fee641babb76d7c2c490b0c5/2000.m3u8
+第17集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/bfde1d23f2d944f49ed190dfc98a24cd/2000.m3u8
+第18集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/60e7630c717d4a05aeee4e825ddd5d6a/2000.m3u8
+第19集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/7b247519346c497f8a8288e331f82c0f/2000.m3u8
+第20集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/8b2a235519ac4f799520148b19b9a4d5/2000.m3u8
+第21集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/7cf4e4b8bf764975beda941be840b9e9/2000.m3u8
+第22集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/0ce9fec57f9441d09c576c1a2a010434/2000.m3u8
+第23集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/cc209cd5acd14a0eb920c3b849953e3c/2000.m3u8
+第24集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/953a6644fee3413bbd3f887d5eb418a6/2000.m3u8
+第25集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/47d09553ce6e4848bf945ca57c3301a0/2000.m3u8
+第26集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/f148ef13845a4745b39d6a2baf0a5106/2000.m3u8
+第27集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/6b121125aa2d48a0af02aea83778491d/2000.m3u8
+第28集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/310d1e9a6a37426a9f3aaaab51c6730d/2000.m3u8
+风云年代,#genre# 
+第01集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/f2c4f85b4a454ee8aa8b16fd8ed86486/2000.m3u8
+第02集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/e18818d8c05a40c88cb22457fec41c0f/2000.m3u8
+第03集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/321b3a4032ad4bacbad808be193ea956/2000.m3u8
+第04集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/545047b2e3914d4a914e18202ed8acd3/2000.m3u8
+第05集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/118327405eb64d92a32ebe753dc341d1/2000.m3u8
+第06集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/248103330efb4088a70ef82b2d052d7a/2000.m3u8
+第07集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/ed2f8577f0c44211aa4ae083837ac097/2000.m3u8
+第08集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/3997e60750b640a48ad17d4719336b2a/2000.m3u8
+第09集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/34d9900182984322950f30a091f82617/2000.m3u8
+第10集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/f063afe638f54a76a6bd0ed99eb70f4a/2000.m3u8
+第11集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/8cc7b76579e84d67a1d5f16b43eca19e/2000.m3u8
+第12集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/2e28bc8f43044dc8afa24c3e1c19e08d/2000.m3u8
+第13集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/0e98eb80d486471f9160a1dcf582a706/2000.m3u8
+第14集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/6d7c40fcaf094fc598bea5af9fbf20b9/2000.m3u8
+第15集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/4a547044a1174dd59e23f8354aa64313/2000.m3u8
+第16集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d5047d6f20ab41e0b3dcef836dd6b18d/2000.m3u8
+第17集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/fa0509ddc64445f6bd0c518ac8948f76/2000.m3u8
+第18集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/b0356399e7a441ee985650fc19708ca7/2000.m3u8
+第19集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d9be9fe9174c404dba4a643d606e7e3d/2000.m3u8
+第20集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/a8139e9d1e654fd48ff3d30f28722cdd/2000.m3u8
+第21集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/738553fb37514063b396a024220be725/2000.m3u8
+第22集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/c13cec90a07b4d93a6ff6ede4723037e/2000.m3u8
+第23集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/495054c5b69f4997a3fce6d920c3dd81/2000.m3u8
+第24集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/495054c5b69f4997a3fce6d920c3dd81/2000.m3u8
+第25集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/9ed7e7f4de4d48cb9481ef46737d4439/2000.m3u8
+第26集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/53910d09b7a643e698bf6fd2cb56edb5/2000.m3u8
+第27集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/c9a0455e38ee471aa59c350fff718126/2000.m3u8
+第28集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/214a7d2ce71e444ca6b39be08f016429/2000.m3u8
+第29集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/dfb0e800c19a468eb54812b198b814ae/2000.m3u8
+第30集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/a14fc88db5cd46de80fee505c9a90605/2000.m3u8
+第31集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/db377b10e6f64aa08f7955b2a36d3f25/2000.m3u8
+第32集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/3bc63825011e4ee4b258c4683c0a0d90/2000.m3u8
+第33集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/e5a61852a27841a69dfe0fd564710040/2000.m3u8
+第34集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/c15cd318e0ab4d5a81c0c66f86f2f032/2000.m3u8
+第35集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/ae537fe2c2fe41bb99f53fe1a3dc4e83/2000.m3u8
+第36集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/2353202e68f94ed7a2b5ab2e2cf63589/2000.m3u8
+第37集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/2ad84be17700475db96fbfbd0303ac22/2000.m3u8
+第38集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/c9f1ec086c3744b69ba61f7796598959/2000.m3u8
+第39集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/3978f39af6534591b8ce6384adc68e9b/2000.m3u8
+第40集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/0c73acd2cb5f4b2782b863154eaa2d43/2000.m3u8
+地下地上之大陆小岛,#genre# 
+第01集,http://yd-v.cztv.com/cztv/vod/2017/08/11/acc2bc1ee31c45a3af3d7b01339a56e2/h264_1500k_mp4.mp4_playlist.m3u8
+第02集,http://yd-v.cztv.com/cztv/vod/2017/08/11/43eb6bcda5664604a2022bde1ad4ba0c/h264_1500k_mp4.mp4_playlist.m3u8
+第03集,http://hw-v.cztv.com/cztv/vod/2017/08/11/df08b0582ca74439861e4a5949d2a9c5/h264_450k_mp4.mp4_playlist.m3u8
+第04集,http://yd-v.cztv.com/cztv/vod/2017/08/11/0883f5066d45454f93224bf884be3516/h264_1500k_mp4.mp4_playlist.m3u8
+第05集,http://yd-v.cztv.com/cztv/vod/2017/08/11/367ba097c0db414aa31ef90712e4cbbb/h264_450k_mp4.mp4_playlist.m3u8
+第06集,http://hw-v.cztv.com/cztv/vod/2017/08/11/3fd6097d4904486cba4e5e3a46d16593/h264_450k_mp4.mp4_playlist.m3u8
+第07集,http://yd-v.cztv.com/cztv/vod/2017/08/11/efc5be9cec5f461796306e19253db493/h264_450k_mp4.mp4_playlist.m3u8
+第08集,http://hw-v.cztv.com/cztv/vod/2017/08/11/9b8fb3f33dfb45d5acbe179b9fbd822d/h264_450k_mp4.mp4_playlist.m3u8
+第09集,http://yd-v.cztv.com/cztv/vod/2017/08/11/98f4e5f1bd66411b9b1ac28a296b76ef/h264_1500k_mp4.mp4_playlist.m3u8
+第10集,http://hw-v.cztv.com/cztv/vod/2017/08/11/ca09ea2406594848819db9820b3e5f4f/h264_1500k_mp4.mp4_playlist.m3u8
+第11集,http://hw-v.cztv.com/cztv/vod/2017/08/11/a92a4792c13348498b3861f3ae5fc0ec/h264_1500k_mp4.mp4_playlist.m3u8
+第12集,http://hw-v.cztv.com/cztv/vod/2017/08/11/3f613d0af3fe43c38437f8491641c3d6/h264_1500k_mp4.mp4_playlist.m3u8
+第13集,http://hw-v.cztv.com/cztv/vod/2017/08/11/746242bdf21142c892f41f7360ecfc3b/h264_1500k_mp4.mp4_playlist.m3u8
+第14集,http://hw-v.cztv.com/cztv/vod/2017/08/11/4e18bdd2d13342f49b19d2b635d7234a/h264_1500k_mp4.mp4_playlist.m3u8
+第15集,http://hw-v.cztv.com/cztv/vod/2017/08/11/6f32dfba6fcc40d2b073118f71f66e05/h264_450k_mp4.mp4_playlist.m3u8
+第16集,http://yd-v.cztv.com/cztv/vod/2017/08/11/69f9d18638914cc1b7fa1e5d11b5ea8b/h264_450k_mp4.mp4_playlist.m3u8
+第17集,http://hw-v.cztv.com/cztv/vod/2017/08/11/02b37db12e8c49bb99b8790d0ce0f9b3/h264_450k_mp4.mp4_playlist.m3u8
+第18集,http://hw-v.cztv.com/cztv/vod/2017/08/11/4a7d493580604fb4ad279271a73bb80a/h264_1500k_mp4.mp4_playlist.m3u8
+第19集,http://hw-v.cztv.com/cztv/vod/2017/08/11/e918b3f521024b85a3d27e33c5a22787/h264_450k_mp4.mp4_playlist.m3u8
+第20集,http://hw-v.cztv.com/cztv/vod/2017/08/11/f275250bf64c409f9a6f237ae49307e9/h264_450k_mp4.mp4_playlist.m3u8
+第21集,http://hw-v.cztv.com/cztv/vod/2017/08/14/b8e16872c7e242fe9de15ac08be49882/h264_450k_mp4.mp4_playlist.m3u8
+第22集,http://hw-v.cztv.com/cztv/vod/2017/08/14/280cb8ccb0f04dbfbb1ad148ab4420f4/h264_450k_mp4.mp4_playlist.m3u8
+第23集,http://hw-v.cztv.com/cztv/vod/2017/08/14/b6ef4b2ba516436680bc5bfab084c90a/h264_1500k_mp4.mp4_playlist.m3u8
+第24集,http://hw-v.cztv.com/cztv/vod/2017/08/14/2487f12bb6e8472981492ed30d7c675c/h264_1500k_mp4.mp4_playlist.m3u8
+第25集,http://hw-v.cztv.com/cztv/vod/2017/08/14/7176b21e0e4849de9f65c419bee087ce/h264_1500k_mp4.mp4_playlist.m3u8
+第26集,http://hw-v.cztv.com/cztv/vod/2017/08/14/a5917a1f5c57417d97aee05fd73c3bd6/h264_1500k_mp4.mp4_playlist.m3u8
+第27集,http://yd-v.cztv.com/cztv/vod/2017/08/14/73438225ea0f4743896511c8473473ad/h264_1500k_mp4.mp4_playlist.m3u8
+第28集,http://hw-v.cztv.com/cztv/vod/2017/08/14/25c6788b79084afbb69b073b3055b083/h264_1500k_mp4.mp4_playlist.m3u8
+第29集,http://yd-v.cztv.com/cztv/vod/2017/08/14/bd6729fab07b435b97dab5ca54494b6e/h264_450k_mp4.mp4_playlist.m3u8
+第30集,http://yd-v.cztv.com/cztv/vod/2017/08/14/db4f98dbfc194f3c80d687cd7a7b598c/h264_1500k_mp4.mp4_playlist.m3u8
+第31集,http://hw-v.cztv.com/cztv/vod/2017/08/14/c0eb5a1732d9480c8b7495745705a86d/h264_1500k_mp4.mp4_playlist.m3u8
+第32集,http://yd-v.cztv.com/cztv/vod/2017/08/14/a8f453f7ac954cd8b5d65e7ac4171333/h264_1500k_mp4.mp4_playlist.m3u8
+第33集,http://hw-v.cztv.com/cztv/vod/2017/08/14/a99466ec34834886a3fdd786a3c51db6/h264_1500k_mp4.mp4_playlist.m3u8
+第34集,http://yd-v.cztv.com/cztv/vod/2017/08/14/b89760d85a43442ea5c8eabfea697ac6/h264_1500k_mp4.mp4_playlist.m3u8
+第35集,http://yd-v.cztv.com/cztv/vod/2017/08/14/fe57f2a3d86942128b904039489b4542/h264_450k_mp4.mp4_playlist.m3u8
+第36集,http://yd-v.cztv.com/cztv/vod/2017/08/14/3b8e862d248c4235b2cfe5dddf59cdd8/h264_1500k_mp4.mp4_playlist.m3u8
+悬崖,#genre# 
+第01集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/1b76b6ea64494be6b8fb4172211e5559/2000.m3u8
+第02集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/f698cfd15686452e86136e0ba3787586/2000.m3u8
+第03集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/7404817f1ac947c29ba6c5b2e71b8152/2000.m3u8
+第04集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/73fc73f34f6a45b2a270abc29c843cac/2000.m3u8
+第05集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/2cb235f8c5d64e07b5abe8156a5c0a18/2000.m3u8
+第06集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/d29a16b1b47d48cc99893afa84c5ed6e/2000.m3u8
+第07集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/6ac3e0a53796428aae836031bcc1d689/2000.m3u8
+第08集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/2c6b40a11cab499886d879b3440c5e6b/2000.m3u8
+第09集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/3b44366ae6db450495d4ff9d119e9c4d/2000.m3u8
+第10集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/0b3b664093974507a301a4acfce40418/2000.m3u8
+第11集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/4fcce16fb14847bba10fb44173799031/2000.m3u8
+第12集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/fe9efac60dd94220ada4a3dd1d1cf7ce/2000.m3u8
+第13集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/92053f4217304e6b93488edca5f57b8a/2000.m3u8
+第14集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/4111ab80183944cd953cf1d5abb0bdf4/2000.m3u8
+第15集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/c04379d67ad74a0a8fd8882c1c5b7f07/2000.m3u8
+第16集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/b10bf2c84ee140608843f362c1d81817/2000.m3u8
+第17集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/b25f3e4922a447928127dc2fe207709b/2000.m3u8
+第18集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/78248634e95447f9b73f11dd709945e9/2000.m3u8
+第19集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/32f3e7b809f64fd5b3b6bf070cb74117/2000.m3u8
+第20集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/84b4735c43c4475eba7b2ab9e5481614/2000.m3u8
+第21集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/7ddc341add9646ec8e6fef8e4c5ef4c2/2000.m3u8
+第22集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/e03c057574bf4eb7ae6387651ee556e2/2000.m3u8
+第23集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/5c0021103f944b5e873f241d145e009b/2000.m3u8
+第24集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/5cce9ea75bb0420b9c6c067522d0e313/2000.m3u8
+第25集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/da95851b36dc402ea84e92a4e8524ca6/2000.m3u8
+第26集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/04bd61bc59b54a6cbbd92fa27d7e6330/2000.m3u8
+第27集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/54ee0a3e427f4baf9c3c3554e478a111/2000.m3u8
+第28集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/12e679799ed041fd9449de947efd9101/2000.m3u8
+第29集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/fd864bc610cc435e83a2655cb3de1d49/2000.m3u8
+第30集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/cba015345a274e38825d6a4bad590a50/2000.m3u8
+第31集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/52541fac145246ae9e05bf6795271fbb/2000.m3u8
+第32集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/f38f0da44a36477dbe57424a87ce26d0/2000.m3u8
+第33集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/6172e88952b54038a1dd7b99fa5c535d/2000.m3u8
+第34集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/2b3fd635c78f49afb3fd383703084575/2000.m3u8
+第35集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/c60a5e43761a48578109067f42d9a962/2000.m3u8
+第36集,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/c6f0bba04fc54c658f0b620b519d219f/2000.m3u8
+湄公河大案,#genre# 
+第01集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/683ace8d0fb54f3ea67a53f940c1b0fa/2000.m3u8
+第02集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/3f84bbd4b15147bfb066c7083da5d0dd/2000.m3u8
+第03集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/751b789cf888407894010704e45644b6/2000.m3u8
+第04集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/b4ae3e95d46d43b8b21d11de33ba38c1/2000.m3u8
+第05集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d0d63c3ffe304851a126b74f23a48e48/2000.m3u8
+第06集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/e154bba00374415db2dd62344ce838a4/2000.m3u8
+第07集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/92ea3ee3146b45c29143903649bedbff/2000.m3u8
+第08集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/c661e63c811a4b7381e18fe27d11af9d/2000.m3u8
+第09集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/7d2cedcfe8f441058ef8de91802d1245/2000.m3u8
+第10集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/43b32f497c0248d0a97f067c505b3fca/2000.m3u8
+第11集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/80b68932f6bc44a891af709175f02953/2000.m3u8
+第12集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/f1eebdf9acb14f56b564b2792d021778/2000.m3u8
+第13集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/572ee3d9937841509443eb4ad86e8109/2000.m3u8
+第14集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/01ea80d72221496d8769848f9d49cf8f/2000.m3u8
+第15集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/1deb0ccd95144864a7607edfba9bd813/2000.m3u8
+第16集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/953acd625e564cdb9750e83e5f6f3556/2000.m3u8
+第17集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/594eae6dfeeb421ca47e6ae1d21c498d/2000.m3u8
+第18集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/a3b329dd7e8c47dda752182ff6b47934/2000.m3u8
+第19集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/4cac04aa845b429db8995e2a69c1885f/2000.m3u8
+第20集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/5e1284a03f3a4d05868949400fee9bd0/2000.m3u8
+第21集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/e8855821252242f09e0e65a3b229aac8/2000.m3u8
+第22集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/023d98a5084c4bc28972652b0e561b0c/2000.m3u8
+第23集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/cbe7ea6caa4148398b80c9ff029a401f/2000.m3u8
+第24集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/50aa981a082745fd971b4834dfddd73e/2000.m3u8
+第25集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/4d2c7550bd24463b87a8a4721713da18/2000.m3u8
+第26集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/27fa7b62342240baa38a158d87fd8d31/2000.m3u8
+第27集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d8283124e01e442ea95b99b8286349b1/2000.m3u8
+第28集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/3bb47517db2a44999862c60136f8adc2/2000.m3u8
+第29集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/a64baefc21e4468a9eeb258b0b65b933/2000.m3u8
+第30集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/282b9adc11354dde89c87cfcdfff7ab0/2000.m3u8
+第31集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/6da7143d5d324d81a7cd863a4f395dd6/2000.m3u8
+第32集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/0a3e22f5dd8645dc8517875e3a45faef/2000.m3u8
+第33集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/e61a2e4d65414393a4e2dfdcd4b8f41f/2000.m3u8
+第34集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/16b408dea78849d2beab52dd7a4a3229/2000.m3u8
+激情燃烧的岁月,#genre#  
+第01集,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/d51bb084650c43d6eaaa1ba997051085/850.m3u8
+第02集,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/8789787c004f412f9f8c6e8d7006b2f7/850.m3u8
+第03集,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/b6c0f58d64f1498a72fcafb2199117ce/850.m3u8
+第04集,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/a3a365be3f63407d411ba79138570200/850.m3u8
+第05集,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/9e1b7cbb1eda486380ee0f904041a4f1/850.m3u8
+第06集,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/8db224d806c24507cb979aa2a2c4f652/850.m3u8
+第07集,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/df5e34ef14964edde3f4b78ec135c13a/850.m3u8
+第08集,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/81d19ba7ffa24a1479d50186936d52db/850.m3u8
+第09集,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/ea23e61ed0784009d09fd292c22fa4ed/850.m3u8
+第10集,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/aaed602613574047bc450c915dc3f378/850.m3u8
+第11集,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/6b15ddecaef44bd78770a198ffc7b9f6/850.m3u8
+第12集,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/d2162db6189946aa9ea6c8af0e689882/850.m3u8
+第13集,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/f7adf48664814ac5b83bd58191a8ae67/850.m3u8
+第14集,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/acce1bd4f14746b7e6ee5cad14263448/850.m3u8
+第15集,http://hls.cntv.lxdns.com/asp/hls/450/0303000a/3/default/d5b9a0c11ad146ecc36c4b871df8eabd/450.m3u8
+第16集,http://hls.cntv.lxdns.com/asp/hls/450/0303000a/3/default/685b4dd0d7d44e5325adc0abd39dda3a/450.m3u8
+第17集,http://hls.cntv.lxdns.com/asp/hls/450/0303000a/3/default/dba21b46b876469fcc07be8f489a4f1c/450.m3u8
+第18集,http://hls.cntv.lxdns.com/asp/hls/450/0303000a/3/default/055d1e6557ad4b46d09b368f5835a936/450.m3u8
+第19集,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/11bb8fdeaa7e4891502866944ecb60e9/850.m3u8
+第20集,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/f4c8d7ceb6b24f5a8ac10dbf38e0d15f/850.m3u8
+第21集,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/26d189cec56e4c89545c0f98e7afb53f/850.m3u8
+第22集,http://hls.cntv.lxdns.com/asp/hls/450/0303000a/3/default/a470b128597b40ad5e79ebb28636cca0/450.m3u8
+我的团长我的团,#genre#
+第01集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/9827c5589e3a425aab715cd0a585bac3/2000.m3u8
+第02集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/54cdf6c31c3c4c43adc34be672b4dd7d/2000.m3u8
+第03集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/52357a5024804715936cd6800c8ec3fd/2000.m3u8
+第04集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/4abfe4b81b9b4927b6be872238b26515/2000.m3u8
+第05集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/cd257cfa4b544eb78df6115446d30f30/2000.m3u8
+第06集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/8380306e9b4e44b896fc562d4cd33850/2000.m3u8
+第07集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/5debed0f1c61453d960f65ca249c05a7/2000.m3u8
+第08集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/0b2f662288de4901bd2454a1673fca2a/2000.m3u8
+第09集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/4c37ccbf0e2f47b9bc5678cc1e3296aa/2000.m3u8
+第10集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/85240618f11e4be0ac4c704965738842/2000.m3u8
+第11集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/754dd40f457c4e4d8726d03fb87d2110/2000.m3u8
+第12集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/8656fc6ba54540cfbd5fe7764711e194/2000.m3u8
+第13集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/4d14d82824dd42d28e3fcaff6b5d4b37/2000.m3u8
+第14集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/01171903fda741faa8fd876c92c35ebf/2000.m3u8
+第15集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/149b554aca164cbc9b2f5a8164b0f380/2000.m3u8
+第16集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/9a30c67742dc496e8b2d69a00563a352/2000.m3u8
+第17集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/052c2fc52b314ca9a17d7bc273588424/2000.m3u8
+第18集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/a6328e5628b34fa6b0e3d02317f4d246/2000.m3u8
+第19集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/877546602ff147b3801acbd51ea4f566/2000.m3u8
+第20集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d95b71826833405291b0b13a76c0fdea/2000.m3u8
+第21集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/6bbc776b3f5a4b978a8558bdd77b46c5/2000.m3u8
+第22集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/e4ebe109b53440c196048a7188a186db/2000.m3u8
+第23集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/dc147b83b29b4d8594027a0c4041f654/2000.m3u8
+第24集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/4b7b708535db41539ac2e61bdc545c17/2000.m3u8
+第25集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/5b69a73bad0f482591b3fa1ffd64d15c/2000.m3u8
+第26集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/81a924a3b5ab4c8eb26aa2eec5bcddc1/2000.m3u8
+第27集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/a7a53eeaaf454e74b352cad94daa7ad1/2000.m3u8
+第28集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/229cab2e3693486e9334ca5a3ebde0a7/2000.m3u8
+第29集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/4f8fd1e3a6de4570a8cf8454cbc60b29/2000.m3u8
+第30集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/221087edafb2420ea7fa31c5cff101a8/2000.m3u8
+第31集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/c4eb9af5db2e46018980723890372f0b/2000.m3u8
+第32集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/ca147d4e15d6424a8c143af92c5fe362/2000.m3u8
+第33集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/50aa8d0cbb464c2b862b233f5d922511/2000.m3u8
+第34集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/6a8f9b5b62f643f8af4e3bdbc9dc7fce/2000.m3u8
+第35集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/60a19c5e836347178c62a5eda1043362/2000.m3u8
+第36集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/c29a9297cd624d83a496516bdad2d6bc/2000.m3u8
+第37集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/066e1a563f8042edbf0aaf7b9973af40/2000.m3u8
+第38集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/116602f1dbee4aad8fd32014b4d7f044/2000.m3u8
+第39集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/54cf12d8522e45f48ff21ffaf0efe058/2000.m3u8
+第40集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/79a1d45d144640829db8987435e61ce8/2000.m3u8
+第41集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/233565f4217a4be9bff036fdc8fa04a7/2000.m3u8
+第42集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/c70b0d4a571842edbf8d9f37877f6db2/2000.m3u8
+第43集,http://hwhls.cntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d3a848319eaa4394a35ed5dfe062629d/2000.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
