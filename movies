@@ -58,6 +58,8 @@ CCTV-17HD,http://39.134.66.46/PLTV/88888888/224/3221225708/index.m3u8
 澳门Ⅰ澳视卫星,http://61.244.22.4/ch3/ch3.live/playelist.m3u8
 美国法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 俄罗斯ⅠHD 时尚频道,http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+[冬奥会]开幕式：完整版 1,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/1270693f8ef64f64957d1f636e2f2df8/850.m3u8
+[冬奥会]开幕式：完整版 2,http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/e189c3fea22349768b9eb97f97358bee/850.m3u8
 NEWTV,#genre# 
 NEWtv金牌综艺,http://39.134.66.66/PLTV/88888888/224/3221225525/index.m3u8
 NEWtv家庭剧场,http://39.134.66.66/PLTV/88888888/224/3221225538/index.m3u8
