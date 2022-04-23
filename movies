@@ -24,7 +24,7 @@ CCTV-17HD,http://39.134.66.46/PLTV/88888888/224/3221225708/index.m3u8
 山东卫视台,http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/sdwshd/4000000/mnf.m3u8
 广东卫视台,http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/gdwshd/4000000/mnf.m3u8
 江苏卫视台,http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/jswshd/4000000/mnf.m3u8
-江西卫视台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=040&Fsv_rate_id=3&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+江西卫视台,http://117.148.179.157/PLTV/88888888/224/3221231511/index.m3u8
 浙江卫视台,http://39.134.66.66/PLTV/88888888/224/3221225514/index.m3u8
 深圳卫视台,http://39.134.66.66/PLTV/88888888/224/3221225668/index.m3u8
 湖北卫视台,http://39.134.66.66/PLTV/88888888/224/3221225569/index.m3u8
@@ -32,7 +32,7 @@ CCTV-17HD,http://39.134.66.46/PLTV/88888888/224/3221225708/index.m3u8
 河北卫视台,http://39.134.66.66/PLTV/88888888/224/3221225867/index.m3u8
 四川卫视台,http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/scws/1300000/mnf.m3u8
 重庆卫视台,http://39.134.66.66/PLTV/88888888/224/3221225873/index.m3u8
-东南卫视台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=023&Fsv_rate_id=3&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+东南卫视台,http://117.148.179.160/PLTV/88888888/224/3221231414/index.m3u8
 云南卫视台,http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/ynws/1300000/mnf.m3u8
 吉林卫视台,http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/jlws/1300000/mnf.m3u8
 天津卫视台,http://182.254.52.15/keonline.shanghai.liveplay.qq.com/live/program/live/tjwshd/2300000/mnf.m3u8
@@ -50,10 +50,11 @@ CCTV-17HD,http://39.134.66.46/PLTV/88888888/224/3221225708/index.m3u8
 新疆卫视台,http://39.134.66.66/PLTV/88888888/224/3221225582/index.m3u8
 甘肃卫视台,http://39.134.66.66/PLTV/88888888/224/3221225584/index.m3u8
 海南卫视台,http://39.134.66.46/PLTV/88888888/224/3221225869/index.m3u8
-厦门卫视台,http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/xmws/1300000/mnf.m3u8
+三沙卫视,http://pull2.ssws.tv/live/SswsTV20210803.m3u8
+厦门卫视台,http://117.148.179.134/PLTV/88888888/224/3221229184/index.m3u8
 兵团卫视台,http://39.134.66.8/PLTV/88888888/224/3221225856/index.m3u8
-凤凰卫视中文台,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰卫视资讯台,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰卫视中文台,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+凤凰卫视资讯台,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
 澳门Ⅰ澳视1台,http://61.244.22.4/ch1/ch1.live/playelist.m3u8
 澳门Ⅰ澳视卫星,http://61.244.22.4/ch3/ch3.live/playelist.m3u8
 CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
