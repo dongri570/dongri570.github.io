@@ -449,6 +449,20 @@ http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/7ad142f666544490a8689ef
 http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/240fc93d01494222b8522d5aff64b697/850.m3u8
 #EXTINF:-1 group-title="姜鹏品读《资治通鉴》",5 商鞅的得与失
 http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/3bb157b564de40a7b9ec17294aa44fc7/850.m3u8
+#EXTINF:-1 group-title="姜鹏品读《资治通鉴》",6 “听”的智慧
+hhttp://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/93934b0fb66a48359bf439597374a480/850.m3u8
+#EXTINF:-1 group-title="姜鹏品读《资治通鉴》",7 刘邦用人的奥妙
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/9c5d2a9a839c4ef99924d9f2afc35b08/850.m3u8
+#EXTINF:-1 group-title="姜鹏品读《资治通鉴》",8 刘邦的赏与罚
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/fd0d75b660934a43807f5c1588737a8e/850.m3u8
+#EXTINF:-1 group-title="姜鹏品读《资治通鉴》",9 项羽之败的启示
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/d9c0807ad1fa409b9dc5cd72ffc726ef/850.m3u8
+#EXTINF:-1 group-title="姜鹏品读《资治通鉴》",10 太子有故事
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/519ac0c3d2a647ce9ad1df865e9b91d3/850.m3u8
+#EXTINF:-1 group-title="姜鹏品读《资治通鉴》",11 汉文帝的守成之道
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/bfe6cd5e513543b993e07a0dada04a28/850.m3u8
+#EXTINF:-1 group-title="姜鹏品读《资治通鉴》",12 皇帝也节俭
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/7d37609857f34b85a59edf200eed81f2/850.m3u8
 #EXTINF:-1 group-title="国家记忆",第一集 和平解放前夜
 https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/a9ac55ff4d8141839cd59274814a0303/2000.m3u8
 #EXTINF:-1 group-title="国家记忆",第二集 中共中央进北平
