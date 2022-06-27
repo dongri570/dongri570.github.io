@@ -475,6 +475,12 @@ http://hls.cntv.lxdns.com/asp/hls/850//0303000a/3/default/0d8aed90dfb74c56af440c
 http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/d286674aa49249d39da703bda8c11fa0/850.m3u8
 #EXTINF:-1 group-title="姜鹏品读《资治通鉴》第一部",20 秦统六国
 http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/18e079e85fdb422f8619e4f529ba9005/850.m3u8
+#EXTINF:-1 group-title="兵圣孙武",武者春秋
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/7b864d59a2384f23a2899c3f169df5cb/850.m3u8
+#EXTINF:-1 group-title="兵圣孙武",兵者伐谋
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/5bce0fa21a6a445f9fe248a0ae02e576/850.m3u8
+#EXTINF:-1 group-title="兵圣孙武",智者无疆
+http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/1fc7095c75784c628952c8583a16605e/850.m3u8
 #EXTINF:-1 group-title="国家记忆",第一集 和平解放前夜
 https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/a9ac55ff4d8141839cd59274814a0303/2000.m3u8
 #EXTINF:-1 group-title="国家记忆",第二集 中共中央进北平
