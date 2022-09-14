@@ -743,6 +743,10 @@ https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/4f3a4516dc6446c7a9ff9
 https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/b1d8e5e4712b3ddd9a91f6da0a4e5c44/850.m3u8
 #EXTINF:-1 group-title="国家记忆",中国印度-1962 下
 https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/b854719471ef3ddd9a91f6da0a4e5c44/850.m3u8
+#EXTINF:-1 group-title="国家记忆",一九四五重庆谈判第一集 三次电邀
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/368f0d87f09e4139a73a1a81e60024f4/2000.m3u8
+#EXTINF:-1 group-title="国家记忆",一九四五重庆谈判第二集 山城风云
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/4d10b45a0a1346c5bcb3199f7094d4fa/2000.m3u8
 #EXTINF:-1 group-title="北京纪实-档案",毛泽东4A急电林彪打锦州上
 http://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/03fe7ac45e9449d481759b189bf09ee6/850.m3u8
 #EXTINF:-1 group-title="北京纪实-档案",毛泽东4A急电林彪打锦州下
